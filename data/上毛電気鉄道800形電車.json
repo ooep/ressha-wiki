@@ -53,7 +53,21 @@
     "全文": "上毛電氣鐵道800型電聯車（日語：上毛電気鉄道800形電車／じょうもうでんきてつどう800がたでんしゃ，羅馬化：Jōmō Denki Tetsudō 800-gata densha）是上毛電氣鐵道上毛線使用的通勤型電聯車。800型是上毛電鐵為了汰換車體老舊的上毛電氣鐵道700型電聯車，而向東京地下鐵購入已除役的營團03系電聯車進行改造的新型車輛，並於2024年2月29日開始投入使用。\n\n\n== 規格與構造 ==\n本型車把往西桐生站方向的前頭車輛改裝成電力駕駛拖車，並在靠近中央前橋站方向的無動力車廂配備輔助電源裝置、空氣壓縮機與蓄電池。其中輔助電源裝置、壓縮機與煞車的電阻器皆為全新打造的零件，蓄電池利用原有的車種03系電聯車進行改造，空調統則沿用原有的車種。車廂內配備著乘車證明的發行機與車費的收費箱，並在車門旁安裝開關的按鈕。而車頭與車尾的下半部皆塗上紫色的條紋，車體側面則為綠色與紅色的條紋。\n\n\n== 運用 ==\n上毛電鐵導入的800型1號車最初只在中央前橋站至大胡站間的路段進行運轉，後於同年的4月2日起改為全線運轉。而上毛電鐵則規劃在三年內分階段引入本型車。2025年2月17日，第2列編組開始投入商業運轉。2026年2月17日，第三列編組投入運轉。\n\n\n== 參考文獻 ==",
     "字数": 546
    },
-   "英文": null
+   "英文": {
+    "词条标题": "Jōmō Electric Railway 800 series",
+    "链接": null,
+    "首段": "The Jōmō Electric Railway 800 series (Japanese: じょうもうでんきてつどう800がたでんしゃ) is a commuter electric multiple unit (EMU) of Jōmō Electric Railway.",
+    "章节": {
+     "Overview": "Among the eight 700 series EMU sets in service since November 1998, these cars were introduced to replace three sets that had become seriously deteriorated, being converted from the Tokyo Metro 03 series EMUs of Tokyo Metro. From fiscal 2024, three sets were introduced over a period of three years.\nThe first set entered revenue service on February 29, 2024. Initially it ran only between Chūō-Maebashi Station and Ōgo Station, but since April 2 of the same year it has run on the entire line.",
+     "Conversion details": "The leading car on the Nishi-Kiryū end was converted into a control motor car, and the control trailer toward Chūō-Maebashi was equipped with an auxiliary power supply, an air compressor, and a storage battery, forming a 1M1T set.\nThe auxiliary power supply, air compressor, and brake resistors are newly built; the storage battery is converted from that of the donor car; and the air-conditioning unit is reused from the donor car.\nTwo current collectors were mounted on the control motor car.\nAs for interior equipment, modifications such as making the doors semi-automatic and installing ticket dispensers, fare boxes, LCD fare displays, in-car displays, and security cameras have been carried out.",
+     "Formation table": "Legend\nVVVF: VVVF inverter\nCP: air compressor\nBT: storage battery  SIV: auxiliary power supply (static inverter)\nPT: current collector",
+     "Footnotes": "",
+     "See also": "Hokuriku Railway 03 series\nKumamoto Electric Railway 03 series\nNagano Electric Railway 3000 series"
+    },
+    "全文": "The Jōmō Electric Railway 800 series (Japanese: じょうもうでんきてつどう800がたでんしゃ) is a commuter electric multiple unit (EMU) of Jōmō Electric Railway.\n\n== Overview ==\nAmong the eight 700 series EMU sets in service since November 1998, these cars were introduced to replace three sets that had become seriously deteriorated, being converted from the Tokyo Metro 03 series EMUs of Tokyo Metro. From fiscal 2024, three sets were introduced over a period of three years.\nThe first set entered revenue service on February 29, 2024. Initially it ran only between Chūō-Maebashi Station and Ōgo Station, but since April 2 of the same year it has run on the entire line.\n\n== Conversion details ==\nThe leading car on the Nishi-Kiryū end was converted into a control motor car, and the control trailer toward Chūō-Maebashi was equipped with an auxiliary power supply, an air compressor, and a storage battery, forming a 1M1T set.\nThe auxiliary power supply, air compressor, and brake resistors are newly built; the storage battery is converted from that of the donor car; and the air-conditioning unit is reused from the donor car.\nTwo current collectors were mounted on the control motor car.\nAs for interior equipment, modifications such as making the doors semi-automatic and installing ticket dispensers, fare boxes, LCD fare displays, in-car displays, and security cameras have been carried out.\n\n== Formation table ==\nLegend\nVVVF: VVVF inverter\nCP: air compressor\nBT: storage battery  SIV: auxiliary power supply (static inverter)\nPT: current collector\n\n== Footnotes ==\n\n\n== See also ==\nHokuriku Railway 03 series\nKumamoto Electric Railway 03 series\nNagano Electric Railway 3000 series",
+    "字数": 1669,
+    "来源": "大模型翻译（基于日文条目）"
+   }
   }
  }
 }

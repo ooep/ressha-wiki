@@ -1,0 +1,77 @@
+{
+ "车辆": {
+  "名称": {
+   "日文": "四日市あすなろう鉄道",
+   "中文": "四日市明日狹軌鐵道",
+   "英文": "Yokkaichi Asunarou Railway",
+   "运营者": [
+    "東急"
+   ]
+  },
+  "标识": {
+   "图标文件": [
+    "14_tokyu/untitled__yokk000.png"
+   ],
+   "图标token": [
+    "yokk000"
+   ],
+   "网站键": {
+    "特急": [],
+    "线路": [
+     "こどもの国線"
+    ]
+   }
+  },
+  "百科": {
+   "日文": {
+    "词条标题": "四日市あすなろう鉄道",
+    "链接": "https://ja.wikipedia.org/wiki/%E5%9B%9B%E6%97%A5%E5%B8%82%E3%81%82%E3%81%99%E3%81%AA%E3%82%8D%E3%81%86%E9%89%84%E9%81%93",
+    "首段": "四日市あすなろう鉄道株式会社（よっかいちあすなろうてつどう、英: Yokkaichi Asunarou Railway Co.,Ltd.）は、三重県四日市市で2つの鉄道路線を運営する鉄道事業者である。近畿日本鉄道（近鉄）の連結子会社で、近鉄グループの一社であるとともに、後述の歴史的経緯から四日市市も出資しているため第三セクターでもある。本社はあすなろう四日市駅構内に置かれており、登記上の本店は近鉄の鉄道本部名古屋統括部事務所に置かれている。\nかつて近鉄が保有・運営していた内部線および八王子線を引き継いで運営するために設立され、2015年（平成27年）4月1日より両線を四日市市が第三種鉄道事業者として保有し、四日市あすなろう鉄道が第二種鉄道事業者として列車を運行し旅客運送を行っている。",
+    "章节": {
+     "会社設立の経緯": "この会社が運営する内部線と八王子線は、もともと近鉄の路線であったが、赤字であり、特殊な車両を必要とすることから、輸送効率の悪さが問題となっていた。\n近鉄は、赤字路線による経営圧迫を抑えるため、当時近鉄線だった北勢線を2003年に三岐鉄道に譲渡、養老線、伊賀線を2007年にそれぞれ養老鉄道、伊賀鉄道として分社化するなど、三重北部の交通事業の整理を進めていた。\n2012年6月29日に、四日市市議会は内部線および八王子線の存続問題を審議する総合交通政策調査特別委員会を設置した。\nしかし、同年8月21日に地元住民に対して近鉄は、鉄道の運行を廃止してその跡地に建設するバス専用道路でバス高速輸送システム (BRT) を運営する方針を発表した。さらに、同年8月24日に近鉄は翌年の夏までにこのBRT化の方針への是非を決定するように四日市市に求めていることを公表し、老朽化した車両の更新時期を考えて2013年夏を方向性決定の期限とする旨を提案の詳細と共に四日市市に通達したことを同年12月12日に公表した。\nこれに対して、四日市市が鉄道路線での存続を要望したことから、2013年8月6日には近鉄が、鉄道として存続するためには公設民営方式に移行することが唯一の方策であるとの趣旨と、この方式に移行した場合に車両および施設を無償譲渡する意向を示した。2013年7月に、四日市市はこの返答に対して鉄道路線の保有と運営の両方を別会社に切り離す民設民営方式を近鉄に提案したが、近鉄はこれを断った。その後の2013年9月27日に近鉄と四日市市の両者は、四日市市が施設・車両を保有し、同市と近鉄が出資する新会社が運行する公有民営方式で、2015年春から鉄道路線を存続させることで合意した。\n2014年3月27日には、合意に基づいて四日市あすなろう鉄道が設立された。同社は、近鉄が75%分を、四日市市が25%分を、それぞれ出資する第三セクター鉄道となっている。社名の「四日市あすなろう鉄道」は、未来への希望（明日にむかって）と、運行する内部線および八王子線が軌間762mmという狭軌（ナローゲージ）であることに由来する。この新体制で2015年4月1日から運行が開始されている。なお、同社の代表取締役は近鉄の役員または従業員から選任されている。",
+     "沿革": "2012年（平成24年）8月21日 - 近鉄が内部線および八王子線のBRT化方針を発表。\n2013年（平成25年）9月27日 - 近鉄と四日市市が公有民営方式での存続に合意。\n2014年（平成26年）\n3月27日 - 四日市あすなろう鉄道が設立。\n12月26日 - 国土交通省に地域公共交通の活性化及び再生に関する法律に基づく鉄道事業再構築実施計画の認定を申請する。\n2015年（平成27年）\n3月11日 - 鉄道事業再構築実施計画が認定。\n4月1日 - 四日市市の施設所有のもとで、四日市あすなろう鉄道による運営が開始。\n9月27日 - 新260系車両を導入（暫定カラー「なろうブルー」塗装）。\n2016年（平成28年）4月14日 - 新車両のデザインを「なろうグリーン」にすることを発表。\n2018年（平成30年）9月2日 - パステルカラー車両が運転を終了。\n2019年（令和元年）5月9日 - 車両検査にあわせて「なろうブルー」塗装車を順次「なろうグリーン」塗装に変更予定のところ、利用者からの「なろうブルー」を残してほしいとの要望で塗装変更を30日に一旦中止。3両（1編成）が「なろうブルー」で残る。\n2021年（令和3年）8月21日 - 「ICOCA」などの全国相互利用サービスに対応した交通系ICカードを導入。これに伴い、近鉄との連絡定期券の発売を、2021年10月31日に終了した。",
+     "鉄道事業": "",
+     "路線": "内部線：あすなろう四日市駅 - 内部駅 5.7 km 8駅\n八王子線：日永駅 - 西日野駅 1.3 km 2駅",
+     "車両": "全車両を四日市市が保有し、四日市あすなろう鉄道がそれを借り受けて運行している。\n開業当初は近鉄から譲り受けた260系電車をそのまま運行していたが、三重交通や北勢鉄道時代から改修を重ねて運用されてきた車両もあり、老朽化が進んでいた。\nそこで2015年から同系列のリニューアル工事を実施し（リニューアル後の車両は新260系と表記されることもある）、2019年までに全編成に施工した。三重電鉄以前に製造された形式は新製車によって全て淘汰され、近鉄時代に製造された車両も冷房化など大規模な改修を受けている。\n一部編成は床から車輪や線路が見えるシースルー列車となっている。\n冬の一部期間には一部車両内に電装が施されイルミネーション列車として運行されている。",
+     "運賃": "大人旅客運賃（小児半額・10円未満切り上げ） - 2019年10月1日改定。\n\n運賃は四日市あすなろう鉄道移管時に普通運賃相当で30円の値上げが行われた。\n三重県の県立高校入試日と沿線高校の入試日には「高校入試応援キャンペーン」として、特別な乗車証が配られ、受験生は無料で乗車できる。乗車証は沿線の日永大宮神明社で合格祈願御祈祷済みである。",
+     "交通系ICカード": "2021年8月21日に「ICOCA」が導入され、「ICOCA」のほか「PiTaPa」「TOICA」「manaca」などの全国相互利用サービス対応の交通系ICカードが利用できるようになった。なお、接続する近鉄名古屋線・湯の山線のようにPiTaPa交通利用エリアではないため、PiTaPaで乗車する場合はプリペイド方式となる。\n定期券はICOCA、Kips ICOCA、SMART ICOCAに搭載可能。近鉄など他社線の定期券情報と同時に記録できるが、当社線の定期券情報は券面に印字されず、代わりに「地域鉄道ICOCA定期券内容控」が別紙で発行される。ICOCA導入に伴い、通常の連絡定期券は廃止された。\n近鉄時代は自動券売機でパールカードによる乗車券の引き換えが可能であった。四日市あすなろう鉄道移管後は、各駅の自動券売機は食券用のそれに置き換えられ、乗車券は非磁気型となった。近鉄時代からPiTaPaは非対応であった。",
+     "脚注": "",
+     "注釈": "",
+     "出典": "",
+     "関連項目": "当鉄道と同様に近畿日本鉄道から移管された路線を運営している鉄道事業者。以下のうち伊賀鉄道、養老鉄道は新規に会社設立。三岐鉄道は既存の会社に譲渡。\n伊賀鉄道 - 伊賀線を継承。\n養老鉄道 - 養老線を継承。\n三岐鉄道 - 北勢線を継承。",
+     "外部リンク": "四日市あすなろう鉄道\n地域における公共交通としての鉄道がまちづくりに果たす影響―四日市あすなろう鉄道についてのケーススタディ (PDF)"
+    },
+    "全文": "四日市あすなろう鉄道株式会社（よっかいちあすなろうてつどう、英: Yokkaichi Asunarou Railway Co.,Ltd.）は、三重県四日市市で2つの鉄道路線を運営する鉄道事業者である。近畿日本鉄道（近鉄）の連結子会社で、近鉄グループの一社であるとともに、後述の歴史的経緯から四日市市も出資しているため第三セクターでもある。本社はあすなろう四日市駅構内に置かれており、登記上の本店は近鉄の鉄道本部名古屋統括部事務所に置かれている。\nかつて近鉄が保有・運営していた内部線および八王子線を引き継いで運営するために設立され、2015年（平成27年）4月1日より両線を四日市市が第三種鉄道事業者として保有し、四日市あすなろう鉄道が第二種鉄道事業者として列車を運行し旅客運送を行っている。\n\n\n== 会社設立の経緯 ==\nこの会社が運営する内部線と八王子線は、もともと近鉄の路線であったが、赤字であり、特殊な車両を必要とすることから、輸送効率の悪さが問題となっていた。\n近鉄は、赤字路線による経営圧迫を抑えるため、当時近鉄線だった北勢線を2003年に三岐鉄道に譲渡、養老線、伊賀線を2007年にそれぞれ養老鉄道、伊賀鉄道として分社化するなど、三重北部の交通事業の整理を進めていた。\n2012年6月29日に、四日市市議会は内部線および八王子線の存続問題を審議する総合交通政策調査特別委員会を設置した。\nしかし、同年8月21日に地元住民に対して近鉄は、鉄道の運行を廃止してその跡地に建設するバス専用道路でバス高速輸送システム (BRT) を運営する方針を発表した。さらに、同年8月24日に近鉄は翌年の夏までにこのBRT化の方針への是非を決定するように四日市市に求めていることを公表し、老朽化した車両の更新時期を考えて2013年夏を方向性決定の期限とする旨を提案の詳細と共に四日市市に通達したことを同年12月12日に公表した。\nこれに対して、四日市市が鉄道路線での存続を要望したことから、2013年8月6日には近鉄が、鉄道として存続するためには公設民営方式に移行することが唯一の方策であるとの趣旨と、この方式に移行した場合に車両および施設を無償譲渡する意向を示した。2013年7月に、四日市市はこの返答に対して鉄道路線の保有と運営の両方を別会社に切り離す民設民営方式を近鉄に提案したが、近鉄はこれを断った。その後の2013年9月27日に近鉄と四日市市の両者は、四日市市が施設・車両を保有し、同市と近鉄が出資する新会社が運行する公有民営方式で、2015年春から鉄道路線を存続させることで合意した。\n2014年3月27日には、合意に基づいて四日市あすなろう鉄道が設立された。同社は、近鉄が75%分を、四日市市が25%分を、それぞれ出資する第三セクター鉄道となっている。社名の「四日市あすなろう鉄道」は、未来への希望（明日にむかって）と、運行する内部線および八王子線が軌間762mmという狭軌（ナローゲージ）であることに由来する。この新体制で2015年4月1日から運行が開始されている。なお、同社の代表取締役は近鉄の役員または従業員から選任されている。\n\n\n== 沿革 ==\n\n2012年（平成24年）8月21日 - 近鉄が内部線および八王子線のBRT化方針を発表。\n2013年（平成25年）9月27日 - 近鉄と四日市市が公有民営方式での存続に合意。\n2014年（平成26年）\n3月27日 - 四日市あすなろう鉄道が設立。\n12月26日 - 国土交通省に地域公共交通の活性化及び再生に関する法律に基づく鉄道事業再構築実施計画の認定を申請する。\n2015年（平成27年）\n3月11日 - 鉄道事業再構築実施計画が認定。\n4月1日 - 四日市市の施設所有のもとで、四日市あすなろう鉄道による運営が開始。\n9月27日 - 新260系車両を導入（暫定カラー「なろうブルー」塗装）。\n2016年（平成28年）4月14日 - 新車両のデザインを「なろうグリーン」にすることを発表。\n2018年（平成30年）9月2日 - パステルカラー車両が運転を終了。\n2019年（令和元年）5月9日 - 車両検査にあわせて「なろうブルー」塗装車を順次「なろうグリーン」塗装に変更予定のところ、利用者からの「なろうブルー」を残してほしいとの要望で塗装変更を30日に一旦中止。3両（1編成）が「なろうブルー」で残る。\n2021年（令和3年）8月21日 - 「ICOCA」などの全国相互利用サービスに対応した交通系ICカードを導入。これに伴い、近鉄との連絡定期券の発売を、2021年10月31日に終了した。\n\n\n== 鉄道事業 ==\n\n\n=== 路線 ===\n内部線：あすなろう四日市駅 - 内部駅 5.7 km 8駅\n八王子線：日永駅 - 西日野駅 1.3 km 2駅\n\n\n=== 車両 ===\n\n全車両を四日市市が保有し、四日市あすなろう鉄道がそれを借り受けて運行している。\n開業当初は近鉄から譲り受けた260系電車をそのまま運行していたが、三重交通や北勢鉄道時代から改修を重ねて運用されてきた車両もあり、老朽化が進んでいた。\nそこで2015年から同系列のリニューアル工事を実施し（リニューアル後の車両は新260系と表記されることもある）、2019年までに全編成に施工した。三重電鉄以前に製造された形式は新製車によって全て淘汰され、近鉄時代に製造された車両も冷房化など大規模な改修を受けている。\n一部編成は床から車輪や線路が見えるシースルー列車となっている。\n冬の一部期間には一部車両内に電装が施されイルミネーション列車として運行されている。\n\n\n=== 運賃 ===\n大人旅客運賃（小児半額・10円未満切り上げ） - 2019年10月1日改定。\n\n運賃は四日市あすなろう鉄道移管時に普通運賃相当で30円の値上げが行われた。\n三重県の県立高校入試日と沿線高校の入試日には「高校入試応援キャンペーン」として、特別な乗車証が配られ、受験生は無料で乗車できる。乗車証は沿線の日永大宮神明社で合格祈願御祈祷済みである。\n\n\n=== 交通系ICカード ===\n2021年8月21日に「ICOCA」が導入され、「ICOCA」のほか「PiTaPa」「TOICA」「manaca」などの全国相互利用サービス対応の交通系ICカードが利用できるようになった。なお、接続する近鉄名古屋線・湯の山線のようにPiTaPa交通利用エリアではないため、PiTaPaで乗車する場合はプリペイド方式となる。\n定期券はICOCA、Kips ICOCA、SMART ICOCAに搭載可能。近鉄など他社線の定期券情報と同時に記録できるが、当社線の定期券情報は券面に印字されず、代わりに「地域鉄道ICOCA定期券内容控」が別紙で発行される。ICOCA導入に伴い、通常の連絡定期券は廃止された。\n近鉄時代は自動券売機でパールカードによる乗車券の引き換えが可能であった。四日市あすなろう鉄道移管後は、各駅の自動券売機は食券用のそれに置き換えられ、乗車券は非磁気型となった。近鉄時代からPiTaPaは非対応であった。\n\n\n== 脚注 ==\n\n\n=== 注釈 ===\n\n\n=== 出典 ===\n\n\n== 関連項目 ==\n当鉄道と同様に近畿日本鉄道から移管された路線を運営している鉄道事業者。以下のうち伊賀鉄道、養老鉄道は新規に会社設立。三岐鉄道は既存の会社に譲渡。\n伊賀鉄道 - 伊賀線を継承。\n養老鉄道 - 養老線を継承。\n三岐鉄道 - 北勢線を継承。\n\n\n== 外部リンク ==\n四日市あすなろう鉄道\n地域における公共交通としての鉄道がまちづくりに果たす影響―四日市あすなろう鉄道についてのケーススタディ (PDF)",
+    "字数": 3218
+   },
+   "中文": {
+    "词条标题": "四日市明日狹軌鐵道",
+    "链接": "https://zh.wikipedia.org/wiki/%E5%9B%9B%E6%97%A5%E5%B8%82%E6%98%8E%E6%97%A5%E7%8B%B9%E8%BB%8C%E9%90%B5%E9%81%93",
+    "首段": "四日市明日狹軌鐵道（日語：四日市あすなろう鉄道／よっかいちあすなろうてつどう，羅馬化：Yokkaichi Asunarō Tetsudō）是近鐵集團控股旗下的鐵路公司，也是近畿日本鐵道（近鐵）持股75%的子公司，另25%股份則由四日市市持有。",
+    "章节": {
+     "概要": "此公司成立於2014年（平成26年）3月27日，並於2015年（平成27年）4月1日起繼承近鐵內部線及八王子線的營運。上述兩條路線是日本罕見仍營運中的762mm特殊窄軌鐵路（即台灣俗稱之「五分車」）。原本兩條鐵路皆由近鐵經營，因營收不佳且車廂老舊，近鐵於2012年6月公開表示有意改建為BRT，但四日市市希望鐵道能持續營運。經過近鐵與四日市市協商後，兩路線產權移轉給四日市市，四日市市成為第三種鐵道事業者，列車運行由近鐵與四日市市官民合資新成立的第三部門鐵路公司接手，這家公司定名為「四日市明日狹軌鐵道」。\n公司日文名稱中的「あすなろう」即為「あす」（明日）和「なろう」（狹軌英語「narrow」）組合而成。",
+     "歷史": "2025年4月1日，四日市明日狹軌鐵道迎來旗下鐵路線開始營業的10周年，並於3月30日舉行紀念典禮。",
+     "使用車輛": "",
+     "現役車輛": "近鐵260系電聯車",
+     "路線": "",
+     "注釋": ""
+    },
+    "全文": "四日市明日狹軌鐵道（日語：四日市あすなろう鉄道／よっかいちあすなろうてつどう，羅馬化：Yokkaichi Asunarō Tetsudō）是近鐵集團控股旗下的鐵路公司，也是近畿日本鐵道（近鐵）持股75%的子公司，另25%股份則由四日市市持有。\n\n\n== 概要 ==\n此公司成立於2014年（平成26年）3月27日，並於2015年（平成27年）4月1日起繼承近鐵內部線及八王子線的營運。上述兩條路線是日本罕見仍營運中的762mm特殊窄軌鐵路（即台灣俗稱之「五分車」）。原本兩條鐵路皆由近鐵經營，因營收不佳且車廂老舊，近鐵於2012年6月公開表示有意改建為BRT，但四日市市希望鐵道能持續營運。經過近鐵與四日市市協商後，兩路線產權移轉給四日市市，四日市市成為第三種鐵道事業者，列車運行由近鐵與四日市市官民合資新成立的第三部門鐵路公司接手，這家公司定名為「四日市明日狹軌鐵道」。\n公司日文名稱中的「あすなろう」即為「あす」（明日）和「なろう」（狹軌英語「narrow」）組合而成。\n\n\n== 歷史 ==\n2025年4月1日，四日市明日狹軌鐵道迎來旗下鐵路線開始營業的10周年，並於3月30日舉行紀念典禮。\n\n\n== 使用車輛 ==\n\n\n=== 現役車輛 ===\n近鐵260系電聯車\n\n\n== 路線 ==\n\n\n== 注釋 ==",
+    "字数": 559
+   },
+   "英文": {
+    "词条标题": "Yokkaichi Asunarou Railway",
+    "链接": "https://en.wikipedia.org/wiki/Yokkaichi%20Asunarou%20Railway",
+    "首段": "Yokkaichi Asunarou Railway (四日市あすなろう鉄道, Yokkaichi Asunarō Tetsudō) is a third-sector railway company in Yokkaichi, Mie, Japan. The company is 75% owned by  Kintetsu Railway and 25% owned by the city government of Yokkaichi.\nThe company operates the Utsube Line and the Hachiōji Line in Yokkaichi. Both lines are 762 mm (2 ft 6 in) gauge railways.\nYokkaichi Asunarou Railway took control of the lines and commenced operation on April 1, 2015; previously, the lines were operated by Kintetsu Railway, a private railway operator in the area, as branches of the Kintetsu Nagoya Line.\nThe company's name, which in Japanese means \"let's reach tomorrow\", was chosen to represent \"hope for the future\" and the concept of \"facing tomorrow\" in regards to the goal of preserving the rare narrow gauge railway lines.",
+    "章节": {
+     "Lines and services": "Past Hinaga, Hachiōji Line services continue on the Utsube Line to/from Asunarou Yokkaichi Station.\nTrains departing Asunarou Yokkaichi Station alternate between services to Utsube and Nishihino. Both destinations are serviced every 30 minutes, providing a service every 15 minutes between Asunarou Yokkaichi and Hinaga. A small number of additional services operate in the morning peak.",
+     "Rolling stock": "All trains operated are 260 series EMUs in either 2-car or 3-car configurations.  \n\nAt the start of operation, Kintetsu 260 series trains were transferred from Kintetsu Railway. A four-year renewal of all trains was commenced, with some older carriages being replaced with newly built carriages and all others receiving a major refurbishment including the installation of air conditioning.",
+     "References": "This article incorporates material from the corresponding article in the Japanese Wikipedia.",
+     "External links": "Official website (in Japanese)\n Media related to Yokkaichi Asunarou Railway at Wikimedia Commons"
+    },
+    "全文": "Yokkaichi Asunarou Railway (四日市あすなろう鉄道, Yokkaichi Asunarō Tetsudō) is a third-sector railway company in Yokkaichi, Mie, Japan. The company is 75% owned by  Kintetsu Railway and 25% owned by the city government of Yokkaichi.\nThe company operates the Utsube Line and the Hachiōji Line in Yokkaichi. Both lines are 762 mm (2 ft 6 in) gauge railways.\nYokkaichi Asunarou Railway took control of the lines and commenced operation on April 1, 2015; previously, the lines were operated by Kintetsu Railway, a private railway operator in the area, as branches of the Kintetsu Nagoya Line.\nThe company's name, which in Japanese means \"let's reach tomorrow\", was chosen to represent \"hope for the future\" and the concept of \"facing tomorrow\" in regards to the goal of preserving the rare narrow gauge railway lines. \n\n\n== Lines and services ==\n\nPast Hinaga, Hachiōji Line services continue on the Utsube Line to/from Asunarou Yokkaichi Station.\nTrains departing Asunarou Yokkaichi Station alternate between services to Utsube and Nishihino. Both destinations are serviced every 30 minutes, providing a service every 15 minutes between Asunarou Yokkaichi and Hinaga. A small number of additional services operate in the morning peak.\n\n\n== Rolling stock ==\nAll trains operated are 260 series EMUs in either 2-car or 3-car configurations.  \n\nAt the start of operation, Kintetsu 260 series trains were transferred from Kintetsu Railway. A four-year renewal of all trains was commenced, with some older carriages being replaced with newly built carriages and all others receiving a major refurbishment including the installation of air conditioning. \n\n\n== References ==\n\nThis article incorporates material from the corresponding article in the Japanese Wikipedia.\n\n\n== External links ==\nOfficial website (in Japanese)\n Media related to Yokkaichi Asunarou Railway at Wikimedia Commons",
+    "字数": 1867
+   }
+  }
+ }
+}

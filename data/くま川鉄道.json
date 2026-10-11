@@ -1,0 +1,76 @@
+{
+ "车辆": {
+  "名称": {
+   "日文": "くま川鉄道",
+   "中文": "球磨川鐵道",
+   "英文": "Yunomae Line",
+   "运营者": [
+    "山陽山陰"
+   ]
+  },
+  "标识": {
+   "图标文件": [
+    "26_sanyosanin/untitled__lkure600.png"
+   ],
+   "图标token": [
+    "lkure600"
+   ],
+   "网站键": {
+    "特急": [],
+    "线路": [
+     "呉線"
+    ]
+   }
+  },
+  "百科": {
+   "日文": {
+    "词条标题": "くま川鉄道",
+    "链接": "https://ja.wikipedia.org/wiki/%E3%81%8F%E3%81%BE%E5%B7%9D%E9%89%84%E9%81%93",
+    "首段": "くま川鉄道株式会社（くまがわてつどう、英：Kumagawa Railroad Co., Ltd.）は、熊本県人吉市に本社を置き、同市と球磨郡の4町5村、15の民間企業・団体が出資している第三セクターの鉄道会社である。人吉盆地の球磨川流域を走る鉄道路線の湯前線を経営している。",
+    "章节": {
+     "沿革": "1989年（平成元年）\n4月26日：会社設立。\n10月1日：九州旅客鉄道（JR九州）湯前線を第三セクター鉄道化して湯前線開業。KT-100・KT-200形気動車の営業運転開始。\n2008年（平成20年）3月：駅の命名権（ネーミングライツ）募集を開始。\n2009年（平成21年）4月1日：観光列車「KUMA1」「KUMA2」運行開始。\n2012年（平成24年）2月4日：JR人吉駅隣に国内・海外旅行業商品の販売（JR九州旅行提携店他）、くま川鉄道グッズ販売、奥球磨方面の観光案内などを行う「くま鉄ゲストハウス くまたび」を開所。\n2014年（平成26年）\n1月19日：KT-201気動車の営業運転が終了。\n2月2日：KT-202気動車の営業運転が終了。\n3月8日：KT-500形気動車の営業運転開始。\n3月15日：KT-500形気動車による観光列車「田園シンフォニー」運行開始。\n12月28日：KT-101、KT-102、KT-104気動車の営業運転が終了。\n2016年（平成28年）6月26日：「KUMA1」「KUMA2」（KT-203、KT-103気動車）の営業運転が終了。\n2020年（令和2年）7月4日：令和2年7月豪雨により全保有車両5両が浸水し、球磨川第四橋梁が流出して当分全面運休となる。\n2021年（令和3年）\n3月24日：前年の豪雨被害からの復旧費用を募るクラウドファンディング開始。\n11月28日：肥後西村駅 - 湯前駅間が運転再開。\n2023年（令和5年）11月25日：くまがわ鉄道に「おかどめ幸福駅」が、新北捷運に「幸福駅」がある縁に基づき、台湾の新北捷運公司と「同駅名による友好鉄道協定」を締結。\n2026年（令和8年）9月20日：人吉温泉駅 - 肥後西村駅間の運転再開、全線復旧。",
+     "路線": "湯前線 人吉温泉駅 - 湯前駅間 24.8 km\n湯前線は旧日本国有鉄道（国鉄）特定地方交通線の一つで、1987年の国鉄分割民営化に伴いJR九州が、さらに1989年10月にくま川鉄道が経営を引き継いだ。",
+     "車両": "",
+     "現在の車両": "KT-500形 (501 - 505)：普通列車や観光列車「田園シンフォニー」（KT-501「冬」、KT-502「秋」、KT-503「春」、KT-504「夏」、KT-505「白秋」）として運行。ロングシート、トイレ付き。",
+     "かつて在籍していた車両": "KT-31形 (311) ：旧JR九州キハ31 20。2004年に譲受、2013年に廃車・解体された。\nKT-100形 (101-104) ：1989年の開業時に4両（KT-101・102・103・104）を導入。KT-103は2009年から観光列車KUMA2として運行していたが、2014年4月1日以降は観光列車としての運行は行わなかった。セミクロスシート、トイレなし。KT-101・102・104の3両は2014年に営業運転を終了した、2015年に廃車。KUMA2に改造されたKT-103も2016年6月26日をもって営業運転を終了。\nKT-200形 (201-203) ：1989年の開業時に3両（KT-201・202・203）を導入。KT-203は2009年から観光列車KUMA1として運行していたが、2014年4月1日以降は観光列車としての運行は行わなかった。ロングシート、トイレ付き。KT-201・202は2014年に営業運転終了、廃車された。KUMA1のKT-203も2016年6月26日をもって営業運転を終了した。",
+     "近年の動向": "KT-100形・KT-200形が新製から約25年経過して老朽化したことに伴い、2013年度に3両、さらに2014年度に2両を（新車両に）更新し、計5両体制とした。新車両のデザインは、九州新幹線や「SL人吉」、熊本駅などを手掛けた水戸岡鋭治が担当した。新車両は「田園シンフォニー」として2014年3月に3両（KT-501、KT-502、KT-503）、2014年12月に2両（KT-504、KT-505）が運行を開始した。2009年に在来車KT-103・KT-203の2両を改装して運行を開始した「KUMA1」「KUMA2」は2014年1月時点で廃車予定はなく7両体制が続くも、2016年6月26日に営業運転を終了した。\nまた、赤字続きのくま川鉄道再生に向け、2011年度までの2年間で橋梁を7500万円で整備し、2012年度に線路（レール）の磨耗、枕木の老朽化を修繕する方針としていた。\n2020年7月の令和2年7月豪雨で甚大な被害を受けて全線が運休となり、2021年11月に肥後西村駅 - 湯前駅間が運転再開、その後2025年度内に、人吉駅 - 肥後西村駅間が運転再開の予定となっているが、復旧にあたっては過去3年間赤字の鉄道会社に対して国が事業費の97.5%を実質負担する大規模災害の特例支援措置が適用され、残り2.5%も熊本県や人吉球磨地域の市町村が負担する見込みとなっている。県や地元市町村は被災後「くま川鉄道再生協議会」を設立し、同社の支援策を協議。国の特例措置を受ける前提として、自治体などが鉄道の施設や用地を保有し、運行事業者の負担を軽くする上下分離方式の導入が決定している。\n2025年には社名に同じ「川」の字がある錦川鉄道（山口県）が、廃レールを加工したナイフの販売収益を寄付する復旧支援を実施している。",
+     "脚注・出典": "",
+     "外部リンク": "くま川鉄道公式ホームページ\nくま川鉄道【公式】 (@kumatetu_rail) - X（旧Twitter）\nくま川鉄道株式会社 (Kumatetu5011) - Facebook"
+    },
+    "全文": "くま川鉄道株式会社（くまがわてつどう、英：Kumagawa Railroad Co., Ltd.）は、熊本県人吉市に本社を置き、同市と球磨郡の4町5村、15の民間企業・団体が出資している第三セクターの鉄道会社である。人吉盆地の球磨川流域を走る鉄道路線の湯前線を経営している。\n\n\n== 沿革 ==\n1989年（平成元年）\n4月26日：会社設立。\n10月1日：九州旅客鉄道（JR九州）湯前線を第三セクター鉄道化して湯前線開業。KT-100・KT-200形気動車の営業運転開始。\n2008年（平成20年）3月：駅の命名権（ネーミングライツ）募集を開始。\n2009年（平成21年）4月1日：観光列車「KUMA1」「KUMA2」運行開始。\n2012年（平成24年）2月4日：JR人吉駅隣に国内・海外旅行業商品の販売（JR九州旅行提携店他）、くま川鉄道グッズ販売、奥球磨方面の観光案内などを行う「くま鉄ゲストハウス くまたび」を開所。\n2014年（平成26年）\n1月19日：KT-201気動車の営業運転が終了。\n2月2日：KT-202気動車の営業運転が終了。\n3月8日：KT-500形気動車の営業運転開始。\n3月15日：KT-500形気動車による観光列車「田園シンフォニー」運行開始。\n12月28日：KT-101、KT-102、KT-104気動車の営業運転が終了。\n2016年（平成28年）6月26日：「KUMA1」「KUMA2」（KT-203、KT-103気動車）の営業運転が終了。\n2020年（令和2年）7月4日：令和2年7月豪雨により全保有車両5両が浸水し、球磨川第四橋梁が流出して当分全面運休となる。\n2021年（令和3年）\n3月24日：前年の豪雨被害からの復旧費用を募るクラウドファンディング開始。\n11月28日：肥後西村駅 - 湯前駅間が運転再開。\n2023年（令和5年）11月25日：くまがわ鉄道に「おかどめ幸福駅」が、新北捷運に「幸福駅」がある縁に基づき、台湾の新北捷運公司と「同駅名による友好鉄道協定」を締結。\n2026年（令和8年）9月20日：人吉温泉駅 - 肥後西村駅間の運転再開、全線復旧。\n\n\n== 路線 ==\n湯前線 人吉温泉駅 - 湯前駅間 24.8 km\n湯前線は旧日本国有鉄道（国鉄）特定地方交通線の一つで、1987年の国鉄分割民営化に伴いJR九州が、さらに1989年10月にくま川鉄道が経営を引き継いだ。\n\n\n== 車両 ==\n\n\n=== 現在の車両 ===\nKT-500形 (501 - 505)：普通列車や観光列車「田園シンフォニー」（KT-501「冬」、KT-502「秋」、KT-503「春」、KT-504「夏」、KT-505「白秋」）として運行。ロングシート、トイレ付き。\n\n\n=== かつて在籍していた車両 ===\nKT-31形 (311) ：旧JR九州キハ31 20。2004年に譲受、2013年に廃車・解体された。\nKT-100形 (101-104) ：1989年の開業時に4両（KT-101・102・103・104）を導入。KT-103は2009年から観光列車KUMA2として運行していたが、2014年4月1日以降は観光列車としての運行は行わなかった。セミクロスシート、トイレなし。KT-101・102・104の3両は2014年に営業運転を終了した、2015年に廃車。KUMA2に改造されたKT-103も2016年6月26日をもって営業運転を終了。\nKT-200形 (201-203) ：1989年の開業時に3両（KT-201・202・203）を導入。KT-203は2009年から観光列車KUMA1として運行していたが、2014年4月1日以降は観光列車としての運行は行わなかった。ロングシート、トイレ付き。KT-201・202は2014年に営業運転終了、廃車された。KUMA1のKT-203も2016年6月26日をもって営業運転を終了した。\n\n\n=== 近年の動向 ===\nKT-100形・KT-200形が新製から約25年経過して老朽化したことに伴い、2013年度に3両、さらに2014年度に2両を（新車両に）更新し、計5両体制とした。新車両のデザインは、九州新幹線や「SL人吉」、熊本駅などを手掛けた水戸岡鋭治が担当した。新車両は「田園シンフォニー」として2014年3月に3両（KT-501、KT-502、KT-503）、2014年12月に2両（KT-504、KT-505）が運行を開始した。2009年に在来車KT-103・KT-203の2両を改装して運行を開始した「KUMA1」「KUMA2」は2014年1月時点で廃車予定はなく7両体制が続くも、2016年6月26日に営業運転を終了した。\nまた、赤字続きのくま川鉄道再生に向け、2011年度までの2年間で橋梁を7500万円で整備し、2012年度に線路（レール）の磨耗、枕木の老朽化を修繕する方針としていた。\n2020年7月の令和2年7月豪雨で甚大な被害を受けて全線が運休となり、2021年11月に肥後西村駅 - 湯前駅間が運転再開、その後2025年度内に、人吉駅 - 肥後西村駅間が運転再開の予定となっているが、復旧にあたっては過去3年間赤字の鉄道会社に対して国が事業費の97.5%を実質負担する大規模災害の特例支援措置が適用され、残り2.5%も熊本県や人吉球磨地域の市町村が負担する見込みとなっている。県や地元市町村は被災後「くま川鉄道再生協議会」を設立し、同社の支援策を協議。国の特例措置を受ける前提として、自治体などが鉄道の施設や用地を保有し、運行事業者の負担を軽くする上下分離方式の導入が決定している。\n2025年には社名に同じ「川」の字がある錦川鉄道（山口県）が、廃レールを加工したナイフの販売収益を寄付する復旧支援を実施している。 \n\n\n== 脚注・出典 ==\n\n\n== 外部リンク ==\n\nくま川鉄道公式ホームページ\nくま川鉄道【公式】 (@kumatetu_rail) - X（旧Twitter）\nくま川鉄道株式会社 (Kumatetu5011) - Facebook",
+    "字数": 2540
+   },
+   "中文": {
+    "词条标题": "球磨川鐵道",
+    "链接": "https://zh.wikipedia.org/wiki/%E7%90%83%E7%A3%A8%E5%B7%9D%E9%90%B5%E9%81%93",
+    "首段": "球磨川鐵道股份有限公司（日語：くま川鉄道／くまがわてつどう，羅馬化：Kumagawa Tetsudō），簡稱球磨川鐵道，是一家日本熊本縣的鐵路公司，是由人吉市在內的幾個沿線地方自治體投資成立的第三部門公司，以便承接日本國鐵特定地方交通線湯前線的後續營運。公司總部位於熊本縣人吉市中青井町265番地。",
+    "章节": {
+     "沿革": "1989年4月26日：設立。\n1989年10月1日：第三部門化九州旅客鐵道（JR九州）的湯前線，球磨川鐵道湯前線開業。\n2008年9月13日：公佈實行出售正在營運的全部14個車站命名權的計劃。\n2020年7月4日：湯前線的部分路段因豪雨帶來的水災而出現路基流失，球磨川第四橋梁也遭到洪水沖毀。\n7月20日：由於全線停駛，球磨川鐵道開始提供鐵路替代巴士服務。\n2021年11月28日：肥後西村站至湯前站的路段恢復部分營運，人吉溫泉站至肥後西村站的路段則繼續提供巴士代行服務。\n2026年9月20日（預定）：全線恢復營運。",
+     "路線": "",
+     "車輛": "KT-500型柴聯車",
+     "外部連結": "球磨川鐵道官方網頁 （页面存档备份，存于互联网档案馆）",
+     "注釋及參考文獻": ""
+    },
+    "全文": "球磨川鐵道股份有限公司（日語：くま川鉄道／くまがわてつどう，羅馬化：Kumagawa Tetsudō），簡稱球磨川鐵道，是一家日本熊本縣的鐵路公司，是由人吉市在內的幾個沿線地方自治體投資成立的第三部門公司，以便承接日本國鐵特定地方交通線湯前線的後續營運。公司總部位於熊本縣人吉市中青井町265番地。\n\n\n== 沿革 ==\n1989年4月26日：設立。\n1989年10月1日：第三部門化九州旅客鐵道（JR九州）的湯前線，球磨川鐵道湯前線開業。\n2008年9月13日：公佈實行出售正在營運的全部14個車站命名權的計劃。\n2020年7月4日：湯前線的部分路段因豪雨帶來的水災而出現路基流失，球磨川第四橋梁也遭到洪水沖毀。\n7月20日：由於全線停駛，球磨川鐵道開始提供鐵路替代巴士服務。\n2021年11月28日：肥後西村站至湯前站的路段恢復部分營運，人吉溫泉站至肥後西村站的路段則繼續提供巴士代行服務。\n2026年9月20日（預定）：全線恢復營運。\n\n\n== 路線 ==\n\n\n== 車輛 ==\nKT-500型柴聯車\n\n\n== 外部連結 ==\n\n球磨川鐵道官方網頁 （页面存档备份，存于互联网档案馆）\n\n\n== 注釋及參考文獻 ==",
+    "字数": 511
+   },
+   "英文": {
+    "词条标题": "Yunomae Line",
+    "链接": "https://en.wikipedia.org/wiki/Yunomae%20Line",
+    "首段": "The Yunomae Line (湯前線, Yunomae-sen) is a railway line in Kumamoto Prefecture, Japan, connecting Hitoyoshi-Onsen Station in Hitoyoshi and Yunomae Station in Yunomae. It is the only railway line operated by third sector railway company Kumagawa Railroad (くま川鉄道, Kumagawa Tetsudō; lit. 'Kuma River Railroad'). As the company name suggests, the line parallels the Kuma River. The company is also called Kumatetsu (くま鉄). The company took over the former JR Kyushu line in 1989.",
+    "章节": {
+     "History": "The entire line was opened by the then Japanese Government Railways in 1924.\nFreight services ceased beyond Taragi in 1974, and completely in 1980.\nKumagawa Railroad, a third sector company, took over the line from JR Kyushu in 1989.\nOn 6 July 2020, all services were suspended until further notice, due to severe damage caused by the rainfall, including the complete destruction of a large bridge over the Kuma River. In May 2021, it was officially announced that the line would be restored as a railway. Restoration work is estimated to cost around 4.6 billion yen, with the national government paying 97.5% of it, with the remaining 2.5% being paid by local governments.\nKumagawa Railway announced on 9 November 2021 the planned resumption of services starting from 28 November 2021 between Yunomae Station and Higo-Nishinomura Station. Trial runs will be conducted between 19 and 21 November, and training runs will be conducted between 22 and 27 November. Services resumed between Yunomae Station and Higo-Nishinomura Station on 28 November 2021.\nOn 23 March 2026, the company announced that the rest of the line to Hitoyoshi-Onsen Station will resume operations on 20 September 2026, with Kawamura Station being relocated to a different location after the flood and hence renamed Sagara-Toshima and Higashi-Taragi Station renamed to Taragi-Shōrenji.",
+     "Basic data": "Distance: 24.8 km / 15.4 mi.\nGauge: 1,067 mm (3 ft 6 in)\nStations: 14\nDouble-track line: None\nElectric supply: Not electrified\nRailway signalling\nHitoyoshi-Onsen – Asagiri: Tablet token\nAsagiri – Yunomae: Staff token\nStations with passing loops: 1 (Asagiri Station)",
+     "Stations": "",
+     "Financial situation": "The company's railway operations have not produced an operating profit since its creation in 1989, and in fiscal 2011, it had operating profit losses of 120.76 million yen.",
+     "Rolling stock": "As of June 2012, the company operates a fleet of eight diesel cars. With the exception of two tourist trains, these were scheduled to be replaced by five new diesel cars between fiscal 2013 and 2014. The new trains were designed by industrial designer Eiji Mitooka. The new trains are now in service.\nAll five diesel cars were inundated at Hitoyoshi Onsen Station during torrential rains on 4 July 2020.",
+     "See also": "List of railway companies in Japan\nList of railway lines in Japan",
+     "References": "This article incorporates material from the corresponding article in the Japanese Wikipedia.",
+     "External links": "Official website (in Japanese)"
+    },
+    "全文": "The Yunomae Line (湯前線, Yunomae-sen) is a railway line in Kumamoto Prefecture, Japan, connecting Hitoyoshi-Onsen Station in Hitoyoshi and Yunomae Station in Yunomae. It is the only railway line operated by third sector railway company Kumagawa Railroad (くま川鉄道, Kumagawa Tetsudō; lit. 'Kuma River Railroad'). As the company name suggests, the line parallels the Kuma River. The company is also called Kumatetsu (くま鉄). The company took over the former JR Kyushu line in 1989.\n\n\n== History ==\nThe entire line was opened by the then Japanese Government Railways in 1924.\nFreight services ceased beyond Taragi in 1974, and completely in 1980.\nKumagawa Railroad, a third sector company, took over the line from JR Kyushu in 1989.\nOn 6 July 2020, all services were suspended until further notice, due to severe damage caused by the rainfall, including the complete destruction of a large bridge over the Kuma River. In May 2021, it was officially announced that the line would be restored as a railway. Restoration work is estimated to cost around 4.6 billion yen, with the national government paying 97.5% of it, with the remaining 2.5% being paid by local governments.\nKumagawa Railway announced on 9 November 2021 the planned resumption of services starting from 28 November 2021 between Yunomae Station and Higo-Nishinomura Station. Trial runs will be conducted between 19 and 21 November, and training runs will be conducted between 22 and 27 November. Services resumed between Yunomae Station and Higo-Nishinomura Station on 28 November 2021.\nOn 23 March 2026, the company announced that the rest of the line to Hitoyoshi-Onsen Station will resume operations on 20 September 2026, with Kawamura Station being relocated to a different location after the flood and hence renamed Sagara-Toshima and Higashi-Taragi Station renamed to Taragi-Shōrenji.\n\n\n== Basic data ==\nDistance: 24.8 km / 15.4 mi.\nGauge: 1,067 mm (3 ft 6 in)\nStations: 14\nDouble-track line: None\nElectric supply: Not electrified\nRailway signalling\nHitoyoshi-Onsen – Asagiri: Tablet token\nAsagiri – Yunomae: Staff token\nStations with passing loops: 1 (Asagiri Station)\n\n\n== Stations ==\n\n\n== Financial situation ==\nThe company's railway operations have not produced an operating profit since its creation in 1989, and in fiscal 2011, it had operating profit losses of 120.76 million yen.\n\n\n== Rolling stock ==\nAs of June 2012, the company operates a fleet of eight diesel cars. With the exception of two tourist trains, these were scheduled to be replaced by five new diesel cars between fiscal 2013 and 2014. The new trains were designed by industrial designer Eiji Mitooka. The new trains are now in service.\nAll five diesel cars were inundated at Hitoyoshi Onsen Station during torrential rains on 4 July 2020.\n\n\n== See also ==\nList of railway companies in Japan\nList of railway lines in Japan\n\n\n== References ==\nThis article incorporates material from the corresponding article in the Japanese Wikipedia.\n\n\n== External links ==\nOfficial website (in Japanese)",
+    "字数": 3022
+   }
+  }
+ }
+}

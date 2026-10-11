@@ -10,15 +10,18 @@
   },
   "标识": {
    "图标文件": [
-    "35_cablecar/eizan-funicular__cb-kfuk1n.png"
+    "35_cablecar/eizan-funicular__cb-kfuk1n.png",
+    "35_cablecar/untitled__cb-krm2.png"
    ],
    "图标token": [
-    "cb-kfuk1n"
+    "cb-kfuk1n",
+    "cb-krm2"
    ],
    "网站键": {
     "特急": [],
     "线路": [
-     "叡山ケーブル"
+     "叡山ケーブル",
+     "鞍馬線"
     ]
    }
   },

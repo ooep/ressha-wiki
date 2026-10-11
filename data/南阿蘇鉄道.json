@@ -1,0 +1,82 @@
+{
+ "车辆": {
+  "名称": {
+   "日文": "南阿蘇鉄道",
+   "中文": "南阿蘇鐵道",
+   "英文": "Minamiaso Railway Takamori Line",
+   "运营者": [
+    "九州私鉄"
+   ]
+  },
+  "标识": {
+   "图标文件": [
+    "34_kyushu_mi/minami-aso-rail-1-2-3-4-2024-2-2-update__aso4001.png"
+   ],
+   "图标token": [
+    "aso4001"
+   ],
+   "网站键": {
+    "特急": [],
+    "线路": [
+     "南阿蘇鉄道",
+     "高森線"
+    ]
+   }
+  },
+  "百科": {
+   "日文": {
+    "词条标题": "南阿蘇鉄道",
+    "链接": "https://ja.wikipedia.org/wiki/%E5%8D%97%E9%98%BF%E8%98%87%E9%89%84%E9%81%93",
+    "首段": "南阿蘇鉄道株式会社（みなみあそてつどう、英: Minami-aso Railway Co.,LTD.）は、熊本県阿蘇郡高森町に本社を置き、同県で旧国鉄特定地方交通線の鉄道路線高森線を運営している南阿蘇村・高森町など沿線自治体が出資する第三セクター方式の鉄道会社である。",
+    "章节": {
+     "沿革": "1985年（昭和60年）4月1日 - 設立。\n1986年（昭和61年）\n4月1日 - 国鉄高森線を承継し開業。\n7月26日 - トロッコ列車「ゆうすげ号」を運転開始。\n2008年（平成19年）3月20日 - 沿線周辺地域で、線路と道路の両方を走行できる車両「デュアル・モード・ビークル(DMV)」の走行実証実験を22日まで実施。\n2016年（平成28年）\n4月14日 - 熊本地震で全線運転見合わせとなる。\n4月16日 - この日発生した熊本地震の本震で甚大な被害を受け、引き続き全線で運休。\n7月31日 - 中松 - 高森間で運転再開。\n2023年（令和5年）\n3月10日 - 全線再開に向けて国土交通省より「鉄道事業再構築実施計画」の認定を受ける。これまで南阿蘇鉄道が第一種鉄道事業者として高森線の施設保有と旅客運送を行ってきたが、この認定をもって同年4月1日から南阿蘇鉄道が旅客運送を行う第二種鉄道事業者、南阿蘇鉄道管理機構が施設を保有する第三種鉄道事業者となる上下分離方式に移行。\n7月15日 - 立野 - 中松間が運転再開し全線復旧。同時にJR豊肥本線の肥後大津駅まで2往復乗り入れ開始。\n2024年（令和6年）\n運転士として勤務する地域おこし協力隊員に対する給与未払いが発覚（詳細は後節参照）。\n4月1日 - 南鉄専務の津留恒誉が同日付けで代表取締役社長就任、副社長には同社前社長・草村大成（高森町長）が就いた。初の生え抜き社長。\n2026年（令和8年）7月28日 - 16時27分に発生した令和8年熊本地震により運休。施設点検後、同年7月30日に運転を再開。トロッコ列車、ワンピースサニー号トレインの予約者（7月31日までの予約で乗車日が7月28日から8月30日まで）に対し、無手数料での払い戻しを実施。",
+     "路線": "高森線 : 立野 - 高森 17.7km",
+     "車両": "",
+     "現有車両": "気動車は全て新潟鐵工所製とそれを引き継いだ新潟トランシス製である。\n\nMT-3000形(3010) - 1998年製。「くまもと未来国体」を前に、宝くじの助成金で新製した宝くじ号。\nMT-4000形(4001-4004) - 2022年製。2023年4月14日に営業運転を開始。豊肥本線直通対応。本形式の導入により老朽化の進むMT-2000形、MT-3000形(3001)を置き換えた。\nDB16形(DB1601・1602) - 2007年北陸重機工業製。トロッコ列車「ゆうすげ号」の牽引に使用される機関車。\nトラ700形(トラ70001・トラ70002) - トロッコ列車「ゆうすげ号」でトロッコ客車として使用。\nTORA200形(TORA20001) - 2007年北陸重機工業製のトロッコ列車「ゆうすげ号」のトロッコ客車。\n車両の全般検査業務は日鉄物流八幡に委託されている。",
+     "過去の車両": "MT-2100形(2105) - 1961年1月に新潟鉄工所で製造され、1987年に国鉄熊本運転所から譲受した元国鉄キハ52 35。南阿蘇鉄道として開業時からの車両。MT-2000形との総括制御を行えるように改造し、カラーリングの変更も行われたが、予備車として導入されたため、ワンマン化改造はされなかった。高森駅構内の留置線に留置されていたが1993年にMT3000形が登場し廃車となった。\nDB10形(DB101, DB102) - トロッコ列車「ゆうすげ号」の牽引に使用されていたディーゼル機関車。2007年に平成筑豊鉄道に移籍し、2009年に開業した門司港レトロ観光線で、元島原鉄道のトロッコ用客車を牽引している。\nMT-2000形(2001-2003) - 1986年製。南阿蘇鉄道として開業時からの車両。MT-2001には「はなしのぶ」、MT-2002には「しらかわ」、MT-2003には「りんどう」の愛称がある。2023年にMT-2001・MT-2002、2024年にMT-2003が運用を終了した。\nMT-3000形(3001) - 1993年製。2024年に運用終了。",
+     "不祥事": "",
+     "地域おこし協力隊員への給与未払い": "同鉄道が、熊本地震の復興支援プロジェクトとして同鉄道で運転士として勤務する地域おこし協力隊の隊員10人に対し、2020年度以降に給与の一部を支払っていなかったことが、2024年2月に発覚した。高森町と南阿蘇村では、同鉄道に勤務の協力隊員の活動時間を1ヵ月に120時間以内と定め、これを超過する分について同鉄道と協力隊員との間で個別に雇用契約を結んでいるが、2020年度以降に多額の未払いがあったことが、報道機関への情報提供により判明した。未払いの額は、2023年4月から10月の間だけでも合わせて190万円に及んでおり、同鉄道は、今後は労務管理の改善を図るとしている。さらに同年5月に、この件で菊池労働基準監督署から是正勧告を受けていたことも判明している。",
+     "その他": "",
+     "ドキュメンタリー": "新日本風土記「熊本 南阿蘇鉄道」（2024年1月9日、NHK BS）",
+     "脚注": "",
+     "出典": "",
+     "外部リンク": "南阿蘇鉄道公式ホームページ\n南阿蘇鉄道 (@nantetsu_rail) - X（旧Twitter）\n南阿蘇鉄道 (minamiasoraliway) - Facebook\n南阿蘇鉄道 (@nantetsu_rail) - Instagram"
+    },
+    "全文": "南阿蘇鉄道株式会社（みなみあそてつどう、英: Minami-aso Railway Co.,LTD.）は、熊本県阿蘇郡高森町に本社を置き、同県で旧国鉄特定地方交通線の鉄道路線高森線を運営している南阿蘇村・高森町など沿線自治体が出資する第三セクター方式の鉄道会社である。\n\n\n== 沿革 ==\n1985年（昭和60年）4月1日 - 設立。\n1986年（昭和61年）\n4月1日 - 国鉄高森線を承継し開業。\n7月26日 - トロッコ列車「ゆうすげ号」を運転開始。\n2008年（平成19年）3月20日 - 沿線周辺地域で、線路と道路の両方を走行できる車両「デュアル・モード・ビークル(DMV)」の走行実証実験を22日まで実施。\n2016年（平成28年）\n4月14日 - 熊本地震で全線運転見合わせとなる。\n4月16日 - この日発生した熊本地震の本震で甚大な被害を受け、引き続き全線で運休。\n7月31日 - 中松 - 高森間で運転再開。\n2023年（令和5年）\n3月10日 - 全線再開に向けて国土交通省より「鉄道事業再構築実施計画」の認定を受ける。これまで南阿蘇鉄道が第一種鉄道事業者として高森線の施設保有と旅客運送を行ってきたが、この認定をもって同年4月1日から南阿蘇鉄道が旅客運送を行う第二種鉄道事業者、南阿蘇鉄道管理機構が施設を保有する第三種鉄道事業者となる上下分離方式に移行。\n7月15日 - 立野 - 中松間が運転再開し全線復旧。同時にJR豊肥本線の肥後大津駅まで2往復乗り入れ開始。\n2024年（令和6年）\n運転士として勤務する地域おこし協力隊員に対する給与未払いが発覚（詳細は後節参照）。\n4月1日 - 南鉄専務の津留恒誉が同日付けで代表取締役社長就任、副社長には同社前社長・草村大成（高森町長）が就いた。初の生え抜き社長。\n2026年（令和8年）7月28日 - 16時27分に発生した令和8年熊本地震により運休。施設点検後、同年7月30日に運転を再開。トロッコ列車、ワンピースサニー号トレインの予約者（7月31日までの予約で乗車日が7月28日から8月30日まで）に対し、無手数料での払い戻しを実施。\n\n\n== 路線 ==\n高森線 : 立野 - 高森 17.7km\n\n\n== 車両 ==\n\n\n=== 現有車両 ===\n気動車は全て新潟鐵工所製とそれを引き継いだ新潟トランシス製である。\n\nMT-3000形(3010) - 1998年製。「くまもと未来国体」を前に、宝くじの助成金で新製した宝くじ号。\nMT-4000形(4001-4004) - 2022年製。2023年4月14日に営業運転を開始。豊肥本線直通対応。本形式の導入により老朽化の進むMT-2000形、MT-3000形(3001)を置き換えた。\nDB16形(DB1601・1602) - 2007年北陸重機工業製。トロッコ列車「ゆうすげ号」の牽引に使用される機関車。\nトラ700形(トラ70001・トラ70002) - トロッコ列車「ゆうすげ号」でトロッコ客車として使用。\nTORA200形(TORA20001) - 2007年北陸重機工業製のトロッコ列車「ゆうすげ号」のトロッコ客車。\n車両の全般検査業務は日鉄物流八幡に委託されている。　\n\n\n=== 過去の車両 ===\nMT-2100形(2105) - 1961年1月に新潟鉄工所で製造され、1987年に国鉄熊本運転所から譲受した元国鉄キハ52 35。南阿蘇鉄道として開業時からの車両。MT-2000形との総括制御を行えるように改造し、カラーリングの変更も行われたが、予備車として導入されたため、ワンマン化改造はされなかった。高森駅構内の留置線に留置されていたが1993年にMT3000形が登場し廃車となった。\nDB10形(DB101, DB102) - トロッコ列車「ゆうすげ号」の牽引に使用されていたディーゼル機関車。2007年に平成筑豊鉄道に移籍し、2009年に開業した門司港レトロ観光線で、元島原鉄道のトロッコ用客車を牽引している。\nMT-2000形(2001-2003) - 1986年製。南阿蘇鉄道として開業時からの車両。MT-2001には「はなしのぶ」、MT-2002には「しらかわ」、MT-2003には「りんどう」の愛称がある。2023年にMT-2001・MT-2002、2024年にMT-2003が運用を終了した。\nMT-3000形(3001) - 1993年製。2024年に運用終了。\n\n\n== 不祥事 ==\n\n\n=== 地域おこし協力隊員への給与未払い ===\n同鉄道が、熊本地震の復興支援プロジェクトとして同鉄道で運転士として勤務する地域おこし協力隊の隊員10人に対し、2020年度以降に給与の一部を支払っていなかったことが、2024年2月に発覚した。高森町と南阿蘇村では、同鉄道に勤務の協力隊員の活動時間を1ヵ月に120時間以内と定め、これを超過する分について同鉄道と協力隊員との間で個別に雇用契約を結んでいるが、2020年度以降に多額の未払いがあったことが、報道機関への情報提供により判明した。未払いの額は、2023年4月から10月の間だけでも合わせて190万円に及んでおり、同鉄道は、今後は労務管理の改善を図るとしている。さらに同年5月に、この件で菊池労働基準監督署から是正勧告を受けていたことも判明している。\n\n\n== その他 ==\n\n\n=== ドキュメンタリー ===\n新日本風土記「熊本 南阿蘇鉄道」（2024年1月9日、NHK BS）\n\n\n== 脚注 ==\n\n\n=== 出典 ===\n\n\n== 外部リンク ==\n\n南阿蘇鉄道公式ホームページ\n南阿蘇鉄道 (@nantetsu_rail) - X（旧Twitter）\n南阿蘇鉄道 (minamiasoraliway) - Facebook\n南阿蘇鉄道 (@nantetsu_rail) - Instagram",
+    "字数": 2459
+   },
+   "中文": {
+    "词条标题": "南阿蘇鐵道",
+    "链接": "https://zh.wikipedia.org/wiki/%E5%8D%97%E9%98%BF%E8%98%87%E9%90%B5%E9%81%93",
+    "首段": "南阿蘇鐵道株式會社（日語：南阿蘇鉄道株式会社／みなみあそてつどう）是一家總部位於熊本縣阿蘇郡高森町的鐵路公司（日本第三部門鐵道）。該公司設有連接南阿蘇村和高森町的高森線，該路線是由舊日本國有鐵道（國鐵）特定地方交通線接手營運的鐵路線。公司由沿線自治體等出資成立。",
+    "章节": {
+     "歷史": "1985年（昭和60年）\n4月1日 - 公司成立。\n1986年（昭和61年）\n4月1日 - 承繼國鐵高森線，南阿蘇鐵道高森線開業。\n7月26日 - 小火車「夕菅號」（日語：ゆうすげ号）開始運行。\n2008年（平成19年）3月20日 - 在沿線周邊地區試驗一架路軌和道路上行走的車輛「雙模式車輛(DMV)」，直至同月22日。\n2016年（平成28年）\n4月14日 - 受熊本地震影響，全線暫停服務。\n4月16日 - 受到熊本地震影響，使鐵道設施受到重大傷害，全線繼續暫停服務。\n7月31日 - 中松 - 高森間重開。\n2023年（令和6年）\n7月15日 - 基礎重建竣工，全線重開",
+     "路線": "",
+     "車輛": "",
+     "現有車輛": "MT-3000型(3010)  - 在1998年製造。於「熊本未來國體」前，由彩票補貼下新製一架名為彩票號（日語：宝くじ号）。\nMT-4000型\nDB16型柴油機車（DB1601・1602） - 在2007年由北陸重機工業製造。小火車「夕菅號」牽引機車。\nToRa700型（ToRa70001、ToRa70002） - 小列車「夕菅號」使用的小火車客車用。\nTORA200型（TORA20001） - 在2007年由北陸重機工業製造的小火車「夕菅號」之小火車客車。\n車輛的整體檢査業務委托了日鐵物流八幡負責。",
+     "廢止車輛": "MT-2000形(2001-2003) - 在1986年製造。MT-2001設有愛稱「花忍」（日語：はなしのぶ），MT-2002設有愛稱「白河」（日語：しらかわ），MT-2003設有愛稱「龍膽」（日語：りんどう）。　\nMT-2100形(2105) - 1961年1月由新潟鐵工所製造，1987年由國鐵熊本運輸所轉讓給南阿蘇鐵道，原本型號為國鐵KiHa52 35。後來為了可以與MT-2000形連絡，使列車進行改造。此列車變為後備車輛，因此沒有改造為一人控制車輛。車輛停泊在高森站的留置線，後來於1993年引入MT3000形後退役。\nDB10形(DB101, DB102) - 用作牽引小火車「夕菅號」，於2007年轉讓至平成筑豐鐵道。",
+     "注腳": "",
+     "外部連結": "南阿蘇鐵道 （页面存档备份，存于互联网档案馆）（日語）\n南阿蘇鐵道的X（前Twitter）账号\n南阿蘇鐵道的Facebook專頁\n南阿蘇鐵道的Instagram帳戶"
+    },
+    "全文": "南阿蘇鐵道株式會社（日語：南阿蘇鉄道株式会社／みなみあそてつどう）是一家總部位於熊本縣阿蘇郡高森町的鐵路公司（日本第三部門鐵道）。該公司設有連接南阿蘇村和高森町的高森線，該路線是由舊日本國有鐵道（國鐵）特定地方交通線接手營運的鐵路線。公司由沿線自治體等出資成立。\n\n\n== 歷史 ==\n1985年（昭和60年）\n4月1日 - 公司成立。\n1986年（昭和61年）\n4月1日 - 承繼國鐵高森線，南阿蘇鐵道高森線開業。\n7月26日 - 小火車「夕菅號」（日語：ゆうすげ号）開始運行。\n2008年（平成19年）3月20日 - 在沿線周邊地區試驗一架路軌和道路上行走的車輛「雙模式車輛(DMV)」，直至同月22日。\n2016年（平成28年）\n4月14日 - 受熊本地震影響，全線暫停服務。\n4月16日 - 受到熊本地震影響，使鐵道設施受到重大傷害，全線繼續暫停服務。\n7月31日 - 中松 - 高森間重開。\n2023年（令和6年）\n7月15日 - 基礎重建竣工，全線重開\n\n\n== 路線 ==\n\n\n== 車輛 ==\n\n\n=== 現有車輛　 ===\nMT-3000型(3010)  - 在1998年製造。於「熊本未來國體」前，由彩票補貼下新製一架名為彩票號（日語：宝くじ号）。\nMT-4000型\nDB16型柴油機車（DB1601・1602） - 在2007年由北陸重機工業製造。小火車「夕菅號」牽引機車。\nToRa700型（ToRa70001、ToRa70002） - 小列車「夕菅號」使用的小火車客車用。\nTORA200型（TORA20001） - 在2007年由北陸重機工業製造的小火車「夕菅號」之小火車客車。\n車輛的整體檢査業務委托了日鐵物流八幡負責。\n\n\n=== 廢止車輛 ===\nMT-2000形(2001-2003) - 在1986年製造。MT-2001設有愛稱「花忍」（日語：はなしのぶ），MT-2002設有愛稱「白河」（日語：しらかわ），MT-2003設有愛稱「龍膽」（日語：りんどう）。　\nMT-2100形(2105) - 1961年1月由新潟鐵工所製造，1987年由國鐵熊本運輸所轉讓給南阿蘇鐵道，原本型號為國鐵KiHa52 35。後來為了可以與MT-2000形連絡，使列車進行改造。此列車變為後備車輛，因此沒有改造為一人控制車輛。車輛停泊在高森站的留置線，後來於1993年引入MT3000形後退役。\nDB10形(DB101, DB102) - 用作牽引小火車「夕菅號」，於2007年轉讓至平成筑豐鐵道。\n\n\n== 注腳 ==\n\n\n== 外部連結 ==\n\n南阿蘇鐵道 （页面存档备份，存于互联网档案馆）（日語）\n南阿蘇鐵道的X（前Twitter）账号\n南阿蘇鐵道的Facebook專頁\n南阿蘇鐵道的Instagram帳戶",
+    "字数": 1166
+   },
+   "英文": {
+    "词条标题": "Minamiaso Railway Takamori Line",
+    "链接": "https://en.wikipedia.org/wiki/Minamiaso%20Railway%20Takamori%20Line",
+    "首段": "The Takamori Line (高森線, Takamori-sen) is a Japanese railway line in Kumamoto Prefecture, connecting Tateno Station in Minamiaso and Takamori Station in Takamori. It is the only railway line operated by third-sector railway company Minamiaso Railway (南阿蘇鉄道, Minamiaso Tetsudō; \"South Aso Railway\"). The line traverses the southern part of Mount Aso caldera.",
+    "章节": {
+     "Stations": "All stations are within Kumamoto Prefecture. \n\n† The station name of Aso-Shimodajō has changed three times: \n\n12 February 1928: Aso-Shimoda (阿蘇下田)\n1 August 1993: Aso-Shimodajō-Fureai-Onsen (阿蘇下田城ふれあい温泉)\n15 July 2023: Aso-Shimodajō (阿蘇下田城)\nWith 22 kana, Minamiaso Mizu-no-Umareru-Sato Hakusui-Kōgen Station (南阿蘇水の生まれる里白水高原駅|南阿蘇水の生まれる里白水高原]) was tied with Chōjagahamashiosaihamanasukōenmae Station in Ibaraki Prefecture as the longest station name in Japan; however, since 2020, the record is held by Tōjiin Ritsumeikan University Station in Kyoto, with 26 kana.",
+     "Earthquake closure and reopening": "The entire Takamori Line was closed following significant damage to track and infrastructure following the Kumamoto earthquakes in April 2016. A section of the line between Nakamatsu and Takamori resumed service in July of the same year.\nHowever, the section between Tateno and Nakamatsu could not be reopened because of extensive earthquake damage to the track. The Ministry of Land, Infrastructure, Transport and Tourism estimated that a complete restoration would cost between 6.5 and 7 billion yen. After work was completed to restore the railway, the full line re-opened on 15 July 2023. Major work to reopen the line included the complete rebuilding of the badly damaged No. 1 Shirakawa arch bridge.",
+     "History": "The single-track line was opened by the Japanese Government Railways in 1928. The only passing loop is at Nakamatsu. Freight services ceased in 1984. Minamiaso Railway took over the line from Japanese National Railways (JNR) on April 1, 1986. It uses a simplified automatic railway signalling system. The line is not electrified. \nThe MLIT tested a DMV railbus on the line in November 2007.",
+     "Uncompleted extension": "After the Takachiho line opened in 1972, construction of the 23 km (14 mi) section to Takamori continued until 1975 when flooding in the 6,500 m (21,300 ft) Takamori tunnel (7 km (4.3 mi) north of Takamori) resulted in work being suspended. Construction was formally abandoned in 1980.",
+     "See also": "List of railway companies in Japan\nList of railway lines in Japan\nAso Tateno Dam",
+     "References": "",
+     "External links": "Official website (in Japanese)"
+    },
+    "全文": "The Takamori Line (高森線, Takamori-sen) is a Japanese railway line in Kumamoto Prefecture, connecting Tateno Station in Minamiaso and Takamori Station in Takamori. It is the only railway line operated by third-sector railway company Minamiaso Railway (南阿蘇鉄道, Minamiaso Tetsudō; \"South Aso Railway\"). The line traverses the southern part of Mount Aso caldera.\n\n\n== Stations ==\nAll stations are within Kumamoto Prefecture. \n\n† The station name of Aso-Shimodajō has changed three times: \n\n12 February 1928: Aso-Shimoda (阿蘇下田)\n1 August 1993: Aso-Shimodajō-Fureai-Onsen (阿蘇下田城ふれあい温泉)\n15 July 2023: Aso-Shimodajō (阿蘇下田城)\nWith 22 kana, Minamiaso Mizu-no-Umareru-Sato Hakusui-Kōgen Station (南阿蘇水の生まれる里白水高原駅|南阿蘇水の生まれる里白水高原]) was tied with Chōjagahamashiosaihamanasukōenmae Station in Ibaraki Prefecture as the longest station name in Japan; however, since 2020, the record is held by Tōjiin Ritsumeikan University Station in Kyoto, with 26 kana.\n\n\n== Earthquake closure and reopening ==\nThe entire Takamori Line was closed following significant damage to track and infrastructure following the Kumamoto earthquakes in April 2016. A section of the line between Nakamatsu and Takamori resumed service in July of the same year.\nHowever, the section between Tateno and Nakamatsu could not be reopened because of extensive earthquake damage to the track. The Ministry of Land, Infrastructure, Transport and Tourism estimated that a complete restoration would cost between 6.5 and 7 billion yen. After work was completed to restore the railway, the full line re-opened on 15 July 2023. Major work to reopen the line included the complete rebuilding of the badly damaged No. 1 Shirakawa arch bridge.\n\n\n== History ==\nThe single-track line was opened by the Japanese Government Railways in 1928. The only passing loop is at Nakamatsu. Freight services ceased in 1984. Minamiaso Railway took over the line from Japanese National Railways (JNR) on April 1, 1986. It uses a simplified automatic railway signalling system. The line is not electrified. \nThe MLIT tested a DMV railbus on the line in November 2007.\n\n\n=== Uncompleted extension ===\nAfter the Takachiho line opened in 1972, construction of the 23 km (14 mi) section to Takamori continued until 1975 when flooding in the 6,500 m (21,300 ft) Takamori tunnel (7 km (4.3 mi) north of Takamori) resulted in work being suspended. Construction was formally abandoned in 1980.\n\n\n== See also ==\nList of railway companies in Japan\nList of railway lines in Japan\nAso Tateno Dam\n\n\n== References ==\n\n\n== External links ==\nOfficial website (in Japanese)",
+    "字数": 2577
+   }
+  }
+ }
+}

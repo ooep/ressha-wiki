@@ -10,14 +10,17 @@
   },
   "标识": {
    "图标文件": [
+    "26_sanyosanin/kurashiki-rail__krsk34.png",
     "26_sanyosanin/mizushima-rail__mzsm200.png"
    ],
    "图标token": [
+    "krsk34",
     "mzsm200"
    ],
    "网站键": {
     "特急": [],
     "线路": [
+     "倉敷",
      "東京臨海新交通臨海線",
      "水島本線",
      "水島臨海鉄道"

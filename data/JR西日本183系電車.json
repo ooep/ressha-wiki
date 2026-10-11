@@ -3,7 +3,7 @@
   "名称": {
    "日文": "JR西日本183系電車",
    "中文": null,
-   "英文": null,
+   "英文": "183 series",
    "运营者": [
     "JR西日本"
    ]
@@ -49,7 +49,19 @@
     "字数": 5578
    },
    "中文": null,
-   "英文": null
+   "英文": {
+    "词条标题": "183 series",
+    "链接": "https://en.wikipedia.org/wiki/183%20series",
+    "首段": "The 183 series (183系, 183-kei) was a Japanese limited express electric multiple unit (EMU) train type introduced in 1972 by Japanese National Railways (JNR). Following the privatization of JNR, the 183 series was operated by East Japan Railway Company (JR East) and West Japan Railway Company (JR-West). In terms of design, it is closely based on the late-model AC/DC 485 series, with minor cosmetic differences and DC-only drive. The last 189 series sets were withdrawn on 29 March 2019.\nThe trains were built by Hitachi, Kawasaki Heavy Industries, Kinki Sharyo, Nippon Sharyo, and Tokyu Car Corporation.",
+    "章节": {
+     "Former operations": "",
+     "JR East": "Azusa (seasonal only)\nKaiji (seasonal only)\nWing\nMoonlight Shinshū\nMoonlight Nagara\nSazanami\nWakashio\nShiosai\nAyame\nSuigo\nToki\nAmagi\nOdoriko\nAsama\nMyōkō\nOhayō Liner\nChūō Liner (until March 2008)\nŌme Liner (until June 2002)",
+     "JR-West": "The 183 series trains operated by JR-West were actually DC-only conversions of 485 series trainsets. They were used on limited-express services from Kyoto and Shin-Osaka to the northern coast of Kyoto and Hyogo prefectures, as part of the \"Kitakinki Big X Network.\" These trainsets were gradually phased out from spring 2011 in favor of the new 287 series, and completely removed from regular scheduled services by the start of the revised timetable on 16 March 2013.\n\nKitakinki (until March 2011)\nKounotori (until 15 March 2013)\nKinosaki (until March 2013)\nTamba (until March 2011)\nHashidate (until March 2013)\nMaizuru (until March 2011)\nMonju (until March 2011)",
+     "References": ""
+    },
+    "全文": "The 183 series (183系, 183-kei) was a Japanese limited express electric multiple unit (EMU) train type introduced in 1972 by Japanese National Railways (JNR). Following the privatization of JNR, the 183 series was operated by East Japan Railway Company (JR East) and West Japan Railway Company (JR-West). In terms of design, it is closely based on the late-model AC/DC 485 series, with minor cosmetic differences and DC-only drive. The last 189 series sets were withdrawn on 29 March 2019.\nThe trains were built by Hitachi, Kawasaki Heavy Industries, Kinki Sharyo, Nippon Sharyo, and Tokyu Car Corporation.\n\n\n== Former operations ==\n\n\n=== JR East ===\n\nAzusa (seasonal only)\nKaiji (seasonal only)\nWing\nMoonlight Shinshū\nMoonlight Nagara\nSazanami\nWakashio\nShiosai\nAyame\nSuigo\nToki\nAmagi\nOdoriko\nAsama\nMyōkō\nOhayō Liner\nChūō Liner (until March 2008)\nŌme Liner (until June 2002)\n\n\n=== JR-West ===\n\nThe 183 series trains operated by JR-West were actually DC-only conversions of 485 series trainsets. They were used on limited-express services from Kyoto and Shin-Osaka to the northern coast of Kyoto and Hyogo prefectures, as part of the \"Kitakinki Big X Network.\" These trainsets were gradually phased out from spring 2011 in favor of the new 287 series, and completely removed from regular scheduled services by the start of the revised timetable on 16 March 2013.\n\nKitakinki (until March 2011)\nKounotori (until 15 March 2013)\nKinosaki (until March 2013)\nTamba (until March 2011)\nHashidate (until March 2013)\nMaizuru (until March 2011)\nMonju (until March 2011)\n\n\n== References ==",
+    "字数": 1575
+   }
   }
  }
 }

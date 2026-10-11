@@ -1,0 +1,86 @@
+{
+ "车辆": {
+  "名称": {
+   "日文": "新京成電鉄80000形電車",
+   "中文": "新京成電鐵80000型電聯車",
+   "英文": "Shin-Keisei 80000 series",
+   "运营者": [
+    "京成"
+   ]
+  },
+  "标识": {
+   "图标文件": [
+    "09_keisei/matsudo-line__nkese80000.png"
+   ],
+   "图标token": [
+    "nkese80000"
+   ],
+   "网站键": {
+    "特急": [],
+    "线路": [
+     "新京成電鉄"
+    ]
+   }
+  },
+  "百科": {
+   "日文": {
+    "词条标题": "新京成電鉄80000形電車",
+    "链接": "https://ja.wikipedia.org/wiki/%E6%96%B0%E4%BA%AC%E6%88%90%E9%9B%BB%E9%89%8480000%E5%BD%A2%E9%9B%BB%E8%BB%8A",
+    "首段": "新京成電鉄80000形電車（しんけいせいでんてつ80000がたでんしゃ）は、2019年（令和元年）に登場した新京成電鉄の通勤形電車。2025年（令和7年）4月1日の新京成電鉄の京成電鉄への吸収合併に伴い、同社に承継された。新京成電鉄として最後の新形式車両であった。",
+    "章节": {
+     "概要": "2005年（平成17年）に登場したN800形に引き続き、「京成グループ標準車両」として設計・製造された車両で、2019年（平成31年）4月11日に導入が発表された。京成電鉄との共同設計で、同社では2代目3100形として製造されるが、本形式と京成新3100形では一部機器の仕様が異なり、特に制御装置や主電動機に関しては両者で全く別のものを採用している。\nコンセプトは京成新3100形と同様の「受け継ぐ伝統と新たな価値の創造」とし、さらに新京成のキャッチフレーズ「まいにち、ちょっと、新しい」を具現化したものである。",
+     "車両概説": "",
+     "車体": "N800形と同じく、いわゆる「日車式ブロック工法」による、軽量ステンレス製18 m級3扉車で、6両編成を組む。前頭部は普通鋼製の強化構造で、前面窓上部の前部標識灯（前照灯）は森尾電機製の16粒角型LED式ライトを採用、窓下には多角形構成の急行灯と後部標識灯（尾灯）を配置している。\nやわらかさを演出するために外観を丸みを帯びた形状とし、N800形等の在来形式と異なり裾部だけではなく正面脇から側面上部にかけてにもジェントルピンクのラインを配色している。これは高架区間でも新京成のコーポレートカラーであるピンクがわかるようにするためであるという。\nなお、本形式の車体側面の車番表記は在来形式と異なり番号の前の社章がないほか、位置も車体下部から上部に変更されている。\n京成電鉄への合併に伴い、3200形（2代）に準じた配色に変更されることになり、最初に変更された80026編成が2025年（令和7年）6月25日より営業運転に就いた。以降も塗装変更が進められ、2026年（令和8年）2月をもって、全編成の塗装変更が完了した。",
+     "車内": "車内のカラースキームは8800形リニューアル車およびN800形N858編成（最終増備編成）に準じている。\nオールロングシート構成だが、京成新3100形で採用された「一部折りたたみ式ロングシート」は採用されていない。ドア間は8人掛け（先頭車の車椅子スペース横は5人掛け）、車端部は5人掛けまたは2人掛け（フリースペース横）となっている。\n座席は1人分の掛け幅が460 mmの片持ち式構造で、従来よりも背もたれを170 mm高くしたハイバックシートを採用している。一般席の背もたれは赤色系、優先席部は青色として識別している。優先席部おいては、つり革と手すりをオレンジ色着色品としている。\n側窓ガラスは熱線吸収・UVカットガラスを採用している。側窓のカーテンおよび連結面貫通扉には、沿線の名産品であるブドウとナシのイラストを入れている。先頭車の乗務員室直後に車椅子スペース、中間車の車端部（1両1か所）にはフリースペースを設置している。フリースペースは、車椅子利用者だけではなくベビーカーや大きな荷物を持った乗客への配慮とした。\n防犯カメラは1両に3台設置されている。「KEISEI FREE Wi-Fi」は設置されていない。\n空調装置は三菱電機製の集中式CU718A形（京成3100形と共通）で、能力は46.51 kW（40,000 kcal/h）の装置を各車1台搭載する。この他の共通点として、空気の浄化効果のあるプラズマクラスターイオン発生装置の導入、空調制御ソフトの見直し、開放感を持たせるために座席端部の袖仕切りにおけるガラスの採用などがされている。\n\n車内案内表示器は各乗降扉上に17インチ液晶ディスプレイ（LCD）2画面を配置しており、2画面とも運行情報表示用となっている。新京成ではそれまで、車内LCDはLEDディスプレイ取付時横長LCDを採用しており、当初からの2画面LCDは新京成として初導入。ドアチャイムおよびドア開閉表示灯を備えている。\n放送装置には自動放送装置を備えている。",
+     "乗務員室": "運転台は従来からのT字型ワンハンドルマスコンを採用している。力行は最大5ノッチ、常用ブレーキは最大7段構成である。運転台計器盤には8900形更新車と同様のタッチパネル式のモニタ装置を採用している。",
+     "機器類": "主制御装置には、8800形リニューアル車に続き三菱電機製フルSiC-MOSFET素子VVVFインバータ制御（MAP-168-15V331形）を採用している（1C4M2群制御・純電気ブレーキ対応）。N800形では、ベースとなった京成3000形と同じく東洋電機製造製の主制御装置が採用されており、同車のベースとなった新3100形においても同社製の機器が採用されているが、本形式では新京成で広く使われてきた三菱電機製に回帰した。主電動機には同じく、三菱電機製の155 kW出力全閉式かご形三相誘導電動機（MB-5160-D形）が採用されている。設計最高速度は120 km/hだが、運転最高速度は新京成線（現：松戸線）内が85 km/h、京成線内が95 km/hに設定されている。\n台車は日本製鉄製のモノリンク式ボルスタ付空気ばね台車を使用している。形式は動力台車がFS583SM形、付随台車がFS583ST形であり、京成新3100形と同等のものである。\n集電装置（パンタグラフ）は、東洋電機製造製シングルアーム式（PT7115-B形）をM5・M2車に2基ずつ搭載する。補助電源装置は東芝インフラシステムズ製の静止形インバータ（INV192-F0形、定格容量150 kVA）を搭載する。空気圧縮機は三菱電機製のオイルフリースクロール式CP（URC1200SD-I形）を各先頭車に搭載する。\n一方で、京成電鉄が3700形（特急形車両を含めた場合はAE100形）以来採用してきた、「先頭車はコンプレッサー搭載電動制御車（京浜急行電鉄の規定）、先頭から2両目は主制御装置搭載電動車、先頭から3両目は補助電源搭載付随車」というユニット構成は3100形同様採用しており、新京成電鉄においてはN800形から引き続き採用する形となる。",
+     "運用": "2026年（令和8年）4月1日現在、6両編成×5本の合計30両が在籍している。\n2019年（令和元年）11月13日に80016編成が試運転を開始。同年12月21日に先行試乗会を開催。\n2019年（令和元年）12月27日に1編成が営業運転を開始し、当初は平日を中心とした新京成線内折り返し運用に充当されている。時期は未定だが、将来的に京成千葉線への直通運転にも充当予定と説明されている。\n2021年（令和3年）10月9日には2編成目となる80026編成がくぬぎ山車両基地まで北総鉄道北総線と京成本線を自走した上で搬入回送された。当編成は80000形で初めて他社線を自走したことになる。\n2022年（令和4年）11月2日に3編成目となる80036編成が運行開始された。\n2023年（令和5年）11月2日に4編成目となる80046編成が運行開始された。\n2024年（令和6年）4月2日に5編成目となる80056編成が運行開始された。\n2025年（令和7年）12月20日より、京成千葉線への乗り入れ運用が開始された。",
+     "編成表": "2026年（令和8年）4月1日現在\n\n凡例\nVVVF：制御装置（VVVFインバータ制御）\nSIV：補助電源装置（静止形インバータ）\nCP：空気圧縮機\nBT：蓄電池\n＜・＞：集電装置（シングルアーム型）\n構造上は3・4号車間に中間電動車2両（松戸方から京成のM1'+M2（浦賀方4・5両目）に相当するユニット）が挟めるようになっている。なお、N800形などと異なり、号車番号を示す車両番号の末尾は1から6までの連番となっている。",
+     "脚注": "",
+     "注釈": "",
+     "出典": "",
+     "参考文献": "『鉄道ファン』、交友社\n2020年2月号（No.706）\n2026年8月号（No.784）\n『鉄道ピクトリアル』2020年4月号（No.971）、電気車研究会\n『鉄道ダイヤ情報』2026年8月号（No.506）、交通新聞社\n『とれいん』2020年2月号（No.542）、エリエイ\nジェー・アール・アール『私鉄車両編成表2025』、交通新聞社（2025年7月22日、ISBN 978-4-330-03925-1）\n『私鉄車両年鑑2026』、イカロス出版（2026年5月28日、ISBN 978-4-802-21739-2）",
+     "関連項目": "京成3100形電車 (2代)\n京成3200形電車 (2代)",
+     "外部リンク": "3100形スペシャルページ - 京成電鉄\n新京成電鉄（株）殿向け80000形 - 日本車輌製造\n新京成電鉄（株）殿向け80000形の紹介：鉄道車両トピックス - 日本車輌製造\n新京成14年ぶりの新型「80000形」　共同開発でも独自仕様さまざま - 鉄道コムリポート（インターネットアーカイブ）"
+    },
+    "全文": "新京成電鉄80000形電車（しんけいせいでんてつ80000がたでんしゃ）は、2019年（令和元年）に登場した新京成電鉄の通勤形電車。2025年（令和7年）4月1日の新京成電鉄の京成電鉄への吸収合併に伴い、同社に承継された。新京成電鉄として最後の新形式車両であった。\n\n\n== 概要 ==\n2005年（平成17年）に登場したN800形に引き続き、「京成グループ標準車両」として設計・製造された車両で、2019年（平成31年）4月11日に導入が発表された。京成電鉄との共同設計で、同社では2代目3100形として製造されるが、本形式と京成新3100形では一部機器の仕様が異なり、特に制御装置や主電動機に関しては両者で全く別のものを採用している。\nコンセプトは京成新3100形と同様の「受け継ぐ伝統と新たな価値の創造」とし、さらに新京成のキャッチフレーズ「まいにち、ちょっと、新しい」を具現化したものである。\n\n\n== 車両概説 ==\n\n\n=== 車体 ===\nN800形と同じく、いわゆる「日車式ブロック工法」による、軽量ステンレス製18 m級3扉車で、6両編成を組む。前頭部は普通鋼製の強化構造で、前面窓上部の前部標識灯（前照灯）は森尾電機製の16粒角型LED式ライトを採用、窓下には多角形構成の急行灯と後部標識灯（尾灯）を配置している。\nやわらかさを演出するために外観を丸みを帯びた形状とし、N800形等の在来形式と異なり裾部だけではなく正面脇から側面上部にかけてにもジェントルピンクのラインを配色している。これは高架区間でも新京成のコーポレートカラーであるピンクがわかるようにするためであるという。\nなお、本形式の車体側面の車番表記は在来形式と異なり番号の前の社章がないほか、位置も車体下部から上部に変更されている。\n京成電鉄への合併に伴い、3200形（2代）に準じた配色に変更されることになり、最初に変更された80026編成が2025年（令和7年）6月25日より営業運転に就いた。以降も塗装変更が進められ、2026年（令和8年）2月をもって、全編成の塗装変更が完了した。\n\n\n=== 車内 ===\n車内のカラースキームは8800形リニューアル車およびN800形N858編成（最終増備編成）に準じている。\nオールロングシート構成だが、京成新3100形で採用された「一部折りたたみ式ロングシート」は採用されていない。ドア間は8人掛け（先頭車の車椅子スペース横は5人掛け）、車端部は5人掛けまたは2人掛け（フリースペース横）となっている。\n座席は1人分の掛け幅が460 mmの片持ち式構造で、従来よりも背もたれを170 mm高くしたハイバックシートを採用している。一般席の背もたれは赤色系、優先席部は青色として識別している。優先席部おいては、つり革と手すりをオレンジ色着色品としている。\n側窓ガラスは熱線吸収・UVカットガラスを採用している。側窓のカーテンおよび連結面貫通扉には、沿線の名産品であるブドウとナシのイラストを入れている。先頭車の乗務員室直後に車椅子スペース、中間車の車端部（1両1か所）にはフリースペースを設置している。フリースペースは、車椅子利用者だけではなくベビーカーや大きな荷物を持った乗客への配慮とした。\n防犯カメラは1両に3台設置されている。「KEISEI FREE Wi-Fi」は設置されていない。\n空調装置は三菱電機製の集中式CU718A形（京成3100形と共通）で、能力は46.51 kW（40,000 kcal/h）の装置を各車1台搭載する。この他の共通点として、空気の浄化効果のあるプラズマクラスターイオン発生装置の導入、空調制御ソフトの見直し、開放感を持たせるために座席端部の袖仕切りにおけるガラスの採用などがされている。\n\n車内案内表示器は各乗降扉上に17インチ液晶ディスプレイ（LCD）2画面を配置しており、2画面とも運行情報表示用となっている。新京成ではそれまで、車内LCDはLEDディスプレイ取付時横長LCDを採用しており、当初からの2画面LCDは新京成として初導入。ドアチャイムおよびドア開閉表示灯を備えている。\n放送装置には自動放送装置を備えている。\n\n\n=== 乗務員室 ===\n運転台は従来からのT字型ワンハンドルマスコンを採用している。力行は最大5ノッチ、常用ブレーキは最大7段構成である。運転台計器盤には8900形更新車と同様のタッチパネル式のモニタ装置を採用している。\n\n\n=== 機器類 ===\n主制御装置には、8800形リニューアル車に続き三菱電機製フルSiC-MOSFET素子VVVFインバータ制御（MAP-168-15V331形）を採用している（1C4M2群制御・純電気ブレーキ対応）。N800形では、ベースとなった京成3000形と同じく東洋電機製造製の主制御装置が採用されており、同車のベースとなった新3100形においても同社製の機器が採用されているが、本形式では新京成で広く使われてきた三菱電機製に回帰した。主電動機には同じく、三菱電機製の155 kW出力全閉式かご形三相誘導電動機（MB-5160-D形）が採用されている。設計最高速度は120 km/hだが、運転最高速度は新京成線（現：松戸線）内が85 km/h、京成線内が95 km/hに設定されている。\n台車は日本製鉄製のモノリンク式ボルスタ付空気ばね台車を使用している。形式は動力台車がFS583SM形、付随台車がFS583ST形であり、京成新3100形と同等のものである。\n集電装置（パンタグラフ）は、東洋電機製造製シングルアーム式（PT7115-B形）をM5・M2車に2基ずつ搭載する。補助電源装置は東芝インフラシステムズ製の静止形インバータ（INV192-F0形、定格容量150 kVA）を搭載する。空気圧縮機は三菱電機製のオイルフリースクロール式CP（URC1200SD-I形）を各先頭車に搭載する。\n一方で、京成電鉄が3700形（特急形車両を含めた場合はAE100形）以来採用してきた、「先頭車はコンプレッサー搭載電動制御車（京浜急行電鉄の規定）、先頭から2両目は主制御装置搭載電動車、先頭から3両目は補助電源搭載付随車」というユニット構成は3100形同様採用しており、新京成電鉄においてはN800形から引き続き採用する形となる。\n\n\n== 運用 ==\n\n2026年（令和8年）4月1日現在、6両編成×5本の合計30両が在籍している。\n2019年（令和元年）11月13日に80016編成が試運転を開始。同年12月21日に先行試乗会を開催。\n2019年（令和元年）12月27日に1編成が営業運転を開始し、当初は平日を中心とした新京成線内折り返し運用に充当されている。時期は未定だが、将来的に京成千葉線への直通運転にも充当予定と説明されている。\n2021年（令和3年）10月9日には2編成目となる80026編成がくぬぎ山車両基地まで北総鉄道北総線と京成本線を自走した上で搬入回送された。当編成は80000形で初めて他社線を自走したことになる。\n2022年（令和4年）11月2日に3編成目となる80036編成が運行開始された。\n2023年（令和5年）11月2日に4編成目となる80046編成が運行開始された。\n2024年（令和6年）4月2日に5編成目となる80056編成が運行開始された。\n2025年（令和7年）12月20日より、京成千葉線への乗り入れ運用が開始された。\n\n\n== 編成表 ==\n2026年（令和8年）4月1日現在\n\n凡例\nVVVF：制御装置（VVVFインバータ制御）\nSIV：補助電源装置（静止形インバータ）\nCP：空気圧縮機\nBT：蓄電池\n＜・＞：集電装置（シングルアーム型）\n構造上は3・4号車間に中間電動車2両（松戸方から京成のM1'+M2（浦賀方4・5両目）に相当するユニット）が挟めるようになっている。なお、N800形などと異なり、号車番号を示す車両番号の末尾は1から6までの連番となっている。\n\n\n== 脚注 ==\n\n\n=== 注釈 ===\n\n\n=== 出典 ===\n\n\n== 参考文献 ==\n『鉄道ファン』、交友社\n2020年2月号（No.706）\n2026年8月号（No.784）\n『鉄道ピクトリアル』2020年4月号（No.971）、電気車研究会\n『鉄道ダイヤ情報』2026年8月号（No.506）、交通新聞社\n『とれいん』2020年2月号（No.542）、エリエイ\nジェー・アール・アール『私鉄車両編成表2025』、交通新聞社（2025年7月22日、ISBN 978-4-330-03925-1）\n『私鉄車両年鑑2026』、イカロス出版（2026年5月28日、ISBN 978-4-802-21739-2）\n\n\n== 関連項目 ==\n\n京成3100形電車 (2代)\n京成3200形電車 (2代)\n\n\n== 外部リンク ==\n3100形スペシャルページ - 京成電鉄\n新京成電鉄（株）殿向け80000形 - 日本車輌製造\n新京成電鉄（株）殿向け80000形の紹介：鉄道車両トピックス - 日本車輌製造\n新京成14年ぶりの新型「80000形」　共同開発でも独自仕様さまざま - 鉄道コムリポート（インターネットアーカイブ）",
+    "字数": 3842
+   },
+   "中文": {
+    "词条标题": "新京成電鐵80000型電聯車",
+    "链接": "https://zh.wikipedia.org/wiki/%E6%96%B0%E4%BA%AC%E6%88%90%E9%9B%BB%E9%90%B580000%E5%9E%8B%E9%9B%BB%E8%81%AF%E8%BB%8A",
+    "首段": "新京成電鐵80000型電聯車（日語：新京成電鉄80000形電車／しんけいせいでんてつ80000がたでんしゃ，羅馬化：Shinkeiseidentetsu 80000 katachi den sha）是新京成電鐵的通勤型列車，於2019年12月27日開始營運。",
+    "章节": {
+     "概要": "新京成電鐵80000型電聯車是新京成電鐵繼2005年初所引進的N800型之後再度引進京成集團的的標準型通勤電聯車，於2019年（平成31年）4月11日發佈購車計畫。與京成電鐵共同設計，京成電鐵稱為3100型，新京成電鐵稱為80000型，雖然兩型車外型相似，但是車輛設備大有不同。\n本型車與京成電鐵3100型外型相似，但受新京成電鐵的塗裝傳統，因此塗裝一如往常的粉紅。",
+     "車體": "車體製造工法與N800型相同，皆是採用日車式工法製造，使用輕量化不鏽鋼打造18公尺級3門車6輛編組的列車。擋風玻璃上的前照燈是由森尾電機製造的16角型LED燈，擋風玻璃下緣設有急行燈以及車尾燈。\n為了產生柔軟性外觀，因此擋風玻璃下的呈圓弧形，與N800型不同，柔和的粉紅色線條不僅在下擺，從前側到上側都進行了塗裝。如此一來，即使在高架路段，也可以看到新京成的企業色「粉紅色」。",
+     "車內設備": "車內的配色規劃是由8800型和N800型N858編成（最終増備編成）為藍本。\n座椅配以全固定配置，京成3100型(2代)採用部分摺疊式座椅配置，未採用「兩車門間椅8座以以3+2+3配置」設計，車的末端可容納5至2人（在自由空間旁邊）。\n車門上設有17吋液晶螢幕(LCD)，作為旅客資訊版的，每扇車門上皆配有兩組螢幕，一組提供旅客運行情報及轉乘資訊，另一組則是投放廣告動畫。",
+     "主要規格": "製造年份：2019年（令和元年）\n製造數量：6輛1組，共6輛。\n車體：輕量化不鏽鋼製造18m級・單側雙開門3門\n制軔方式：三菱電機製MBSA形 再生制軔併用電器指令制軔\n編組中的:動力車 (M) 拖車 (T) 的拖動比（MT比）：4M2T\n保安装置：C-ATS",
+     "編成表": "範例",
+     "運用": "2019年12月27日，第一組開始營業載客，平常主要行駛新京成線。\n預計於2021年會在新增一組。",
+     "相關條目": "京成3100型電聯車 (2代)\n新京成電鐵",
+     "參考文獻": "",
+     "外部連結": "3100形スペシャルページ （页面存档备份，存于互联网档案馆） - 京成電鉄\n「新京成電鉄80000形、12/27デビュー!新型車両を報道公開」 - マイナビ鉄道ニュース （页面存档备份，存于互联网档案馆）"
+    },
+    "全文": "新京成電鐵80000型電聯車（日語：新京成電鉄80000形電車／しんけいせいでんてつ80000がたでんしゃ，羅馬化：Shinkeiseidentetsu 80000 katachi den sha）是新京成電鐵的通勤型列車，於2019年12月27日開始營運。\n\n\n== 概要 ==\n新京成電鐵80000型電聯車是新京成電鐵繼2005年初所引進的N800型之後再度引進京成集團的的標準型通勤電聯車，於2019年（平成31年）4月11日發佈購車計畫。與京成電鐵共同設計，京成電鐵稱為3100型，新京成電鐵稱為80000型，雖然兩型車外型相似，但是車輛設備大有不同。\n本型車與京成電鐵3100型外型相似，但受新京成電鐵的塗裝傳統，因此塗裝一如往常的粉紅。\n\n\n== 車體 ==\n車體製造工法與N800型相同，皆是採用日車式工法製造，使用輕量化不鏽鋼打造18公尺級3門車6輛編組的列車。擋風玻璃上的前照燈是由森尾電機製造的16角型LED燈，擋風玻璃下緣設有急行燈以及車尾燈。\n為了產生柔軟性外觀，因此擋風玻璃下的呈圓弧形，與N800型不同，柔和的粉紅色線條不僅在下擺，從前側到上側都進行了塗裝。如此一來，即使在高架路段，也可以看到新京成的企業色「粉紅色」。\n\n\n== 車內設備 ==\n車內的配色規劃是由8800型和N800型N858編成（最終増備編成）為藍本。\n座椅配以全固定配置，京成3100型(2代)採用部分摺疊式座椅配置，未採用「兩車門間椅8座以以3+2+3配置」設計，車的末端可容納5至2人（在自由空間旁邊）。\n車門上設有17吋液晶螢幕(LCD)，作為旅客資訊版的，每扇車門上皆配有兩組螢幕，一組提供旅客運行情報及轉乘資訊，另一組則是投放廣告動畫。\n\n\n== 主要規格 ==\n製造年份：2019年（令和元年）\n製造數量：6輛1組，共6輛。\n車體：輕量化不鏽鋼製造18m級・單側雙開門3門\n制軔方式：三菱電機製MBSA形 再生制軔併用電器指令制軔\n編組中的:動力車 (M) 拖車 (T) 的拖動比（MT比）：4M2T\n保安装置：C-ATS\n\n\n=== 編成表 ===\n\n範例\n\n\n== 運用 ==\n2019年12月27日，第一組開始營業載客，平常主要行駛新京成線。\n預計於2021年會在新增一組。\n\n\n== 相關條目 ==\n京成3100型電聯車 (2代)\n新京成電鐵\n\n\n== 參考文獻 ==\n\n\n== 外部連結 ==\n3100形スペシャルページ （页面存档备份，存于互联网档案馆） - 京成電鉄\n「新京成電鉄80000形、12/27デビュー!新型車両を報道公開」 - マイナビ鉄道ニュース （页面存档备份，存于互联网档案馆）",
+    "字数": 1112
+   },
+   "英文": {
+    "词条标题": "Shin-Keisei 80000 series",
+    "链接": "https://en.wikipedia.org/wiki/Shin-Keisei%2080000%20series",
+    "首段": "The Shin-Keisei 80000 series (新京成80000形) is an electric multiple unit (EMU) train type operated by the private railway operator Keisei Electric Railway since April 2025. The type initially began operations on the Shin-Keisei Line in December 2019. It shares a common design with the Keisei 3100 series.",
+    "章节": {
+     "Design": "The trains were jointly designed with Keisei Electric Railway and feature Shin-Keisei's \"gentle pink\" corporate design.",
+     "Formations": "The 80000 series is formed as follows, with four motored cars and two trailer cars per set.",
+     "Technical specifications": "The trains use SiC–VVVF inverters which control 3-phase AC motors. The motor inverters used on the 80000 series offer a 19% reduction in power consumption over the IGBT–VVVF inverters used on the N800 series.",
+     "Interior": "Seating accommodation consists of longitudinal seating throughout, providing a seating capacity of 43 in the end cars and 49 in the intermediate cars. A wheelchair space is provided near the crew compartment of the first car, and intermediate cars feature a free space for wheelchairs and strollers.\nThe seats are of a high-back design; their backs are 175 mm (6.9 in) higher than those of the N800 series. They are also thickened for improved passenger comfort. The seat partitions and vestibules are made of tempered glass to create a sense of openness. Unlike the Keisei 3100 series's seats, those of the 80000 series do not feature a foldable portion for storing luggage.\nThe interior also includes 17-inch passenger information displays, security cameras, and ceiling-mounted Plasmacluster ion generators.",
+     "History": "In April 2019, Shin-Keisei announced its plans to introduce a new six-car train in Winter 2019.\nDelivery from the Nippon Sharyo plant in Toyokawa began in October 2019.\nA public trial run was to be held on 21 December 2019, and the first unit entered service on 27 December. A second set was built in October 2021 to replace 8000 series set 8512, and as of April 2024, five 80000 series sets have been introduced into service.\n\nOn 1 April 2025, all sets were transferred to Keisei following its acquisition of the Shin-Keisei Electric Railway. The fleet was introduced on Chiba Line services on 21 December 2025. Repainting of the sets into the Keisei corporate livery was completed in February 2026.",
+     "References": "",
+     "Further reading": "\"京成16年ぶり新型車 成田スカイアクセス線・訪日客、バリアフリーに対応 犯罪抑止へ防犯カメラも\" [Keisei's new model for the first time in 16 years, Narita Sky Access Line ・ Visitors to Japan, also security cameras, barrier-free]. chibanippo.co.jp (in Japanese). CHIBA NIPPO CO.,LTD. 13 April 2019. Retrieved 17 January 2021.{{cite web}}:  CS1 maint: deprecated archival service (link)",
+     "External links": "Media related to Shin-Keisei 80000 series at Wikimedia Commons"
+    },
+    "全文": "The Shin-Keisei 80000 series (新京成80000形) is an electric multiple unit (EMU) train type operated by the private railway operator Keisei Electric Railway since April 2025. The type initially began operations on the Shin-Keisei Line in December 2019. It shares a common design with the Keisei 3100 series.\n\n\n== Design ==\nThe trains were jointly designed with Keisei Electric Railway and feature Shin-Keisei's \"gentle pink\" corporate design.\n\n\n== Formations ==\nThe 80000 series is formed as follows, with four motored cars and two trailer cars per set.\n\n\n== Technical specifications ==\nThe trains use SiC–VVVF inverters which control 3-phase AC motors. The motor inverters used on the 80000 series offer a 19% reduction in power consumption over the IGBT–VVVF inverters used on the N800 series.\n\n\n== Interior ==\nSeating accommodation consists of longitudinal seating throughout, providing a seating capacity of 43 in the end cars and 49 in the intermediate cars. A wheelchair space is provided near the crew compartment of the first car, and intermediate cars feature a free space for wheelchairs and strollers.\nThe seats are of a high-back design; their backs are 175 mm (6.9 in) higher than those of the N800 series. They are also thickened for improved passenger comfort. The seat partitions and vestibules are made of tempered glass to create a sense of openness. Unlike the Keisei 3100 series's seats, those of the 80000 series do not feature a foldable portion for storing luggage.\nThe interior also includes 17-inch passenger information displays, security cameras, and ceiling-mounted Plasmacluster ion generators.\n\n\n== History ==\nIn April 2019, Shin-Keisei announced its plans to introduce a new six-car train in Winter 2019.\nDelivery from the Nippon Sharyo plant in Toyokawa began in October 2019.\nA public trial run was to be held on 21 December 2019, and the first unit entered service on 27 December. A second set was built in October 2021 to replace 8000 series set 8512, and as of April 2024, five 80000 series sets have been introduced into service.\n\nOn 1 April 2025, all sets were transferred to Keisei following its acquisition of the Shin-Keisei Electric Railway. The fleet was introduced on Chiba Line services on 21 December 2025. Repainting of the sets into the Keisei corporate livery was completed in February 2026.\n\n\n== References ==\n\n\n== Further reading ==\n\"京成16年ぶり新型車 成田スカイアクセス線・訪日客、バリアフリーに対応 犯罪抑止へ防犯カメラも\" [Keisei's new model for the first time in 16 years, Narita Sky Access Line ・ Visitors to Japan, also security cameras, barrier-free]. chibanippo.co.jp (in Japanese). CHIBA NIPPO CO.,LTD. 13 April 2019. Retrieved 17 January 2021.{{cite web}}:  CS1 maint: deprecated archival service (link)\n\n\n== External links ==\n Media related to Shin-Keisei 80000 series at Wikimedia Commons",
+    "字数": 2804
+   }
+  }
+ }
+}

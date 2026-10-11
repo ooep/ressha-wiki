@@ -1,0 +1,76 @@
+{
+ "车辆": {
+  "名称": {
+   "日文": "東武90000系電車",
+   "中文": "東武90000系電聯車",
+   "英文": "Tobu 90000 series",
+   "运营者": [
+    "東武"
+   ]
+  },
+  "标识": {
+   "图标文件": [
+    "08_tobu/tobu-rail__tob90000.png"
+   ],
+   "图标token": [
+    "tob90000"
+   ],
+   "网站键": {
+    "特急": [],
+    "线路": [
+     "佐野線",
+     "東上本線",
+     "桐生線",
+     "越生線"
+    ]
+   }
+  },
+  "百科": {
+   "日文": {
+    "词条标题": "東武90000系電車",
+    "链接": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%AD%A690000%E7%B3%BB%E9%9B%BB%E8%BB%8A",
+    "首段": "東武90000系電車（とうぶ90000けいでんしゃ）は、2026年（令和8年）9月26日より営業運転を開始した、東武鉄道の通勤型電車。",
+    "章节": {
+     "概要": "東上線用9000系の代替用として導入。2026年以降、7編成70両を順次投入すると2025年3月に発表された。その後、2025年度の設備投資計画において同年度中に2編成20両の製造が発表された。日立製作所笠戸事業所で製造。2026年2月3日に第1編成が甲種輸送された。同年9月26日より営業運転を開始した。なお、同日開催の予定だった出発記念式典は諸事情で中止された。その後、置き換え対象は9000系の他10000系列や30000系も追加された。\n\nウィキニュース『東武90000系の第一編成が甲種輸送される』も参照",
+     "編成概要": "90000系の車両コンセプトは、「地域と人と未来をつなぐ わたし舟」。高瀬舟をイメージしており、床面には枯山水が描かれている。先頭車は逆スラント構造を採用しており、日立製作所のA-trainを採用している。",
+     "コラボ車両": "東武鉄道によるアイドルグループFRUITS ZIPPERとのコラボ企画「TOBU KAWAII PROJECT」に伴い、2026年9月27日から同年11月1日（予定）まで、ヘッドマーク掲出の他、10月24日（予定）まで車内装飾を実施。",
+     "編成表": "2026年9月26日現在、3編成が在籍している。\n\n凡例\nVVVF：VVVFインバータ装置、SIV：補助電源装置、CP：空気圧縮機、BT：蓄電池、ATC/ATO：信号保安装置",
+     "参考文献": "",
+     "広報・一次資料": "",
+     "Web資料": "",
+     "外部リンク": "[1]（東武鉄道ニュースリリース）"
+    },
+    "全文": "東武90000系電車（とうぶ90000けいでんしゃ）は、2026年（令和8年）9月26日より営業運転を開始した、東武鉄道の通勤型電車。\n\n\n== 概要 ==\n東上線用9000系の代替用として導入。2026年以降、7編成70両を順次投入すると2025年3月に発表された。その後、2025年度の設備投資計画において同年度中に2編成20両の製造が発表された。日立製作所笠戸事業所で製造。2026年2月3日に第1編成が甲種輸送された。同年9月26日より営業運転を開始した。なお、同日開催の予定だった出発記念式典は諸事情で中止された。その後、置き換え対象は9000系の他10000系列や30000系も追加された。\n\nウィキニュース『東武90000系の第一編成が甲種輸送される』も参照\n\n\n== 編成概要 ==\n90000系の車両コンセプトは、「地域と人と未来をつなぐ わたし舟」。高瀬舟をイメージしており、床面には枯山水が描かれている。先頭車は逆スラント構造を採用しており、日立製作所のA-trainを採用している。\n\n\n== コラボ車両 ==\n東武鉄道によるアイドルグループFRUITS ZIPPERとのコラボ企画「TOBU KAWAII PROJECT」に伴い、2026年9月27日から同年11月1日（予定）まで、ヘッドマーク掲出の他、10月24日（予定）まで車内装飾を実施。\n\n\n== 編成表 ==\n2026年9月26日現在、3編成が在籍している。\n\n凡例\nVVVF：VVVFインバータ装置、SIV：補助電源装置、CP：空気圧縮機、BT：蓄電池、ATC/ATO：信号保安装置\n\n\n== 参考文献 ==\n\n\n==== 広報・一次資料 ====\n\n\n=== Web資料 ===\n\n\n== 外部リンク ==\n[1]（東武鉄道ニュースリリース）",
+    "字数": 766
+   },
+   "中文": {
+    "词条标题": "東武90000系電聯車",
+    "链接": "https://zh.wikipedia.org/wiki/%E6%9D%B1%E6%AD%A690000%E7%B3%BB%E9%9B%BB%E8%81%AF%E8%BB%8A",
+    "首段": "東武90000系電聯車（日語：東武90000系電車／とうぶ90000けいでんしゃ，羅馬化：Tōbu 90000-kei densha）是東武鐵道的東上本線於2026年9月26日開始使用的通勤型電聯車，為該線自2008年後時隔18年導入的新型鐵路車輛。而90000系的導入將逐步汰換目前在東上本線服役的9000系電聯車。",
+    "章节": {
+     "構造": "90000系的製造商為日立製作所，其設計理念為「連結地方、人群與未來的渡船」。車頭造型的靈感源自於過去在東上本線沿線的荒川與新河岸川上運行的高瀨舟的船底，其下半部向上反翹且形狀較圓，呈現朝車頂前方突出的逆傾斜造型。據稱此設計有助於改善車頭正面的空氣流通，並且避免捲起軌道上的塵土和髒汙。車體採用鋁合金打造，車身左右兩側各配置4道旅客用車門。車頭正面的下半部及旅客用車門上的窗戶周圍均使用王室藍塗裝，靠近博愛座及輪椅專用空間的車門窗戶周圍則使用淺藍色塗裝；其中車窗下方的腰線處並未塗上線條，以減輕維修和保養的負擔。而車身側面則貼著亮橘色的車輛編號。\n內裝採用以「水運」為意象的設計，設置在座椅頭尾兩端的隔板使用象徵著蒸氣裊裊升起的立湧紋（立涌柄），車廂地板的黑色紋路則象徵川越城本丸御殿的枯山水。旅客用車門左右兩側及座椅的隔板均有使用玻璃，並擴大旅客用車門上的玻璃面積，以營造出客室的開放感。車廂之間的玻璃貫通門上貼有象徵著河川中的水流圖樣貼膜，其用途為防止乘客撞到貫通門。每道車門上方均安裝17吋的雙螢幕顯示器，其中左側的螢幕播放廣告，右側的螢幕則播放列車的目的地及轉乘導引等資訊。而車內與車外的照明設備均使用LED燈。所有車廂均有設置供輪椅及攜帶嬰兒車的乘客使用的專用空間。而設置在座椅前方的吊環高度分為離地25公分及30公分，方便身形較矮小的乘客使用。\n\n90000系配備全碳化矽變頻器及高效率的異步電動機等新型的節能設備，與9000系相比可減少40%的電量消耗，以減輕對環境的負擔。",
+     "運用": "東武鐵道計畫自2026年起至2029年導入7列90000系電聯車，共計70輛。首列編組91001於2026年3月13日自羽生站甲種運輸至寄居站，並於2026年9月26日投入營運。而東武鐵道預計在2026年度導入2列編組。",
+     "參考文獻": ""
+    },
+    "全文": "東武90000系電聯車（日語：東武90000系電車／とうぶ90000けいでんしゃ，羅馬化：Tōbu 90000-kei densha）是東武鐵道的東上本線於2026年9月26日開始使用的通勤型電聯車，為該線自2008年後時隔18年導入的新型鐵路車輛。而90000系的導入將逐步汰換目前在東上本線服役的9000系電聯車。\n\n\n== 構造 ==\n90000系的製造商為日立製作所，其設計理念為「連結地方、人群與未來的渡船」。車頭造型的靈感源自於過去在東上本線沿線的荒川與新河岸川上運行的高瀨舟的船底，其下半部向上反翹且形狀較圓，呈現朝車頂前方突出的逆傾斜造型。據稱此設計有助於改善車頭正面的空氣流通，並且避免捲起軌道上的塵土和髒汙。車體採用鋁合金打造，車身左右兩側各配置4道旅客用車門。車頭正面的下半部及旅客用車門上的窗戶周圍均使用王室藍塗裝，靠近博愛座及輪椅專用空間的車門窗戶周圍則使用淺藍色塗裝；其中車窗下方的腰線處並未塗上線條，以減輕維修和保養的負擔。而車身側面則貼著亮橘色的車輛編號。\n內裝採用以「水運」為意象的設計，設置在座椅頭尾兩端的隔板使用象徵著蒸氣裊裊升起的立湧紋（立涌柄），車廂地板的黑色紋路則象徵川越城本丸御殿的枯山水。旅客用車門左右兩側及座椅的隔板均有使用玻璃，並擴大旅客用車門上的玻璃面積，以營造出客室的開放感。車廂之間的玻璃貫通門上貼有象徵著河川中的水流圖樣貼膜，其用途為防止乘客撞到貫通門。每道車門上方均安裝17吋的雙螢幕顯示器，其中左側的螢幕播放廣告，右側的螢幕則播放列車的目的地及轉乘導引等資訊。而車內與車外的照明設備均使用LED燈。所有車廂均有設置供輪椅及攜帶嬰兒車的乘客使用的專用空間。而設置在座椅前方的吊環高度分為離地25公分及30公分，方便身形較矮小的乘客使用。\n\n90000系配備全碳化矽變頻器及高效率的異步電動機等新型的節能設備，與9000系相比可減少40%的電量消耗，以減輕對環境的負擔。\n\n\n== 運用 ==\n東武鐵道計畫自2026年起至2029年導入7列90000系電聯車，共計70輛。首列編組91001於2026年3月13日自羽生站甲種運輸至寄居站，並於2026年9月26日投入營運。而東武鐵道預計在2026年度導入2列編組。\n\n\n== 參考文獻 ==",
+    "字数": 950
+   },
+   "英文": {
+    "词条标题": "Tobu 90000 series",
+    "链接": "https://en.wikipedia.org/wiki/Tobu%2090000%20series",
+    "首段": "The Tobu 90000 series (東武90000系, Tōbu 90000-kei) is a DC electric multiple unit (EMU) commuter train type operated by the private railway operator Tobu Railway in Japan since 2026. Seven ten-car sets are to be built.",
+    "章节": {
+     "Design": "The end cars feature a reverse slant design inspired by the Takasebune boat, with the front ends curving upwards from the lower part of the cars.",
+     "Operations": "In addition to operating on the Tobu Tojo Line, the 90000 series sets will also be used for through-running services over the Tokyo Metro Yurakucho Line, Tokyo Metro Fukutoshin Line, Tokyu Toyoko Line and Minatomirai Line.",
+     "Formation": "Sets are formed as shown below with four motored (\"M\") cars and six non-powered trailer (\"T\") cars.\n\nCars 2, 4, 7, and 9 each have one single-arm pantograph.\nEach car has an accessible \"free space\".",
+     "Interior": "Passenger accommodation consists of longitudinal seating throughout. Pairs of 17-inch LCD passenger information screens are installed above the doorways. LED lighting is used throughout.",
+     "History": "Details of the new 90000 series trains on order to replace the ageing 9000 series fleet were first announced on 26 March 2025. Tobu states that the 90000 series will consume over 40% less power than the 9000 series.\nIn November 2025, Tobu announced that the 90000 series would also replace 10000 and 30000 series trainsets, in addition to the 9000 series.\nThe first set, 91001, was delivered from Hitachi's Kasado Works plant in February 2026.\nThe 90000 series entered service on 26 September 2026.",
+     "Build histories": "The delivery dates for the fleet are as shown below.",
+     "References": ""
+    },
+    "全文": "The Tobu 90000 series (東武90000系, Tōbu 90000-kei) is a DC electric multiple unit (EMU) commuter train type operated by the private railway operator Tobu Railway in Japan since 2026. Seven ten-car sets are to be built.\n\n\n== Design ==\nThe end cars feature a reverse slant design inspired by the Takasebune boat, with the front ends curving upwards from the lower part of the cars.\n\n\n== Operations ==\nIn addition to operating on the Tobu Tojo Line, the 90000 series sets will also be used for through-running services over the Tokyo Metro Yurakucho Line, Tokyo Metro Fukutoshin Line, Tokyu Toyoko Line and Minatomirai Line.\n\n\n== Formation ==\nSets are formed as shown below with four motored (\"M\") cars and six non-powered trailer (\"T\") cars.\n\nCars 2, 4, 7, and 9 each have one single-arm pantograph.\nEach car has an accessible \"free space\".\n\n\n== Interior ==\nPassenger accommodation consists of longitudinal seating throughout. Pairs of 17-inch LCD passenger information screens are installed above the doorways. LED lighting is used throughout.\n\n\n== History ==\nDetails of the new 90000 series trains on order to replace the ageing 9000 series fleet were first announced on 26 March 2025. Tobu states that the 90000 series will consume over 40% less power than the 9000 series.\nIn November 2025, Tobu announced that the 90000 series would also replace 10000 and 30000 series trainsets, in addition to the 9000 series.\nThe first set, 91001, was delivered from Hitachi's Kasado Works plant in February 2026.\nThe 90000 series entered service on 26 September 2026.\n\n\n=== Build histories ===\nThe delivery dates for the fleet are as shown below.\n\n\n== References ==",
+    "字数": 1653
+   }
+  }
+ }
+}

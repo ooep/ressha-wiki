@@ -1,0 +1,78 @@
+{
+ "车辆": {
+  "名称": {
+   "日文": "東武80000系電車",
+   "中文": null,
+   "英文": "Tobu 80000 series",
+   "运营者": [
+    "東武"
+   ]
+  },
+  "标识": {
+   "图标文件": [
+    "08_tobu/noda-line-upl__tob80000.png"
+   ],
+   "图标token": [
+    "tob80000"
+   ],
+   "网站键": {
+    "特急": [],
+    "线路": [
+     "小野田線",
+     "野田線"
+    ]
+   }
+  },
+  "百科": {
+   "日文": {
+    "词条标题": "東武80000系電車",
+    "链接": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%AD%A680000%E7%B3%BB%E9%9B%BB%E8%BB%8A",
+    "首段": "東武80000系電車（とうぶ80000けいでんしゃ）は、2025年（令和7年）3月8日より営業運転を開始した、東武鉄道の通勤型電車。",
+    "章节": {
+     "概要": "野田線（東武アーバンパークライン）の8000系および10030系の置き換え用として「子育て世代のご家族の皆様が快適にご利用いただける車両構造」をコンセプトに新たに設計された。更なる環境への配慮や省メンテナンス・省エネルギー化（電気使用量は代替対象の8000系と比べて約40 %以上削減）、バリアフリーの推進や安全性・快適性の向上を図っている。\n東武野田線車両の5両編成化により、5両編成で製造される。またサステナビリティの観点から、25編成のうち18編成は4両を新造し、1両を60000系からサハ64600を抜き出して改造・改番したサハ83550を組み込んで5両編成を構成する80050型となる。なお、あくまでも元請けが近畿車輛で、大半の行程は津覇車輛工業館林工場で行われる。\n2025年度グッドデザイン賞ベスト100を受賞した。また、2026年には鉄道友の会よりローレル賞を受賞した。",
+     "車両概説": "",
+     "車体": "車体長は先頭車20,470 mm・中間車20,000 mm。幅は2,800 mmで、素材は東武鉄道の一般型車両では50000系以降で標準となっているアルミニウム合金製。ただし、同じ野田線の車両である60000系（50000系・90000系と同じ日立製作所製）と異なり、本系列は東武単独の設計の車両としては初の近畿車輛製となった。\n前頭部は「スピード感」や「先進性」を表現したものとし、非常用の貫通扉を設置している。前照灯・尾灯は運転士の視認性向上を目的として、窓上設置とした。\n客用扉は片側4箇所・両開き方式で、開口幅は1,300 mm。",
+     "内装": "車内のテーマは「リビング」で「ただいまって言いたくなる車内」を目指し、落ち着いた空間を表現したデザインとなった。60000系とは床面や座席モケットの色が変わり、乗務員室後ろの壁に装飾が入った。床敷物はフローリングをイメージした木目調のデザインとなっている。\n本編成では子供向け空間をイメージし、家族連れをターゲットにした優先席の『たのしーと』を全編成の4号車に設置する。ベビーカーを置いてその真横に座れる配置になっている。なお、『たのしーと』は東武鉄道の登録商標（特許第6793095号）。側面扉上部には17.5インチの2画面LCD車内案内表示器が千鳥配置されており、さらにセキュリティ向上のため側面扉上部には防犯カメラも設置されている。\n側窓はドア間7人掛け部が2連ユニット式で開閉可能な下降窓、車端部の単窓は固定窓。日除けにはフリーストップ式のカーテンを使用するが、コロナ禍（当形式登場以前）における換気目的の窓開けでカーテンの汚れが大きな問題となったことから、下部をビニールレザー貼りとして汚損防止を図った。空調装置は日立製作所製の能力58.14 kW ≒ 50,000 kcal/hを有するHRB504-7（集中式）を各車両の屋根上に1基搭載する。\n乗務員室と客室の仕切窓は大きく取られ、仕切扉の窓は下辺方向に拡大して手すりを設置することで、子どもでも仕切扉と同様に下辺方向に拡大した非常扉の窓からの前面展望が見やすくなる（親が抱きかかえなくても子どもだけで車窓を楽しめる）配慮がなされている。運転席背後の窓は、前面展望を楽しめるようリビングの液晶テレビをイメージした大型の仕切窓を設置した。ただし、安全上の理由から乗務員の判断で背面カーテンを閉める場合がある。",
+     "乗務員室": "運転台は、東武の新型の通勤形電車としては初めて左手操作式のワンハンドルマスコンが採用された。計器類は圧力計を除き、液晶ディスプレイによるグラスコックピットに統一された。主に左側には速度計などが、右側は車両情報制御システム「Synaptra」による乗車率・車内温度・運転速度などがリアルタイムで表示される。\n将来（2026年度以降実施予定）のワンマン運転を想定し、乗降用ドアの開閉ボタンや、マイクや運転台の上にホーム監視用のモニター画面が設けられている。このほか、1両の乗降用ドア4つのうち3つを締め切る装置、車外ブザーなどを設けている。",
+     "主要機器": "",
+     "制御装置": "制御装置にはフルSiC素子適用の三菱電機製2レベルVVVFインバータ制御を採用しており、制御は個別制御（1C1M×4群制御・形式 MAP-204-15V369）。",
+     "主電動機": "主電動機として民間鉄道初の同期リラクタンスモータを採用した車両推進システムSynTRACSを搭載する。このほか、リチウムイオン電池SCiBとSIV装置を組み合わせた車上バッテリーシステムを搭載する。",
+     "補助電源装置": "補助電源装置として、3レベルIGBT素子を使用した東芝インフラシステムズ→東芝製の静止形インバータ（SIV）を設置（形式 INV192-H0）。交流440V・60Hz・200kVA、ESシステムによりSIV故障時のCP動作用電源（440V）供給に対応する。",
+     "台車": "台車は日本製鉄製のモノリンク式軸箱支持方式のボルスタレス台車で、日本製鉄形式は動力台車がSS195M、付随台車がSS195Tで、東武鉄道形式は動力台車がTRS24M、付随台車がTRS24Tとなる。基礎ブレーキは片押し式の踏面ブレーキを使用する。",
+     "空気圧縮機": "電動空気圧縮機（CP）として、三菱電機製で潤滑油を使用しないオイルレススクロール式URC1200SD-Iを1編成につき1台（小型のCPを3台内蔵）設置する。出力性能1分当たり1,155Nlの消音器付除湿装置、除湿装置用暖房器がついている。",
+     "施設状態モニタリングシステム「みまモニ」": "2024年度に新製された5編成のうち、第4・第5編成（81504F・81505F）には、架線モニタリングシステム・架線検測・レールボンドモニタリング・軌道変位モニタリング・軌道材料モニタリング・地上子検測など、施設の状態を監視できるカメラや検測装置などを搭載して通常運行を行いながらも鉄道施設の状態を常時検測し、またカメラやセンサーなどデジタル技術を活用し高頻度の施設検査を行うことで、安全性の向上を図る線路施設モニタリングシステム（通称『みまモニ』）をサハ83500に搭載している。\nただし、第5編成（81505F）は予備編成で、第4編成（81504F）が検査入場などで使用できない場合、機器を載せ替えることを想定している。通常は検測機器は搭載せず、代わりに死重やダミーを搭載している。これは検測機器の搭載により車両重量が大きく変化するためで、制動距離などに影響することを防止するため。",
+     "80050型": "東武80000系電車の内、サハ83550形は60000系サハ64600形からの編入改造の編成を80050型として区別している。",
+     "運用": "製造から輸送まで\n全編成が近畿車輛徳庵工場で製造された後、第1・第2編成（81501F・81502F）は2編成まとめて、2024年12月24日発送で栗橋駅まで甲種輸送され、その後南栗橋車両管区まで輸送された。その後、第3編成（81503F）は単独で、第4・第5編成（81504F・81505F）は2編成まとめて甲種輸送された。\n\n南栗橋車両管区到着から試運転へ\n南栗橋車両管区に到着後は試運転が行われた。しばらくは深夜の時間帯での試運転だったが、2025年1月28日からは日中にも日光線などで試運転が行われるようになり、2025年2月9日からは野田線の七光台 - 春日部 - 岩槻で試運転が開始された。\n\n営業運転開始\n2025年3月8日に団体臨時列車としてデビューし、2025年3月9日に一般列車での営業運転を開始した。",
+     "編成": "編成は5両編成（Tc-M-T-M-Tc）で、MT比は2M3T。電動車比率が低くなっている。\n2024年度に製造された80000型5編成のうち、第4・第5編成（81504F・81505F）においては、前述の通り線路施設モニタリングシステム（『みまモニ』）をサハ83500に搭載している。\n\n編成表\n\n凡例・注記\nVVVF：制御装置（VVVFインバータ）\nSIV：補助電源装置（静止形インバータ）\nCP：電動空気圧縮機\nBT：蓄電池\nMON：線路施設モニタリングシステム『みまモニ』\n80000型3号車の車種記号はMON非搭載編成が「T1」、MON搭載編成が「T2」。\n80050型の■の網掛けは60000系サハ64600形からの改造車",
+     "脚注": "",
+     "注釈": "",
+     "出典": "",
+     "参考文献": "エリエイ『とれいん』2025年5月号MODELERS FILE「東武鉄道80000系電車」",
+     "関連項目": "東武60000系電車 - 本系列の一部を除く編成に中間車が組み込まれている。\n東武野田線 - 本系列が導入された路線。",
+     "外部リンク": "車両紹介｜東武鉄道公式サイト"
+    },
+    "全文": "東武80000系電車（とうぶ80000けいでんしゃ）は、2025年（令和7年）3月8日より営業運転を開始した、東武鉄道の通勤型電車。\n\n\n== 概要 ==\n野田線（東武アーバンパークライン）の8000系および10030系の置き換え用として「子育て世代のご家族の皆様が快適にご利用いただける車両構造」をコンセプトに新たに設計された。更なる環境への配慮や省メンテナンス・省エネルギー化（電気使用量は代替対象の8000系と比べて約40 %以上削減）、バリアフリーの推進や安全性・快適性の向上を図っている。\n東武野田線車両の5両編成化により、5両編成で製造される。またサステナビリティの観点から、25編成のうち18編成は4両を新造し、1両を60000系からサハ64600を抜き出して改造・改番したサハ83550を組み込んで5両編成を構成する80050型となる。なお、あくまでも元請けが近畿車輛で、大半の行程は津覇車輛工業館林工場で行われる。\n2025年度グッドデザイン賞ベスト100を受賞した。また、2026年には鉄道友の会よりローレル賞を受賞した。\n\n\n== 車両概説 ==\n\n\n=== 車体 ===\n車体長は先頭車20,470 mm・中間車20,000 mm。幅は2,800 mmで、素材は東武鉄道の一般型車両では50000系以降で標準となっているアルミニウム合金製。ただし、同じ野田線の車両である60000系（50000系・90000系と同じ日立製作所製）と異なり、本系列は東武単独の設計の車両としては初の近畿車輛製となった。\n前頭部は「スピード感」や「先進性」を表現したものとし、非常用の貫通扉を設置している。前照灯・尾灯は運転士の視認性向上を目的として、窓上設置とした。\n客用扉は片側4箇所・両開き方式で、開口幅は1,300 mm。\n\n\n=== 内装 ===\n車内のテーマは「リビング」で「ただいまって言いたくなる車内」を目指し、落ち着いた空間を表現したデザインとなった。60000系とは床面や座席モケットの色が変わり、乗務員室後ろの壁に装飾が入った。床敷物はフローリングをイメージした木目調のデザインとなっている。\n本編成では子供向け空間をイメージし、家族連れをターゲットにした優先席の『たのしーと』を全編成の4号車に設置する。ベビーカーを置いてその真横に座れる配置になっている。なお、『たのしーと』は東武鉄道の登録商標（特許第6793095号）。側面扉上部には17.5インチの2画面LCD車内案内表示器が千鳥配置されており、さらにセキュリティ向上のため側面扉上部には防犯カメラも設置されている。\n側窓はドア間7人掛け部が2連ユニット式で開閉可能な下降窓、車端部の単窓は固定窓。日除けにはフリーストップ式のカーテンを使用するが、コロナ禍（当形式登場以前）における換気目的の窓開けでカーテンの汚れが大きな問題となったことから、下部をビニールレザー貼りとして汚損防止を図った。空調装置は日立製作所製の能力58.14 kW ≒ 50,000 kcal/hを有するHRB504-7（集中式）を各車両の屋根上に1基搭載する。\n乗務員室と客室の仕切窓は大きく取られ、仕切扉の窓は下辺方向に拡大して手すりを設置することで、子どもでも仕切扉と同様に下辺方向に拡大した非常扉の窓からの前面展望が見やすくなる（親が抱きかかえなくても子どもだけで車窓を楽しめる）配慮がなされている。運転席背後の窓は、前面展望を楽しめるようリビングの液晶テレビをイメージした大型の仕切窓を設置した。ただし、安全上の理由から乗務員の判断で背面カーテンを閉める場合がある。\n\n\n=== 乗務員室 ===\n運転台は、東武の新型の通勤形電車としては初めて左手操作式のワンハンドルマスコンが採用された。計器類は圧力計を除き、液晶ディスプレイによるグラスコックピットに統一された。主に左側には速度計などが、右側は車両情報制御システム「Synaptra」による乗車率・車内温度・運転速度などがリアルタイムで表示される。\n将来（2026年度以降実施予定）のワンマン運転を想定し、乗降用ドアの開閉ボタンや、マイクや運転台の上にホーム監視用のモニター画面が設けられている。このほか、1両の乗降用ドア4つのうち3つを締め切る装置、車外ブザーなどを設けている。\n\n\n=== 主要機器 ===\n\n\n==== 制御装置 ====\n制御装置にはフルSiC素子適用の三菱電機製2レベルVVVFインバータ制御を採用しており、制御は個別制御（1C1M×4群制御・形式 MAP-204-15V369）。\n\n\n==== 主電動機 ====\n\n主電動機として民間鉄道初の同期リラクタンスモータを採用した車両推進システムSynTRACSを搭載する。このほか、リチウムイオン電池SCiBとSIV装置を組み合わせた車上バッテリーシステムを搭載する。\n\n\n==== 補助電源装置 ====\n補助電源装置として、3レベルIGBT素子を使用した東芝インフラシステムズ→東芝製の静止形インバータ（SIV）を設置（形式 INV192-H0）。交流440V・60Hz・200kVA、ESシステムによりSIV故障時のCP動作用電源（440V）供給に対応する。\n\n\n==== 台車 ====\n台車は日本製鉄製のモノリンク式軸箱支持方式のボルスタレス台車で、日本製鉄形式は動力台車がSS195M、付随台車がSS195Tで、東武鉄道形式は動力台車がTRS24M、付随台車がTRS24Tとなる。基礎ブレーキは片押し式の踏面ブレーキを使用する。\n\n\n==== 空気圧縮機 ====\n電動空気圧縮機（CP）として、三菱電機製で潤滑油を使用しないオイルレススクロール式URC1200SD-Iを1編成につき1台（小型のCPを3台内蔵）設置する。出力性能1分当たり1,155Nlの消音器付除湿装置、除湿装置用暖房器がついている。\n\n\n=== 施設状態モニタリングシステム「みまモニ」 ===\n\n2024年度に新製された5編成のうち、第4・第5編成（81504F・81505F）には、架線モニタリングシステム・架線検測・レールボンドモニタリング・軌道変位モニタリング・軌道材料モニタリング・地上子検測など、施設の状態を監視できるカメラや検測装置などを搭載して通常運行を行いながらも鉄道施設の状態を常時検測し、またカメラやセンサーなどデジタル技術を活用し高頻度の施設検査を行うことで、安全性の向上を図る線路施設モニタリングシステム（通称『みまモニ』）をサハ83500に搭載している。\nただし、第5編成（81505F）は予備編成で、第4編成（81504F）が検査入場などで使用できない場合、機器を載せ替えることを想定している。通常は検測機器は搭載せず、代わりに死重やダミーを搭載している。これは検測機器の搭載により車両重量が大きく変化するためで、制動距離などに影響することを防止するため。\n\n\n== 80050型 ==\n\n東武80000系電車の内、サハ83550形は60000系サハ64600形からの編入改造の編成を80050型として区別している。\n\n\n== 運用 ==\n\n製造から輸送まで\n全編成が近畿車輛徳庵工場で製造された後、第1・第2編成（81501F・81502F）は2編成まとめて、2024年12月24日発送で栗橋駅まで甲種輸送され、その後南栗橋車両管区まで輸送された。その後、第3編成（81503F）は単独で、第4・第5編成（81504F・81505F）は2編成まとめて甲種輸送された。\n\n南栗橋車両管区到着から試運転へ\n南栗橋車両管区に到着後は試運転が行われた。しばらくは深夜の時間帯での試運転だったが、2025年1月28日からは日中にも日光線などで試運転が行われるようになり、2025年2月9日からは野田線の七光台 - 春日部 - 岩槻で試運転が開始された。\n\n営業運転開始\n2025年3月8日に団体臨時列車としてデビューし、2025年3月9日に一般列車での営業運転を開始した。\n\n\n== 編成 ==\n編成は5両編成（Tc-M-T-M-Tc）で、MT比は2M3T。電動車比率が低くなっている。\n2024年度に製造された80000型5編成のうち、第4・第5編成（81504F・81505F）においては、前述の通り線路施設モニタリングシステム（『みまモニ』）をサハ83500に搭載している。\n\n編成表\n\n凡例・注記\nVVVF：制御装置（VVVFインバータ）\nSIV：補助電源装置（静止形インバータ）\nCP：電動空気圧縮機\nBT：蓄電池\nMON：線路施設モニタリングシステム『みまモニ』\n80000型3号車の車種記号はMON非搭載編成が「T1」、MON搭載編成が「T2」。\n80050型の■の網掛けは60000系サハ64600形からの改造車\n\n\n== 脚注 ==\n\n\n=== 注釈 ===\n\n\n=== 出典 ===\n\n\n== 参考文献 ==\nエリエイ『とれいん』2025年5月号MODELERS FILE「東武鉄道80000系電車」\n\n\n== 関連項目 ==\n\n東武60000系電車 - 本系列の一部を除く編成に中間車が組み込まれている。\n東武野田線 - 本系列が導入された路線。\n\n\n== 外部リンク ==\n車両紹介｜東武鉄道公式サイト",
+    "字数": 3864
+   },
+   "中文": null,
+   "英文": {
+    "词条标题": "Tobu 80000 series",
+    "链接": "https://en.wikipedia.org/wiki/Tobu%2080000%20series",
+    "首段": "The Tobu 80000 series (Japanese: 東武80000系, romanized: Tōbu 80000-kei) is a commuter electric multiple unit (EMU) train type operated by the private railway operator Tobu Railway in Japan. Twenty-five 5-car sets are to be built.",
+    "章节": {
+     "Overview": "The 80000 series is slated to replace ageing 8000 and 10000 series EMUs, which were relegated from services on busier lines. The 25 sets will be built by Kinki Sharyo. Seven sets will be entirely new-build, and the remainder will be built as 4-car sets, each receiving a modified 60000 series intermediate car to form a 5-car set.",
+     "Design": "The 80000 series uses the same body construction as that of the 60000 series, although the type incorporates a curved front-end design. The trains carry a \"future blue\" and \"bright green\" livery.\n\nInternally, the trains feature longitudinal seating throughout. A Tanoshiito (たのしーと, lit. 'fun') space is provided at the end of car 4. Sets of 17.5-inch information displays are staggered above the doorways.",
+     "Technical details": "The trains use a SynTRACS variable-frequency traction system incorporating synchronous reluctance motors (SynRM), a first for major private railways in Japan. Unlike permanent-magnet synchronous motors, SynRMs do not use rare-earth magnets and allow for simpler circuitry.\nTo reduce power losses, the power produced by the trains' regenerative braking system is used to charge the trains' onboard battery system instead of being returned to the overhead lines. \nTobu Railway states that the new traction system, alongside more efficient power supplies and a battery backup system, allow the 80000 series to offer at least 40% energy savings over the earlier 8000 series.",
+     "Formations": "The sets are formed of two motored cars and three trailer cars, as follows:",
+     "History": "Details of the 80000 series trains on order were first announced in April 2024. In light of declining ridership on the Tobu Urban Park Line following the COVID-19 pandemic, Tobu Railway decided to reduce train capacity (from 6-car sets to 5-car sets) instead of reducing frequency.\nThe first two sets were delivered from the Kinki Sharyo plant in December 2024. These sets are entirely new-build. By February 2025, three completely new-build sets had been delivered.\nThe 80000 series first entered service on the Urban Park Line on 8 March 2025. Initially intended to operate alongside older 6-car sets, Tobu Railway plans to complete the Urban Park Line's transition to 5-car sets by March 2029.\nThe 80000 series received the 2026 Laurel Prize, presented annually by the Japan Railfan Club.",
+     "See also": "Iyotetsu 7000 series – Laurel Prize co-recipient",
+     "Notes": "",
+     "References": "",
+     "External links": "16 April 2024 press release (in Japanese)"
+    },
+    "全文": "The Tobu 80000 series (Japanese: 東武80000系, romanized: Tōbu 80000-kei) is a commuter electric multiple unit (EMU) train type operated by the private railway operator Tobu Railway in Japan. Twenty-five 5-car sets are to be built.\n\n\n== Overview ==\nThe 80000 series is slated to replace ageing 8000 and 10000 series EMUs, which were relegated from services on busier lines. The 25 sets will be built by Kinki Sharyo. Seven sets will be entirely new-build, and the remainder will be built as 4-car sets, each receiving a modified 60000 series intermediate car to form a 5-car set.\n\n\n== Design ==\nThe 80000 series uses the same body construction as that of the 60000 series, although the type incorporates a curved front-end design. The trains carry a \"future blue\" and \"bright green\" livery.\n\nInternally, the trains feature longitudinal seating throughout. A Tanoshiito (たのしーと, lit. 'fun') space is provided at the end of car 4. Sets of 17.5-inch information displays are staggered above the doorways.\n\n\n== Technical details ==\n\nThe trains use a SynTRACS variable-frequency traction system incorporating synchronous reluctance motors (SynRM), a first for major private railways in Japan. Unlike permanent-magnet synchronous motors, SynRMs do not use rare-earth magnets and allow for simpler circuitry.\nTo reduce power losses, the power produced by the trains' regenerative braking system is used to charge the trains' onboard battery system instead of being returned to the overhead lines. \nTobu Railway states that the new traction system, alongside more efficient power supplies and a battery backup system, allow the 80000 series to offer at least 40% energy savings over the earlier 8000 series.\n\n\n== Formations ==\nThe sets are formed of two motored cars and three trailer cars, as follows:\n\n\n== History ==\nDetails of the 80000 series trains on order were first announced in April 2024. In light of declining ridership on the Tobu Urban Park Line following the COVID-19 pandemic, Tobu Railway decided to reduce train capacity (from 6-car sets to 5-car sets) instead of reducing frequency.\nThe first two sets were delivered from the Kinki Sharyo plant in December 2024. These sets are entirely new-build. By February 2025, three completely new-build sets had been delivered.\nThe 80000 series first entered service on the Urban Park Line on 8 March 2025. Initially intended to operate alongside older 6-car sets, Tobu Railway plans to complete the Urban Park Line's transition to 5-car sets by March 2029.\nThe 80000 series received the 2026 Laurel Prize, presented annually by the Japan Railfan Club.\n\n\n== See also ==\nIyotetsu 7000 series – Laurel Prize co-recipient\n\n\n== Notes ==\n\n\n== References ==\n\n\n== External links ==\n\n16 April 2024 press release (in Japanese)",
+    "字数": 2762
+   }
+  }
+ }
+}

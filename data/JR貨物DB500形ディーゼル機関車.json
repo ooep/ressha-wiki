@@ -1,0 +1,64 @@
+{
+ "车辆": {
+  "名称": {
+   "日文": "JR貨物DB500形ディーゼル機関車",
+   "中文": null,
+   "英文": "JR Freight Class DB500",
+   "运营者": [
+    "JR貨物"
+   ]
+  },
+  "标识": {
+   "图标文件": [
+    "07_freight/switcher-db500-0__db500k.png"
+   ],
+   "图标token": [
+    "db500k"
+   ],
+   "网站键": {
+    "特急": [],
+    "线路": [
+     "日本貨物鉄道"
+    ]
+   }
+  },
+  "百科": {
+   "日文": {
+    "词条标题": "JR貨物DB500形ディーゼル機関車",
+    "链接": "https://ja.wikipedia.org/wiki/JR%E8%B2%A8%E7%89%A9DB500%E5%BD%A2%E3%83%87%E3%82%A3%E3%83%BC%E3%82%BC%E3%83%AB%E6%A9%9F%E9%96%A2%E8%BB%8A",
+    "首段": "DB500形ディーゼル機関車（DB500がたディーゼルきかんしゃ）は、日本貨物鉄道（JR貨物）が2016年（平成28年）から導入している液体式ディーゼル機関車である。制作は北陸重機工業が担当した。",
+    "章节": {
+     "概要": "JR貨物では大規模な貨物駅には、入替専用機であるHD300形や本線・入替え兼用のDD200形を投入していたが、本形式は小規模な貨物駅での入替専用機として投入された。\n北陸重機工業が専用線向けに製造している機械扱いの2軸液体式ディーゼル入替動車（車籍がないいわゆる貨車移動機）をベースとしているが、車両構造や保安装置を法令に適合させた鉄道車両扱いとし、信号機（絶対信号機）や自動列車停止装置を用いて保安度を向上させている。\n2024年（令和6年）現在4両が導入されているが、2016年（平成28年）に導入された0番台（1）と、2021年（令和3年）以降に導入された改良型の50番台（51 - 54）の2グループが存在する。50番台は、2025年に2両が追加で導入された。",
+     "構造": "0番台と50番台で若干の差異がある。",
+     "車体": "全長7.65mのL型1運転台方式の車体を持ち、1エンド側のボンネット内にエンジン1台を搭載し、2エンド側が運転台となっている。車体は耐候性鋼板製である。\n軸配置はA-Aの2軸である。平坦線において、最大500 t（10両編成）のコンテナ貨車の入れ換え可能な性能を有する。\n運転台は自動車同様のペダル方式の主幹制御器と、デスク上にブレーキ弁（手で操作）を有する。2エンド側で通常貨車と連結するため、2エンド側は前面の窓を大きくすることで、連結作業を容易としている。また、運転台は空調装置付きである。\n50番台では、前面ステップの幅を縮小（連結時の作業性向上のため）、前照灯をLEDとする改良がなされている。",
+     "機器類": "",
+     "機関": "0番台はいすゞ製の直接噴射式エンジン（国交省二次規制相当の排出ガスレベル）を採用している。50番台は機関がボルボ製の燃料電子制御式エンジン（EU3次排ガス規制対応）となり、環境性能向上とともに出力がやや向上している。加えて空気圧縮機を機関付属形とすることで、機関ボンネットの小型化を図った。変速機は0番台は2段自動変速式（低速段・高速段）、50番台は2段手動変速式（1速・2速）となっている。",
+     "保安装置": "0番台では自動列車停止装置（ATS-SF形）及び緊急列車停止装置（EB装置）を装備する。\n50番台は、新たに保安装置としてTE装置、防護無線および信号炎管を搭載した。一方で0番台と異なり、ATSは準備工事のみとした。",
+     "運用": "",
+     "0番台": "1号機は門司機関区に配置され、2016年（平成28年）10月に落成後、各種試験を行い、2017年（平成29年）3月ダイヤ改正より下関駅構内での入換作業に使用されていたDE10形を置き換え、運用されている。\n下関駅構内での入換作業自体は操車による誘導で実施しているが、その際に入換信号機（絶対信号機）を用いる場面があることから、貨車移動機ではなく車籍を持つ本形式での置き換えとなった。",
+     "50番台": "3両（51 - 53）製作され、門司機関区に配置の上、2021年（令和3年）から西大分駅・延岡駅で車籍のない貨車移動機に代わって使用を開始している。51, 52号機が西大分駅、53号機が延岡駅で運用されている。また、50番台では次世代バイオディーゼル燃料の試験も実施している。\n2024年には、1両(54)が新鶴見機関区に配置され、竜王駅構内での入換作業などに使用されている。\n2025年と2026年には、それぞれ1両(55、56)を製作し新鶴見機関区に配置され、相模貨物駅で使用されている。",
+     "脚注": "",
+     "参考文献": "日本鉄道車両機械技術協会『ROLLINGSTOCK＆MACHINERY』\n2017年5月号研究と開発「DB500形式内燃機関車の開発」（JR貨物車両部技術開発室　西村　敏治）\n2022年4月号研究と開発「DB500形式50番代液体式内燃機関車の概要」（日本貨物鉄道株式会社鉄道ロジスティクス本部　神田　吉孝）\n白濱, 慶昭「JR貨物における最近の車両開発について」『JRガゼット』第82巻第9号、交通新聞社、2024年9月1日、36-39頁。"
+    },
+    "全文": "DB500形ディーゼル機関車（DB500がたディーゼルきかんしゃ）は、日本貨物鉄道（JR貨物）が2016年（平成28年）から導入している液体式ディーゼル機関車である。制作は北陸重機工業が担当した。\n\n\n== 概要 ==\nJR貨物では大規模な貨物駅には、入替専用機であるHD300形や本線・入替え兼用のDD200形を投入していたが、本形式は小規模な貨物駅での入替専用機として投入された。\n北陸重機工業が専用線向けに製造している機械扱いの2軸液体式ディーゼル入替動車（車籍がないいわゆる貨車移動機）をベースとしているが、車両構造や保安装置を法令に適合させた鉄道車両扱いとし、信号機（絶対信号機）や自動列車停止装置を用いて保安度を向上させている。\n2024年（令和6年）現在4両が導入されているが、2016年（平成28年）に導入された0番台（1）と、2021年（令和3年）以降に導入された改良型の50番台（51 - 54）の2グループが存在する。50番台は、2025年に2両が追加で導入された。\n\n\n== 構造 ==\n0番台と50番台で若干の差異がある。\n\n\n=== 車体 ===\n全長7.65mのL型1運転台方式の車体を持ち、1エンド側のボンネット内にエンジン1台を搭載し、2エンド側が運転台となっている。車体は耐候性鋼板製である。\n軸配置はA-Aの2軸である。平坦線において、最大500 t（10両編成）のコンテナ貨車の入れ換え可能な性能を有する。\n運転台は自動車同様のペダル方式の主幹制御器と、デスク上にブレーキ弁（手で操作）を有する。2エンド側で通常貨車と連結するため、2エンド側は前面の窓を大きくすることで、連結作業を容易としている。また、運転台は空調装置付きである。\n50番台では、前面ステップの幅を縮小（連結時の作業性向上のため）、前照灯をLEDとする改良がなされている。\n\n\n=== 機器類 ===\n\n\n==== 機関 ====\n0番台はいすゞ製の直接噴射式エンジン（国交省二次規制相当の排出ガスレベル）を採用している。50番台は機関がボルボ製の燃料電子制御式エンジン（EU3次排ガス規制対応）となり、環境性能向上とともに出力がやや向上している。加えて空気圧縮機を機関付属形とすることで、機関ボンネットの小型化を図った。変速機は0番台は2段自動変速式（低速段・高速段）、50番台は2段手動変速式（1速・2速）となっている。\n\n\n==== 保安装置 ====\n0番台では自動列車停止装置（ATS-SF形）及び緊急列車停止装置（EB装置）を装備する。\n50番台は、新たに保安装置としてTE装置、防護無線および信号炎管を搭載した。一方で0番台と異なり、ATSは準備工事のみとした。\n\n\n== 運用 ==\n\n\n=== 0番台 ===\n1号機は門司機関区に配置され、2016年（平成28年）10月に落成後、各種試験を行い、2017年（平成29年）3月ダイヤ改正より下関駅構内での入換作業に使用されていたDE10形を置き換え、運用されている。\n下関駅構内での入換作業自体は操車による誘導で実施しているが、その際に入換信号機（絶対信号機）を用いる場面があることから、貨車移動機ではなく車籍を持つ本形式での置き換えとなった。\n\n\n=== 50番台 ===\n3両（51 - 53）製作され、門司機関区に配置の上、2021年（令和3年）から西大分駅・延岡駅で車籍のない貨車移動機に代わって使用を開始している。51, 52号機が西大分駅、53号機が延岡駅で運用されている。また、50番台では次世代バイオディーゼル燃料の試験も実施している。\n2024年には、1両(54)が新鶴見機関区に配置され、竜王駅構内での入換作業などに使用されている。\n2025年と2026年には、それぞれ1両(55、56)を製作し新鶴見機関区に配置され、相模貨物駅で使用されている。\n\n\n== 脚注 ==\n\n\n== 参考文献 ==\n日本鉄道車両機械技術協会『ROLLINGSTOCK＆MACHINERY』\n2017年5月号研究と開発「DB500形式内燃機関車の開発」（JR貨物車両部技術開発室　西村　敏治）\n2022年4月号研究と開発「DB500形式50番代液体式内燃機関車の概要」（日本貨物鉄道株式会社鉄道ロジスティクス本部　神田　吉孝）\n白濱, 慶昭「JR貨物における最近の車両開発について」『JRガゼット』第82巻第9号、交通新聞社、2024年9月1日、36-39頁。",
+    "字数": 1867
+   },
+   "中文": null,
+   "英文": {
+    "词条标题": "JR Freight Class DB500",
+    "链接": "https://en.wikipedia.org/wiki/JR%20Freight%20Class%20DB500",
+    "首段": "The Class DB500 (DB500形) is a B wheel arrangement two-axle diesel-hydraulic locomotive type operated by Japan Freight Railway (JR Freight) on shunting duties in Japan since March 2017.",
+    "章节": {
+     "Overview": "The Class DB500 was developed to replace ageing Class DE10 diesel-hydraulic locomotives used for shunting duties at smaller freight terminals such as Shimonoseki in Yamaguchi Prefecture. The locomotive has a single water-cooled four-cycle straight six-cylinder diesel engine, with a power output of 184 kW (247 hp), sufficient to haul 500-tonne (490-long-ton; 550-short-ton) trains.",
+     "History": "The Class DB500 entered service at Shimonoseki Freight Terminal from the start of the revised timetable on 4 March 2017.",
+     "Classification": "The DB500 classification for this locomotive type is explained below.\n\nD: Diesel locomotive\nB: Two driving axles\n500: Diesel-hydraulic locomotive",
+     "References": "",
+     "Further reading": "DB500形液体式内燃機関車 続報 [Class DB500 diesel-hydraulic locomotive (Follow-up report)]. Japan Railfan Magazine (in Japanese). Vol. 57, no. 678. Japan: Koyusha Co., Ltd. October 2017. p. 67.",
+     "External links": "Hokuriku Heavy Industries website Archived 25 December 2016 at the Wayback Machine (in Japanese)"
+    },
+    "全文": "The Class DB500 (DB500形) is a B wheel arrangement two-axle diesel-hydraulic locomotive type operated by Japan Freight Railway (JR Freight) on shunting duties in Japan since March 2017.\n\n\n== Overview ==\nThe Class DB500 was developed to replace ageing Class DE10 diesel-hydraulic locomotives used for shunting duties at smaller freight terminals such as Shimonoseki in Yamaguchi Prefecture. The locomotive has a single water-cooled four-cycle straight six-cylinder diesel engine, with a power output of 184 kW (247 hp), sufficient to haul 500-tonne (490-long-ton; 550-short-ton) trains.\n\n\n== History ==\nThe Class DB500 entered service at Shimonoseki Freight Terminal from the start of the revised timetable on 4 March 2017.\n\n\n== Classification ==\n\nThe DB500 classification for this locomotive type is explained below.\n\nD: Diesel locomotive\nB: Two driving axles\n500: Diesel-hydraulic locomotive\n\n\n== References ==\n\n\n== Further reading ==\n DB500形液体式内燃機関車 続報 [Class DB500 diesel-hydraulic locomotive (Follow-up report)]. Japan Railfan Magazine (in Japanese). Vol. 57, no. 678. Japan: Koyusha Co., Ltd. October 2017. p. 67.\n\n\n== External links ==\nHokuriku Heavy Industries website Archived 25 December 2016 at the Wayback Machine (in Japanese)",
+    "字数": 1237
+   }
+  }
+ }
+}

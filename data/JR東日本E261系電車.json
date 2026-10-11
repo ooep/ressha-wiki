@@ -1,0 +1,91 @@
+{
+ "车辆": {
+  "名称": {
+   "日文": "JR東日本E261系電車",
+   "中文": "JR東日本E261系電力動車組",
+   "英文": "E261 series",
+   "运营者": [
+    "JR東日本"
+   ]
+  },
+  "标识": {
+   "图标文件": [
+    "02_east/odoriko__e261.png"
+   ],
+   "图标token": [
+    "e261"
+   ],
+   "网站键": {
+    "特急": [
+     "踊り子"
+    ],
+    "线路": [
+     "伊東線"
+    ]
+   }
+  },
+  "百科": {
+   "日文": {
+    "词条标题": "JR東日本E261系電車",
+    "链接": "https://ja.wikipedia.org/wiki/JR%E6%9D%B1%E6%97%A5%E6%9C%ACE261%E7%B3%BB%E9%9B%BB%E8%BB%8A",
+    "首段": "E261系電車（E261けいでんしゃ）は、 東日本旅客鉄道（JR東日本）の直流特急形電車。2020年（令和2年）3月14日に、首都圏と伊豆方面を結ぶ特急「サフィール踊り子」として運用を開始した。",
+    "章节": {
+     "概要": "JR東日本の「グループ経営構想V（ファイブ）〜限りなき前進〜」（現在は後継のグループ経営ビジョン「変革2027」へ移行）のもと、観光流動の創造と地域の活性化を目的として、伊豆エリアに向けた新たな観光特急列車「サフィール踊り子」用の車両として導入され、2020年（令和2年）3月14日より営業運転を開始した。本形式の導入に伴い、それまで「スーパービュー踊り子」に使用されていた251系が全車置き換えられている。\nトータルデザインは奥山清行が率いる「KEN OKUYAMA DESIGN」が担当した。\n全車グリーン車で、その内1号車にはJR東日本初のプレミアムグリーン車、2・3号車にはグリーン個室、4号車にはカフェテリア（ヌードルバー）を連結している。JR東日本の在来線特急車両のグリーン車は255系以降4列配置が基本となっていたが、本形式ではグリーン車は3列配置、プレミアムグリーン車は2列配置となっている。\n車内チャイム・車載メロディ・ミュージックホーンは、すべて福嶋尚哉作曲のオリジナルのものを使用している。\n2021年に鉄道友の会選定のローレル賞を受賞している。",
+     "構造": "",
+     "車体": "車体はアルミニウム合金製で、中空押出形材を使用したダブルスキン構造を採用している。\n外観のデザインコンセプトは「伊豆の圧倒的で雄大な自然」で、外装色の紺碧色は「伊豆の海と空」をイメージした伊豆アズールと呼ばれるメタリックブルー、白色は「伊豆の砂浜が太陽の光を受けて金色に輝く様子」（白浜ホワイト）、グレーは「溶岩地形である城ヶ崎海岸の黒々とした岩石」（城ヶ崎グレー）を表している。前照灯は連結器の左右にLED式（5粒×2段）の灯具を設置しており、ロービーム（下向き）時は上段が点灯し、ハイビーム（上向き）時は下段も含めた全点灯となる。前面ガラスの内側には尾灯と兼用の三角形をした装飾灯を配置している。\n側窓は側面だけではなく、側天井部に天窓を設置している。側天井部の窓には、遮光用カーテンを設置しないため、可視光透過率の低いガラスを使用している。",
+     "車内": "トイレは2・3・5・7号車に洋式便所・男性用小便所・洗面台を配置しており、このうち5号車の洋式便所は大型電動車椅子対応型となっている。\n全席にコンセントを配置している。\nバリアフリーとして、5号車に車椅子対応座席を2席配置している。また、多目的室を配置しており、室内には簡易ベッドとして使用できる座席を配置している。",
+     "グリーン車": "プレミアムグリーン車はバックシェル付きの電動リクライニング本革シートを1人用2席 × 10列配置しており、シートピッチは1,250 mm。荷棚の設置は省略して、座席下に荷物スペースがあるほか、専用の荷物置き場を有する。\nグリーン車は座席はE5系新幹線のグリーン車用を基本とし、高級感を持たせている。電動レッグレスト、座席上部の読書灯が手元のスイッチで操作可能。シートピッチは1,160mm。背面式テーブル（車端部席ははね上げ式テーブル）及びひじ掛け内に小型のテーブルが収納されており、ドリンクホルダーも装着されている。\n荷棚はアルミフレームに強化ガラスをはめ込んだものとしており、天窓からの太陽光を感じられるようにした。室内の東京寄り（8号車は伊豆急下田寄り）に荷物置き場を設置している。\n個室（座席）は伊豆急下田方面に向かって左側にあり、海側の眺望に配慮している。",
+     "カフェテリア": "オープンキッチンスペースと食事スペースから構成される。食事スペースは海側にカウンター席を8席、山側にソファー席を4人分 × 2か所配置している。",
+     "主要機器": "制御装置には日立製作所製のフルSiCモジュール（SiC-MOSFET）適用の2レベル方式VVVFインバータ制御（SC121形）で、各電動車毎に制御装置を搭載する1C4M方式を採用する。\n主電動機はE235系と同様、MT79形外扇式全密閉かご形三相誘導電動機（定格出力140 kW）を採用している。歯車比は1:5.65。\n制動装置は回生ブレーキ併用電気指令式空気ブレーキ方式としている。直通予備ブレーキ、耐雪ブレーキ、抑速ブレーキ機能を有する。\n台車は、軸梁式ボルスタレス台車で動力台車がDT88、付随台車はTR272（クロのみ前位台車がTR272A）となっている。製造は日立製作所。すべての台車にフルアクティブ動揺防止装置及びヨーダンパを装備している。先頭台車のみ駐車ブレーキを装備している。基礎ブレーキは動力台車が片押し式の踏面ブレーキ（ユニットブレーキ）、付随台車がユニットブレーキと1軸2枚のディスクブレーキを併用する。\n\n集電装置（パンタグラフ）は、上昇検知付きのシングルアーム方式で、型番はPS33Hとしている。5号車の伊豆急下田方には予備パンタグラフが設置されている。\n補助電源装置はIGBT素子を使用した東洋電機製造製の待機2重系の静止形インバータ（SIV）を搭載する。形式はSC106A形、出力電圧は三相交流440 V、定格容量は260 kVA。\n空気圧縮機はドイツ・クノールブレムゼ製のMH3130-C1600F形を採用しており、毎分吐出容量は1,600 L。\n空調装置は三菱電機製AU302A形床下集中式の空調装置を各車に1台搭載している。冷房使用時は出力42kW（36,000 kcal/h）、暖房使用時は出力20kW（17,200 kcal/h）のものとなっている。\n保安装置はATS-P・ATS-SNを搭載している。またデジタル列車無線、防護無線（自動発報機能付き）、EB・TE装置が搭載されている。\n\n車両情報制御装置には、JR東日本の在来線旅客車両で2例目となるINTEROSを搭載している。",
+     "形式": "1 - 3号車は川崎重工業、4 - 8号車は日立製作所で製造。\n\nクロE261形（Tsc）\n東京方先頭車で、8号車。定員24名。運転室と業務用室を配置、床下に補助電源装置を搭載。この車両のみ席番が逆順となっており、東京方が1番席となる。\nクロE260形（Tsc'）\n伊豆急下田方先頭車で、1号車。定員20名のプレミアムグリーン車で、座席は海側寄りに1＋1列配置。運転室を配置、床下に補助電源装置を搭載。\nモロE261形\n\n0番台（M1s）\n5号車。定員14名。車椅子対応座席と多目的室、AED、車椅子対応トイレ設備を有する。モロE260形0番台とユニットを組む。集電装置（2基）と主制御器を搭載。\n100番台（M1s1）\n3号車。4人個室が2室と6人個室が2室の計4室20名のグリーン個室、トイレ設備を有する。モロE260形100番台とユニットを組む。集電装置（1基）、空気圧縮機、主制御器を搭載。\n200番台（Ms）\n7号車。定員30名。トイレ設備を有するほか、集電装置（1基）と空気圧縮機、主制御器を搭載。\nモロE260形\n\n0番台（M2s）\n6号車で、定員36名。モロE261形0番台とユニットを組む。床下に主制御器、蓄電池を搭載。\n100番台（M2s1）\n2号車。4人個室が2室と6人個室が2室の計4室20名のグリーン個室、トイレ設備を有する。モロE261形100番台とユニットを組む。床下に主制御器を搭載。\nサシE261形（TD）\n4号車。カフェテリア、オープンキッチン、車販コーナー、車販準備室がある。床下に蓄電池、水タンク、汚水タンクなどを搭載。",
+     "編成表": "凡例\nVVVF：制御装置\nSIV：補助電源装置\nCP：電動空気圧縮機\nBT：蓄電池\nE-BT：非常起動用蓄電池\n＞：集電装置\nWC：トイレ、：車椅子対応座席（トイレも車椅子対応）",
+     "運用": "2020年3月14日ダイヤ改正より特急「サフィール踊り子」として、東京駅・新宿駅 - 伊豆急下田駅間で営業運転を開始した。\n定期列車1往復と臨時列車1往復が運転されている。\nこのうち、サフィール踊り子1号・2号は毎日運転の定期列車として、3号（月・木・金曜日）・4号（火・水曜日以外の毎日）は臨時列車として、それぞれ東京駅 - 伊豆急下田駅間、5号は土休日に新宿駅 - 伊豆急下田駅間で運転される。",
+     "脚注": "",
+     "注釈": "",
+     "出典": "",
+     "参考文献": "天沼秀章（東日本旅客鉄道〈株〉鉄道事業本部運輸車両部車両技術センター）「NEW MODEL JR東日本E261系」『鉄道ピクトリアル』、鉄道図書刊行会、2020年9月、126 - 136頁。 \nエリエイ『とれいん』2020年7月号MODELERS FILE「東日本旅客鉄道 E261直流特急形電車」",
+     "外部リンク": "サフィール踊り子：JR東日本\n「E261系特急形直流電車 サフィール踊り子の概要 (PDF)  」（日本アルミニウム協会・インターネットアーカイブ）"
+    },
+    "全文": "E261系電車（E261けいでんしゃ）は、 東日本旅客鉄道（JR東日本）の直流特急形電車。2020年（令和2年）3月14日に、首都圏と伊豆方面を結ぶ特急「サフィール踊り子」として運用を開始した。\n\n\n== 概要 ==\nJR東日本の「グループ経営構想V（ファイブ）〜限りなき前進〜」（現在は後継のグループ経営ビジョン「変革2027」へ移行）のもと、観光流動の創造と地域の活性化を目的として、伊豆エリアに向けた新たな観光特急列車「サフィール踊り子」用の車両として導入され、2020年（令和2年）3月14日より営業運転を開始した。本形式の導入に伴い、それまで「スーパービュー踊り子」に使用されていた251系が全車置き換えられている。\nトータルデザインは奥山清行が率いる「KEN OKUYAMA DESIGN」が担当した。\n全車グリーン車で、その内1号車にはJR東日本初のプレミアムグリーン車、2・3号車にはグリーン個室、4号車にはカフェテリア（ヌードルバー）を連結している。JR東日本の在来線特急車両のグリーン車は255系以降4列配置が基本となっていたが、本形式ではグリーン車は3列配置、プレミアムグリーン車は2列配置となっている。\n車内チャイム・車載メロディ・ミュージックホーンは、すべて福嶋尚哉作曲のオリジナルのものを使用している。\n2021年に鉄道友の会選定のローレル賞を受賞している。\n\n\n== 構造 ==\n\n\n=== 車体 ===\n車体はアルミニウム合金製で、中空押出形材を使用したダブルスキン構造を採用している。\n外観のデザインコンセプトは「伊豆の圧倒的で雄大な自然」で、外装色の紺碧色は「伊豆の海と空」をイメージした伊豆アズールと呼ばれるメタリックブルー、白色は「伊豆の砂浜が太陽の光を受けて金色に輝く様子」（白浜ホワイト）、グレーは「溶岩地形である城ヶ崎海岸の黒々とした岩石」（城ヶ崎グレー）を表している。前照灯は連結器の左右にLED式（5粒×2段）の灯具を設置しており、ロービーム（下向き）時は上段が点灯し、ハイビーム（上向き）時は下段も含めた全点灯となる。前面ガラスの内側には尾灯と兼用の三角形をした装飾灯を配置している。\n側窓は側面だけではなく、側天井部に天窓を設置している。側天井部の窓には、遮光用カーテンを設置しないため、可視光透過率の低いガラスを使用している。\n\n\n=== 車内 ===\nトイレは2・3・5・7号車に洋式便所・男性用小便所・洗面台を配置しており、このうち5号車の洋式便所は大型電動車椅子対応型となっている。\n全席にコンセントを配置している。\nバリアフリーとして、5号車に車椅子対応座席を2席配置している。また、多目的室を配置しており、室内には簡易ベッドとして使用できる座席を配置している。\n\n\n==== グリーン車 ====\nプレミアムグリーン車はバックシェル付きの電動リクライニング本革シートを1人用2席 × 10列配置しており、シートピッチは1,250 mm。荷棚の設置は省略して、座席下に荷物スペースがあるほか、専用の荷物置き場を有する。\nグリーン車は座席はE5系新幹線のグリーン車用を基本とし、高級感を持たせている。電動レッグレスト、座席上部の読書灯が手元のスイッチで操作可能。シートピッチは1,160mm。背面式テーブル（車端部席ははね上げ式テーブル）及びひじ掛け内に小型のテーブルが収納されており、ドリンクホルダーも装着されている。\n荷棚はアルミフレームに強化ガラスをはめ込んだものとしており、天窓からの太陽光を感じられるようにした。室内の東京寄り（8号車は伊豆急下田寄り）に荷物置き場を設置している。\n個室（座席）は伊豆急下田方面に向かって左側にあり、海側の眺望に配慮している。\n\n\n==== カフェテリア ====\nオープンキッチンスペースと食事スペースから構成される。食事スペースは海側にカウンター席を8席、山側にソファー席を4人分 × 2か所配置している。\n\n\n=== 主要機器 ===\n制御装置には日立製作所製のフルSiCモジュール（SiC-MOSFET）適用の2レベル方式VVVFインバータ制御（SC121形）で、各電動車毎に制御装置を搭載する1C4M方式を採用する。\n主電動機はE235系と同様、MT79形外扇式全密閉かご形三相誘導電動機（定格出力140 kW）を採用している。歯車比は1:5.65。\n制動装置は回生ブレーキ併用電気指令式空気ブレーキ方式としている。直通予備ブレーキ、耐雪ブレーキ、抑速ブレーキ機能を有する。\n台車は、軸梁式ボルスタレス台車で動力台車がDT88、付随台車はTR272（クロのみ前位台車がTR272A）となっている。製造は日立製作所。すべての台車にフルアクティブ動揺防止装置及びヨーダンパを装備している。先頭台車のみ駐車ブレーキを装備している。基礎ブレーキは動力台車が片押し式の踏面ブレーキ（ユニットブレーキ）、付随台車がユニットブレーキと1軸2枚のディスクブレーキを併用する。\n\n集電装置（パンタグラフ）は、上昇検知付きのシングルアーム方式で、型番はPS33Hとしている。5号車の伊豆急下田方には予備パンタグラフが設置されている。\n補助電源装置はIGBT素子を使用した東洋電機製造製の待機2重系の静止形インバータ（SIV）を搭載する。形式はSC106A形、出力電圧は三相交流440 V、定格容量は260 kVA。\n空気圧縮機はドイツ・クノールブレムゼ製のMH3130-C1600F形を採用しており、毎分吐出容量は1,600 L。\n空調装置は三菱電機製AU302A形床下集中式の空調装置を各車に1台搭載している。冷房使用時は出力42kW（36,000 kcal/h）、暖房使用時は出力20kW（17,200 kcal/h）のものとなっている。\n保安装置はATS-P・ATS-SNを搭載している。またデジタル列車無線、防護無線（自動発報機能付き）、EB・TE装置が搭載されている。\n\n車両情報制御装置には、JR東日本の在来線旅客車両で2例目となるINTEROSを搭載している。\n\n\n== 形式 ==\n1 - 3号車は川崎重工業、4 - 8号車は日立製作所で製造。\n\nクロE261形（Tsc）\n東京方先頭車で、8号車。定員24名。運転室と業務用室を配置、床下に補助電源装置を搭載。この車両のみ席番が逆順となっており、東京方が1番席となる。\nクロE260形（Tsc'）\n伊豆急下田方先頭車で、1号車。定員20名のプレミアムグリーン車で、座席は海側寄りに1＋1列配置。運転室を配置、床下に補助電源装置を搭載。\nモロE261形\n\n0番台（M1s）\n5号車。定員14名。車椅子対応座席と多目的室、AED、車椅子対応トイレ設備を有する。モロE260形0番台とユニットを組む。集電装置（2基）と主制御器を搭載。\n100番台（M1s1）\n3号車。4人個室が2室と6人個室が2室の計4室20名のグリーン個室、トイレ設備を有する。モロE260形100番台とユニットを組む。集電装置（1基）、空気圧縮機、主制御器を搭載。\n200番台（Ms）\n7号車。定員30名。トイレ設備を有するほか、集電装置（1基）と空気圧縮機、主制御器を搭載。\nモロE260形\n\n0番台（M2s）\n6号車で、定員36名。モロE261形0番台とユニットを組む。床下に主制御器、蓄電池を搭載。\n100番台（M2s1）\n2号車。4人個室が2室と6人個室が2室の計4室20名のグリーン個室、トイレ設備を有する。モロE261形100番台とユニットを組む。床下に主制御器を搭載。\nサシE261形（TD）\n4号車。カフェテリア、オープンキッチン、車販コーナー、車販準備室がある。床下に蓄電池、水タンク、汚水タンクなどを搭載。\n\n\n=== 編成表 ===\n\n凡例\nVVVF：制御装置\nSIV：補助電源装置\nCP：電動空気圧縮機\nBT：蓄電池\nE-BT：非常起動用蓄電池\n＞：集電装置\nWC：トイレ、：車椅子対応座席（トイレも車椅子対応）\n\n\n== 運用 ==\n\n2020年3月14日ダイヤ改正より特急「サフィール踊り子」として、東京駅・新宿駅 - 伊豆急下田駅間で営業運転を開始した。\n定期列車1往復と臨時列車1往復が運転されている。\nこのうち、サフィール踊り子1号・2号は毎日運転の定期列車として、3号（月・木・金曜日）・4号（火・水曜日以外の毎日）は臨時列車として、それぞれ東京駅 - 伊豆急下田駅間、5号は土休日に新宿駅 - 伊豆急下田駅間で運転される。\n\n\n== 脚注 ==\n\n\n=== 注釈 ===\n\n\n=== 出典 ===\n\n\n== 参考文献 ==\n天沼秀章（東日本旅客鉄道〈株〉鉄道事業本部運輸車両部車両技術センター）「NEW MODEL JR東日本E261系」『鉄道ピクトリアル』、鉄道図書刊行会、2020年9月、126 - 136頁。 \nエリエイ『とれいん』2020年7月号MODELERS FILE「東日本旅客鉄道 E261直流特急形電車」\n\n\n== 外部リンク ==\nサフィール踊り子：JR東日本\n「E261系特急形直流電車 サフィール踊り子の概要 (PDF)  」（日本アルミニウム協会・インターネットアーカイブ）",
+    "字数": 3832
+   },
+   "中文": {
+    "词条标题": "JR東日本E261系電力動車組",
+    "链接": "https://zh.wikipedia.org/wiki/JR%E6%9D%B1%E6%97%A5%E6%9C%ACE261%E7%B3%BB%E9%9B%BB%E5%8A%9B%E5%8B%95%E8%BB%8A%E7%B5%84",
+    "首段": "JR東日本E261系電聯車（日語：E261系電車／E261けいでんしゃ，羅馬化：E261 kei densha）是東日本旅客鐵道（JR東日本）的直流特急型車輛。2020年（令和2年）3月14日投入运营。",
+    "章节": {
+     "概述": "JR東日本于「集團經營構想V 〜不斷前進〜」（现在集團后继的經營願景「變革2027」）的理念下以创造旅游观光流动和活化地区为目的，作为面向伊豆半岛地区而推出新型观光特急列车「Saphir踊子号」（サフィール踊り子）的专用列车。\n列车的设计由奥山清行率领的「KEN OKUYAMA DESIGN」负责。车体外观以「伊豆压倒性雄伟的自然」为设计理念，车体颜色中碧蓝色代表「伊豆的海和天空」、白色代表「伊豆沙滩在阳光下闪耀金色的样子」、灰色代表「城崎海岸熔岩地形中的黑色岩石」。\n全車为绿色車厢，其中1号車为JR東日本首次设置的「豪華綠色車廂」（プレミアムグリーン，相當於新幹線的特等車廂-グランクラス級別），與新幹線的特等車廂（グランクラス）不同的是，座椅可自由旋轉，2、3号車为绿色车厢包廂，4号車为餐车（麵食吧）。在JR東日本的在来線特急的绿色車厢座椅布置在255系之后基本采用一排4布置，但在本系列中，绿色车厢为一排3布置，豪華綠色車厢则为一排2布置。\n此外，車内提示鈴聲、车载旋律以及警笛铃声均全部使用編曲家福嶋尚哉的編曲，他為JR東日本及多家鐵道公司創作與編曲車內與月台提醒鈴聲，其中警笛铃声於投入營運前試車時使用與 E259系，E353系，E653系，E655系，E657系同款铃声。\n2021年5月，鐵道友之會決定頒贈桂冠獎（ローレル賞）給E261系電聯車。",
+     "型式": "1 - 3号車由川崎重工業制造，4 - 8号車由日立製作所制造。\n\nクロE261形（Tsc）\n東京方向头車，8号車。定員24名。搭載補助電源装置。\nクロE260形（Tsc'）\n热海方向头車，1号車。定員20名的豪华绿色车厢，座席采用1+1布置。搭載補助電源装置。\nモロE261形\n\n0番台（M1s）\n5号車。定員14名。有轮椅对应座位。与モロE260形0番台组合。搭載集電装置（2个）以及主控制器。\n100番台（M1s1）\n3号車。2个4人室加2个6人室，共計4室定员20名的绿色车厢包厢。与モロE260形100番台组合。搭載集電装置、空气圧縮機、主控制器。\n200番台（Ms）\n7号車。定員30名。搭載集電装置、空气圧縮機、主控制器。\nモロE260形\n\n0番台（M2s）\n6号車。定員36名。与モロE261形0番台组合。搭載主控制器。\n100番台（M2s1）\n2号車。2个4人室加2个6人室，共計4室定员20名的绿色车厢包厢。与モロE261形100番台组合。搭載主控制器。\nサシE261形（TD）\n4号車。设有麵食吧，地板下搭載水箱。",
+     "编组表": "■ 绿色車厢、■ 豪華綠色車廂",
+     "運用": "2编组已于2020年3月14日正式投入运营。目前运用于東京站及新宿站至伊豆急下田站間特急「Saphir踴子號」定期运行一對來回班次以及临时运行一對來回班次。",
+     "注释": "",
+     "參考資料": "",
+     "外部链接": "Saphir踊子号 （页面存档备份，存于互联网档案馆）：JR東日本（日語）"
+    },
+    "全文": "JR東日本E261系電聯車（日語：E261系電車／E261けいでんしゃ，羅馬化：E261 kei densha）是東日本旅客鐵道（JR東日本）的直流特急型車輛。2020年（令和2年）3月14日投入运营。\n\n\n== 概述 ==\nJR東日本于「集團經營構想V 〜不斷前進〜」（现在集團后继的經營願景「變革2027」）的理念下以创造旅游观光流动和活化地区为目的，作为面向伊豆半岛地区而推出新型观光特急列车「Saphir踊子号」（サフィール踊り子）的专用列车。\n列车的设计由奥山清行率领的「KEN OKUYAMA DESIGN」负责。车体外观以「伊豆压倒性雄伟的自然」为设计理念，车体颜色中碧蓝色代表「伊豆的海和天空」、白色代表「伊豆沙滩在阳光下闪耀金色的样子」、灰色代表「城崎海岸熔岩地形中的黑色岩石」。\n全車为绿色車厢，其中1号車为JR東日本首次设置的「豪華綠色車廂」（プレミアムグリーン，相當於新幹線的特等車廂-グランクラス級別），與新幹線的特等車廂（グランクラス）不同的是，座椅可自由旋轉，2、3号車为绿色车厢包廂，4号車为餐车（麵食吧）。在JR東日本的在来線特急的绿色車厢座椅布置在255系之后基本采用一排4布置，但在本系列中，绿色车厢为一排3布置，豪華綠色車厢则为一排2布置。\n此外，車内提示鈴聲、车载旋律以及警笛铃声均全部使用編曲家福嶋尚哉的編曲，他為JR東日本及多家鐵道公司創作與編曲車內與月台提醒鈴聲，其中警笛铃声於投入營運前試車時使用與 E259系，E353系，E653系，E655系，E657系同款铃声。\n2021年5月，鐵道友之會決定頒贈桂冠獎（ローレル賞）給E261系電聯車。\n\n\n== 型式 ==\n1 - 3号車由川崎重工業制造，4 - 8号車由日立製作所制造。\n\nクロE261形（Tsc）\n東京方向头車，8号車。定員24名。搭載補助電源装置。\nクロE260形（Tsc'）\n热海方向头車，1号車。定員20名的豪华绿色车厢，座席采用1+1布置。搭載補助電源装置。\nモロE261形\n\n0番台（M1s）\n5号車。定員14名。有轮椅对应座位。与モロE260形0番台组合。搭載集電装置（2个）以及主控制器。\n100番台（M1s1）\n3号車。2个4人室加2个6人室，共計4室定员20名的绿色车厢包厢。与モロE260形100番台组合。搭載集電装置、空气圧縮機、主控制器。\n200番台（Ms）\n7号車。定員30名。搭載集電装置、空气圧縮機、主控制器。\nモロE260形\n\n0番台（M2s）\n6号車。定員36名。与モロE261形0番台组合。搭載主控制器。\n100番台（M2s1）\n2号車。2个4人室加2个6人室，共計4室定员20名的绿色车厢包厢。与モロE261形100番台组合。搭載主控制器。\nサシE261形（TD）\n4号車。设有麵食吧，地板下搭載水箱。\n\n\n=== 编组表 ===\n\n■ 绿色車厢、■ 豪華綠色車廂\n\n\n== 運用 ==\n2编组已于2020年3月14日正式投入运营。目前运用于東京站及新宿站至伊豆急下田站間特急「Saphir踴子號」定期运行一對來回班次以及临时运行一對來回班次。\n\n\n== 注释 ==\n\n\n== 參考資料 ==\n\n\n== 外部链接 ==\n\nSaphir踊子号 （页面存档备份，存于互联网档案馆）：JR東日本（日語）",
+    "字数": 1374
+   },
+   "英文": {
+    "词条标题": "E261 series",
+    "链接": "https://en.wikipedia.org/wiki/E261%20series",
+    "首段": "The E261 series (Japanese: E261系, Hepburn: E261-kei) is an electric multiple unit (EMU) train type operated by East Japan Railway Company (JR East) in Japan on Saphir Odoriko limited express services between Tokyo and Izukyū-Shimoda. It was designed to replace the older 251 series trains that were used on Super View Odoriko limited express services from April 28, 1990, until March 13, 2020.",
+    "章节": {
+     "History": "The trains are designed by Ken Okuyama Design, with exterior painted with sapphire blue to match with the blue sky of the Izu Peninsula. Two eight car sets were manufactured, by Kawasaki Heavy Industries' Hyogo factory (cars 1 to 3) and Hitachi's Kasado factory (cars 4 to 8).\nSet RS1 operated a trial run on November 21, 2019, and the trains entered service on March 14, 2020, the day after the 251 series Super View Odoriko sets were retired.",
+     "Technical specifications": "The car bodies are made of aluminum, and the trains use three phase motors and VVVF inverters. Each car has one door per side; cars 3, 5, and 7 are fitted with pantographs, with the one on car 5 being for emergency use.",
+     "Formation": "The trains are formed as eight-car sets, with five motored and three trailer cars. Car 1 faces towards Izukyū-Shimoda and car 8 towards Tokyo.\n\nCars 3 and 7 are each fitted with one single-arm pantograph, and car 5 is fitted with two.",
+     "Interior": "",
+     "Premium Green Car (Car 1)": "Car 1 is designated as a \"premium green car\" with a 1+1 private seating layout. The fully power-reclining seats, made of leather and equipped with leg rest and luggage space under each seat, can be swiveled towards the window side for the view of Izu's seaside.",
+     "Green car private compartments (Cars 2 and 3)": "Cars 2 to 3 are designated as \"green cars\" with private compartment seating for groups of 4 to 6 people and are priced higher than the \"premium green car\". Seats are arranged in transverse seating for the 4 person compartments and individual seatings for the 6 person compartments. All private compartments have the electrical power outlets.",
+     "Cafeteria (Car 4)": "Car 4 is designated as the cafeteria, with an open-style kitchen, counter seats, and table seats.",
+     "Green car (Cars 5 to 8)": "Cars 5 to 8 are designated as regular \"green cars\"; passenger accommodation consists of 2+1 seating throughout. Each seat is equipped with power outlets and can be reclined. Two single seats on car 5 are equipped with belts for wheelchairs.",
+     "Features": "All cars, except cars 2 to 4, have a luggage area at the end sections and overhead, and restrooms are available in cars 2, 3, and 7, with multi-accessible toilet located at car 5. All seats except private compartments are equipped with personal reading lights, and all cars feature Wi-Fi connection.",
+     "See also": "251 series, the limited express EMU type used on Super View Odoriko services prior to the introduction of the E261 series\nOdoriko, the regular express service beside the limited express service",
+     "References": "",
+     "External links": "JR East press release (in Japanese)"
+    },
+    "全文": "The E261 series (Japanese: E261系, Hepburn: E261-kei) is an electric multiple unit (EMU) train type operated by East Japan Railway Company (JR East) in Japan on Saphir Odoriko limited express services between Tokyo and Izukyū-Shimoda. It was designed to replace the older 251 series trains that were used on Super View Odoriko limited express services from April 28, 1990, until March 13, 2020.\n\n\n== History ==\nThe trains are designed by Ken Okuyama Design, with exterior painted with sapphire blue to match with the blue sky of the Izu Peninsula. Two eight car sets were manufactured, by Kawasaki Heavy Industries' Hyogo factory (cars 1 to 3) and Hitachi's Kasado factory (cars 4 to 8).\nSet RS1 operated a trial run on November 21, 2019, and the trains entered service on March 14, 2020, the day after the 251 series Super View Odoriko sets were retired.\n\n\n== Technical specifications ==\nThe car bodies are made of aluminum, and the trains use three phase motors and VVVF inverters. Each car has one door per side; cars 3, 5, and 7 are fitted with pantographs, with the one on car 5 being for emergency use.\n\n\n== Formation ==\nThe trains are formed as eight-car sets, with five motored and three trailer cars. Car 1 faces towards Izukyū-Shimoda and car 8 towards Tokyo.\n\nCars 3 and 7 are each fitted with one single-arm pantograph, and car 5 is fitted with two.\n\n\n== Interior ==\n\n\n=== Premium Green Car (Car 1) ===\nCar 1 is designated as a \"premium green car\" with a 1+1 private seating layout. The fully power-reclining seats, made of leather and equipped with leg rest and luggage space under each seat, can be swiveled towards the window side for the view of Izu's seaside. \n\n\n=== Green car private compartments (Cars 2 and 3) ===\nCars 2 to 3 are designated as \"green cars\" with private compartment seating for groups of 4 to 6 people and are priced higher than the \"premium green car\". Seats are arranged in transverse seating for the 4 person compartments and individual seatings for the 6 person compartments. All private compartments have the electrical power outlets. \n\n\n=== Cafeteria (Car 4) ===\nCar 4 is designated as the cafeteria, with an open-style kitchen, counter seats, and table seats.\n\n\n=== Green car (Cars 5 to 8) ===\nCars 5 to 8 are designated as regular \"green cars\"; passenger accommodation consists of 2+1 seating throughout. Each seat is equipped with power outlets and can be reclined. Two single seats on car 5 are equipped with belts for wheelchairs.\n\n\n=== Features ===\nAll cars, except cars 2 to 4, have a luggage area at the end sections and overhead, and restrooms are available in cars 2, 3, and 7, with multi-accessible toilet located at car 5. All seats except private compartments are equipped with personal reading lights, and all cars feature Wi-Fi connection.\n\n\n== See also ==\n251 series, the limited express EMU type used on Super View Odoriko services prior to the introduction of the E261 series\nOdoriko, the regular express service beside the limited express service\n\n\n== References ==\n\n\n== External links ==\n\nJR East press release (in Japanese)",
+    "字数": 3085
+   }
+  }
+ }
+}

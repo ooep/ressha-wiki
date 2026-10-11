@@ -10,9 +10,11 @@
   },
   "标识": {
    "图标文件": [
+    "36_slopecar/mt-minobusan__slp-mnb1.png",
     "36_slopecar/mt-minobusan__slp-mnb1h.png"
    ],
    "图标token": [
+    "slp-mnb1",
     "slp-mnb1h"
    ],
    "网站键": {

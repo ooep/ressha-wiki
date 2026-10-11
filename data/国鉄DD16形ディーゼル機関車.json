@@ -10,10 +10,12 @@
   },
   "标识": {
    "图标文件": [
-    "02_east/working-car__dd16omy4.png"
+    "02_east/working-car__dd16omy4.png",
+    "02_east/working-car__dd16omy5.png"
    ],
    "图标token": [
-    "dd16omy4"
+    "dd16omy4",
+    "dd16omy5"
    ],
    "网站键": {
     "特急": [],

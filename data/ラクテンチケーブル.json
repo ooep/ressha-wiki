@@ -1,24 +1,26 @@
 {
  "车辆": {
   "名称": {
-   "日文": "*沖縄県営鉄道/電軌",
+   "日文": "ラクテンチケーブル",
    "中文": null,
    "英文": null,
    "运营者": [
-    "九州私鉄"
+    "ケーブルカー"
    ]
   },
   "标识": {
    "图标文件": [
-    "34_kyushu_mi/okinawa-rail-tram__1okik1.png"
+    "35_cablecar/rakutenchi-funicular__cb-rktn1.png",
+    "35_cablecar/rakutenchi-funicular__cb-rktn2.png"
    ],
    "图标token": [
-    "1okik1"
+    "cb-rktn1",
+    "cb-rktn2"
    ],
    "网站键": {
     "特急": [],
     "线路": [
-     "沖縄都市モノレール"
+     "別府ラクテンチケーブル線"
     ]
    }
   },

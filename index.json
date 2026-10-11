@@ -1,10 +1,10 @@
 {
  "统计": {
-  "车辆总数": 636,
-  "有日文词条": 634,
-  "有中文词条": 439,
-  "有英文词条": 407,
-  "三语齐全": 351
+  "车辆总数": 649,
+  "有日文词条": 637,
+  "有中文词条": 443,
+  "有英文词条": 411,
+  "三语齐全": 356
  },
  "车辆": [
   {
@@ -1838,10 +1838,12 @@
     "JR東日本"
    ],
    "图标文件": [
-    "02_east/working-car__dd16omy4.png"
+    "02_east/working-car__dd16omy4.png",
+    "02_east/working-car__dd16omy5.png"
    ],
    "图标token": [
-    "dd16omy4"
+    "dd16omy4",
+    "dd16omy5"
    ],
    "特急": [],
    "线路": [
@@ -9507,10 +9509,12 @@
     "九州私鉄"
    ],
    "图标文件": [
-    "34_kyushu_mi/okinawa-rail-tram__1okik0.png"
+    "34_kyushu_mi/okinawa-rail-tram__1okik0.png",
+    "34_kyushu_mi/okinawa-rail-tram__1okik1.png"
    ],
    "图标token": [
-    "1okik0"
+    "1okik0",
+    "1okik1"
    ],
    "特急": [],
    "线路": [
@@ -9660,80 +9664,29 @@
    "文件": "data/十国峠十国鋼索線.json"
   },
   {
-   "日文": "ケーブルカー",
-   "中文": "地面纜車",
-   "英文": "Cable railway",
+   "日文": "湯の山温泉希望荘",
+   "中文": null,
+   "英文": null,
    "运营者": [
     "ケーブルカー"
    ],
    "图标文件": [
-    "35_cablecar/eizan-funicular__cb-kfuk.png",
-    "35_cablecar/jukkoku-funicular__cb-jkk1v.png",
     "35_cablecar/kiboso-hotel-1-2-2026-9-18-update__slp-kiboso1gh.png",
-    "35_cablecar/kiboso-hotel-1-2-2026-9-18-update__slp-kiboso1rh.png",
-    "35_cablecar/kurobe-funicular__cb-krb1l.png",
-    "35_cablecar/maya-funicular__cb-maya1r.png",
-    "35_cablecar/minoo-funicular__cb-mno1g.png",
-    "35_cablecar/mitake-funicular__cb-mtk3lr.png",
-    "35_cablecar/myoken-funicular__cb-mykn2u.png",
-    "35_cablecar/oyama-funicular__cb-oym1s.png",
-    "35_cablecar/rakutenchi-funicular__cb-rktn1.png",
-    "35_cablecar/rakutenchi-funicular__cb-rktn2.png",
-    "35_cablecar/sarakura-funicular__cb-hbsrb.png",
-    "35_cablecar/takaosan-funicular__cb-tko102.png",
-    "35_cablecar/tateyama-funicular__cb-ttym0.png",
-    "35_cablecar/tateyama-funicular__cb-ttym0l.png",
-    "35_cablecar/tsukuba-funicular__cb-tkb-g.png",
-    "35_cablecar/untitled__cb-krm2l.png",
-    "35_cablecar/yakuri-funicular__cb-ygr2l.png"
+    "35_cablecar/kiboso-hotel-1-2-2026-9-18-update__slp-kiboso1rh.png"
    ],
    "图标token": [
-    "cb-hbsrb",
-    "cb-jkk1v",
-    "cb-kfuk",
-    "cb-krb1l",
-    "cb-krm2l",
-    "cb-maya1r",
-    "cb-mno1g",
-    "cb-mtk3lr",
-    "cb-mykn2u",
-    "cb-oym1s",
-    "cb-rktn1",
-    "cb-rktn2",
-    "cb-tkb-g",
-    "cb-tko102",
-    "cb-ttym0",
-    "cb-ttym0l",
-    "cb-ygr2l",
     "slp-kiboso1gh",
     "slp-kiboso1rh"
    ],
    "特急": [],
    "线路": [
-    "八栗ケーブル",
-    "別府ラクテンチケーブル線",
-    "十国鋼索線",
-    "叡山ケーブル",
-    "大山鋼索線",
-    "妙見線",
-    "御岳登山ケーブル",
-    "摩耶ケーブル線",
     "湯の山線",
-    "皿倉山ケーブルカー",
-    "立山ケーブルカー",
-    "筑波山鋼索鉄道線",
-    "箕面線",
-    "近鉄湯の山線",
-    "鞍馬線",
-    "高尾",
-    "高尾登山ケーブル",
-    "高尾線",
-    "黒部ケーブルカー"
+    "近鉄湯の山線"
    ],
-   "有日文": true,
-   "有中文": true,
-   "有英文": true,
-   "文件": "data/ケーブルカー.json"
+   "有日文": false,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/湯の山温泉希望荘.json"
   },
   {
    "日文": "立山黒部貫光黒部ケーブルカー",
@@ -9809,10 +9762,12 @@
     "ケーブルカー"
    ],
    "图标文件": [
-    "35_cablecar/mitake-funicular__cb-mtk3hr.png"
+    "35_cablecar/mitake-funicular__cb-mtk3hr.png",
+    "35_cablecar/mitake-funicular__cb-mtk3lr.png"
    ],
    "图标token": [
-    "cb-mtk3hr"
+    "cb-mtk3hr",
+    "cb-mtk3lr"
    ],
    "特急": [],
    "线路": [
@@ -9897,10 +9852,12 @@
     "ケーブルカー"
    ],
    "图标文件": [
-    "35_cablecar/takaosan-funicular__cb-tko101.png"
+    "35_cablecar/takaosan-funicular__cb-tko101.png",
+    "35_cablecar/takaosan-funicular__cb-tko102.png"
    ],
    "图标token": [
-    "cb-tko101"
+    "cb-tko101",
+    "cb-tko102"
    ],
    "特急": [],
    "线路": [
@@ -10100,10 +10057,12 @@
     "スロープカー"
    ],
    "图标文件": [
-    "36_slopecar/koura-shrine__slp-takr1.png"
+    "36_slopecar/koura-shrine__slp-takr1.png",
+    "36_slopecar/koura-shrine__slp-takr1l.png"
    ],
    "图标token": [
-    "slp-takr1"
+    "slp-takr1",
+    "slp-takr1l"
    ],
    "特急": [],
    "线路": [
@@ -10123,9 +10082,11 @@
     "スロープカー"
    ],
    "图标文件": [
+    "36_slopecar/mt-minobusan__slp-mnb1.png",
     "36_slopecar/mt-minobusan__slp-mnb1h.png"
    ],
    "图标token": [
+    "slp-mnb1",
     "slp-mnb1h"
    ],
    "特急": [],
@@ -11552,26 +11513,58 @@
    "文件": "data/一畑電車1000系電車.json"
   },
   {
-   "日文": "山陽山陰",
-   "中文": null,
-   "英文": null,
+   "日文": "一畑電車",
+   "中文": "一畑電車",
+   "英文": "Ichibata Electric Railway",
    "运营者": [
     "山陽山陰"
    ],
    "图标文件": [
-    "26_sanyosanin/ichibata-rail__1itbt11d.png"
+    "26_sanyosanin/ichibata-rail__1itbt11d.png",
+    "26_sanyosanin/ichibata-rail__itbt1.png",
+    "26_sanyosanin/ichibata-rail__itbt1001.png",
+    "26_sanyosanin/ichibata-rail__itbt1002.png",
+    "26_sanyosanin/ichibata-rail__itbt1003.png",
+    "26_sanyosanin/ichibata-rail__itbt1o.png",
+    "26_sanyosanin/ichibata-rail__itbt3001.png",
+    "26_sanyosanin/ichibata-rail__itbt60.png",
+    "26_sanyosanin/ichibata-rail__itbt7001.png",
+    "26_sanyosanin/ichibata-rail__itbt7001p.png",
+    "26_sanyosanin/ichibata-rail__itbt7002.png",
+    "26_sanyosanin/ichibata-rail__itbt7002p.png",
+    "26_sanyosanin/ichibata-rail__itbt7003.png",
+    "26_sanyosanin/ichibata-rail__itbt7003p.png",
+    "26_sanyosanin/ichibata-rail__itbt7004.png",
+    "26_sanyosanin/ichibata-rail__itbt7004p.png",
+    "26_sanyosanin/ichibata-rail__itbt90.png"
    ],
    "图标token": [
-    "1itbt11d"
+    "1itbt11d",
+    "itbt1",
+    "itbt1001",
+    "itbt1002",
+    "itbt1003",
+    "itbt1o",
+    "itbt3001",
+    "itbt60",
+    "itbt7001",
+    "itbt7001p",
+    "itbt7002",
+    "itbt7002p",
+    "itbt7003",
+    "itbt7003p",
+    "itbt7004",
+    "itbt7004p",
+    "itbt90"
    ],
    "特急": [
     "一畑電車特急"
    ],
    "线路": [],
-   "有日文": false,
-   "有中文": false,
-   "有英文": false,
-   "文件": "data/山陽山陰.json"
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/一畑電車.json"
   },
   {
    "日文": "一畑電車7000系電車",
@@ -14646,58 +14639,6 @@
    "文件": "data/西武501系電車.json"
   },
   {
-   "日文": "一畑電車",
-   "中文": "一畑電車",
-   "英文": "Ichibata Electric Railway",
-   "运营者": [
-    "山陽山陰"
-   ],
-   "图标文件": [
-    "26_sanyosanin/ichibata-rail__itbt1.png",
-    "26_sanyosanin/ichibata-rail__itbt1001.png",
-    "26_sanyosanin/ichibata-rail__itbt1002.png",
-    "26_sanyosanin/ichibata-rail__itbt1003.png",
-    "26_sanyosanin/ichibata-rail__itbt1o.png",
-    "26_sanyosanin/ichibata-rail__itbt3001.png",
-    "26_sanyosanin/ichibata-rail__itbt60.png",
-    "26_sanyosanin/ichibata-rail__itbt7001.png",
-    "26_sanyosanin/ichibata-rail__itbt7001p.png",
-    "26_sanyosanin/ichibata-rail__itbt7002.png",
-    "26_sanyosanin/ichibata-rail__itbt7002p.png",
-    "26_sanyosanin/ichibata-rail__itbt7003.png",
-    "26_sanyosanin/ichibata-rail__itbt7003p.png",
-    "26_sanyosanin/ichibata-rail__itbt7004.png",
-    "26_sanyosanin/ichibata-rail__itbt7004p.png",
-    "26_sanyosanin/ichibata-rail__itbt90.png"
-   ],
-   "图标token": [
-    "itbt1",
-    "itbt1001",
-    "itbt1002",
-    "itbt1003",
-    "itbt1o",
-    "itbt3001",
-    "itbt60",
-    "itbt7001",
-    "itbt7001p",
-    "itbt7002",
-    "itbt7002p",
-    "itbt7003",
-    "itbt7003p",
-    "itbt7004",
-    "itbt7004p",
-    "itbt90"
-   ],
-   "特急": [
-    "一畑電車特急"
-   ],
-   "线路": [],
-   "有日文": true,
-   "有中文": true,
-   "有英文": true,
-   "文件": "data/一畑電車.json"
-  },
-  {
    "日文": "一畑電気鉄道2100系電車",
    "中文": "一畑電氣鐵道2100系電聯車",
    "英文": null,
@@ -15534,6 +15475,28 @@
    "文件": "data/信楽高原鐵道.json"
   },
   {
+   "日文": "八栗ケーブル",
+   "中文": "八栗纜索",
+   "英文": "Yakuri Cable",
+   "运营者": [
+    "ケーブルカー"
+   ],
+   "图标文件": [
+    "35_cablecar/yakuri-funicular__cb-ygr2l.png"
+   ],
+   "图标token": [
+    "cb-ygr2l"
+   ],
+   "特急": [],
+   "线路": [
+    "八栗ケーブル"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/八栗ケーブル.json"
+  },
+  {
    "日文": "函館市交通局",
    "中文": "函館市企業局交通部",
    "英文": "Hakodate Transportation Bureau",
@@ -15669,6 +15632,28 @@
    "文件": "data/神戸市交通局1000形電車 (鉄道).json"
   },
   {
+   "日文": "叡山ケーブル",
+   "中文": "鋼索線 (京福電氣鐵道)",
+   "英文": "Keifuku Cable Line",
+   "运营者": [
+    "ケーブルカー"
+   ],
+   "图标文件": [
+    "35_cablecar/eizan-funicular__cb-kfuk.png"
+   ],
+   "图标token": [
+    "cb-kfuk"
+   ],
+   "特急": [],
+   "线路": [
+    "叡山ケーブル"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/叡山ケーブル.json"
+  },
+  {
    "日文": "叡山電鉄",
    "中文": "叡山電鐵",
    "英文": "Eizan Electric Railway",
@@ -15694,46 +15679,26 @@
    "文件": "data/叡山電鉄.json"
   },
   {
-   "日文": "スロープカー",
-   "中文": null,
-   "英文": "Slope car",
+   "日文": "妙見ケーブル",
+   "中文": "妙見之森纜索線",
+   "英文": "Myoken Cable",
    "运营者": [
-    "スロープカー"
+    "ケーブルカー"
    ],
    "图标文件": [
-    "36_slopecar/fuji-kodomo__slp-fjikdm2.png",
-    "36_slopecar/hamamatsu-fp__slp-hmmtfp1l.png",
-    "36_slopecar/kai-kinugawa-hotel__slp-kaikngw1.png",
-    "36_slopecar/koura-shrine__slp-takr1l.png",
-    "36_slopecar/mt-minobusan__slp-mnb1.png",
-    "36_slopecar/naruto-sloppy__slp-narut1y.png",
-    "36_slopecar/naruto-sloppy__slp-narut1yk.png"
+    "35_cablecar/myoken-funicular__cb-mykn2u.png"
    ],
    "图标token": [
-    "slp-fjikdm2",
-    "slp-hmmtfp1l",
-    "slp-kaikngw1",
-    "slp-mnb1",
-    "slp-narut1y",
-    "slp-narut1yk",
-    "slp-takr1l"
+    "cb-mykn2u"
    ],
    "特急": [],
    "线路": [
-    "フラワー長井線",
-    "一畑電車大社線",
-    "会津鬼怒川線",
-    "大社線",
-    "山形鉄道フラワー長井線",
-    "東急こどもの国線",
-    "浜松",
-    "身延線",
-    "鳴門線"
+    "妙見線"
    ],
    "有日文": true,
-   "有中文": false,
+   "有中文": true,
    "有英文": true,
-   "文件": "data/スロープカー.json"
+   "文件": "data/妙見ケーブル.json"
   },
   {
    "日文": "JR北海道",
@@ -15864,6 +15829,28 @@
    "有中文": true,
    "有英文": true,
    "文件": "data/国鉄DE10形ディーゼル機関車.json"
+  },
+  {
+   "日文": "摩耶ケーブル",
+   "中文": "摩耶纜索線",
+   "英文": "Maya Cablecar",
+   "运营者": [
+    "ケーブルカー"
+   ],
+   "图标文件": [
+    "35_cablecar/maya-funicular__cb-maya1r.png"
+   ],
+   "图标token": [
+    "cb-maya1r"
+   ],
+   "特急": [],
+   "线路": [
+    "摩耶ケーブル線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/摩耶ケーブル.json"
   },
   {
    "日文": "樽見鉄道ハイモ330-700形気動車",
@@ -16108,6 +16095,28 @@
    "文件": "data/筑豊電気鉄道.json"
   },
   {
+   "日文": "箕面温泉ケーブル",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "ケーブルカー"
+   ],
+   "图标文件": [
+    "35_cablecar/minoo-funicular__cb-mno1g.png"
+   ],
+   "图标token": [
+    "cb-mno1g"
+   ],
+   "特急": [],
+   "线路": [
+    "箕面線"
+   ],
+   "有日文": false,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/箕面温泉ケーブル.json"
+  },
+  {
    "日文": "紀州鉄道",
    "中文": "紀州鐵道",
    "英文": "Kishū Railway Line",
@@ -16197,6 +16206,52 @@
    "有中文": true,
    "有英文": true,
    "文件": "data/阿武隈急行.json"
+  },
+  {
+   "日文": "ケーブルカー",
+   "中文": "地面纜車",
+   "英文": "Cable railway",
+   "运营者": [
+    "ケーブルカー"
+   ],
+   "图标文件": [
+    "35_cablecar/untitled__cb-krm2l.png"
+   ],
+   "图标token": [
+    "cb-krm2l"
+   ],
+   "特急": [],
+   "线路": [
+    "鞍馬線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/ケーブルカー.json"
+  },
+  {
+   "日文": "鳴門スロッピー",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "スロープカー"
+   ],
+   "图标文件": [
+    "36_slopecar/naruto-sloppy__slp-narut1y.png",
+    "36_slopecar/naruto-sloppy__slp-narut1yk.png"
+   ],
+   "图标token": [
+    "slp-narut1y",
+    "slp-narut1yk"
+   ],
+   "特急": [],
+   "线路": [
+    "鳴門線"
+   ],
+   "有日文": false,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/鳴門スロッピー.json"
   },
   {
    "日文": "黒部峡谷鉄道",
@@ -16290,6 +16345,30 @@
    "文件": "data/小湊鉄道キハ200形気動車.json"
   },
   {
+   "日文": "ラクテンチケーブル",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "ケーブルカー"
+   ],
+   "图标文件": [
+    "35_cablecar/rakutenchi-funicular__cb-rktn1.png",
+    "35_cablecar/rakutenchi-funicular__cb-rktn2.png"
+   ],
+   "图标token": [
+    "cb-rktn1",
+    "cb-rktn2"
+   ],
+   "特急": [],
+   "线路": [
+    "別府ラクテンチケーブル線"
+   ],
+   "有日文": false,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/ラクテンチケーブル.json"
+  },
+  {
    "日文": "伊豆箱根鉄道",
    "中文": "伊豆箱根鐵道",
    "英文": "Izuhakone Railway",
@@ -16369,6 +16448,52 @@
    "文件": "data/甘木鉄道.json"
   },
   {
+   "日文": "皿倉山ケーブル",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "ケーブルカー"
+   ],
+   "图标文件": [
+    "35_cablecar/sarakura-funicular__cb-hbsrb.png"
+   ],
+   "图标token": [
+    "cb-hbsrb"
+   ],
+   "特急": [],
+   "线路": [
+    "皿倉山ケーブルカー"
+   ],
+   "有日文": false,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/皿倉山ケーブル.json"
+  },
+  {
+   "日文": "立山ケーブル",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "ケーブルカー"
+   ],
+   "图标文件": [
+    "35_cablecar/tateyama-funicular__cb-ttym0.png",
+    "35_cablecar/tateyama-funicular__cb-ttym0l.png"
+   ],
+   "图标token": [
+    "cb-ttym0",
+    "cb-ttym0l"
+   ],
+   "特急": [],
+   "线路": [
+    "立山ケーブルカー"
+   ],
+   "有日文": false,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/立山ケーブル.json"
+  },
+  {
    "日文": "武蔵野鉄道デハ5560形電車",
    "中文": null,
    "英文": null,
@@ -16391,6 +16516,28 @@
    "有中文": false,
    "有英文": false,
    "文件": "data/武蔵野鉄道デハ5560形電車.json"
+  },
+  {
+   "日文": "黒部ケーブル",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "ケーブルカー"
+   ],
+   "图标文件": [
+    "35_cablecar/kurobe-funicular__cb-krb1l.png"
+   ],
+   "图标token": [
+    "cb-krb1l"
+   ],
+   "特急": [],
+   "线路": [
+    "黒部ケーブルカー"
+   ],
+   "有日文": false,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/黒部ケーブル.json"
   },
   {
    "日文": "大阪市交通局",
@@ -16438,6 +16585,30 @@
    "文件": "data/北越急行.json"
   },
   {
+   "日文": "浜松フラワーパーク",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "スロープカー"
+   ],
+   "图标文件": [
+    "36_slopecar/hamamatsu-fp__slp-hmmtfp1l.png"
+   ],
+   "图标token": [
+    "slp-hmmtfp1l"
+   ],
+   "特急": [],
+   "线路": [
+    "フラワー長井線",
+    "山形鉄道フラワー長井線",
+    "浜松"
+   ],
+   "有日文": false,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/浜松フラワーパーク.json"
+  },
+  {
    "日文": "阪堺電気軌道",
    "中文": "阪堺電氣軌道",
    "英文": "Hankai Tramway",
@@ -16458,6 +16629,50 @@
    "有中文": true,
    "有英文": true,
    "文件": "data/阪堺電気軌道.json"
+  },
+  {
+   "日文": "十国峠ケーブル",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "ケーブルカー"
+   ],
+   "图标文件": [
+    "35_cablecar/jukkoku-funicular__cb-jkk1v.png"
+   ],
+   "图标token": [
+    "cb-jkk1v"
+   ],
+   "特急": [],
+   "线路": [
+    "十国鋼索線"
+   ],
+   "有日文": false,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/十国峠ケーブル.json"
+  },
+  {
+   "日文": "大山ケーブル",
+   "中文": "大山鋼索線",
+   "英文": "Ōyama Cable Car",
+   "运营者": [
+    "ケーブルカー"
+   ],
+   "图标文件": [
+    "35_cablecar/oyama-funicular__cb-oym1s.png"
+   ],
+   "图标token": [
+    "cb-oym1s"
+   ],
+   "特急": [],
+   "线路": [
+    "大山鋼索線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/大山ケーブル.json"
   },
   {
    "日文": "愛知高速交通",
@@ -16483,6 +16698,28 @@
    "文件": "data/愛知高速交通.json"
   },
   {
+   "日文": "筑波山ケーブル",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "ケーブルカー"
+   ],
+   "图标文件": [
+    "35_cablecar/tsukuba-funicular__cb-tkb-g.png"
+   ],
+   "图标token": [
+    "cb-tkb-g"
+   ],
+   "特急": [],
+   "线路": [
+    "筑波山鋼索鉄道線"
+   ],
+   "有日文": false,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/筑波山ケーブル.json"
+  },
+  {
    "日文": "埼玉新都市交通",
    "中文": "埼玉新都市交通",
    "英文": "New Shuttle",
@@ -16504,6 +16741,28 @@
    "有中文": true,
    "有英文": true,
    "文件": "data/埼玉新都市交通.json"
+  },
+  {
+   "日文": "ホテル界鬼怒川",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "スロープカー"
+   ],
+   "图标文件": [
+    "36_slopecar/kai-kinugawa-hotel__slp-kaikngw1.png"
+   ],
+   "图标token": [
+    "slp-kaikngw1"
+   ],
+   "特急": [],
+   "线路": [
+    "会津鬼怒川線"
+   ],
+   "有日文": false,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/ホテル界鬼怒川.json"
   },
   {
    "日文": "札幌市交通局A1200形電車",
@@ -16633,6 +16892,28 @@
    "文件": "data/福岡市交通局.json"
   },
   {
+   "日文": "富士こどもの国",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "スロープカー"
+   ],
+   "图标文件": [
+    "36_slopecar/fuji-kodomo__slp-fjikdm2.png"
+   ],
+   "图标token": [
+    "slp-fjikdm2"
+   ],
+   "特急": [],
+   "线路": [
+    "東急こどもの国線"
+   ],
+   "有日文": false,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/富士こどもの国.json"
+  },
+  {
    "日文": "静岡鉄道",
    "中文": "靜岡鐵道",
    "英文": "Shizuoka Railway",
@@ -16749,28 +17030,6 @@
    "有中文": false,
    "有英文": false,
    "文件": "data/南阿蘇鉄道MT-4000形気動車.json"
-  },
-  {
-   "日文": "*沖縄県営鉄道/電軌",
-   "中文": null,
-   "英文": null,
-   "运营者": [
-    "九州私鉄"
-   ],
-   "图标文件": [
-    "34_kyushu_mi/okinawa-rail-tram__1okik1.png"
-   ],
-   "图标token": [
-    "1okik1"
-   ],
-   "特急": [],
-   "线路": [
-    "沖縄都市モノレール"
-   ],
-   "有日文": false,
-   "有中文": false,
-   "有英文": false,
-   "文件": "data/_沖縄県営鉄道_電軌.json"
   },
   {
    "日文": "鹿児島市交通局",
@@ -17113,28 +17372,6 @@
    "有中文": false,
    "有英文": false,
    "文件": "data/国鉄タキ10000形貨車.json"
-  },
-  {
-   "日文": "国鉄",
-   "中文": "國鐵",
-   "英文": null,
-   "运营者": [
-    "JR東日本"
-   ],
-   "图标文件": [
-    "02_east/working-car__dd16omy5.png"
-   ],
-   "图标token": [
-    "dd16omy5"
-   ],
-   "特急": [],
-   "线路": [
-    "大宮"
-   ],
-   "有日文": true,
-   "有中文": true,
-   "有英文": false,
-   "文件": "data/国鉄.json"
   },
   {
    "日文": "熊本電気鉄道",

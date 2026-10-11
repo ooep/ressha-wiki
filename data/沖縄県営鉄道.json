@@ -10,10 +10,12 @@
   },
   "标识": {
    "图标文件": [
-    "34_kyushu_mi/okinawa-rail-tram__1okik0.png"
+    "34_kyushu_mi/okinawa-rail-tram__1okik0.png",
+    "34_kyushu_mi/okinawa-rail-tram__1okik1.png"
    ],
    "图标token": [
-    "1okik0"
+    "1okik0",
+    "1okik1"
    ],
    "网站键": {
     "特急": [],

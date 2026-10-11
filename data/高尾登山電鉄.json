@@ -10,10 +10,12 @@
   },
   "标识": {
    "图标文件": [
-    "35_cablecar/takaosan-funicular__cb-tko101.png"
+    "35_cablecar/takaosan-funicular__cb-tko101.png",
+    "35_cablecar/takaosan-funicular__cb-tko102.png"
    ],
    "图标token": [
-    "cb-tko101"
+    "cb-tko101",
+    "cb-tko102"
    ],
    "网站键": {
     "特急": [],

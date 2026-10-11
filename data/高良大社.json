@@ -10,10 +10,12 @@
   },
   "标识": {
    "图标文件": [
-    "36_slopecar/koura-shrine__slp-takr1.png"
+    "36_slopecar/koura-shrine__slp-takr1.png",
+    "36_slopecar/koura-shrine__slp-takr1l.png"
    ],
    "图标token": [
-    "slp-takr1"
+    "slp-takr1",
+    "slp-takr1l"
    ],
    "网站键": {
     "特急": [],

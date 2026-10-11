@@ -10,10 +10,12 @@
   },
   "标识": {
    "图标文件": [
-    "35_cablecar/mitake-funicular__cb-mtk3hr.png"
+    "35_cablecar/mitake-funicular__cb-mtk3hr.png",
+    "35_cablecar/mitake-funicular__cb-mtk3lr.png"
    ],
    "图标token": [
-    "cb-mtk3hr"
+    "cb-mtk3hr",
+    "cb-mtk3lr"
    ],
    "网站键": {
     "特急": [],

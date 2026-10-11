@@ -1,0 +1,78 @@
+{
+ "车辆": {
+  "名称": {
+   "日文": "八栗ケーブル",
+   "中文": "八栗纜索",
+   "英文": "Yakuri Cable",
+   "运营者": [
+    "ケーブルカー"
+   ]
+  },
+  "标识": {
+   "图标文件": [
+    "35_cablecar/yakuri-funicular__cb-ygr2l.png"
+   ],
+   "图标token": [
+    "cb-ygr2l"
+   ],
+   "网站键": {
+    "特急": [],
+    "线路": [
+     "八栗ケーブル"
+    ]
+   }
+  },
+  "百科": {
+   "日文": {
+    "词条标题": "四国ケーブル八栗ケーブル",
+    "链接": "https://ja.wikipedia.org/wiki/%E5%9B%9B%E5%9B%BD%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB%E5%85%AB%E6%A0%97%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB",
+    "首段": "八栗ケーブル（やくりケーブル）は、香川県高松市牟礼町牟礼の八栗登山口駅から八栗山上駅に至る四国ケーブルのケーブルカー路線である。『鉄道要覧』には路線名の記載がなく、主に「八栗ケーブル」の名称で案内されている。ただし、四国ケーブルの安全報告書では八栗鋼索鉄道線の名称も用いられている。\n四国八十八箇所第八十五番札所の五剣山八栗寺への参詣者で賑わう。通常7時半からの運行のところ、毎月1日の縁日には早朝5時から運行される。",
+    "章节": {
+     "路線データ": "路線距離（営業キロ）：0.7km\n軌間：1067mm\n駅数：2駅（起終点駅含む）\n高低差：167m\n最急勾配：288‰",
+     "歴史": "戦前、八栗登山鉄道が運営していたケーブルカーを、戦後に新会社の八栗ケーブル（現在の四国ケーブル）の運営で復活させたものである。\n\n1926年（大正15年）10月13日 八栗登山電鉄に対し鉄道免許状下付。\n1928年（昭和3年）12月 八栗登山鉄道株式会社設立。\n1931年（昭和6年）2月15日 八栗登山鉄道が八栗登山口 - 八栗山上間を開業。\n1944年（昭和19年）2月11日 八栗登山鉄道 八栗登山口 - 八栗山上間が不要不急線として休止。資材を供出。\n1960年（昭和35年）12月25日 八栗登山鉄道 八栗登山口 - 八栗山上間が廃止。\n1964年（昭和39年）\n8月29日 八栗ケーブルが八栗登山口 - 八栗山上間の免許を得る。\n12月28日 八栗ケーブルにより八栗登山口 - 八栗山上間が開業。",
+     "車両": "1964年の再開業の際に日立製作所で新製した車両を現在も使用している。形式はコ-1形で、1・2の2両が在籍する。前面は丸みをおびたボンネット形の形状で、側面は3扉、折り戸となっている。車両の愛称は付けられていない。2024年現在の車両塗装は2016年の全般検査時に変更されたもので、車体側面が白色、車体下部が灰色、前面は1が赤色、2が青色である。それ以前は車体側面と下部の色は同じだが、前面の色が異なっていて、1がオレンジ色、2が緑色となっていた。なお、再開業当初は同年に開業した東海道新幹線にあやかり、1・2ともにアイボリー地にブルーのラインという塗装だった。\nかつては伊香保ケーブル鉄道や六甲ケーブルにも同形の車両が存在した。\n\n車両寸法（全長×全幅×全高）：12,000mm×2,650mm×3,200mm\n自重：10.2t\n乗車定員：127名\n運転速度：3.35m/s",
+     "運賃": "2020年2月1日改定\n\n下りの運賃を上りより安く設定している（別に往復運賃も設定されている）。",
+     "駅一覧": "全駅香川県高松市に所在。",
+     "脚注": "",
+     "参考文献": "電気車研究会『鉄道ピクトリアル』1965年2月号（通巻167号）p86 四国八栗ケーブル23年ぶりに復活\n電気車研究会『鉄道ピクトリアル』1987年2月号（通巻475号）p102-103 吉川文夫 時刻表にも出ていない八栗ケーブル\nけいてつ協會『知られざる鉄道』JTB（JTBキャンブックス）、1997年5月、2刷、p115",
+     "関連項目": "日本の鉄道路線一覧",
+     "外部リンク": "八栗ケーブル"
+    },
+    "全文": "八栗ケーブル（やくりケーブル）は、香川県高松市牟礼町牟礼の八栗登山口駅から八栗山上駅に至る四国ケーブルのケーブルカー路線である。『鉄道要覧』には路線名の記載がなく、主に「八栗ケーブル」の名称で案内されている。ただし、四国ケーブルの安全報告書では八栗鋼索鉄道線の名称も用いられている。\n四国八十八箇所第八十五番札所の五剣山八栗寺への参詣者で賑わう。通常7時半からの運行のところ、毎月1日の縁日には早朝5時から運行される。\n\n\n== 路線データ ==\n路線距離（営業キロ）：0.7km\n軌間：1067mm\n駅数：2駅（起終点駅含む）\n高低差：167m\n最急勾配：288‰\n\n\n== 歴史 ==\n戦前、八栗登山鉄道が運営していたケーブルカーを、戦後に新会社の八栗ケーブル（現在の四国ケーブル）の運営で復活させたものである。\n\n1926年（大正15年）10月13日 八栗登山電鉄に対し鉄道免許状下付。\n1928年（昭和3年）12月 八栗登山鉄道株式会社設立。\n1931年（昭和6年）2月15日 八栗登山鉄道が八栗登山口 - 八栗山上間を開業。\n1944年（昭和19年）2月11日 八栗登山鉄道 八栗登山口 - 八栗山上間が不要不急線として休止。資材を供出。\n1960年（昭和35年）12月25日 八栗登山鉄道 八栗登山口 - 八栗山上間が廃止。\n1964年（昭和39年）\n8月29日 八栗ケーブルが八栗登山口 - 八栗山上間の免許を得る。\n12月28日 八栗ケーブルにより八栗登山口 - 八栗山上間が開業。\n\n\n== 車両 ==\n\n1964年の再開業の際に日立製作所で新製した車両を現在も使用している。形式はコ-1形で、1・2の2両が在籍する。前面は丸みをおびたボンネット形の形状で、側面は3扉、折り戸となっている。車両の愛称は付けられていない。2024年現在の車両塗装は2016年の全般検査時に変更されたもので、車体側面が白色、車体下部が灰色、前面は1が赤色、2が青色である。それ以前は車体側面と下部の色は同じだが、前面の色が異なっていて、1がオレンジ色、2が緑色となっていた。なお、再開業当初は同年に開業した東海道新幹線にあやかり、1・2ともにアイボリー地にブルーのラインという塗装だった。\nかつては伊香保ケーブル鉄道や六甲ケーブルにも同形の車両が存在した。\n\n車両寸法（全長×全幅×全高）：12,000mm×2,650mm×3,200mm\n自重：10.2t\n乗車定員：127名\n運転速度：3.35m/s\n\n\n== 運賃 ==\n2020年2月1日改定\n\n下りの運賃を上りより安く設定している（別に往復運賃も設定されている）。\n\n\n== 駅一覧 ==\n全駅香川県高松市に所在。\n\n\n== 脚注 ==\n\n\n== 参考文献 ==\n電気車研究会『鉄道ピクトリアル』1965年2月号（通巻167号）p86 四国八栗ケーブル23年ぶりに復活\n電気車研究会『鉄道ピクトリアル』1987年2月号（通巻475号）p102-103 吉川文夫 時刻表にも出ていない八栗ケーブル\nけいてつ協會『知られざる鉄道』JTB（JTBキャンブックス）、1997年5月、2刷、p115\n\n\n== 関連項目 ==\n日本の鉄道路線一覧\n\n\n== 外部リンク ==\n八栗ケーブル",
+    "字数": 1366
+   },
+   "中文": {
+    "词条标题": "八栗纜索",
+    "链接": "https://zh.wikipedia.org/wiki/%E5%85%AB%E6%A0%97%E7%BA%9C%E7%B4%A2",
+    "首段": "八栗纜索（日語：八栗ケーブル／やくりケーブル，羅馬化：Yakuri kēburu）是一條連接香川縣高松市牟禮町牟禮的八栗登山口站至八栗山上站之間，由四國纜索經營的地面缆车。\n纜車主要運送參詣者前往四國八十八箇所第八十五號札所五劍山八栗寺。在毎月1日的縁日會提早至早上4時15分行走。",
+    "章节": {
+     "路線數據": "路線距離（營業距離）：0.7公里\n軌距：1067毫米\n車站數目：2個（包括起終點站）\n高低差：167米\n最大坡度：288‰",
+     "歷史": "在戰前，缆车是由八栗登山鐵道經營。在戰後成立了八栗纜索（現時：四國纜索）公司，把缆车復活。\n\n1926年（大正15年）10月13日 八栗登山電鐵獲得鐵道許可。\n1928年（昭和3年）12月 八栗登山鐵道株式會社成立。\n1931年（昭和6年）2月15日 八栗登山鐵道八栗登山口至八栗山上之間開通。\n1944年（昭和19年）2月11日 八栗登山鐵道 八栗登山口至八栗山上之間成為不要不急線，路線暫停服務。以供出物資。\n1960年（昭和35年）12月25日 八栗登山鐵道 八栗登山口至八栗山上之間廢除。\n1964年（昭和39年）8月29日 八栗纜索 八栗登山口至八栗山上之間取得營業許可。\n1964年（昭和39年）12月28日 八栗纜索 八栗登山口至八栗山上之間開通。",
+     "車輛": "在1964年再次開通之際，使用了由日立製作所製造的車輛。型號為Ko-1形，共有1、2共2輛。車頭有一個圓形的引擎蓋。側邊有道摺門。車輛沒有愛稱。截至2019年，車身側面為白色，車身下面為灰色，車身前面為紅色（1號）或藍色（2號）。現在的塗裝是在2016年作全面檢査變更的，在以前，車身側面和下面的顏色相同，前面的顏色相異，1號為橙色，2號為綠色。此外，在重開路線當初的同年開設了東海道新幹線，因此1、2號車身像當時的新幹線一樣畫了一條藍線。\n曾經伊香保纜索鐵道和六甲纜車也有同型號車輛。\n\n車輛尺吋（長×寬×高）：12,000毫米×2,650毫米×3,200毫米\n淨重：10.2公噸\n載客量：127名\n運輸速度：每秒3.35米",
+     "車費": "2020年2月1日修正\n\n值得留意的是下行車費平宜於上行車費（來回車票另計）。",
+     "車站列表": "所有車站位於香川縣高松市內。",
+     "注腳": "",
+     "參考文獻": "電氣車研究會《鐵道畫刊》1965年2月號（通卷167號）p86 四国八栗ケーブル23年ぶりに復活\n電氣車研究會《鐵道畫刊》1987年2月號（通卷475號）p102-103 吉川文夫 時刻表にも出ていない八栗ケーブル\n電鐵協會《知られざる鉄道》JTB（JTB Can Books），1997年5月，2刷，p115",
+     "相關條目": "日本鐵道路線列表",
+     "外部連結": "八栗纜索 （页面存档备份，存于互联网档案馆）（日語）"
+    },
+    "全文": "八栗纜索（日語：八栗ケーブル／やくりケーブル，羅馬化：Yakuri kēburu）是一條連接香川縣高松市牟禮町牟禮的八栗登山口站至八栗山上站之間，由四國纜索經營的地面缆车。\n纜車主要運送參詣者前往四國八十八箇所第八十五號札所五劍山八栗寺。在毎月1日的縁日會提早至早上4時15分行走。\n\n\n== 路線數據 ==\n路線距離（營業距離）：0.7公里\n軌距：1067毫米\n車站數目：2個（包括起終點站）\n高低差：167米\n最大坡度：288‰\n\n\n== 歷史 ==\n在戰前，缆车是由八栗登山鐵道經營。在戰後成立了八栗纜索（現時：四國纜索）公司，把缆车復活。\n\n1926年（大正15年）10月13日 八栗登山電鐵獲得鐵道許可。\n1928年（昭和3年）12月 八栗登山鐵道株式會社成立。\n1931年（昭和6年）2月15日 八栗登山鐵道八栗登山口至八栗山上之間開通。\n1944年（昭和19年）2月11日 八栗登山鐵道 八栗登山口至八栗山上之間成為不要不急線，路線暫停服務。以供出物資。\n1960年（昭和35年）12月25日 八栗登山鐵道 八栗登山口至八栗山上之間廢除。\n1964年（昭和39年）8月29日 八栗纜索 八栗登山口至八栗山上之間取得營業許可。\n1964年（昭和39年）12月28日 八栗纜索 八栗登山口至八栗山上之間開通。\n\n\n== 車輛 ==\n\n在1964年再次開通之際，使用了由日立製作所製造的車輛。型號為Ko-1形，共有1、2共2輛。車頭有一個圓形的引擎蓋。側邊有道摺門。車輛沒有愛稱。截至2019年，車身側面為白色，車身下面為灰色，車身前面為紅色（1號）或藍色（2號）。現在的塗裝是在2016年作全面檢査變更的，在以前，車身側面和下面的顏色相同，前面的顏色相異，1號為橙色，2號為綠色。此外，在重開路線當初的同年開設了東海道新幹線，因此1、2號車身像當時的新幹線一樣畫了一條藍線。\n曾經伊香保纜索鐵道和六甲纜車也有同型號車輛。\n\n車輛尺吋（長×寬×高）：12,000毫米×2,650毫米×3,200毫米\n淨重：10.2公噸\n載客量：127名\n運輸速度：每秒3.35米\n\n\n== 車費 ==\n2020年2月1日修正\n\n值得留意的是下行車費平宜於上行車費（來回車票另計）。\n\n\n== 車站列表 ==\n所有車站位於香川縣高松市內。\n\n\n== 注腳 ==\n\n\n== 參考文獻 ==\n電氣車研究會《鐵道畫刊》1965年2月號（通卷167號）p86 四国八栗ケーブル23年ぶりに復活\n電氣車研究會《鐵道畫刊》1987年2月號（通卷475號）p102-103 吉川文夫 時刻表にも出ていない八栗ケーブル\n電鐵協會《知られざる鉄道》JTB（JTB Can Books），1997年5月，2刷，p115\n\n\n== 相關條目 ==\n\n日本鐵道路線列表\n\n\n== 外部連結 ==\n八栗纜索 （页面存档备份，存于互联网档案馆）（日語）",
+    "字数": 1207
+   },
+   "英文": {
+    "词条标题": "Yakuri Cable",
+    "链接": "https://en.wikipedia.org/wiki/Yakuri%20Cable",
+    "首段": "The Yakuri Cable (八栗ケーブル, Yakuri Kēburu) is a Japanese funicular line in Takamatsu, Kagawa. The line does not have any official name. This is the only funicular line Shikoku Cable operates, while it also operates aerial tramways. The line opened in 1931 as a route to Yakuri-ji, the 85th temple of Shikoku Pilgrimage. In Shikoku Cable's official safety reports, the name Yakuri Funicular Railway Line is also used to refer to the line.",
+    "章节": {
+     "History": "The Yakuri Mountain Railway was established in December 1928. The entire line was opened on 15 February 1931. The infrastructure of the line was removed during the Pacific War, halting all operations. The line returned to operations on 28 December 1964, under a new operator. The line prior to Shikoku Cable ownership and the line under the company's ownership is treated as a separate line, as the line was formally closed between the Pacific War and 1964. Because of this, The company celebrated the line's 60th year in 2025.",
+     "Infrastructure and operations": "The line runs between Yakuri Tozanguchi Station and Yakuri Sanjo Station.",
+     "See also": "List of funicular railways\nList of railway companies in Japan\nList of railway lines in Japan",
+     "References": "",
+     "External links": "Shikoku Cable official website (in Japanese)"
+    },
+    "全文": "The Yakuri Cable (八栗ケーブル, Yakuri Kēburu) is a Japanese funicular line in Takamatsu, Kagawa. The line does not have any official name. This is the only funicular line Shikoku Cable operates, while it also operates aerial tramways. The line opened in 1931 as a route to Yakuri-ji, the 85th temple of Shikoku Pilgrimage. In Shikoku Cable's official safety reports, the name Yakuri Funicular Railway Line is also used to refer to the line.\n\n\n== History ==\nThe Yakuri Mountain Railway was established in December 1928. The entire line was opened on 15 February 1931. The infrastructure of the line was removed during the Pacific War, halting all operations. The line returned to operations on 28 December 1964, under a new operator. The line prior to Shikoku Cable ownership and the line under the company's ownership is treated as a separate line, as the line was formally closed between the Pacific War and 1964. Because of this, The company celebrated the line's 60th year in 2025.\n\n\n== Infrastructure and operations ==\nThe line runs between Yakuri Tozanguchi Station and Yakuri Sanjo Station.\n\n\n== See also ==\nList of funicular railways\nList of railway companies in Japan\nList of railway lines in Japan\n\n\n== References ==\n\n\n== External links ==\nShikoku Cable official website (in Japanese)",
+    "字数": 1288
+   }
+  }
+ }
+}

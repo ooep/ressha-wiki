@@ -1,0 +1,33 @@
+{
+ "车辆": {
+  "名称": {
+   "日文": "鳴門スロッピー",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "スロープカー"
+   ]
+  },
+  "标识": {
+   "图标文件": [
+    "36_slopecar/naruto-sloppy__slp-narut1y.png",
+    "36_slopecar/naruto-sloppy__slp-narut1yk.png"
+   ],
+   "图标token": [
+    "slp-narut1y",
+    "slp-narut1yk"
+   ],
+   "网站键": {
+    "特急": [],
+    "线路": [
+     "鳴門線"
+    ]
+   }
+  },
+  "百科": {
+   "日文": null,
+   "中文": null,
+   "英文": null
+  }
+ }
+}

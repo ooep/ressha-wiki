@@ -10,6 +10,7 @@
   },
   "标识": {
    "图标文件": [
+    "26_sanyosanin/ichibata-rail__1itbt11d.png",
     "26_sanyosanin/ichibata-rail__itbt1.png",
     "26_sanyosanin/ichibata-rail__itbt1001.png",
     "26_sanyosanin/ichibata-rail__itbt1002.png",
@@ -28,6 +29,7 @@
     "26_sanyosanin/ichibata-rail__itbt90.png"
    ],
    "图标token": [
+    "1itbt11d",
     "itbt1",
     "itbt1001",
     "itbt1002",

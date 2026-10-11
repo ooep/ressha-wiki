@@ -5,21 +5,28 @@
    "中文": "JR西日本521系電力動車組",
    "英文": "521 series",
    "运营者": [
-    "JR西日本"
+    "JR西日本",
+    "北陸"
    ]
   },
   "标识": {
    "图标文件": [
-    "04_west/nanao-line__w521na.png"
+    "04_west/nanao-line__w521na.png",
+    "25_hokuriku/hapiline-rail__hapi521a.png",
+    "25_hokuriku/ir-ishikawa-rail__iskw521b.png"
    ],
    "图标token": [
+    "hapi521a",
+    "iskw521b",
     "w521na"
    ],
    "网站键": {
     "特急": [],
     "线路": [
+     "irいしかわ鉄道線",
      "jr七尾線",
      "のと鉄道七尾線",
+     "ハピラインふくい線",
      "七尾線"
     ]
    }

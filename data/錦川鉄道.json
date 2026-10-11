@@ -1,0 +1,82 @@
+{
+ "车辆": {
+  "名称": {
+   "日文": "錦川鉄道",
+   "中文": "錦川鐵道",
+   "英文": "Nishikigawa Seiryū Line",
+   "运营者": [
+    "山陽山陰"
+   ]
+  },
+  "标识": {
+   "图标文件": [
+    "26_sanyosanin/nishikigawa-rail__nsk3001.png"
+   ],
+   "图标token": [
+    "nsk3001"
+   ],
+   "网站键": {
+    "特急": [],
+    "线路": [
+     "錦川清流線",
+     "錦川鉄道"
+    ]
+   }
+  },
+  "百科": {
+   "日文": {
+    "词条标题": "錦川鉄道",
+    "链接": "https://ja.wikipedia.org/wiki/%E9%8C%A6%E5%B7%9D%E9%89%84%E9%81%93",
+    "首段": "錦川鉄道株式会社（にしきがわてつどう）は、山口県岩国市で錦川清流線等を運営している山口県や岩国市などが出資する第三セクター鉄道会社である。",
+    "章节": {
+     "概要": "（旧）国鉄特定地方交通線の岩日線を転換した錦川清流線の運営のほか、関連事業として旅行業（屋号は「清流線トラベルサービス」）、岩国市錦町総合支所からの委託で路線バスの運行（岩国市営錦バス。〈旧〉錦町営バスが岩国市との合併により移行したもの）、岩国市錦町でのレンタサイクル事業、岩国城および岩国城ロープウェーの管理受託業務など幅広く展開している。また特筆すべき事業として、国鉄時代に岩日北線として建設されていた錦町 - 日原間のうち、完成していた錦町 - 雙津峡温泉間の路盤を有効活用したゴムタイヤ遊覧車「とことこトレイン」の運行（岩国市錦町総合支所からの委託）があげられる。この未成線活用策に対しては、2004年（平成16年）10月に国土交通省から地域活性化への貢献部門で「日本鉄道賞」を受賞している。なおゴムタイヤ遊覧車としては片道運行距離（約6km ）は日本一。また、赤・青・黄・緑・白・桃の6色の蛍光石を使用した光るトンネル壁画（広瀬トンネル、全長1,796m）の連続距離も620mで日本一である。雙津峡温泉から先、六日市（島根県吉賀町）まで路盤が完成しているが今のところ六日市までの延長予定はない。\n本業たる鉄道事業では開業から一度も営業黒字を計上していないものの、地元住民および自治体のマイレール意識が高いことに加え、前述のように鉄道運行業務以外での収入が占める割合も高いこと、そして1998年（平成10年）に並行する中国ジェイアールバス（当時）が撤退したことにより収支も当初より改善し、公的補助を加えると会社全体としての経営には特段の問題点もなかった。\nしかし、2017年度以降年間1億円の赤字が続いていることから、2023年（令和5年）から岩国市が主導して路線の存廃を含めた在り方の協議が行われた。「現状維持」「バス転換」等を含めた検討を行った結果、2026年度（令和8年度）から10年間、インフラ資産を錦川鉄道が保有したまま、施設の維持管理費用を岩国市が直接負担する「みなし上下分離」方式を導入し、10年後の2035年に改めて在り方を検討することが決まった。",
+     "歴史": "",
+     "年表": "1987年（昭和62年）\n4月1日 - 会社設立。\n7月25日 - 西日本旅客鉄道（JR西日本）岩日線を転換し錦川清流線開業。\n1997年（平成9年）5月 - 錦町（現在は岩国市）でレンタサイクル事業開始。\n1998年（平成10年）4月 - 錦町営バス（現在の岩国市営錦バス）の運行を受託。\n2002年（平成14年）7月7日 - 建設が中止された岩日北線の錦町 - 雙津峡温泉間の路盤に、錦町からの委託でゴムタイヤ遊覧車を運行開始。2003年（平成15年）に公募で「とことこトレイン」と命名。\n2006年（平成18年）10月1日 - JR西日本岩国駅東口の出札業務を受託。\n2013年（平成25年）4月 - 岩国市の岩国城ロープウェーや岩国城の指定管理業務及び錦帯橋の管理運営業務を開始。それに合わせ、制服を一新。",
+     "路線": "錦川清流線（第1種鉄道事業者）\nゴムタイヤ遊覧車「とことこトレイン」 - 鉄道事業法に基づく鉄道ではなく岩日北線記念公園上を走る遊具（ロードトレイン）として運行している。",
+     "車両": "",
+     "錦川清流線": "大人普通旅客運賃（小児半額・10円未満切り上げ）。2019年10月1日改定。",
+     "とことこトレイン": "大人遊覧料金（2023年3月改定）\n\n一般・マイカー利用者: 片道700円、往復1,400円（4歳以上〜小学生までは半額）\n錦川清流線利用者・団体: 片道500円、往復1000円（4歳以上〜小学生までは半額）",
+     "運賃・料金": "",
+     "脚注": "",
+     "注釈": "",
+     "出典": "",
+     "外部リンク": "公式ウェブサイト"
+    },
+    "全文": "錦川鉄道株式会社（にしきがわてつどう）は、山口県岩国市で錦川清流線等を運営している山口県や岩国市などが出資する第三セクター鉄道会社である。\n\n\n== 概要 ==\n（旧）国鉄特定地方交通線の岩日線を転換した錦川清流線の運営のほか、関連事業として旅行業（屋号は「清流線トラベルサービス」）、岩国市錦町総合支所からの委託で路線バスの運行（岩国市営錦バス。〈旧〉錦町営バスが岩国市との合併により移行したもの）、岩国市錦町でのレンタサイクル事業、岩国城および岩国城ロープウェーの管理受託業務など幅広く展開している。また特筆すべき事業として、国鉄時代に岩日北線として建設されていた錦町 - 日原間のうち、完成していた錦町 - 雙津峡温泉間の路盤を有効活用したゴムタイヤ遊覧車「とことこトレイン」の運行（岩国市錦町総合支所からの委託）があげられる。この未成線活用策に対しては、2004年（平成16年）10月に国土交通省から地域活性化への貢献部門で「日本鉄道賞」を受賞している。なおゴムタイヤ遊覧車としては片道運行距離（約6km ）は日本一。また、赤・青・黄・緑・白・桃の6色の蛍光石を使用した光るトンネル壁画（広瀬トンネル、全長1,796m）の連続距離も620mで日本一である。雙津峡温泉から先、六日市（島根県吉賀町）まで路盤が完成しているが今のところ六日市までの延長予定はない。\n本業たる鉄道事業では開業から一度も営業黒字を計上していないものの、地元住民および自治体のマイレール意識が高いことに加え、前述のように鉄道運行業務以外での収入が占める割合も高いこと、そして1998年（平成10年）に並行する中国ジェイアールバス（当時）が撤退したことにより収支も当初より改善し、公的補助を加えると会社全体としての経営には特段の問題点もなかった。\nしかし、2017年度以降年間1億円の赤字が続いていることから、2023年（令和5年）から岩国市が主導して路線の存廃を含めた在り方の協議が行われた。「現状維持」「バス転換」等を含めた検討を行った結果、2026年度（令和8年度）から10年間、インフラ資産を錦川鉄道が保有したまま、施設の維持管理費用を岩国市が直接負担する「みなし上下分離」方式を導入し、10年後の2035年に改めて在り方を検討することが決まった。\n\n\n== 歴史 ==\n\n\n=== 年表 ===\n1987年（昭和62年）\n4月1日 - 会社設立。\n7月25日 - 西日本旅客鉄道（JR西日本）岩日線を転換し錦川清流線開業。\n1997年（平成9年）5月 - 錦町（現在は岩国市）でレンタサイクル事業開始。\n1998年（平成10年）4月 - 錦町営バス（現在の岩国市営錦バス）の運行を受託。\n2002年（平成14年）7月7日 - 建設が中止された岩日北線の錦町 - 雙津峡温泉間の路盤に、錦町からの委託でゴムタイヤ遊覧車を運行開始。2003年（平成15年）に公募で「とことこトレイン」と命名。\n2006年（平成18年）10月1日 - JR西日本岩国駅東口の出札業務を受託。\n2013年（平成25年）4月 - 岩国市の岩国城ロープウェーや岩国城の指定管理業務及び錦帯橋の管理運営業務を開始。それに合わせ、制服を一新。\n\n\n== 路線 ==\n錦川清流線（第1種鉄道事業者）\nゴムタイヤ遊覧車「とことこトレイン」 - 鉄道事業法に基づく鉄道ではなく岩日北線記念公園上を走る遊具（ロードトレイン）として運行している。\n\n\n== 車両 ==\n\n\n=== 錦川清流線 ===\n現行車両\n\nNT3000形\nキハ40形\nレトロ調車両として2017年（平成29年）に導入。東日本旅客鉄道（JR東日本）烏山線で同年3月まで運行されていたキハ40 1009を3,300万円（輸送費込み）で購入。同年5月に錦町駅に搬入され、7月25日の開業30周年記念イベントで公開。同年9月16日に営業運転を開始した。\n過去の車両\n\nNT2000形\nNT2100形（イベント用兼用）\n\n\n=== とことこトレイン ===\n初代\n山口きらら博会場で使われていたトヨタL&F製トーイングトラクター2TG型 LPG改造車の牽引車とトモエ電機工業製造の客車（被牽引車）3両の計4両編成からなるゴムタイヤ遊覧車。2編成を保有していた。2009年（平成21年）9月に後述の2代目車両に置き換えられた。\n2代目\n愛知万博長久手会場でグローバル・トラムとして使用された電気自動車。佐野車輌製作所製。万博閉幕後三重県のナガシマスパーランドで使用されていたものを購入。動力車（牽引車）1両と客車2両（被牽引車）からなる3両編成で、2編成を保有する。錦川鉄道では公募で決定したテントウムシをイメージしたデザインとなり、2009年（平成21年）9月19日より初代車両に代わって運行を開始した。\n\n\n== 運賃・料金 ==\n\n\n=== 錦川清流線 ===\n大人普通旅客運賃（小児半額・10円未満切り上げ）。2019年10月1日改定。\n\n\n=== とことこトレイン ===\n大人遊覧料金（2023年3月改定）\n\n一般・マイカー利用者: 片道700円、往復1,400円（4歳以上〜小学生までは半額）\n錦川清流線利用者・団体: 片道500円、往復1000円（4歳以上〜小学生までは半額）\n\n\n== 脚注 ==\n\n\n=== 注釈 ===\n\n\n=== 出典 ===\n\n\n== 外部リンク ==\n\n公式ウェブサイト",
+    "字数": 2261
+   },
+   "中文": {
+    "词条标题": "錦川鐵道",
+    "链接": "https://zh.wikipedia.org/wiki/%E9%8C%A6%E5%B7%9D%E9%90%B5%E9%81%93",
+    "首段": "錦川鐵道（日語：錦川鉄道／にしきがわてつどう，羅馬化：Nishikigawa tetsudō）是日本的一家第三部門鐵路公司，由山口縣和岩國市共同出資，負責在山口縣經營錦川清流線。",
+    "章节": {
+     "簡介": "原日本國鐵的特定地方交通線岩日線，在日本國鐵私營化後轉由第三部門鐵道經營。本公司於1987年4月1日成立，於同年7月25日接手經營錦川清流線。除鐵路業務以外，還經營相關的旅遊業務，岩國市錦綜合支所委託經營公共汽車，岩國市錦市町的自行車租賃業務，以及JR 岩國站東口的販賣管理。",
+     "路線": "",
+     "使用車輛": "NT3000型柴聯車\nKiHa 40型柴聯車",
+     "其他業務": "錦川鐵道另一個引人注意的業務是「哐哐列車」。這是一種橡膠輪胎遊覽車，利用錦町至六日市，原國鐵時代未成線岩日北線之路基，行駛觀光車。由於對於未完成線的利用良好，於2004年（平成 2004年）十月，得到國土交通省對於地方活化功能表現優良所授予的日本鐵道賞。\n「哐哐列車」是日本距離最長（單向行駛距離約6公里）的橡膠輪胎觀光車。此外使用紅色，藍色，黃色，綠色，白色和桃紅色的6種彩色熒光石製成的閃亮隧道壁畫（位於1796公尺長的廣瀨隧道），連續距離為620公尺，也是日本第一。\n儘管作為主要業務的鐵路業務自開業以來從未出現過盈餘，但是除了當地居民和地方政府的高度支持以外，鐵路業務以外的收入也不錯。隨著中國JR巴士於1998年（平成10年）撤出，收支也得到了改善，加上公共援助的增加，整個公司的營運沒有特別的問題。",
+     "年表": "1987（昭和 62年）\n4月1日：公司成立。\n7月25日 ：由西日本旅客鐵道（JR西日本）接手岩日線，開始營運錦川清流線。\n1997年（平成 9年）5月-：錦町（今岩國市）開始自行車租賃業務。\n1998年（平成10年）4月：錦町營巴士（現岩國市營錦巴士）開始運營。\n2002年（2002年7 月）7月7日：在岩日北線之錦町 - 雙津峡温泉間未成區間路線，開始行駛橡膠輪胎觀光車。經公開命名活動，於2003年（平成15年），改稱為「哐哐列車（とことこトレイン）」。\n2006年10月1日：接手JR西日本岩國站東口的販賣服務。\n2013年4月-管理岩國市的岩國城、索道與錦帶橋。",
+     "參考資料": ""
+    },
+    "全文": "錦川鐵道（日語：錦川鉄道／にしきがわてつどう，羅馬化：Nishikigawa tetsudō）是日本的一家第三部門鐵路公司，由山口縣和岩國市共同出資，負責在山口縣經營錦川清流線。\n\n\n== 簡介 ==\n原日本國鐵的特定地方交通線岩日線，在日本國鐵私營化後轉由第三部門鐵道經營。本公司於1987年4月1日成立，於同年7月25日接手經營錦川清流線。除鐵路業務以外，還經營相關的旅遊業務，岩國市錦綜合支所委託經營公共汽車，岩國市錦市町的自行車租賃業務，以及JR 岩國站東口的販賣管理。\n\n\n== 路線 ==\n\n\n== 使用車輛 ==\nNT3000型柴聯車\nKiHa 40型柴聯車\n\n\n== 其他業務 ==\n錦川鐵道另一個引人注意的業務是「哐哐列車」。這是一種橡膠輪胎遊覽車，利用錦町至六日市，原國鐵時代未成線岩日北線之路基，行駛觀光車。由於對於未完成線的利用良好，於2004年（平成 2004年）十月，得到國土交通省對於地方活化功能表現優良所授予的日本鐵道賞。\n「哐哐列車」是日本距離最長（單向行駛距離約6公里）的橡膠輪胎觀光車。此外使用紅色，藍色，黃色，綠色，白色和桃紅色的6種彩色熒光石製成的閃亮隧道壁畫（位於1796公尺長的廣瀨隧道），連續距離為620公尺，也是日本第一。\n儘管作為主要業務的鐵路業務自開業以來從未出現過盈餘，但是除了當地居民和地方政府的高度支持以外，鐵路業務以外的收入也不錯。隨著中國JR巴士於1998年（平成10年）撤出，收支也得到了改善，加上公共援助的增加，整個公司的營運沒有特別的問題。\n\n\n=== 年表 ===\n1987（昭和 62年）\n4月1日：公司成立。\n7月25日 ：由西日本旅客鐵道（JR西日本）接手岩日線，開始營運錦川清流線。\n1997年（平成 9年）5月-：錦町（今岩國市）開始自行車租賃業務。\n1998年（平成10年）4月：錦町營巴士（現岩國市營錦巴士）開始運營。\n2002年（2002年7 月）7月7日：在岩日北線之錦町 - 雙津峡温泉間未成區間路線，開始行駛橡膠輪胎觀光車。經公開命名活動，於2003年（平成15年），改稱為「哐哐列車（とことこトレイン）」。\n2006年10月1日：接手JR西日本岩國站東口的販賣服務。\n2013年4月-管理岩國市的岩國城、索道與錦帶橋。\n\n\n== 參考資料 ==",
+    "字数": 970
+   },
+   "英文": {
+    "词条标题": "Nishikigawa Seiryū Line",
+    "链接": "https://en.wikipedia.org/wiki/Nishikigawa%20Seiry%C5%AB%20Line",
+    "首段": "The Nishikigawa Seiryū Line (錦川清流線, Nishikigawa Seiryū-sen; lit. 'Nishiki River Clear Stream Line') is a Japanese railway line connecting Kawanishi and Nishiki-chō stations, all within Iwakuni, Yamaguchi. It is the only railway line operated by Nishikigawa Railway (錦川鉄道, Nishikigawa Tetsudō), a third-sector railway company which took over a former West Japan Railway Company (JR West) line in 1987. The company also operates bus lines and a travel agency. As its name suggests, the line parallels the Nishiki River. An extension to Nichihara via JR's Yamaguchi Line was proposed but not completed (see History section below). \nThe line saw a ridership of 119,758 passengers in 2025.",
+    "章节": {
+     "Basic data": "Distance: 32.7 km (20.3 mi)\nGauge: 1,067 mm (3 ft 6 in)\nStations: 13\nTrack: single\nElectric supply: not electrified\nRailway signalling:\nKawanishi – Kita-Gōchi: Automatic\nKita-Gōchi – Nishiki-chō: Simplified automatic",
+     "Services": "All services on the line are Local trains, stopping at every station.\nAll trains run via through service to and from Iwakuni Station on the JR West Gantoku Line.\nAs of August 2026, there are 10 round trips per day between Iwakuni and Nishiki-chō. Trains generally operate around every 1½ hours, although in the middle of the day there is a gap of over 3 hours in services towards Nishiki-chō and over 2½ hours towards Iwakuni. Trips along the full line take 64–70 minutes.",
+     "Stations": "All stations are in Iwakuni, Yamaguchi.",
+     "Rolling stock": "Nishikigawa Railway NT3000 series: 4 cars, diesel, manufactured in 2007–2008 by Niigata Transys.",
+     "History": "The Gannichi Line (岩日線, Gannichi-sen) opened to Kawayama on 1 November 1960, operated by Japanese National Railways (JNR), and was extended to Nishiki-chō in 1963. Construction of the proposed extension to Nichihara on the Yamaguchi Line commenced in 1967, and about 50% of the roadbed had been completed when construction was abandoned in 1980.\nThe Nishikigawa Railway was established on 1 April 1987, renaming and taking over operations of the line from 25 July of the same year.\nThe line saw its peak ridership of 584,170 passengers in the year 1988.\nSeiryu Miharashi Station was opened on March 19, 2019. It is a temporary station only served by special trains, built as a viewing platform with scenic views facing the Nishiki River. There is no road or pedestrian access to the station.",
+     "See also": "List of railway companies in Japan\nList of railway lines in Japan",
+     "References": "This article incorporates material from the corresponding article in the Japanese Wikipedia.",
+     "External links": "Official website (in Japanese)"
+    },
+    "全文": "The Nishikigawa Seiryū Line (錦川清流線, Nishikigawa Seiryū-sen; lit. 'Nishiki River Clear Stream Line') is a Japanese railway line connecting Kawanishi and Nishiki-chō stations, all within Iwakuni, Yamaguchi. It is the only railway line operated by Nishikigawa Railway (錦川鉄道, Nishikigawa Tetsudō), a third-sector railway company which took over a former West Japan Railway Company (JR West) line in 1987. The company also operates bus lines and a travel agency. As its name suggests, the line parallels the Nishiki River. An extension to Nichihara via JR's Yamaguchi Line was proposed but not completed (see History section below). \nThe line saw a ridership of 119,758 passengers in 2025.\n\n\n== Basic data ==\nDistance: 32.7 km (20.3 mi)\nGauge: 1,067 mm (3 ft 6 in)\nStations: 13\nTrack: single\nElectric supply: not electrified\nRailway signalling:\nKawanishi – Kita-Gōchi: Automatic\nKita-Gōchi – Nishiki-chō: Simplified automatic\n\n\n== Services ==\nAll services on the line are Local trains, stopping at every station.\nAll trains run via through service to and from Iwakuni Station on the JR West Gantoku Line.\nAs of August 2026, there are 10 round trips per day between Iwakuni and Nishiki-chō. Trains generally operate around every 1½ hours, although in the middle of the day there is a gap of over 3 hours in services towards Nishiki-chō and over 2½ hours towards Iwakuni. Trips along the full line take 64–70 minutes.\n\n\n== Stations ==\nAll stations are in Iwakuni, Yamaguchi.\n\n\n== Rolling stock ==\nNishikigawa Railway NT3000 series: 4 cars, diesel, manufactured in 2007–2008 by Niigata Transys.\n\n\n== History ==\nThe Gannichi Line (岩日線, Gannichi-sen) opened to Kawayama on 1 November 1960, operated by Japanese National Railways (JNR), and was extended to Nishiki-chō in 1963. Construction of the proposed extension to Nichihara on the Yamaguchi Line commenced in 1967, and about 50% of the roadbed had been completed when construction was abandoned in 1980.\nThe Nishikigawa Railway was established on 1 April 1987, renaming and taking over operations of the line from 25 July of the same year.\nThe line saw its peak ridership of 584,170 passengers in the year 1988.\nSeiryu Miharashi Station was opened on March 19, 2019. It is a temporary station only served by special trains, built as a viewing platform with scenic views facing the Nishiki River. There is no road or pedestrian access to the station.\n\n\n== See also ==\nList of railway companies in Japan\nList of railway lines in Japan\n\n\n== References ==\nThis article incorporates material from the corresponding article in the Japanese Wikipedia.\n\n\n== External links ==\n\nOfficial website (in Japanese)",
+    "字数": 2644
+   }
+  }
+ }
+}

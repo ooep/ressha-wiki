@@ -1,0 +1,53 @@
+{
+ "车辆": {
+  "名称": {
+   "日文": "小田急4000形電車",
+   "中文": null,
+   "英文": "Odakyu 4000 series",
+   "运营者": [
+    "小田急"
+   ]
+  },
+  "标识": {
+   "图标文件": [
+    "13_odakyu/emu-4000-5000__odq5001.png"
+   ],
+   "图标token": [
+    "odq5001"
+   ],
+   "网站键": {
+    "特急": [],
+    "线路": [
+     "小田急江ノ島線",
+     "小田急電鉄"
+    ]
+   }
+  },
+  "百科": {
+   "日文": {
+    "词条标题": "小田急4000形電車",
+    "链接": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E7%94%B0%E6%80%A54000%E5%BD%A2%E9%9B%BB%E8%BB%8A",
+    "首段": "小田急4000形電車（おだきゅう4000がたでんしゃ）は小田急電鉄の通勤形電車。",
+    "章节": {},
+    "全文": "小田急4000形電車（おだきゅう4000がたでんしゃ）は小田急電鉄の通勤形電車。\n\n小田急4000形電車 (初代) - 1966年に登場した通勤形電車。2005年までに全車廃車された。\n小田急4000形電車 (2代) - 2007年に登場した東京メトロ千代田線・JR東日本常磐緩行線直通対応の通勤形電車。",
+    "字数": 152
+   },
+   "中文": null,
+   "英文": {
+    "词条标题": "Odakyu 4000 series",
+    "链接": "https://en.wikipedia.org/wiki/Odakyu%204000%20series",
+    "首段": "The Odakyu 4000 series (小田急4000形, Odakyū 4000-gata) is a 1,500 V DC commuter electric multiple unit (EMU) train type operated by the private railway operator Odakyu Electric Railway in Japan since 2007.",
+    "章节": {
+     "Design": "The trains are based on the JR East E233 series EMU design. The traction motors are fully enclosed to reduce environmental noise.",
+     "Formation": "As of 1 April 2016, 15 ten-car sets are in service, numbered 4051 to 4065, and formed as follows.\n\nCars 3, 7, and 9 each have one single-arm pantograph.\nCar 2 is designated as a mildly air-conditioned car.",
+     "Interior": "Passenger accommodation consists of longitudinal bench seating throughout. Cars 1 and 10 have wheelchair spaces.",
+     "History": "The first train was delivered in May 2007, and the trains entered service in September 2007 on inter-running services between Odakyu and the Tokyo Metro Chiyoda Line, displacing 1000 series sets, which were cascaded to surface lines to replace older 5000 and 5200 series sets.\nFrom 26 March 2016, the 4000 series began operation on the JR East Joban Line.",
+     "References": "",
+     "External links": "Odakyu Press Release (5 February 2007). Retrieved on 13 October 2009. (in Japanese)"
+    },
+    "全文": "The Odakyu 4000 series (小田急4000形, Odakyū 4000-gata) is a 1,500 V DC commuter electric multiple unit (EMU) train type operated by the private railway operator Odakyu Electric Railway in Japan since 2007.\n\n\n== Design ==\nThe trains are based on the JR East E233 series EMU design. The traction motors are fully enclosed to reduce environmental noise.\n\n\n== Formation ==\nAs of 1 April 2016, 15 ten-car sets are in service, numbered 4051 to 4065, and formed as follows.\n\nCars 3, 7, and 9 each have one single-arm pantograph.\nCar 2 is designated as a mildly air-conditioned car.\n\n\n== Interior ==\nPassenger accommodation consists of longitudinal bench seating throughout. Cars 1 and 10 have wheelchair spaces.\n\n\n== History ==\nThe first train was delivered in May 2007, and the trains entered service in September 2007 on inter-running services between Odakyu and the Tokyo Metro Chiyoda Line, displacing 1000 series sets, which were cascaded to surface lines to replace older 5000 and 5200 series sets.\nFrom 26 March 2016, the 4000 series began operation on the JR East Joban Line.\n\n\n== References ==\n\n\n== External links ==\n\nOdakyu Press Release (5 February 2007). Retrieved on 13 October 2009. (in Japanese)",
+    "字数": 1200
+   }
+  }
+ }
+}

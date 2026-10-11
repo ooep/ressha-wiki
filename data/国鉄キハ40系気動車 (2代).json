@@ -7,7 +7,10 @@
    "运营者": [
     "JR九州",
     "JR北海道",
-    "JR西日本"
+    "JR西日本",
+    "京成",
+    "北海道私鉄",
+    "東北私鉄"
    ]
   },
   "标识": {
@@ -18,11 +21,17 @@
     "04_west/takaoka-area__w40tk1b.png",
     "04_west/tsuyama-line__w40ty1.png",
     "04_west/west-japan-area__w40or.png",
-    "06_kyushu/nagasaki-line__k40km.png"
+    "06_kyushu/nagasaki-line__k40km.png",
+    "09_keisei/kominato-rail__kmnt40.png",
+    "27_hokkaido_mi/isaribi-rail__isab40yb.png",
+    "28_tohoku_mi/tsugaru-rail__tugr35.png"
    ],
    "图标token": [
     "h40y",
+    "isab40yb",
     "k40km",
+    "kmnt40",
+    "tugr35",
     "w40ktro11",
     "w40mmtr",
     "w40or",
@@ -38,10 +47,15 @@
      "城端線",
      "境線",
      "姫新線",
+     "小湊鉄道線",
      "氷見線",
      "津山線",
+     "津軽線",
+     "津軽鉄道",
+     "津軽鉄道線",
      "美作線",
      "英語線",
+     "道南いさりび鉄道",
      "道南いさりび鉄道線",
      "長崎",
      "長崎本線",

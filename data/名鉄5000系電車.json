@@ -1,0 +1,45 @@
+{
+ "车辆": {
+  "名称": {
+   "日文": "名鉄5000系電車",
+   "中文": null,
+   "英文": "Meitetsu 5000 series",
+   "运营者": [
+    "名鉄"
+   ]
+  },
+  "标识": {
+   "图标文件": [
+    "17_meitetsu/meitetsu-rail__mei5000.png"
+   ],
+   "图标token": [
+    "mei5000"
+   ],
+   "网站键": {
+    "特急": [],
+    "线路": [
+     "三河線"
+    ]
+   }
+  },
+  "百科": {
+   "日文": {
+    "词条标题": "名鉄5000系電車",
+    "链接": "https://ja.wikipedia.org/wiki/%E5%90%8D%E9%89%845000%E7%B3%BB%E9%9B%BB%E8%BB%8A",
+    "首段": "名鉄5000系電車（めいてつ5000けいでんしゃ）\n名古屋鉄道の5000系電車は、時代により次の2種が存在した。",
+    "章节": {},
+    "全文": "名鉄5000系電車（めいてつ5000けいでんしゃ）\n名古屋鉄道の5000系電車は、時代により次の2種が存在した。\n\n名鉄5000系電車 (初代) ： 1955年 - 1986年。名鉄でカルダン駆動方式を初めて本格採用した。\n名鉄5000系電車 (2代) ： 2008年 - 。1000系の機器を流用した車体更新車。",
+    "字数": 157
+   },
+   "中文": null,
+   "英文": {
+    "词条标题": "Meitetsu 5000 series",
+    "链接": "https://en.wikipedia.org/wiki/Meitetsu%205000%20series",
+    "首段": "Meitetsu 5000 series may refer to one of two electric train types operated in Japan by the Nagoya Railroad (Meitetsu):",
+    "章节": {},
+    "全文": "Meitetsu 5000 series may refer to one of two electric train types operated in Japan by the Nagoya Railroad (Meitetsu):\n\nMeitetsu 5000 series (1955), in service 1955-1986\nMeitetsu 5000 series (2008), in service 2008-",
+    "字数": 215
+   }
+  }
+ }
+}

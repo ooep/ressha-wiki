@@ -1,0 +1,75 @@
+{
+ "车辆": {
+  "名称": {
+   "日文": "近鉄3220系電車",
+   "中文": "近鐵3220系電聯車",
+   "英文": "Kintetsu 3220 series",
+   "运营者": [
+    "近鉄"
+   ]
+  },
+  "标识": {
+   "图标文件": [
+    "18_kintetsu/kintetsu-line__kin3221.png"
+   ],
+   "图标token": [
+    "kin3221"
+   ],
+   "网站键": {
+    "特急": [],
+    "线路": [
+     "けいはんな線"
+    ]
+   }
+  },
+  "百科": {
+   "日文": {
+    "词条标题": "近鉄3220系電車",
+    "链接": "https://ja.wikipedia.org/wiki/%E8%BF%91%E9%89%843220%E7%B3%BB%E9%9B%BB%E8%BB%8A",
+    "首段": "近鉄3220系電車（きんてつ3220けいでんしゃ）は、近畿日本鉄道（近鉄）が2000年に導入した一般車両（通勤形電車）。近鉄の次世代一般車「シリーズ21」の第1弾で、京都市営地下鉄烏丸線への乗り入れ対応車として京都線・奈良線系統に投入された。",
+    "章节": {
+     "概要": "「人に優しい、地球に優しい」と「コストダウン」をモットーにして造られた次世代の一般型車両「シリーズ21」の第一陣として、2000年3月に登場した。\n3200系をベースに車体や走行機器を見直した増備車として6両編成3本（18両）が製造され、京都市営地下鉄烏丸線乗り入れ対応車となっている。また、京都市営地下鉄直通対応車輌の中では初の音声合成による自動放送装置が採用された。連結は行わないため電気連結器は付いていない。",
+     "構造": "",
+     "車体": "塗装は車体上部をアースブラウン、車体下部をクリスタルホワイトに配色し、そしてサンフラワーイエローの帯を巻いている。前面は左右非対称のデザインとなり、車体上部を若干傾斜させた「く」の字型の断面で、地下鉄線走行を考慮して前面には助手席側にオフセットされた非常用の貫通扉と、電気連結器が備わっていない密着連結器を装備する。先頭部の車両番号標記は3200系に準拠して運転席の窓の右下に記されている。\n京都市営地下鉄直通仕様であることから、全長は近鉄標準の20720mmよりもわずかに短い20500mmとされている（連結器の長さが近鉄特急車両と同じ）。",
+     "主要機器・性能": "制御装置は一般車では初のIGBT素子 (3300V/1200A) のVVVFインバータ制御装置が採用され、3220系では全編成が日立製作所製である。主電動機はフレームレス構造を採用した三菱電機製MB-5085-A（185kW×4）、制動装置は電気指令式ブレーキのKEBS-21を採用するが、ブレーキ読み替え装置が搭載されていない関係上、他形式との連結は不可能である。台車はボルスタレス式のKD-311形を装着。\n集電装置はモ3220形に2基、モ3620形とモ3820形は奈良・橿原寄りに1基ずつ搭載し、2021年5月23日現在では全編成が下枠交差式を搭載するが、新造時の3221Fはシングルアーム式を搭載していた。冷房装置はCU-704形（21,000kcal）が1両あたり2台設置している。性能面では、営業最高速度105km/hを確保している。",
+     "運用": "運用は3200系と共通で増解結のない列車に限られた運用が組まれており、主に京都線系統（京都駅 - 近鉄奈良駅・橿原神宮前駅）と地下鉄烏丸線で運行されるが、両系列合わせて車両数に余裕があるため近鉄線内で完結する運用や、乗り入れ費用の兼ね合いにより地下鉄烏丸線内の区間列車としても運用される（その場合は列車種別表示幕を無表示にして運行される）。\n2019年4月現在、3編成18両が西大寺検車区に配置されている。電算記号はKL（20番台）である。\n\n主な運転区間\n京都線・橿原線・天理線\n難波線・奈良線\n京都市営地下鉄烏丸線\n補足\n京都線は京都駅 - 竹田駅を含む。近鉄宮津駅以北に限り6両編成の列車でも運用。\n奈良線では、6両編成運転に限り大阪難波駅折り返し列車に使われることがある。\n地下鉄対応車両としては珍しく山岳トンネル（奈良線・新生駒トンネル、新向谷トンネル）を走行する。",
+     "編成": "",
+     "特別塗装・ラッピング広告": "3221F：橿原神宮鎮座120年記念大祭（2010年2月 - 2011年9月）\n3222F：KYOTO-NARA（新造時 - 2011年4月）\n3223F：KYOTO-NARA（新造時 - 2011年7月）\n3222F・3223Fのラッピング装飾は京都市営地下鉄烏丸線から近鉄奈良駅までの直通急行の運転開始を記念し、京都・奈良への観光客誘致を兼ねて登場したもので、ク3720形・モ3620形・モ3220形にはピンク色の下地に「KYOTO」の文字と、京都に関係のある絵（金閣、清水の舞台、舞妓、祇園祭など）が入り、モ3820形・サ3520形・ク3120形には薄緑色の下地に「NARA」の文字と奈良に関する絵（東大寺大仏殿、薬師寺、奈良公園の鹿など）が入っていた。",
+     "参考文献": "三好好三『近鉄電車 大軌デボ1形から「しまかぜ」「青の交響曲」まで100年余りの電車のすべて』（JTBキャンブックス）、JTBパブリッシング、2016年。ISBN 978-4-533-11435-9 C2065",
+     "脚注": "",
+     "関連項目": "近畿日本鉄道の車両形式\n近鉄3200系電車\n京都市交通局10系電車\n京都市交通局20系電車",
+     "外部リンク": "鉄路の名優（近鉄公式サイト）"
+    },
+    "全文": "近鉄3220系電車（きんてつ3220けいでんしゃ）は、近畿日本鉄道（近鉄）が2000年に導入した一般車両（通勤形電車）。近鉄の次世代一般車「シリーズ21」の第1弾で、京都市営地下鉄烏丸線への乗り入れ対応車として京都線・奈良線系統に投入された。\n\n\n== 概要 ==\n「人に優しい、地球に優しい」と「コストダウン」をモットーにして造られた次世代の一般型車両「シリーズ21」の第一陣として、2000年3月に登場した。\n3200系をベースに車体や走行機器を見直した増備車として6両編成3本（18両）が製造され、京都市営地下鉄烏丸線乗り入れ対応車となっている。また、京都市営地下鉄直通対応車輌の中では初の音声合成による自動放送装置が採用された。連結は行わないため電気連結器は付いていない。\n\n\n== 構造 ==\n\n\n=== 車体 ===\n塗装は車体上部をアースブラウン、車体下部をクリスタルホワイトに配色し、そしてサンフラワーイエローの帯を巻いている。前面は左右非対称のデザインとなり、車体上部を若干傾斜させた「く」の字型の断面で、地下鉄線走行を考慮して前面には助手席側にオフセットされた非常用の貫通扉と、電気連結器が備わっていない密着連結器を装備する。先頭部の車両番号標記は3200系に準拠して運転席の窓の右下に記されている。\n京都市営地下鉄直通仕様であることから、全長は近鉄標準の20720mmよりもわずかに短い20500mmとされている（連結器の長さが近鉄特急車両と同じ）。\n\n\n=== 主要機器・性能 ===\n制御装置は一般車では初のIGBT素子 (3300V/1200A) のVVVFインバータ制御装置が採用され、3220系では全編成が日立製作所製である。主電動機はフレームレス構造を採用した三菱電機製MB-5085-A（185kW×4）、制動装置は電気指令式ブレーキのKEBS-21を採用するが、ブレーキ読み替え装置が搭載されていない関係上、他形式との連結は不可能である。台車はボルスタレス式のKD-311形を装着。\n集電装置はモ3220形に2基、モ3620形とモ3820形は奈良・橿原寄りに1基ずつ搭載し、2021年5月23日現在では全編成が下枠交差式を搭載するが、新造時の3221Fはシングルアーム式を搭載していた。冷房装置はCU-704形（21,000kcal）が1両あたり2台設置している。性能面では、営業最高速度105km/hを確保している。\n\n\n== 運用 ==\n運用は3200系と共通で増解結のない列車に限られた運用が組まれており、主に京都線系統（京都駅 - 近鉄奈良駅・橿原神宮前駅）と地下鉄烏丸線で運行されるが、両系列合わせて車両数に余裕があるため近鉄線内で完結する運用や、乗り入れ費用の兼ね合いにより地下鉄烏丸線内の区間列車としても運用される（その場合は列車種別表示幕を無表示にして運行される）。\n2019年4月現在、3編成18両が西大寺検車区に配置されている。電算記号はKL（20番台）である。\n\n主な運転区間\n京都線・橿原線・天理線\n難波線・奈良線\n京都市営地下鉄烏丸線\n補足\n京都線は京都駅 - 竹田駅を含む。近鉄宮津駅以北に限り6両編成の列車でも運用。\n奈良線では、6両編成運転に限り大阪難波駅折り返し列車に使われることがある。\n地下鉄対応車両としては珍しく山岳トンネル（奈良線・新生駒トンネル、新向谷トンネル）を走行する。\n\n\n== 編成 ==\n\n\n== 特別塗装・ラッピング広告 ==\n\n3221F：橿原神宮鎮座120年記念大祭（2010年2月 - 2011年9月）\n3222F：KYOTO-NARA（新造時 - 2011年4月）\n3223F：KYOTO-NARA（新造時 - 2011年7月）\n3222F・3223Fのラッピング装飾は京都市営地下鉄烏丸線から近鉄奈良駅までの直通急行の運転開始を記念し、京都・奈良への観光客誘致を兼ねて登場したもので、ク3720形・モ3620形・モ3220形にはピンク色の下地に「KYOTO」の文字と、京都に関係のある絵（金閣、清水の舞台、舞妓、祇園祭など）が入り、モ3820形・サ3520形・ク3120形には薄緑色の下地に「NARA」の文字と奈良に関する絵（東大寺大仏殿、薬師寺、奈良公園の鹿など）が入っていた。\n\n\n== 参考文献 ==\n三好好三『近鉄電車 大軌デボ1形から「しまかぜ」「青の交響曲」まで100年余りの電車のすべて』（JTBキャンブックス）、JTBパブリッシング、2016年。ISBN 978-4-533-11435-9 C2065\n\n\n== 脚注 ==\n\n\n== 関連項目 ==\n\n近畿日本鉄道の車両形式\n近鉄3200系電車\n京都市交通局10系電車\n京都市交通局20系電車\n\n\n== 外部リンク ==\n鉄路の名優（近鉄公式サイト）",
+    "字数": 2011
+   },
+   "中文": {
+    "词条标题": "近鐵3220系電聯車",
+    "链接": "https://zh.wikipedia.org/wiki/%E8%BF%91%E9%90%B53220%E7%B3%BB%E9%9B%BB%E8%81%AF%E8%BB%8A",
+    "首段": "近鐵3220系電聯車（日語：近鉄3220系電車／きんてつ3220けいでんしゃ，羅馬化：Kintetsu 3220-kei densha）是近畿日本鐵道使用的通勤型電聯車。3220系是近鐵以「對人與環境友善」及「降低成本」為理念所製造的新世代列車「21系列」的首批電車，並於2000年3月15日開始投入使用。\n本型車以近鐵3200系電聯車為基礎，針對車體和運轉設備等重新進行設計，並製造成能直通至京都市營地下鐵烏丸線的車；而其全長也從近鐵標準的27000毫米縮短至20500毫米。本型車的車體上半部採用大地棕作為塗裝，下半部為水晶白，中間的條紋則使用向日葵黃做為區隔。而3220系在也是當時可直通至京都市營地下鐵的所有近鐵車輛中，首款採用語音合成的自動廣播系統的車型。",
+    "章节": {
+     "參考文獻": ""
+    },
+    "全文": "近鐵3220系電聯車（日語：近鉄3220系電車／きんてつ3220けいでんしゃ，羅馬化：Kintetsu 3220-kei densha）是近畿日本鐵道使用的通勤型電聯車。3220系是近鐵以「對人與環境友善」及「降低成本」為理念所製造的新世代列車「21系列」的首批電車，並於2000年3月15日開始投入使用。\n本型車以近鐵3200系電聯車為基礎，針對車體和運轉設備等重新進行設計，並製造成能直通至京都市營地下鐵烏丸線的車；而其全長也從近鐵標準的27000毫米縮短至20500毫米。本型車的車體上半部採用大地棕作為塗裝，下半部為水晶白，中間的條紋則使用向日葵黃做為區隔。而3220系在也是當時可直通至京都市營地下鐵的所有近鐵車輛中，首款採用語音合成的自動廣播系統的車型。\n\n\n== 參考文獻 ==",
+    "字数": 346
+   },
+   "英文": {
+    "词条标题": "Kintetsu 3220 series",
+    "链接": "https://en.wikipedia.org/wiki/Kintetsu%203220%20series",
+    "首段": "The Kintetsu 3220 series (近鉄3220系) is an electric multiple unit (EMU) commuter train type operated by the private railway operator Kintetsu Railway since 2000.",
+    "章节": {
+     "Background": "The 3220 series is the first member of Kintetsu's Series 21 (シリーズ21) commuter train lineup, the concept of which was to be a human-friendly, environmentally conscious, and reduced-cost train that was intended to \"set the standard for the 21st century\". The 3220 series was designed for use on Karasuma Subway Line inter-running services, and like the 3200 series trains that are also used on these services, feature left-offset front-end emergency exits. Kintetsu has since introduced further Series 21 variants, including the two-car 9020 series; the six-car 5820 series, which features rotating transverse seating; and the 6820 series, which operates on the narrow-gauge Minami Osaka Line.",
+     "Operations": "Entering service on 15 March 2000, the 3220 series sets mainly operate on Kyoto Line services, including through-running to and from the Karasuma Subway Line. Operation is limited to east of Sakuragawa Station on Nara/Namba line services as the trains lack the safety devices required on the Hanshin Line.",
+     "Formations": "As of April 2019, the fleet consists of three six-car sets, with all sets based at Saidaiji Depot mainly for Kyoto Line services. The sets are formed with three motored (M) cars and three non-powered trailer (T) cars, and the 3720 car at the Namba/Kyoto end.\n\nThe Mo 3220 car is fitted with two cross-arm pantographs while the rest of the M cars are fitted with one single-arm pantograph.",
+     "Special liveries": "Since their introduction into service, 3220 series sets KL22 and KL23 were wrapped in a \"Kyoto-Nara\" livery to promote the commencement of through services onto the Karasuma Subway Line. Set KL22 carried the livery until April 2011, and set KL23 until July of that year.",
+     "Gallery": "",
+     "See also": "Kintetsu 5820 series, a similar 6-car derivative capable of rotating seat formations\nKintetsu 6820 series, a narrow-gauge 2-car derivative of the 9020 series\nKintetsu 9020 series, similar two-car sets\nKintetsu 9820 series, similar six-car sets with permanent longitudinal seating throughout",
+     "References": "",
+     "External links": "Kintetsu \"Series 21\" (3220/5820/9020/9820/6820 series) train information (in Japanese)"
+    },
+    "全文": "The Kintetsu 3220 series (近鉄3220系) is an electric multiple unit (EMU) commuter train type operated by the private railway operator Kintetsu Railway since 2000.\n\n\n== Background ==\nThe 3220 series is the first member of Kintetsu's Series 21 (シリーズ21) commuter train lineup, the concept of which was to be a human-friendly, environmentally conscious, and reduced-cost train that was intended to \"set the standard for the 21st century\". The 3220 series was designed for use on Karasuma Subway Line inter-running services, and like the 3200 series trains that are also used on these services, feature left-offset front-end emergency exits. Kintetsu has since introduced further Series 21 variants, including the two-car 9020 series; the six-car 5820 series, which features rotating transverse seating; and the 6820 series, which operates on the narrow-gauge Minami Osaka Line.\n\n\n== Operations ==\nEntering service on 15 March 2000, the 3220 series sets mainly operate on Kyoto Line services, including through-running to and from the Karasuma Subway Line. Operation is limited to east of Sakuragawa Station on Nara/Namba line services as the trains lack the safety devices required on the Hanshin Line. \n\n\n== Formations ==\nAs of April 2019, the fleet consists of three six-car sets, with all sets based at Saidaiji Depot mainly for Kyoto Line services. The sets are formed with three motored (M) cars and three non-powered trailer (T) cars, and the 3720 car at the Namba/Kyoto end.\n\nThe Mo 3220 car is fitted with two cross-arm pantographs while the rest of the M cars are fitted with one single-arm pantograph.\n\n\n== Special liveries ==\nSince their introduction into service, 3220 series sets KL22 and KL23 were wrapped in a \"Kyoto-Nara\" livery to promote the commencement of through services onto the Karasuma Subway Line. Set KL22 carried the livery until April 2011, and set KL23 until July of that year.\n\n\n== Gallery ==\n\n\n== See also ==\nKintetsu 5820 series, a similar 6-car derivative capable of rotating seat formations\nKintetsu 6820 series, a narrow-gauge 2-car derivative of the 9020 series\nKintetsu 9020 series, similar two-car sets\nKintetsu 9820 series, similar six-car sets with permanent longitudinal seating throughout\n\n\n== References ==\n\n\n== External links ==\n\nKintetsu \"Series 21\" (3220/5820/9020/9820/6820 series) train information (in Japanese)",
+    "字数": 2354
+   }
+  }
+ }
+}

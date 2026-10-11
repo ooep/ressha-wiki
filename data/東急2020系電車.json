@@ -10,14 +10,18 @@
   },
   "标识": {
    "图标文件": [
-    "14_tokyu/denentoshi-line__toq2020.png"
+    "14_tokyu/denentoshi-line__toq2020.png",
+    "14_tokyu/ohimachi-line__toq6020.png"
    ],
    "图标token": [
-    "toq2020"
+    "toq2020",
+    "toq6020"
    ],
    "网站键": {
     "特急": [],
     "线路": [
+     "大井町線",
+     "東急大井町線",
      "田園都市線"
     ]
    }

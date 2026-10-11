@@ -1,0 +1,76 @@
+{
+ "车辆": {
+  "名称": {
+   "日文": "山形鉄道",
+   "中文": "山形鐵道",
+   "英文": "Flower Nagai Line",
+   "运营者": [
+    "東北私鉄"
+   ]
+  },
+  "标识": {
+   "图标文件": [
+    "28_tohoku_mi/yamagata-rail__yr880.png"
+   ],
+   "图标token": [
+    "yr880"
+   ],
+   "网站键": {
+    "特急": [],
+    "线路": [
+     "山形鉄道"
+    ]
+   }
+  },
+  "百科": {
+   "日文": {
+    "词条标题": "山形鉄道",
+    "链接": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%BD%A2%E9%89%84%E9%81%93",
+    "首段": "山形鉄道株式会社（やまがたてつどう）は、山形県南部の置賜地方で鉄道路線「フラワー長井線」を経営している第三セクターの鉄道会社。日本国有鉄道（国鉄）改革に伴い特定地方交通線に選定された長井線の経営を引き受けて存続させるため、山形県や沿線地方自治体、企業・金融機関が出資して1988年（昭和63年）に設立された。本社は同県長井市に所在する。\n社章は、山形県の「山」の漢字をモチーフとしている。",
+    "章节": {
+     "歴史": "1988年（昭和63年）\n4月20日：山形鉄道株式会社創立（4月26日設立登記）。\n10月25日：東日本旅客鉄道（JR東日本）長井線を転換し、フラワー長井線開業。\n2009年（平成21年）4月1日：公募していた社長に野村浩志が就任。2015年（平成27年）に退任。\n2016年（平成28年）\n11月14日：同年10月5日に山形鉄道・沿線市町の連名で提出された地域公共交通活性化再生法に基づく鉄道事業再構築実施計画が国から認定。\n12月下旬：鉄道事業の運営と施設・用地保有を切り離す「上下分離方式」を導入。\n2025年（令和7年）3月10日：山形鉄道の経理担当者が、山形銀行を名乗る電話に騙されて1億828万円を送金してしまう詐欺被害が発生。吉村美栄子山形県知事が運行に必要な資金繰り対策などを一緒に考えていくと同月21日の記者会見で表明。\n2026年（令和8年）6月：2025年に発生した詐欺被害を受けて運転士の採用・養成などの資金のために2025年10月から12月にかけてクラウドファンディングを実施したが、サイト運営会社から支援金が入金されていないことが明らかになった。",
+     "路線": "フラワー長井線 赤湯駅 - 荒砥駅（30.5 km、17駅、第一種鉄道事業）",
+     "乗車券": "以下の乗車券を発売している（2025年9月時点）。\n\nもっちぃ親子・孫乗り放題きっぷ\n大人1人と同行で小学生以下2人までがフラワー長井線を1日利用できる。大人のみの利用は不可。\n土・休日フリー切符\n土曜・日曜・祝日に限りフラワー長井線を1日利用できる。大人1人につき同行で小学生以下2人まで利用可能。\n山交バス山形鉄道セット券\n山交バス山形 - 荒砥・長井間往復乗車券、山形鉄道フラワー長井線赤湯 - 荒砥間の1日フリー乗車券、道の駅「川のみなと長井」の1000円お買物券のセット。ウェルネットのスマートフォンアプリ「バスもり!」でデジタル乗車券としてのみ発売。\n「もっちぃ親子・孫乗り放題きっぷ」「土・休日フリー切符」はRYDEの「RYDE PASS」、レシップの「QUICK RIDE」でデジタル乗車券としても発売している。",
+     "車両": "2016年（平成28年）3月31日時点で、1形式6両の気動車と、保線用モーターカー1両、計7両が在籍する。\n\nYR-880形：1988年（昭和63年）に6両、1990年（平成2年）に2両が製造された。2003年（平成15年）に1両、2015年（平成27年）に1両が廃車となった。\nMCR4A形：新潟鐵工所製の除雪用モーターカー。ラッセルヘッドとロータリー式除雪装置を備える。\n2026年（令和8年）7月、山形鉄道はJR東日本との間でキハ110形気動車の譲渡契約を締結したと発表した。キハ110形3両を購入してYR-880形を置き換える予定で、山形鉄道仕様への改良や新たな信号システム工事の進捗など、運行にかかわる手続きが整い次第、運行を開始するとしている。同年7月8日にはこのキハ110形が今泉駅に搬入された。",
+     "建築物": "長井市はかつて最上川舟運の港町であり、日本海から米沢に至る物資集散地として栄えた街である。工業も盛んであり、そのため長井市内には、数々の江戸時代から昭和前期にかけての近代建築物や遺物が多く残っている。フラワー長井線の長井駅の駅舎も、昭和30年代に2代目に改築された旧国鉄長井駅舎であり、すぐそばには旧鉄道官舎も原型を残しながら現存している。また、終点の荒砥駅手前にかかる最上川鉄橋は、日本で最古の長大鉄橋である。この橋は元々、1887年にイギリスのメーカーによって製造され、東海道線の木曽川橋梁として使用されたものを移築した（揖斐川橋梁説もあるが、揖斐川橋梁は揖斐川橋として現存）。同じトラス橋が使用された左沢線の最上川橋りょうと共に、平成20年度選奨土木遺産に認定された。\nまた、2015年（平成27年）8月4日、開業当時からの駅舎が残る西大塚駅と羽前成田駅の駅本屋等が登録有形文化財に登録された。",
+     "経営状況と上下分離方式の導入": "第三セクター鉄道移行後も経営状況は厳しく、貸切列車の運行、飲食店などが購入して配る企業連携型片道乗車券の導入など利用促進の経営努力を行っている。\n運行しているフラワー長井線の乗客減により、山形県や沿線市町（長井市・南陽市・白鷹町・川西町）は年度ごとに計6000万円を補助して赤字を穴埋めするも、2016年度（平成28年度）の業績予測では当期損益が1億円の赤字が見込まれた。そこで2016年（平成28年）10月4日に地域公共交通活性化再生法に基づく鉄道事業再構築実施計画を提出した。計画の期間は同年12月下旬から2021年3月末までとし、計画には沿線2市2町が山形鉄道から鉄道用地を無償で取得して、山形鉄道に無償で提供することや、地域資源の活用ツアーや新グッズ開発が盛り込まれている。2016年（平成28年）11月に国（国土交通省）から再構築実施計画が認定され、5年計画で経営再建することとなった。同年12月下旬には計画に基づき鉄道事業運営と施設・用地保有を切り離す「上下分離方式」を導入し、長井市をはじめとした沿線2市2町が施設整備費の1億1700万円を負担した。これにより、2017年（平成29年）3月28日の取締役会で2016年度（平成28年度）決算が約1500万円の黒字に転換する見通しと報告された。黒字決算は20年ぶりである。事業者は計画中の5年間で前述のツアーやグッズの企画と鉄道施設維持・修繕経費として計8400万円を拠出して計6億円の予算で老朽設備の更新・修繕を実施する予定。最終的には2020年度までに680万円の純利益を計上、輸送人員は同年度に51万9600人（2015年度は59万7000人）を見込み、計画未実施に比べ1万7400人の増客という目標を掲げた。\n上下分離方式を継続する鉄道事業再構築実施計画は2024年（令和6年）3月29日付でも認定されている。\nコロナ禍以降は再び赤字転落したほか、運転士の退職により減便を余儀なくされた。このため沿線で活動する地域おこし協力隊員を運転士として育成し、利用促進にも取り組んでもらう制度を南陽市の支援を受けて導入した。",
+     "その他": "2004年（平成16年）に公開された映画『スウィングガールズ』のロケが、山形鉄道の沿線で行われ、列車内などが重要な舞台として登場したことから、一時期観光客が多く訪れた。また、この映画の公開を記念して、特別塗装の「スウィングガールズ」号が運行された。\nフラワー長井線イメージソングに影法師の『走れ！フラワー長井線』、山形鉄道応援ソングにStratosphere-ストラトスフィア-の『Flower』がタイアップになっている。",
+     "脚注": "",
+     "参考文献": "「新車年鑑1989年版」『鉄道ピクトリアル』通巻512号、電気車研究会、1989年5月。\n「竣工月日表」 pp. 232-242\n「新車年鑑1991年版」『鉄道ピクトリアル』通巻550号、電気車研究会、1991年10月。\n「1990年度車両動向」 pp. 241-252\n「鉄道車両年鑑2003年版」『鉄道ピクトリアル』通巻753号、電気車研究会、2003年10月。\n「車両データ 2002年度民鉄車両」 pp. 216-227\n「【特集】ディーゼル機関車」『鉄道ピクトリアル』通巻891号、電気車研究会2014年7月。\n服部 朗宏「私鉄のディーゼル機関車 ここ10年の動き」 pp. 73-88\n「鉄道車両年鑑2016年版」『鉄道ピクトリアル』通巻923号、電気車研究会、2016年10月。\n「車両データ 2015年度民鉄車両」 pp. 215-227\n「在籍車両形式別両数表」 pp. 228-237",
+     "外部リンク": "山形鉄道株式会社 - 公式サイト\n山形鉄道 (@yr880) - X（旧Twitter）\n山形鉄道 (yamagatarailway) - Facebook"
+    },
+    "全文": "山形鉄道株式会社（やまがたてつどう）は、山形県南部の置賜地方で鉄道路線「フラワー長井線」を経営している第三セクターの鉄道会社。日本国有鉄道（国鉄）改革に伴い特定地方交通線に選定された長井線の経営を引き受けて存続させるため、山形県や沿線地方自治体、企業・金融機関が出資して1988年（昭和63年）に設立された。本社は同県長井市に所在する。\n社章は、山形県の「山」の漢字をモチーフとしている。\n\n\n== 歴史 ==\n1988年（昭和63年）\n4月20日：山形鉄道株式会社創立（4月26日設立登記）。\n10月25日：東日本旅客鉄道（JR東日本）長井線を転換し、フラワー長井線開業。\n2009年（平成21年）4月1日：公募していた社長に野村浩志が就任。2015年（平成27年）に退任。\n2016年（平成28年）\n11月14日：同年10月5日に山形鉄道・沿線市町の連名で提出された地域公共交通活性化再生法に基づく鉄道事業再構築実施計画が国から認定。\n12月下旬：鉄道事業の運営と施設・用地保有を切り離す「上下分離方式」を導入。\n2025年（令和7年）3月10日：山形鉄道の経理担当者が、山形銀行を名乗る電話に騙されて1億828万円を送金してしまう詐欺被害が発生。吉村美栄子山形県知事が運行に必要な資金繰り対策などを一緒に考えていくと同月21日の記者会見で表明。\n2026年（令和8年）6月：2025年に発生した詐欺被害を受けて運転士の採用・養成などの資金のために2025年10月から12月にかけてクラウドファンディングを実施したが、サイト運営会社から支援金が入金されていないことが明らかになった。\n\n\n== 路線 ==\nフラワー長井線 赤湯駅 - 荒砥駅（30.5 km、17駅、第一種鉄道事業）\n\n\n== 乗車券 ==\n以下の乗車券を発売している（2025年9月時点）。\n\nもっちぃ親子・孫乗り放題きっぷ\n大人1人と同行で小学生以下2人までがフラワー長井線を1日利用できる。大人のみの利用は不可。\n土・休日フリー切符\n土曜・日曜・祝日に限りフラワー長井線を1日利用できる。大人1人につき同行で小学生以下2人まで利用可能。\n山交バス山形鉄道セット券\n山交バス山形 - 荒砥・長井間往復乗車券、山形鉄道フラワー長井線赤湯 - 荒砥間の1日フリー乗車券、道の駅「川のみなと長井」の1000円お買物券のセット。ウェルネットのスマートフォンアプリ「バスもり!」でデジタル乗車券としてのみ発売。\n「もっちぃ親子・孫乗り放題きっぷ」「土・休日フリー切符」はRYDEの「RYDE PASS」、レシップの「QUICK RIDE」でデジタル乗車券としても発売している。\n\n\n== 車両 ==\n\n2016年（平成28年）3月31日時点で、1形式6両の気動車と、保線用モーターカー1両、計7両が在籍する。\n\nYR-880形：1988年（昭和63年）に6両、1990年（平成2年）に2両が製造された。2003年（平成15年）に1両、2015年（平成27年）に1両が廃車となった。\nMCR4A形：新潟鐵工所製の除雪用モーターカー。ラッセルヘッドとロータリー式除雪装置を備える。\n2026年（令和8年）7月、山形鉄道はJR東日本との間でキハ110形気動車の譲渡契約を締結したと発表した。キハ110形3両を購入してYR-880形を置き換える予定で、山形鉄道仕様への改良や新たな信号システム工事の進捗など、運行にかかわる手続きが整い次第、運行を開始するとしている。同年7月8日にはこのキハ110形が今泉駅に搬入された。\n\n\n== 建築物 ==\n長井市はかつて最上川舟運の港町であり、日本海から米沢に至る物資集散地として栄えた街である。工業も盛んであり、そのため長井市内には、数々の江戸時代から昭和前期にかけての近代建築物や遺物が多く残っている。フラワー長井線の長井駅の駅舎も、昭和30年代に2代目に改築された旧国鉄長井駅舎であり、すぐそばには旧鉄道官舎も原型を残しながら現存している。また、終点の荒砥駅手前にかかる最上川鉄橋は、日本で最古の長大鉄橋である。この橋は元々、1887年にイギリスのメーカーによって製造され、東海道線の木曽川橋梁として使用されたものを移築した（揖斐川橋梁説もあるが、揖斐川橋梁は揖斐川橋として現存）。同じトラス橋が使用された左沢線の最上川橋りょうと共に、平成20年度選奨土木遺産に認定された。\nまた、2015年（平成27年）8月4日、開業当時からの駅舎が残る西大塚駅と羽前成田駅の駅本屋等が登録有形文化財に登録された。\n\n\n== 経営状況と上下分離方式の導入 ==\n第三セクター鉄道移行後も経営状況は厳しく、貸切列車の運行、飲食店などが購入して配る企業連携型片道乗車券の導入など利用促進の経営努力を行っている。\n運行しているフラワー長井線の乗客減により、山形県や沿線市町（長井市・南陽市・白鷹町・川西町）は年度ごとに計6000万円を補助して赤字を穴埋めするも、2016年度（平成28年度）の業績予測では当期損益が1億円の赤字が見込まれた。そこで2016年（平成28年）10月4日に地域公共交通活性化再生法に基づく鉄道事業再構築実施計画を提出した。計画の期間は同年12月下旬から2021年3月末までとし、計画には沿線2市2町が山形鉄道から鉄道用地を無償で取得して、山形鉄道に無償で提供することや、地域資源の活用ツアーや新グッズ開発が盛り込まれている。2016年（平成28年）11月に国（国土交通省）から再構築実施計画が認定され、5年計画で経営再建することとなった。同年12月下旬には計画に基づき鉄道事業運営と施設・用地保有を切り離す「上下分離方式」を導入し、長井市をはじめとした沿線2市2町が施設整備費の1億1700万円を負担した。これにより、2017年（平成29年）3月28日の取締役会で2016年度（平成28年度）決算が約1500万円の黒字に転換する見通しと報告された。黒字決算は20年ぶりである。事業者は計画中の5年間で前述のツアーやグッズの企画と鉄道施設維持・修繕経費として計8400万円を拠出して計6億円の予算で老朽設備の更新・修繕を実施する予定。最終的には2020年度までに680万円の純利益を計上、輸送人員は同年度に51万9600人（2015年度は59万7000人）を見込み、計画未実施に比べ1万7400人の増客という目標を掲げた。\n上下分離方式を継続する鉄道事業再構築実施計画は2024年（令和6年）3月29日付でも認定されている。\nコロナ禍以降は再び赤字転落したほか、運転士の退職により減便を余儀なくされた。このため沿線で活動する地域おこし協力隊員を運転士として育成し、利用促進にも取り組んでもらう制度を南陽市の支援を受けて導入した。\n\n\n== その他 ==\n2004年（平成16年）に公開された映画『スウィングガールズ』のロケが、山形鉄道の沿線で行われ、列車内などが重要な舞台として登場したことから、一時期観光客が多く訪れた。また、この映画の公開を記念して、特別塗装の「スウィングガールズ」号が運行された。\nフラワー長井線イメージソングに影法師の『走れ！フラワー長井線』、山形鉄道応援ソングにStratosphere-ストラトスフィア-の『Flower』がタイアップになっている。\n\n\n== 脚注 ==\n\n\n== 参考文献 ==\n「新車年鑑1989年版」『鉄道ピクトリアル』通巻512号、電気車研究会、1989年5月。\n「竣工月日表」 pp. 232-242\n「新車年鑑1991年版」『鉄道ピクトリアル』通巻550号、電気車研究会、1991年10月。\n「1990年度車両動向」 pp. 241-252\n「鉄道車両年鑑2003年版」『鉄道ピクトリアル』通巻753号、電気車研究会、2003年10月。\n「車両データ 2002年度民鉄車両」 pp. 216-227\n「【特集】ディーゼル機関車」『鉄道ピクトリアル』通巻891号、電気車研究会2014年7月。\n服部 朗宏「私鉄のディーゼル機関車 ここ10年の動き」 pp. 73-88\n「鉄道車両年鑑2016年版」『鉄道ピクトリアル』通巻923号、電気車研究会、2016年10月。\n「車両データ 2015年度民鉄車両」 pp. 215-227\n「在籍車両形式別両数表」 pp. 228-237\n\n\n== 外部リンク ==\n\n山形鉄道株式会社 - 公式サイト\n山形鉄道 (@yr880) - X（旧Twitter）\n山形鉄道 (yamagatarailway) - Facebook",
+    "字数": 3562
+   },
+   "中文": {
+    "词条标题": "山形鐵道",
+    "链接": "https://zh.wikipedia.org/wiki/%E5%B1%B1%E5%BD%A2%E9%90%B5%E9%81%93",
+    "首段": "山形鐵道股份有限公司（日語：山形鉄道／やまがたてつどう，羅馬化：Yamagata Tetsudō），簡稱山形鐵道，是一家日本山形縣的第三部門鐵路公司，總部設於長井市榮町。山形鐵道是在1988年時，為了承接日本國鐵特定地方交通線長井線的經營，而由山形縣與下屬包括長井市、南陽市與白鷹町在內、長井線沿線的相關地方自治體共同出資合組，以第三部門方式經營的鐵路公司。\n山形鐵道接手長井線之後，將其改名為花長井線，是一條主要用於連結山形線南部置賜地方幾個較重要市鎮的鐵路線。配合路線的名稱，山形鐵道也將旗下列車命名為「Flower Liner」（フラワーライナー），並利用沿線各市鎮的市花或町花，作為特定車輛的暱稱，例如編號883號的「鳶尾花號」（長井市市花）、編號884號的「大麗菊號」（川西町町花）等。\n2004年上映的日本電影《搖擺女孩》是以山形鐵道沿線的置賜地區作為故事背景，並且帶來大量慕名而來的觀光旅客搭乘。為了作為紀念，山形鐵道特別將YR-888號改為搖擺女孩特別塗裝車。",
+    "章节": {
+     "路線": "花長井線合共16個車站，屬第一種鐵道事業。",
+     "使用車輛": "YR-880型柴聯車",
+     "外部連結": "山形鐵道花長井線官方網站（页面存档备份，存于互联网档案馆）（日語）"
+    },
+    "全文": "山形鐵道股份有限公司（日語：山形鉄道／やまがたてつどう，羅馬化：Yamagata Tetsudō），簡稱山形鐵道，是一家日本山形縣的第三部門鐵路公司，總部設於長井市榮町。山形鐵道是在1988年時，為了承接日本國鐵特定地方交通線長井線的經營，而由山形縣與下屬包括長井市、南陽市與白鷹町在內、長井線沿線的相關地方自治體共同出資合組，以第三部門方式經營的鐵路公司。\n山形鐵道接手長井線之後，將其改名為花長井線，是一條主要用於連結山形線南部置賜地方幾個較重要市鎮的鐵路線。配合路線的名稱，山形鐵道也將旗下列車命名為「Flower Liner」（フラワーライナー），並利用沿線各市鎮的市花或町花，作為特定車輛的暱稱，例如編號883號的「鳶尾花號」（長井市市花）、編號884號的「大麗菊號」（川西町町花）等。\n2004年上映的日本電影《搖擺女孩》是以山形鐵道沿線的置賜地區作為故事背景，並且帶來大量慕名而來的觀光旅客搭乘。為了作為紀念，山形鐵道特別將YR-888號改為搖擺女孩特別塗裝車。\n\n\n== 路線 ==\n\n花長井線合共16個車站，屬第一種鐵道事業。\n\n\n== 使用車輛 ==\nYR-880型柴聯車\n\n\n== 外部連結 ==\n山形鐵道花長井線官方網站（页面存档备份，存于互联网档案馆）（日語）",
+    "字数": 543
+   },
+   "英文": {
+    "词条标题": "Flower Nagai Line",
+    "链接": "https://en.wikipedia.org/wiki/Flower%20Nagai%20Line",
+    "首段": "The Flower Nagai Line (フラワー長井線, Furawā-Nagai-sen) is a Japanese railway line in Yamagata Prefecture, Japan. It connects Akayu Station in Nanyō to Arato Station in Shirataka.\nThe Flower Nagai Line is the only line operated by  Yamagata Railway Company (山形鉄道, Yamagata Tetsudō), a third-sector railway company which took over the former JR East line in 1988.\nIn 2005, Yamagata Railway was in danger of having to shut down due to low patronage, leaving many residents, especially the young and old, without a mode of transportation from their farms. The only option available to the company was to try to attract more tourists to the scenic views. A lone train operator, Tatsuo Asakura, working without the knowledge of his superiors, increased out-of-town passengers from 350 in 2005 to 7,000 in 2006, and in September 2008 had entertained more than 20,000 tourists with his uplifting guided tours, spoken in local dialect.",
+    "章节": {
+     "Operation": "Six single-car diesel multiple units (YR-880 Series) serve the line, running from Akayu to Arato once every one to two hours.",
+     "Rolling Stock": "",
+     "YR-880 Series": "Eight single-car diesel multiple units were built by Niigata Transys in 1988 and 1990 for the Flower Nagai Line, using the Niigata Transys NDC model. Six units exist as of 2018. One unit, YR-881 has been scrapped in 2003, and YR-885 had been scrapped in 2015.",
+     "MCR4A Series": "A snow blower car manufactured by Niigata Transys, one unit has been manufactured.",
+     "History": "October 26, 1913: Akayu - Ringō section opens\nNovember 15, 1914: Ringō - Nagai section opens\nDecember 11, 1922: Nagai - Ayukai section opens\nApril 22, 1923: Ayukai - Arato segment opens, completing the line\nNovember 15, 1954: Diesel multiple units replace steam engines on the line\nJune 1, 1959: Miyauchi Station opens\nMay 20, 1960: Minami-Nagai Station opens\nOctober 28, 1986: Government designates line for closure\nApril 1, 1987: Line inherited by JR East following privatization of JNR\nOctober 10, 1988: Line transferred from JR East to Yamagata Railway Company\nDecember 15, 1989: Shirousagi Station opens\nOctober 23, 1997: Centralized traffic control (CTC) introduced\nJune 9, 2002: Ayame-Kōen Station opens\nOctober 13, 2007: Shikinosato Station opens",
+     "Station list": "All stations are located in Yamagata Prefecture.",
+     "References": "",
+     "External links": "Official website (in Japanese)"
+    },
+    "全文": "The Flower Nagai Line (フラワー長井線, Furawā-Nagai-sen) is a Japanese railway line in Yamagata Prefecture, Japan. It connects Akayu Station in Nanyō to Arato Station in Shirataka.\nThe Flower Nagai Line is the only line operated by  Yamagata Railway Company (山形鉄道, Yamagata Tetsudō), a third-sector railway company which took over the former JR East line in 1988.\nIn 2005, Yamagata Railway was in danger of having to shut down due to low patronage, leaving many residents, especially the young and old, without a mode of transportation from their farms. The only option available to the company was to try to attract more tourists to the scenic views. A lone train operator, Tatsuo Asakura, working without the knowledge of his superiors, increased out-of-town passengers from 350 in 2005 to 7,000 in 2006, and in September 2008 had entertained more than 20,000 tourists with his uplifting guided tours, spoken in local dialect.\n\n\n== Operation ==\nSix single-car diesel multiple units (YR-880 Series) serve the line, running from Akayu to Arato once every one to two hours.\n\n\n== Rolling Stock ==\n\n\n=== YR-880 Series ===\nEight single-car diesel multiple units were built by Niigata Transys in 1988 and 1990 for the Flower Nagai Line, using the Niigata Transys NDC model. Six units exist as of 2018. One unit, YR-881 has been scrapped in 2003, and YR-885 had been scrapped in 2015.\n\n\n=== MCR4A Series ===\nA snow blower car manufactured by Niigata Transys, one unit has been manufactured.\n\n\n== History ==\nOctober 26, 1913: Akayu - Ringō section opens\nNovember 15, 1914: Ringō - Nagai section opens\nDecember 11, 1922: Nagai - Ayukai section opens\nApril 22, 1923: Ayukai - Arato segment opens, completing the line\nNovember 15, 1954: Diesel multiple units replace steam engines on the line\nJune 1, 1959: Miyauchi Station opens\nMay 20, 1960: Minami-Nagai Station opens\nOctober 28, 1986: Government designates line for closure\nApril 1, 1987: Line inherited by JR East following privatization of JNR\nOctober 10, 1988: Line transferred from JR East to Yamagata Railway Company\nDecember 15, 1989: Shirousagi Station opens\nOctober 23, 1997: Centralized traffic control (CTC) introduced\nJune 9, 2002: Ayame-Kōen Station opens\nOctober 13, 2007: Shikinosato Station opens\n\n\n== Station list ==\nAll stations are located in Yamagata Prefecture.\n\n\n== References ==\n\n\n== External links ==\n\nOfficial website (in Japanese)",
+    "字数": 2392
+   }
+  }
+ }
+}

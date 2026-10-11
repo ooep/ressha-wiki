@@ -1,0 +1,82 @@
+{
+ "车辆": {
+  "名称": {
+   "日文": "十国峠十国鋼索線",
+   "中文": "十國鋼索線",
+   "英文": "Jukkokutōge Cable Car",
+   "运营者": [
+    "ケーブルカー"
+   ]
+  },
+  "标识": {
+   "图标文件": [
+    "35_cablecar/jukkoku-funicular__cb-jkk1m.png"
+   ],
+   "图标token": [
+    "cb-jkk1m"
+   ],
+   "网站键": {
+    "特急": [],
+    "线路": [
+     "十国鋼索線"
+    ]
+   }
+  },
+  "百科": {
+   "日文": {
+    "词条标题": "十国峠十国鋼索線",
+    "链接": "https://ja.wikipedia.org/wiki/%E5%8D%81%E5%9B%BD%E5%B3%A0%E5%8D%81%E5%9B%BD%E9%8B%BC%E7%B4%A2%E7%B7%9A",
+    "首段": "十国鋼索線（じゅっこくこうさくせん）は、静岡県田方郡函南町の十国峠山麓駅から十国峠山頂駅間を結ぶ、十国峠株式会社が運営するケーブルカー路線である。「十国峠パノラマケーブルカー」あるいは「十国峠ケーブルカー」とも呼ばれる。\n2021年11月までは西武グループの伊豆箱根鉄道株式会社が運営していたが、同年12月に会社分割により十国峠株式会社の運営となり、2022年2月から富士急グループに移った。",
+    "章节": {
+     "概要": "箱根と伊豆を結ぶ静岡県道20号熱海箱根峠線（十国峠ドライブウェー）の途中にある無料休憩所「森の駅 箱根十国峠（旧・十国峠レストハウス）」の施設内に設けられた十国峠山麓駅と、展望台のある十国峠山頂駅を結んでいる。十国峠山頂駅は函南町と熱海市の境にあり、十国五島（伊豆・相模・駿河・遠江・甲斐・安房・上総・下総・武蔵・信濃、大島・新島・神津島・三宅島・利島）を展望できるといわれる標高766 mの日金山の山頂、十国峠（じゅっこくとうげ、じっこくとうげ）へと登ることができ、気象条件によっては、山頂にある頂上展望台の望遠鏡から東京タワーや東京スカイツリーも見えることがある。\n十国峠山頂駅の南には眺めの良い芝地が整備され、風の弱い日にはピクニックなども楽しめる。また、その先には山腹にある姫の沢公園へと繋がる歩道があり、各所にアスレチックなどが置かれ、子供連れのハイキング客などが訪れる。\nなお、十国峠へはケーブルカーを使う以外にも、道が急ではあるが、熱海峠の伊豆スカイライン熱海峠ICの近くからも、前述の芝地近くの姫の沢公園ハイキングコース入口（峠の駐車場あり）まで行くことができる。\n伊豆箱根バスの発売する「箱根旅助け」が利用可能（「箱根バスフリー」では割引料金適用）。小田急グループで発行している「箱根フリーパス」は利用できない。",
+     "路線データ": "路線距離（営業キロ）：0.3 km\n軌間：1,435 mm\n駅数：2駅（起終点駅含む）\n高低差：101 m\n同じく伊豆箱根鉄道が運営していた駒ヶ岳鋼索線（2005年廃止）を始め、日本国内の多くのケーブルカーは1,067 mm軌間を採用しているが、十国鋼索線では標準軌を採用している。これは、車両製作にあたり当時日本国内唯一の標準軌のケーブルカーであった妙見鋼索鉄道（後の能勢電鉄妙見の森ケーブル）の台車を転用したためである。\nなお、静岡県で標準軌を採用している鉄道路線は東海道新幹線と本路線のみである。また、2023年12月4日に能勢電鉄妙見の森ケーブルが廃止されたことで、本路線が日本国内で唯一の標準軌のケーブルカーとなった。",
+     "運行形態": "おおむね15分毎の運行で、所要時間は3分である。",
+     "車両": "1955年（昭和30年）日立製作所製で、1・2の2両がある。いずれも開業時から使用されている車両で、1号車（青）には「日金」、2号車（赤）には「十国」の愛称が付けられている。車体塗装は以前は2両ともにライオンズカラーを纏っていたが、2018年7月より開業当時のデザインをモチーフに車体中央部に富士山をアレンジした新塗装が採用されている。",
+     "歴史": "1956年（昭和31年）10月16日：駿豆鉄道株式会社により十国鋼索線が開業。\n開業にあたって、機材は戦時中に不要不急路線として廃止された兵庫県の妙見鋼索鉄道の設備を転用し、主要機材は1925年（大正14年）製造のものを使用。\n1957年（昭和32年）6月1日：駿豆鉄道が伊豆箱根鉄道株式会社に社名変更。\n2021年（令和3年）12月1日：伊豆箱根鉄道より、十国鋼索線・十国峠レストハウスの運営部門を会社分割し、十国峠株式会社を新設。同社による運営となる。\n2022年（令和4年）\n2月1日：十国峠株式会社の全株式を富士急行株式会社に売却。\n8月11日：十国峠駅駅舎の一部と展望台がリニューアルオープン。\n11月5日：ケーブルカーの愛称を「十国峠ケーブルカー」から「十国峠パノラマケーブルカー」に変更、十国登り口駅を十国峠山麓駅、十国峠駅を十国峠山頂駅に改称。十国峠山麓駅の「十国峠レストハウス」が「森の駅 箱根十国峠」としてリニューアルオープン。",
+     "今後の予定": "開業から70年経過し、老朽化による部品確保や長期的な安全性維持が困難と見込まれることもあり、2027年（令和9年）夏にケーブルカーの代替となるスロープカーの開業が計画されている。",
+     "駅一覧": "十国峠山麓駅（じゅっこくとうげさんろくえき） - 十国峠山頂駅（じゅっこくとうげさんちょうえき）\n前述の通り2022年に駅名が改称されているが、旧称である「十国登り口駅」「十国峠駅」を使用する案内書等もあり、双方が混在している。また十国峠山麓駅は「山麓駅」、十国峠山頂駅は「山頂駅」と案内されることがある。",
+     "接続路線": "十国峠山麓駅：熱海駅から伊豆箱根バス元箱根行き所要時間35分。",
+     "施設": "山頂施設\n\nPANORAMA TERRACE 1059（パノラマテラス1059）\nTENGOKU CAFÉ（天国カフェ）\n麓施設\n\n森の駅 箱根十国峠（営業時間 8:40-17:00）",
+     "十国峠山頂駅からの眺望": "",
+     "脚注": "",
+     "関連項目": "日本の鉄道路線一覧",
+     "外部リンク": "箱根 十国峠パノラマケーブルカー\n十国峠パノラマケーブルカー (@jukkokupass) - X（旧Twitter）\n十国峠ケーブルカー (jukkoku) - Facebook\n十国峠展望台 - 伊豆半島ジオパーク"
+    },
+    "全文": "十国鋼索線（じゅっこくこうさくせん）は、静岡県田方郡函南町の十国峠山麓駅から十国峠山頂駅間を結ぶ、十国峠株式会社が運営するケーブルカー路線である。「十国峠パノラマケーブルカー」あるいは「十国峠ケーブルカー」とも呼ばれる。\n2021年11月までは西武グループの伊豆箱根鉄道株式会社が運営していたが、同年12月に会社分割により十国峠株式会社の運営となり、2022年2月から富士急グループに移った。\n\n\n== 概要 ==\n箱根と伊豆を結ぶ静岡県道20号熱海箱根峠線（十国峠ドライブウェー）の途中にある無料休憩所「森の駅 箱根十国峠（旧・十国峠レストハウス）」の施設内に設けられた十国峠山麓駅と、展望台のある十国峠山頂駅を結んでいる。十国峠山頂駅は函南町と熱海市の境にあり、十国五島（伊豆・相模・駿河・遠江・甲斐・安房・上総・下総・武蔵・信濃、大島・新島・神津島・三宅島・利島）を展望できるといわれる標高766 mの日金山の山頂、十国峠（じゅっこくとうげ、じっこくとうげ）へと登ることができ、気象条件によっては、山頂にある頂上展望台の望遠鏡から東京タワーや東京スカイツリーも見えることがある。\n十国峠山頂駅の南には眺めの良い芝地が整備され、風の弱い日にはピクニックなども楽しめる。また、その先には山腹にある姫の沢公園へと繋がる歩道があり、各所にアスレチックなどが置かれ、子供連れのハイキング客などが訪れる。\nなお、十国峠へはケーブルカーを使う以外にも、道が急ではあるが、熱海峠の伊豆スカイライン熱海峠ICの近くからも、前述の芝地近くの姫の沢公園ハイキングコース入口（峠の駐車場あり）まで行くことができる。\n伊豆箱根バスの発売する「箱根旅助け」が利用可能（「箱根バスフリー」では割引料金適用）。小田急グループで発行している「箱根フリーパス」は利用できない。\n\n\n=== 路線データ ===\n路線距離（営業キロ）：0.3 km\n軌間：1,435 mm\n駅数：2駅（起終点駅含む）\n高低差：101 m\n同じく伊豆箱根鉄道が運営していた駒ヶ岳鋼索線（2005年廃止）を始め、日本国内の多くのケーブルカーは1,067 mm軌間を採用しているが、十国鋼索線では標準軌を採用している。これは、車両製作にあたり当時日本国内唯一の標準軌のケーブルカーであった妙見鋼索鉄道（後の能勢電鉄妙見の森ケーブル）の台車を転用したためである。\nなお、静岡県で標準軌を採用している鉄道路線は東海道新幹線と本路線のみである。また、2023年12月4日に能勢電鉄妙見の森ケーブルが廃止されたことで、本路線が日本国内で唯一の標準軌のケーブルカーとなった。\n\n\n== 運行形態 ==\nおおむね15分毎の運行で、所要時間は3分である。\n\n\n== 車両 ==\n\n1955年（昭和30年）日立製作所製で、1・2の2両がある。いずれも開業時から使用されている車両で、1号車（青）には「日金」、2号車（赤）には「十国」の愛称が付けられている。車体塗装は以前は2両ともにライオンズカラーを纏っていたが、2018年7月より開業当時のデザインをモチーフに車体中央部に富士山をアレンジした新塗装が採用されている。\n\n\n== 歴史 ==\n1956年（昭和31年）10月16日：駿豆鉄道株式会社により十国鋼索線が開業。\n開業にあたって、機材は戦時中に不要不急路線として廃止された兵庫県の妙見鋼索鉄道の設備を転用し、主要機材は1925年（大正14年）製造のものを使用。\n1957年（昭和32年）6月1日：駿豆鉄道が伊豆箱根鉄道株式会社に社名変更。\n2021年（令和3年）12月1日：伊豆箱根鉄道より、十国鋼索線・十国峠レストハウスの運営部門を会社分割し、十国峠株式会社を新設。同社による運営となる。\n2022年（令和4年）\n2月1日：十国峠株式会社の全株式を富士急行株式会社に売却。\n8月11日：十国峠駅駅舎の一部と展望台がリニューアルオープン。\n11月5日：ケーブルカーの愛称を「十国峠ケーブルカー」から「十国峠パノラマケーブルカー」に変更、十国登り口駅を十国峠山麓駅、十国峠駅を十国峠山頂駅に改称。十国峠山麓駅の「十国峠レストハウス」が「森の駅 箱根十国峠」としてリニューアルオープン。\n\n\n=== 今後の予定 ===\n開業から70年経過し、老朽化による部品確保や長期的な安全性維持が困難と見込まれることもあり、2027年（令和9年）夏にケーブルカーの代替となるスロープカーの開業が計画されている。\n\n\n== 駅一覧 ==\n十国峠山麓駅（じゅっこくとうげさんろくえき） - 十国峠山頂駅（じゅっこくとうげさんちょうえき）\n前述の通り2022年に駅名が改称されているが、旧称である「十国登り口駅」「十国峠駅」を使用する案内書等もあり、双方が混在している。また十国峠山麓駅は「山麓駅」、十国峠山頂駅は「山頂駅」と案内されることがある。\n\n\n== 接続路線 ==\n十国峠山麓駅：熱海駅から伊豆箱根バス元箱根行き所要時間35分。\n\n\n== 施設 ==\n山頂施設\n\nPANORAMA TERRACE 1059（パノラマテラス1059）\nTENGOKU CAFÉ（天国カフェ）\n麓施設\n\n森の駅 箱根十国峠（営業時間 8:40-17:00）\n\n\n== 十国峠山頂駅からの眺望 ==\n\n\n== 脚注 ==\n\n\n== 関連項目 ==\n日本の鉄道路線一覧\n\n\n== 外部リンク ==\n\n箱根 十国峠パノラマケーブルカー\n十国峠パノラマケーブルカー (@jukkokupass) - X（旧Twitter）\n十国峠ケーブルカー (jukkoku) - Facebook\n十国峠展望台 - 伊豆半島ジオパーク",
+    "字数": 2359
+   },
+   "中文": {
+    "词条标题": "十國鋼索線",
+    "链接": "https://zh.wikipedia.org/wiki/%E5%8D%81%E5%9C%8B%E9%8B%BC%E7%B4%A2%E7%B7%9A",
+    "首段": "十國鋼索線（日語：十国鋼索線／じゅっこくこうさくせん，羅馬化：Jukkoku Kōsaku sen），通稱箱根十國峠纜车（箱根十国峠ケーブルカー），是位於日本靜岡縣函南町的往复式地面缆车，由伊豆箱根鐵道負責營運。",
+    "章节": {
+     "簡介": "本路線連接了位於箱根及伊豆要道熱海箱根峠線的十國登口車站及位於日金山山頂的十國峠車站。十國峠車站位於函南町與熱海市交界，登上標高766公尺的日金山山頂「十國峠」可眺望「十國五島」（十國為伊豆、駿河、遠江、甲斐、信濃、武藏、上總、下總、安房及相模，五島則為大島、利島、新島、神津島及三宅島）。如果天氣狀況佳，還有機會看見東京鐵塔和東京晴空塔。\n十國峠站南側草地視野廣闊。其前方有通往山腰姫之澤公園的步道，步道旁設有許多戶外運動設施，吸引許多親子登山客來訪。\n除了纜車，也可駕車從熱海峠伊豆Skyline熱海峠交流道前往十國峠站。上述草地旁設有停車場。",
+     "路線資料": "路線距離（營業距離）：0.3公里（316公尺）。\n軌距：1,435公釐（標準鐵軌）。\n站數：2個（即起、終點車站）。\n高低差：101公尺。\n包括同集團的駒岳鋼索線（2005年廢線）在內的日本大多數往复式地面缆车採用1,067公釐轨距，然而本線在製作車輛時借用了當時日本國內唯一採用標準軌、現已廢線的妙見之森纜索線列車，因此成為日本少數使用標準軌的地面缆车。",
+     "使用車輛": "本路線共有二部列車承擔路線運作，名稱分別為「日金」及「十國」，並以伊豆箱根鐵道母公司西武集團旗下持有球隊西武獅的代表色「獅子色」塗裝。",
+     "運行形態": "本路線現行時間表為8:50至16:30分，每10至15分鐘開出一班列車，自起點至終點花費時間約3分鐘。",
+     "交通接駁": "十國登山口站：熱海站搭乘往元箱根的伊豆箱根巴士。行駛時間約35分。",
+     "景觀": "",
+     "參見": "駿豆線\n箱根登山鐵道鋼索線\n日本鐵路線列表",
+     "參考資料": "",
+     "外部連結": "伊豆箱根鐵道 箱根十國峠纜索鐵路網（页面存档备份，存于互联网档案馆） （日語）"
+    },
+    "全文": "十國鋼索線（日語：十国鋼索線／じゅっこくこうさくせん，羅馬化：Jukkoku Kōsaku sen），通稱箱根十國峠纜车（箱根十国峠ケーブルカー），是位於日本靜岡縣函南町的往复式地面缆车，由伊豆箱根鐵道負責營運。\n\n\n== 簡介 ==\n本路線連接了位於箱根及伊豆要道熱海箱根峠線的十國登口車站及位於日金山山頂的十國峠車站。十國峠車站位於函南町與熱海市交界，登上標高766公尺的日金山山頂「十國峠」可眺望「十國五島」（十國為伊豆、駿河、遠江、甲斐、信濃、武藏、上總、下總、安房及相模，五島則為大島、利島、新島、神津島及三宅島）。如果天氣狀況佳，還有機會看見東京鐵塔和東京晴空塔。\n十國峠站南側草地視野廣闊。其前方有通往山腰姫之澤公園的步道，步道旁設有許多戶外運動設施，吸引許多親子登山客來訪。\n除了纜車，也可駕車從熱海峠伊豆Skyline熱海峠交流道前往十國峠站。上述草地旁設有停車場。\n\n\n== 路線資料 ==\n路線距離（營業距離）：0.3公里（316公尺）。\n軌距：1,435公釐（標準鐵軌）。\n站數：2個（即起、終點車站）。\n高低差：101公尺。\n包括同集團的駒岳鋼索線（2005年廢線）在內的日本大多數往复式地面缆车採用1,067公釐轨距，然而本線在製作車輛時借用了當時日本國內唯一採用標準軌、現已廢線的妙見之森纜索線列車，因此成為日本少數使用標準軌的地面缆车。\n\n\n== 使用車輛 ==\n本路線共有二部列車承擔路線運作，名稱分別為「日金」及「十國」，並以伊豆箱根鐵道母公司西武集團旗下持有球隊西武獅的代表色「獅子色」塗裝。\n\n\n== 運行形態 ==\n本路線現行時間表為8:50至16:30分，每10至15分鐘開出一班列車，自起點至終點花費時間約3分鐘。\n\n\n== 交通接駁 ==\n十國登山口站：熱海站搭乘往元箱根的伊豆箱根巴士。行駛時間約35分。\n\n\n== 景觀 ==\n\n\n== 參見 ==\n\n駿豆線\n箱根登山鐵道鋼索線\n日本鐵路線列表\n\n\n== 參考資料 ==\n\n\n== 外部連結 ==\n伊豆箱根鐵道 箱根十國峠纜索鐵路網（页面存档备份，存于互联网档案馆） （日語）",
+    "字数": 888
+   },
+   "英文": {
+    "词条标题": "Jukkokutōge Cable Car",
+    "链接": "https://en.wikipedia.org/wiki/Jukkokut%C5%8Dge%20Cable%20Car",
+    "首段": "The Jukkokutōge Cable Car (十国峠ケーブルカー, Jukkokutōge Kēburukā), officially the Jikkoku Cable Line (十国鋼索線, Jikkoku Kōsaku-sen), is a funicular line in Kannami, Shizuoka Prefecture, Japan operated by the Izuhakone Railway.",
+    "章节": {
+     "Description": "The 316m line connects Jukkokutoge-Sanroku Station and Jukkokutoge-Sancho Station. The line climbs Jukkoku Pass, literally meaning \"ten countries pass\", as it is claimed that ten \"countries\" (old provinces of Japan) can be seen from the summit of the pass. The line runs on average every 15 minutes, with travel time in each direction at 3 minutes. The line is operated by the Jukkokutoge corporation, a member of the Fujikyu Group. The line uses standard gauge tracks, and is the only cable car line in Japan to do so after Myoken Cable's closure in 2023. The line was constructed using tracks of the partially closed sections of the previously mentioned cable car line.\nThe line operates using two cable cars made in 1955 by Hitachi, each numbered 1 and 2. When the line was transferred from Izuhakone Railway, a member of the Seibu Railway group to the current operator Jukkokutoge Corporation, the buildings of the line were renovated along with other associated buildings. The two cable cars were also repainted from the Saitama Seibu Lions colors following this change.",
+     "View from Jukkokutōge station": "",
+     "References": "",
+     "See also": "Hakone Komagatake Ropeway\nList of funicular railways",
+     "External links": "Official website(in Japanese)"
+    },
+    "全文": "The Jukkokutōge Cable Car (十国峠ケーブルカー, Jukkokutōge Kēburukā), officially the Jikkoku Cable Line (十国鋼索線, Jikkoku Kōsaku-sen), is a funicular line in Kannami, Shizuoka Prefecture, Japan operated by the Izuhakone Railway.\n\nThe line was opened on October 16, 1956 by the Sunzu Railway Company, which was acquired by the Izuhakone Railway in 1957. The line climbs Jukkoku Pass, literally meaning \"ten countries pass\", as it is claimed that ten \"countries\" (old provinces of Japan) can be seen from the summit of the pass. The line runs on average every eight minutes, with travel time in each direction at 3 minutes. The cars on the line were painted in the colors of the Seibu Lions baseball team until 2018.\n\n\n== Description ==\nThe 316m line connects Jukkokutoge-Sanroku Station and Jukkokutoge-Sancho Station. The line climbs Jukkoku Pass, literally meaning \"ten countries pass\", as it is claimed that ten \"countries\" (old provinces of Japan) can be seen from the summit of the pass. The line runs on average every 15 minutes, with travel time in each direction at 3 minutes. The line is operated by the Jukkokutoge corporation, a member of the Fujikyu Group. The line uses standard gauge tracks, and is the only cable car line in Japan to do so after Myoken Cable's closure in 2023. The line was constructed using tracks of the partially closed sections of the previously mentioned cable car line.\nThe line operates using two cable cars made in 1955 by Hitachi, each numbered 1 and 2. When the line was transferred from Izuhakone Railway, a member of the Seibu Railway group to the current operator Jukkokutoge Corporation, the buildings of the line were renovated along with other associated buildings. The two cable cars were also repainted from the Saitama Seibu Lions colors following this change.\n\n\n== View from Jukkokutōge station ==\n\n\n== References ==\n\n\n== See also ==\nHakone Komagatake Ropeway\nList of funicular railways\n\n\n== External links ==\nOfficial website(in Japanese)",
+    "字数": 1979
+   }
+  }
+ }
+}

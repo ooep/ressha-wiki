@@ -1,0 +1,75 @@
+{
+ "车辆": {
+  "名称": {
+   "日文": "相鉄13000系電車",
+   "中文": "相鐵13000系電聯車",
+   "英文": "Sotetsu 13000 series",
+   "运营者": [
+    "相鉄"
+   ]
+  },
+  "标识": {
+   "图标文件": [
+    "16_sotetsu/sotetsu-rail__sote13000.png"
+   ],
+   "图标token": [
+    "sote13000"
+   ],
+   "网站键": {
+    "特急": [
+     "相鉄特急"
+    ],
+    "线路": [
+     "相模鉄道"
+    ]
+   }
+  },
+  "百科": {
+   "日文": {
+    "词条标题": "相鉄13000系電車",
+    "链接": "https://ja.wikipedia.org/wiki/%E7%9B%B8%E9%89%8413000%E7%B3%BB%E9%9B%BB%E8%BB%8A",
+    "首段": "相鉄13000系電車（そうてつ13000けいでんしゃ）は、2026年（令和8年）3月30日に営業運転を開始した相模鉄道（相鉄）の通勤型電車。",
+    "章节": {
+     "概要": "相鉄が2014年より実施している相鉄デザインブランドアッププロジェクトの第2フェーズ、および「2027年国際園芸博覧会（GREEN×EXPO 2027）」の開催への対応（同博覧会に実車両「13100号車」も展示予定）として、これまでのデザインコンセプト「安全×安心×エレガント」に「未来」というキーワードを加えて同車両を新たにデザインし、相鉄線内専用の新型車両として導入する。\n塗装はこれまで通り同プロジェクトにおけるYOKOHAMA NAVYBLUE（YNB）を採用しているが、車両前面中央部の相鉄グループマークが掲げられているセンターパネルは同色の光沢を抑えたマット色を新たに採用。車両前面は水を切り拓いて進む海の生き物の流麗な造形を参考にデザインし、前照灯は新たに加えたコンセプト「未来」に基づき、「未来を見つめる目」としてデザイン。また、この前照灯の両端部には新たに「Concept Emblem（コンセプトエンブレム）」と呼ばれるエッジの際立った部品を新設し、さらにエレガントさを感じられる工夫を施す。\n2025年2月7日に前照灯とコンセプトエンブレムのみが先行して公表されたのち、同年4月25日に車両の外観が一部公開された。\nその後、2026年3月20日に事前応募制・抽選制でかしわ台車両センター（かしわ台駅）構内でおひろめ会が開催された。第一編成は8両編成となり、同年3月30日には海老名駅5時15分発の快速横浜行きより営業運転を開始した。なお、今回の新型車両の導入は将来のワンマン運転や8000系および9000系の代替なども視野に入っており、特に車両間の貫通扉設置や天井材の交換が行われていない8000系は、鶴ヶ峰駅付近連続立体交差事業の地下化区間（長距離トンネルに伴う地下鉄仕様）に対応していないため、事業が完了する2033年度までに置き換えを進める方針である。",
+     "特徴": "",
+     "12000系との共通点と差異": "メンテナンスの効率化や乗務員の負担なども考慮し、走行機器類や車内設備、列車情報管理システム（TIMS）などを含めて、相鉄12000系（JR東日本E233系電車ベース）に準拠した共通設計としている。また、車体も同系列と同じく総合車両製作所（J-TREC）のオールステンレス車両ブランド「sustina」を採用している。ただし、車内設備に関して空気清浄機（ナノイーXを採用）や防犯カメラの性能は向上し、先頭車の座席数は6席増加（後述のホームドアの課題に関連して先頭車の扉配置を4,940mmで統一し車体が延長）している。なお、第一編成は8両編成での導入となったが、12000系をそのまま8両化するとホームドアの位置が合わなくなる課題もあり、新形式の13000系を導入した理由の一つとなっている。",
+     "編成表": "13000系（8両編成）\n\n凡例\nVVVF：制御装置（VVVFインバータ装置）\nSIV：補助電源装置（静止形インバータ）\nCP：電動空気圧縮機\nBT：蓄電池\n＞：集電装置（シングルアームパンタグラフ）\n♿︎：ベビーカー・車椅子スペース（フリースペース）\n両先頭車とサハ13700（T1）の床下に非常用はしごを設置",
+     "脚注": "",
+     "注釈": "",
+     "出典": "広報\n\n記事",
+     "関連項目": "YOKOHAMA NAVYBLUE\nオールステンレス車両\nsustina（総合車両製作所）\n相鉄12000系電車 - JR直通線対応車両（本系列のベース）\n相鉄20000・21000系電車 - 東急直通線対応車両",
+     "外部リンク": "相鉄デザインブランドアッププロジェクト（相鉄グループ、2026年3月9日時点のアーカイブ）"
+    },
+    "全文": "相鉄13000系電車（そうてつ13000けいでんしゃ）は、2026年（令和8年）3月30日に営業運転を開始した相模鉄道（相鉄）の通勤型電車。\n\n\n== 概要 ==\n相鉄が2014年より実施している相鉄デザインブランドアッププロジェクトの第2フェーズ、および「2027年国際園芸博覧会（GREEN×EXPO 2027）」の開催への対応（同博覧会に実車両「13100号車」も展示予定）として、これまでのデザインコンセプト「安全×安心×エレガント」に「未来」というキーワードを加えて同車両を新たにデザインし、相鉄線内専用の新型車両として導入する。\n塗装はこれまで通り同プロジェクトにおけるYOKOHAMA NAVYBLUE（YNB）を採用しているが、車両前面中央部の相鉄グループマークが掲げられているセンターパネルは同色の光沢を抑えたマット色を新たに採用。車両前面は水を切り拓いて進む海の生き物の流麗な造形を参考にデザインし、前照灯は新たに加えたコンセプト「未来」に基づき、「未来を見つめる目」としてデザイン。また、この前照灯の両端部には新たに「Concept Emblem（コンセプトエンブレム）」と呼ばれるエッジの際立った部品を新設し、さらにエレガントさを感じられる工夫を施す。\n2025年2月7日に前照灯とコンセプトエンブレムのみが先行して公表されたのち、同年4月25日に車両の外観が一部公開された。\nその後、2026年3月20日に事前応募制・抽選制でかしわ台車両センター（かしわ台駅）構内でおひろめ会が開催された。第一編成は8両編成となり、同年3月30日には海老名駅5時15分発の快速横浜行きより営業運転を開始した。なお、今回の新型車両の導入は将来のワンマン運転や8000系および9000系の代替なども視野に入っており、特に車両間の貫通扉設置や天井材の交換が行われていない8000系は、鶴ヶ峰駅付近連続立体交差事業の地下化区間（長距離トンネルに伴う地下鉄仕様）に対応していないため、事業が完了する2033年度までに置き換えを進める方針である。\n\n\n== 特徴 ==\n\n\n=== 12000系との共通点と差異 ===\nメンテナンスの効率化や乗務員の負担なども考慮し、走行機器類や車内設備、列車情報管理システム（TIMS）などを含めて、相鉄12000系（JR東日本E233系電車ベース）に準拠した共通設計としている。また、車体も同系列と同じく総合車両製作所（J-TREC）のオールステンレス車両ブランド「sustina」を採用している。ただし、車内設備に関して空気清浄機（ナノイーXを採用）や防犯カメラの性能は向上し、先頭車の座席数は6席増加（後述のホームドアの課題に関連して先頭車の扉配置を4,940mmで統一し車体が延長）している。なお、第一編成は8両編成での導入となったが、12000系をそのまま8両化するとホームドアの位置が合わなくなる課題もあり、新形式の13000系を導入した理由の一つとなっている。\n\n\n== 編成表 ==\n13000系（8両編成）\n\n凡例\nVVVF：制御装置（VVVFインバータ装置）\nSIV：補助電源装置（静止形インバータ）\nCP：電動空気圧縮機\nBT：蓄電池\n＞：集電装置（シングルアームパンタグラフ）\n♿︎：ベビーカー・車椅子スペース（フリースペース）\n両先頭車とサハ13700（T1）の床下に非常用はしごを設置 \n\n\n== 脚注 ==\n\n\n=== 注釈 ===\n\n\n=== 出典 ===\n広報\n\n記事\n\n\n== 関連項目 ==\n\nYOKOHAMA NAVYBLUE\nオールステンレス車両\nsustina（総合車両製作所）\n相鉄12000系電車 - JR直通線対応車両（本系列のベース）\n相鉄20000・21000系電車 - 東急直通線対応車両\n\n\n== 外部リンク ==\n相鉄デザインブランドアッププロジェクト（相鉄グループ、2026年3月9日時点のアーカイブ）",
+    "字数": 1649
+   },
+   "中文": {
+    "词条标题": "相鐵13000系電聯車",
+    "链接": "https://zh.wikipedia.org/wiki/%E7%9B%B8%E9%90%B513000%E7%B3%BB%E9%9B%BB%E8%81%AF%E8%BB%8A",
+    "首段": "相鐵13000系電聯車（日語：相鉄13000系電車／そうてつ13000けいでんしゃ，羅馬化：Sōtetsu 13000-kei densha）是相模鐵道的相鐵線於2026年3月30日開始投入使用的電聯車，並計畫逐步替換現有的8000系和9000系電聯車。",
+    "章节": {
+     "構造": "13000系以安全、安心、優雅和未來作為設計理念，其車頭使用象徵著海洋生物破浪前行的優美造型，前照燈則使用代表「凝視未來的雙眼」的獨特設計。車身採用象徵著橫濱的「YOKOHAMA NAVYBLUE（橫濱海軍藍）」，車頭正面的中間處則採用相同顏色的霧面塗裝。機電設備方面，13000系使用與相鐵12000系電聯車相同型號的絕緣閘雙極電晶體式變頻器，與相鐵既有的鐵路車輛相比，每輛車在行駛時可減少39%的電力使用量。\n相較於直通相鐵・JR 直通線用的12000系電聯車，13000系的前頭車客室內部增設6個座位，單列編組共增設12個座位。座椅使用的絨布經過改良，並在其表面添加不規則的圖紋，使沾到座椅上的髒污較不明顯。而部分博愛座的座椅使用方便乘客站立與坐下的通用設計座椅，以因應乘客的不同需求。為提升車內空調的冷房效率，當列車長時間停靠在起點站時，乘客可自行操作安裝在旅客用車門旁的車門開關按鈕。內裝統一使用灰色塗裝，並配備廣受乘客好評的玻璃製行李架、座位隔板與貫通門，營造出具有開放感的客室空間。所有車廂均有設置放置嬰兒車及輪椅的自由空間，並且各別搭載一台空氣清淨機，以提升乘客搭乘時的舒適度。照明設備使用可隨著時間調整色溫與亮度的LED燈。而車窗則使用抗UV且可吸收熱能的夾層玻璃。",
+     "運用": "相鐵預計在2025年度先行導入一列8輛編組的13000系電聯車。該列編組已於2025年11月運送至柏台站內的柏台車輛中心，並於2026年3月20日舉辦公開亮相的活動。同年的3月30日，該編組開始投入商業運轉，且僅限於在相鐵的鐵道路線上運行。",
+     "參考文獻": ""
+    },
+    "全文": "相鐵13000系電聯車（日語：相鉄13000系電車／そうてつ13000けいでんしゃ，羅馬化：Sōtetsu 13000-kei densha）是相模鐵道的相鐵線於2026年3月30日開始投入使用的電聯車，並計畫逐步替換現有的8000系和9000系電聯車。\n\n\n== 構造 ==\n13000系以安全、安心、優雅和未來作為設計理念，其車頭使用象徵著海洋生物破浪前行的優美造型，前照燈則使用代表「凝視未來的雙眼」的獨特設計。車身採用象徵著橫濱的「YOKOHAMA NAVYBLUE（橫濱海軍藍）」，車頭正面的中間處則採用相同顏色的霧面塗裝。機電設備方面，13000系使用與相鐵12000系電聯車相同型號的絕緣閘雙極電晶體式變頻器，與相鐵既有的鐵路車輛相比，每輛車在行駛時可減少39%的電力使用量。\n相較於直通相鐵・JR 直通線用的12000系電聯車，13000系的前頭車客室內部增設6個座位，單列編組共增設12個座位。座椅使用的絨布經過改良，並在其表面添加不規則的圖紋，使沾到座椅上的髒污較不明顯。而部分博愛座的座椅使用方便乘客站立與坐下的通用設計座椅，以因應乘客的不同需求。為提升車內空調的冷房效率，當列車長時間停靠在起點站時，乘客可自行操作安裝在旅客用車門旁的車門開關按鈕。內裝統一使用灰色塗裝，並配備廣受乘客好評的玻璃製行李架、座位隔板與貫通門，營造出具有開放感的客室空間。所有車廂均有設置放置嬰兒車及輪椅的自由空間，並且各別搭載一台空氣清淨機，以提升乘客搭乘時的舒適度。照明設備使用可隨著時間調整色溫與亮度的LED燈。而車窗則使用抗UV且可吸收熱能的夾層玻璃。\n\n\n== 運用 ==\n相鐵預計在2025年度先行導入一列8輛編組的13000系電聯車。該列編組已於2025年11月運送至柏台站內的柏台車輛中心，並於2026年3月20日舉辦公開亮相的活動。同年的3月30日，該編組開始投入商業運轉，且僅限於在相鐵的鐵道路線上運行。\n\n\n== 參考文獻 ==",
+    "字数": 826
+   },
+   "英文": {
+    "词条标题": "Sotetsu 13000 series",
+    "链接": "https://en.wikipedia.org/wiki/Sotetsu%2013000%20series",
+    "首段": "The Sotetsu 13000 series (Japanese: 相鉄13000系) is an electric multiple unit (EMU) train type operated by the private railway operator Sagami Railway (Sotetsu) on commuter services in Kanagawa Prefecture, Japan, since 2026.",
+    "章节": {
+     "Design": "The 13000 series is built on J-TREC's Sustina platform. The trains inherit the underfloor equipment and interior design used with the earlier 12000 series, but the 13000 series' end cars each feature six additional seats.",
+     "Operations": "The train type will be used across the Sotetsu network. Instead of being formed of 10 cars like the 8000 and 9000 series trainsets the new trains are due to replace, Sotetsu decided that initial 13000 series sets would use an 8-car formation, citing population trends along the railway. However, Sotetsu expressed that it was willing to reconsider its plans if needed.",
+     "History": "The new train type was first teased by Sotetsu on 7 February 2025. Sotetsu announced additional details for the 13000 series on 25 April 2025.\nThe first set was delivered from the J-TREC plant in Yokohama in November 2025. The fleet entered revenue service on 30 March 2026. As part of its capital investment year for fiscal 2026, Sotetsu announced that it would procure a second 13000 series 8-car set.\nOn 28 August 2026, Sotetsu announced that it had delivered a single 13000 series car to \"Sotetsu Park\", their venue in the upcoming International Horticultural Expo 2027 in Yokohama. Sotetsu designated this car as the 13100 series.",
+     "See also": "Tobu 80000 series – train type introduced in 2025 as part of similar rightsizing initiatives for the Tobu Urban Park Line",
+     "References": "",
+     "External links": "April 2025 press release (in Japanese)"
+    },
+    "全文": "The Sotetsu 13000 series (Japanese: 相鉄13000系) is an electric multiple unit (EMU) train type operated by the private railway operator Sagami Railway (Sotetsu) on commuter services in Kanagawa Prefecture, Japan, since 2026.\n\n\n== Design ==\nThe 13000 series is built on J-TREC's Sustina platform. The trains inherit the underfloor equipment and interior design used with the earlier 12000 series, but the 13000 series' end cars each feature six additional seats.\n\n\n== Operations ==\nThe train type will be used across the Sotetsu network. Instead of being formed of 10 cars like the 8000 and 9000 series trainsets the new trains are due to replace, Sotetsu decided that initial 13000 series sets would use an 8-car formation, citing population trends along the railway. However, Sotetsu expressed that it was willing to reconsider its plans if needed.\n\n\n== History ==\nThe new train type was first teased by Sotetsu on 7 February 2025. Sotetsu announced additional details for the 13000 series on 25 April 2025.\nThe first set was delivered from the J-TREC plant in Yokohama in November 2025. The fleet entered revenue service on 30 March 2026. As part of its capital investment year for fiscal 2026, Sotetsu announced that it would procure a second 13000 series 8-car set.\nOn 28 August 2026, Sotetsu announced that it had delivered a single 13000 series car to \"Sotetsu Park\", their venue in the upcoming International Horticultural Expo 2027 in Yokohama. Sotetsu designated this car as the 13100 series.\n\n\n== See also ==\nTobu 80000 series – train type introduced in 2025 as part of similar rightsizing initiatives for the Tobu Urban Park Line\n\n\n== References ==\n\n\n== External links ==\n\nApril 2025 press release (in Japanese)",
+    "字数": 1719
+   }
+  }
+ }
+}

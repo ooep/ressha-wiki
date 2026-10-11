@@ -5,21 +5,27 @@
    "中文": "JR東日本E127系電力動車組",
    "英文": "E127 series",
    "运营者": [
-    "JR東日本"
+    "JR東日本",
+    "甲信越私鉄"
    ]
   },
   "标识": {
    "图标文件": [
-    "02_east/nagano-area__e127mt.png"
+    "02_east/nagano-area__e127mt.png",
+    "30_koshinetsu_mi/tokimeki-rail__toki127g.png"
    ],
    "图标token": [
-    "e127mt"
+    "e127mt",
+    "toki127g"
    ],
    "网站键": {
     "特急": [
      "長野電鉄特急"
     ],
     "线路": [
+     "えちごトキめき鉄道",
+     "三国芦原線",
+     "妙高はねうまライン",
      "篠ノ井線"
     ]
    }

@@ -6,55 +6,30 @@
    "英文": "Untitled (Arashi album)",
    "运营者": [
     "ケーブルカー",
-    "九州私鉄",
-    "京急",
     "四国私鉄",
-    "小田急",
     "山陽山陰",
-    "東急",
-    "関東私鉄",
-    "関西私鉄"
+    "東急"
    ]
   },
   "标识": {
    "图标文件": [
-    "13_odakyu/untitled__enod306.png",
     "14_tokyu/untitled__yokk000.png",
-    "15_keikyu/untitled__khk601.png",
     "26_sanyosanin/untitled__lkure600.png",
-    "29_kanto_mi/untitled__ymmn1002.png",
-    "32_kansai_mi/untitled__hojo2000.png",
-    "32_kansai_mi/untitled__mzma7001.png",
     "33_shikoku_mi/untitled__ktdn721r.png",
-    "34_kyushu_mi/untitled__kmgw501.png",
     "35_cablecar/untitled__cb-krm2.png"
    ],
    "图标token": [
     "cb-krm2",
-    "enod306",
-    "hojo2000",
-    "khk601",
-    "kmgw501",
     "ktdn721r",
     "lkure600",
-    "mzma7001",
-    "ymmn1002",
     "yokk000"
    ],
    "网站键": {
     "特急": [],
     "线路": [
      "こどもの国線",
-     "ユーカリが丘線",
-     "久里浜線",
-     "京急本線",
-     "北条線",
      "呉線",
      "志度線",
-     "水間線",
-     "江ノ島電鉄線",
-     "湯前線",
-     "逗子線",
      "鞍馬線"
     ]
    }

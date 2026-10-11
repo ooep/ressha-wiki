@@ -1,0 +1,76 @@
+{
+ "车辆": {
+  "名称": {
+   "日文": "伊予鉄道7000系電車",
+   "中文": "伊予鐵道7000系電聯車",
+   "英文": "Iyotetsu 7000 series",
+   "运营者": [
+    "四国私鉄"
+   ]
+  },
+  "标识": {
+   "图标文件": [
+    "33_shikoku_mi/iyotetsu-rail__iyo7000.png"
+   ],
+   "图标token": [
+    "iyo7000"
+   ],
+   "网站键": {
+    "特急": [],
+    "线路": [
+     "伊予鉄道",
+     "横河原線",
+     "郡中線",
+     "高浜線"
+    ]
+   }
+  },
+  "百科": {
+   "日文": {
+    "词条标题": "伊予鉄道7000系電車",
+    "链接": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E4%BA%88%E9%89%84%E9%81%937000%E7%B3%BB%E9%9B%BB%E8%BB%8A",
+    "首段": "伊予鉄道7000系電車（いよてつどう7000けいでんしゃ）は、伊予鉄道の鉄道線（郊外線）用電車。2025年2月より投入が進められている。\n2026年、伊予鉄道の車両として初めて鉄道友の会のローレル賞を受賞。",
+    "章节": {
+     "車両来歴": "当車両は、車齢平均が55年以上となり老朽化した京王からの譲受車輛である700系の置き換え用として導入された。導入に当たっては車両の大型化や伊予鉄道の架線電圧の問題があり、最終的に譲受車の導入ではなく67年ぶりとなる完全な新車導入（一部機器流用を含むと現在現役中の610系も新車となる）へ踏み切ることとなり、近畿車輛に発注がなされた。\n2023年1月に社内でデザインを集約し、近畿車輛と何度も協議を重ねた末、約1年半後の2024年5月にステンレス製構体を用いる3扉・18 m級車体が完成した。なお前面は普通鋼製で流線型の非貫通構造が採用されたが、この設計には「乗ってもらいたい都会的なフォルム」にしたく、特に流線型の角度にこだわったという。\n同年10月に車両が竣工し、11月2日から3日にかけて松山貨物駅へ輸送された後、JR松山駅前停留場 - 宮田町停留場間まで陸送された。その後、軌道上にて、車体と台車との装着が行われ、完了後は古町車両工場へ搬入された。同工場にて整備されたのちに、12月より試運転を開始した。\n2025年2月21日に松山市駅にて出発式が行われた。なお、出発式の前に古町駅 - 松山市駅間で式典参加者や報道関係者向けの試乗会も同時に行われた。\n制御装置には三菱製のハイブリッドSiC-VVVFインバータと回生ブレーキを使用し、700系と比べて約50％の電力で走行することができ、一部は再生可能エネルギー由来の電力を使用する。\n前面・側面の行先表示器にはフルカラーLEDを採用。車内には全ての乗降扉上部にデジタルサイネージが設置され、車内案内表示および広告表示用として使用されている。また、各車両に防犯カメラも設置されている。照明は随所にLEDが使用されている。窓の寸法を拡大した一方で熱線吸収ガラスを採用したため日除けカーテンは装備されておらず、網棚・中吊り広告も設置されていない。既存車両はマイク放送のみだが、新たに録音音源を流せるようになり、インバウンド（訪日客）増加に対応した英語表記・アナウンスも放送する。\n車両価格は合計約40億円を見込んでおり、同社では購入に際し「環境省並びに国土交通省からの国庫補助金を活用する」としている。また、愛媛県、松山市、東温市、伊予市、松前町からも支援を受けている。\n2027年2月までに3両編成6本（18両）が投入される予定。ただし、本系列導入後も3000系と610系は引き続き使用される。",
+     "運用": "伊予鉄道郊外線の全線でほかの車両と共通運用される。\n2025年2月21日より、高浜線・横河原線、同年2月24日からは郡中線でも運行を開始した。\n2025年12月3日より、2編成6両（7503・7504）が追加導入された。",
+     "編成": "2025年12月現在、3両編成4本の計12両が在籍する。",
+     "脚注": "",
+     "注釈": "",
+     "出典": "",
+     "参考文献": "『鉄道ピクトリアル 2024年3月号』電気車研究会、2024年、34頁。",
+     "外部リンク": "ウィキメディア・コモンズには、伊予鉄道7000系電車に関するカテゴリがあります。"
+    },
+    "全文": "伊予鉄道7000系電車（いよてつどう7000けいでんしゃ）は、伊予鉄道の鉄道線（郊外線）用電車。2025年2月より投入が進められている。\n2026年、伊予鉄道の車両として初めて鉄道友の会のローレル賞を受賞。\n\n\n== 車両来歴 ==\n当車両は、車齢平均が55年以上となり老朽化した京王からの譲受車輛である700系の置き換え用として導入された。導入に当たっては車両の大型化や伊予鉄道の架線電圧の問題があり、最終的に譲受車の導入ではなく67年ぶりとなる完全な新車導入（一部機器流用を含むと現在現役中の610系も新車となる）へ踏み切ることとなり、近畿車輛に発注がなされた。\n2023年1月に社内でデザインを集約し、近畿車輛と何度も協議を重ねた末、約1年半後の2024年5月にステンレス製構体を用いる3扉・18 m級車体が完成した。なお前面は普通鋼製で流線型の非貫通構造が採用されたが、この設計には「乗ってもらいたい都会的なフォルム」にしたく、特に流線型の角度にこだわったという。\n同年10月に車両が竣工し、11月2日から3日にかけて松山貨物駅へ輸送された後、JR松山駅前停留場 - 宮田町停留場間まで陸送された。その後、軌道上にて、車体と台車との装着が行われ、完了後は古町車両工場へ搬入された。同工場にて整備されたのちに、12月より試運転を開始した。\n2025年2月21日に松山市駅にて出発式が行われた。なお、出発式の前に古町駅 - 松山市駅間で式典参加者や報道関係者向けの試乗会も同時に行われた。\n制御装置には三菱製のハイブリッドSiC-VVVFインバータと回生ブレーキを使用し、700系と比べて約50％の電力で走行することができ、一部は再生可能エネルギー由来の電力を使用する。\n前面・側面の行先表示器にはフルカラーLEDを採用。車内には全ての乗降扉上部にデジタルサイネージが設置され、車内案内表示および広告表示用として使用されている。また、各車両に防犯カメラも設置されている。照明は随所にLEDが使用されている。窓の寸法を拡大した一方で熱線吸収ガラスを採用したため日除けカーテンは装備されておらず、網棚・中吊り広告も設置されていない。既存車両はマイク放送のみだが、新たに録音音源を流せるようになり、インバウンド（訪日客）増加に対応した英語表記・アナウンスも放送する。\n車両価格は合計約40億円を見込んでおり、同社では購入に際し「環境省並びに国土交通省からの国庫補助金を活用する」としている。また、愛媛県、松山市、東温市、伊予市、松前町からも支援を受けている。\n2027年2月までに3両編成6本（18両）が投入される予定。ただし、本系列導入後も3000系と610系は引き続き使用される。\n\n\n== 運用 ==\n伊予鉄道郊外線の全線でほかの車両と共通運用される。\n2025年2月21日より、高浜線・横河原線、同年2月24日からは郡中線でも運行を開始した。\n2025年12月3日より、2編成6両（7503・7504）が追加導入された。\n\n\n== 編成 ==\n2025年12月現在、3両編成4本の計12両が在籍する。\n\n\n== 脚注 ==\n\n\n=== 注釈 ===\n\n\n=== 出典 ===\n\n\n== 参考文献 ==\n『鉄道ピクトリアル 2024年3月号』電気車研究会、2024年、34頁。 \n\n\n== 外部リンク ==\n ウィキメディア・コモンズには、伊予鉄道7000系電車に関するカテゴリがあります。",
+    "字数": 1447
+   },
+   "中文": {
+    "词条标题": "伊予鐵道7000系電聯車",
+    "链接": "https://zh.wikipedia.org/wiki/%E4%BC%8A%E4%BA%88%E9%90%B5%E9%81%937000%E7%B3%BB%E9%9B%BB%E8%81%AF%E8%BB%8A",
+    "首段": "伊予鐵道7000系電聯車（日語：伊予鉄道7000系電車／いよてつどう7000けいでんしゃ，羅馬化：Iyotetsudō 7000-kei densha）是伊予鐵道的鐵道線於2025年2月開始投入使用的電聯車，為該公司時隔67年導入的新型車輛。本型車在2026年榮獲鐵道友之會頒發的桂冠獎，為伊予鐵道首款獲得該獎項的鐵路車輛，以及四國的私鐵中首家榮獲該獎項的鐵路公司。",
+    "章节": {
+     "導入背景": "由於平均車齡達55年的伊予鐵道700系電聯車已難以取得維修零件，伊予鐵道最初規劃自其他鐵路公司導入二手鐵路車輛。但伊予鐵道的鐵道線皆為軌距1,067毫米的窄軌路線，且沿線彎道的半徑相當小，使得大型的鐵路車輛難以在上方行駛。加上路面電車線大手町線與高濱線在松山市區內的大手町站形成平面交叉，使得該公司的三條鐵道線中僅高濱線使用600伏特的高架電車線（其餘路線皆使用700伏特），若導入電壓規格差異較大的車輛需實施大幅度的改造工程。 最終伊予鐵道決定導入連同轉向架在內全新打造的鐵路車輛。\n2023年11月，伊予鐵道宣布將自2025年至2028年花費約40億日圓導入由近畿車輛製造的7000系電聯車，為該公司時隔67年導入的新型車輛。而7000系的導入費用除獲得日本環境省、國土交通省的補助外，也獲得愛媛縣廳、松山市、東溫市、伊予市、松前町等沿線行政區的經費援助。",
+     "規格與構造": "7000系的車體採用不鏽鋼打造，其寬度為2.7公尺，長度則與700系同為18公尺。車身採用流線型設計，使用代表愛媛縣特質的橘色塗裝，並搭配黑色的條紋。相較於採用電阻控制的700系，7000系採用三菱電機製造的混合式碳化矽變頻器和再生軔機，除減少列車的電量消耗外也實現碳中和的目標。\n車內的照明設備均使用LED燈，並配備由微型電腦控制的空調設備；車窗則使用可吸收熱能的玻璃。旅客用車門上方安裝著顯示列車停靠站等資訊的數位看板（液晶顯示器），並且為因應人數持續增加的訪日外國遊客而導入英語廣播系統。客室內設置著輪椅專用空間，並移除原本安裝在座位上方的行李架，以提升乘客搭乘時的舒適度。",
+     "運用": "2024年10月，首批7000系編組完工（2列），並且在同年11月2日至3日運抵松山貨運站後，以每天2輛的方式透過陸運運送至JR松山車站前停留場至宮田町停留場的區間。所有車輛在移入古町車輛工廠後自同年12月開始試運轉。2025年2月21日，伊予鐵道在松山站舉行7000系的發車典禮。同年12月3日，另2列7000編組開始投入使用。而伊予鐵道也規畫陸續汰換舊型的700系電聯車。",
+     "參考文獻": ""
+    },
+    "全文": "伊予鐵道7000系電聯車（日語：伊予鉄道7000系電車／いよてつどう7000けいでんしゃ，羅馬化：Iyotetsudō 7000-kei densha）是伊予鐵道的鐵道線於2025年2月開始投入使用的電聯車，為該公司時隔67年導入的新型車輛。本型車在2026年榮獲鐵道友之會頒發的桂冠獎，為伊予鐵道首款獲得該獎項的鐵路車輛，以及四國的私鐵中首家榮獲該獎項的鐵路公司。\n\n\n== 導入背景 ==\n由於平均車齡達55年的伊予鐵道700系電聯車已難以取得維修零件，伊予鐵道最初規劃自其他鐵路公司導入二手鐵路車輛。但伊予鐵道的鐵道線皆為軌距1,067毫米的窄軌路線，且沿線彎道的半徑相當小，使得大型的鐵路車輛難以在上方行駛。加上路面電車線大手町線與高濱線在松山市區內的大手町站形成平面交叉，使得該公司的三條鐵道線中僅高濱線使用600伏特的高架電車線（其餘路線皆使用700伏特），若導入電壓規格差異較大的車輛需實施大幅度的改造工程。 最終伊予鐵道決定導入連同轉向架在內全新打造的鐵路車輛。\n2023年11月，伊予鐵道宣布將自2025年至2028年花費約40億日圓導入由近畿車輛製造的7000系電聯車，為該公司時隔67年導入的新型車輛。而7000系的導入費用除獲得日本環境省、國土交通省的補助外，也獲得愛媛縣廳、松山市、東溫市、伊予市、松前町等沿線行政區的經費援助。\n\n\n== 規格與構造 ==\n7000系的車體採用不鏽鋼打造，其寬度為2.7公尺，長度則與700系同為18公尺。車身採用流線型設計，使用代表愛媛縣特質的橘色塗裝，並搭配黑色的條紋。相較於採用電阻控制的700系，7000系採用三菱電機製造的混合式碳化矽變頻器和再生軔機，除減少列車的電量消耗外也實現碳中和的目標。\n車內的照明設備均使用LED燈，並配備由微型電腦控制的空調設備；車窗則使用可吸收熱能的玻璃。旅客用車門上方安裝著顯示列車停靠站等資訊的數位看板（液晶顯示器），並且為因應人數持續增加的訪日外國遊客而導入英語廣播系統。客室內設置著輪椅專用空間，並移除原本安裝在座位上方的行李架，以提升乘客搭乘時的舒適度。\n\n\n== 運用 ==\n2024年10月，首批7000系編組完工（2列），並且在同年11月2日至3日運抵松山貨運站後，以每天2輛的方式透過陸運運送至JR松山車站前停留場至宮田町停留場的區間。所有車輛在移入古町車輛工廠後自同年12月開始試運轉。2025年2月21日，伊予鐵道在松山站舉行7000系的發車典禮。同年12月3日，另2列7000編組開始投入使用。而伊予鐵道也規畫陸續汰換舊型的700系電聯車。\n\n\n== 參考文獻 ==",
+    "字数": 1095
+   },
+   "英文": {
+    "词条标题": "Iyotetsu 7000 series",
+    "链接": "https://en.wikipedia.org/wiki/Iyotetsu%207000%20series",
+    "首段": "The Iyotetsu 7000 series (伊予鉄7000系, Iyotetsu 7000-kei) is an electric multiple unit (EMU) train type operated by the private railway operator Iyo Railway (Iyotetsu) in Japan. Six three-car sets are to be built.",
+    "章节": {
+     "Overview": "Details of the new trains on order were first announced by Iyo Railway on 14 November 2023. The 7000 series is expected to replace ageing 700 series sets converted from Keio 5000 series cars, over which they offer 50% energy savings.\nPart of Kinki Sharyo's \"Smart Sigma\" platform, the trains have lightweight stainless steel car bodies. They use variable-frequency drive inverters and regenerative braking. LCD passenger information displays are provided above the doors. LED lighting is used throughout.",
+     "Formation": "Sets are formed as shown below.\n\nThe M cars are fitted with two single-arm pantographs.\nThe Tc cars each have a wheelchair space.",
+     "History": "In November 2024, the first two sets (7301 and 7302) were delivered from the Kinki Sharyo factory. Sets 7303 and 7304 were delivered in November 2025.\nThe first two 7000 series sets entered revenue service from 21 February 2025. A further two sets are planned to be introduced every year until 2027.\nThe 7000 series received the 2026 Laurel Prize, presented annually by the Japan Railfan Club. It is the first train type operated by a private railway in Shikoku to receive the award.",
+     "See also": "Tobu 80000 series – 2026 Laurel Prize co-recipient",
+     "References": "",
+     "External links": ""
+    },
+    "全文": "The Iyotetsu 7000 series (伊予鉄7000系, Iyotetsu 7000-kei) is an electric multiple unit (EMU) train type operated by the private railway operator Iyo Railway (Iyotetsu) in Japan. Six three-car sets are to be built.\n\n\n== Overview ==\nDetails of the new trains on order were first announced by Iyo Railway on 14 November 2023. The 7000 series is expected to replace ageing 700 series sets converted from Keio 5000 series cars, over which they offer 50% energy savings.\nPart of Kinki Sharyo's \"Smart Sigma\" platform, the trains have lightweight stainless steel car bodies. They use variable-frequency drive inverters and regenerative braking. LCD passenger information displays are provided above the doors. LED lighting is used throughout.\n\n\n== Formation ==\nSets are formed as shown below.\n\nThe M cars are fitted with two single-arm pantographs.\nThe Tc cars each have a wheelchair space.\n\n\n== History ==\nIn November 2024, the first two sets (7301 and 7302) were delivered from the Kinki Sharyo factory. Sets 7303 and 7304 were delivered in November 2025.\nThe first two 7000 series sets entered revenue service from 21 February 2025. A further two sets are planned to be introduced every year until 2027.\nThe 7000 series received the 2026 Laurel Prize, presented annually by the Japan Railfan Club. It is the first train type operated by a private railway in Shikoku to receive the award.\n\n\n== See also ==\nTobu 80000 series – 2026 Laurel Prize co-recipient\n\n\n== References ==\n\n\n== External links ==",
+    "字数": 1490
+   }
+  }
+ }
+}

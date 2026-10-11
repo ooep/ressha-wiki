@@ -1,0 +1,67 @@
+{
+ "车辆": {
+  "名称": {
+   "日文": "神戸市交通局6000形電車",
+   "中文": null,
+   "英文": "Kobe Municipal Subway 6000 series",
+   "运营者": [
+    "関西私鉄"
+   ]
+  },
+  "标识": {
+   "图标文件": [
+    "32_kansai_mi/kobe-metro__kob6000.png"
+   ],
+   "图标token": [
+    "kob6000"
+   ],
+   "网站键": {
+    "特急": [],
+    "线路": [
+     "北神急行電鉄",
+     "北神線"
+    ]
+   }
+  },
+  "百科": {
+   "日文": {
+    "词条标题": "神戸市交通局6000形電車",
+    "链接": "https://ja.wikipedia.org/wiki/%E7%A5%9E%E6%88%B8%E5%B8%82%E4%BA%A4%E9%80%9A%E5%B1%806000%E5%BD%A2%E9%9B%BB%E8%BB%8A",
+    "首段": "神戸市交通局6000形電車（こうべしこうつうきょく6000がたでんしゃ）は、神戸市交通局が2018年より導入した通勤形電車である。",
+    "章节": {
+     "概要": "6000形は西神・山手線では約25年ぶりの新型車両であり、従来の車両から機器類を一新し、安全性の更なる向上とバリアフリー化、快適性向上、省エネルギー化を目指して設計された。\n\n神戸市営地下鉄の電車は地元振興を理由に元来川崎車両（旧・川崎重工業）に発注されており、今回もその伝統が踏襲された。\n2022年度までに6両編成28本を順次投入し、西神・山手線の1000形18編成、2000形4編成、3000形6編成の合計28編成を6000形に置き換えた。また後に北神急行電鉄から譲受した7000系も1編成の追加増備をもって置き換え、2023年8月18日のダイヤ改正から、西神・山手線と北神線の車両は6000形に統一された。\n西神・山手線では全駅にホームドアを設置しており、6000形ではホームドアと車両扉の開閉連動が可能となるほか、ワンマン運転化にも対応している。",
+     "編成構成": "編成は西神中央方から6100形 (Tc) - 6200形 (M1) - 6300形 (M2) - 6400形 (T) - 6500形 (M3) - 6600形 (Tc) で、3M3Tの6両固定編成となっている。性能は従来車と同等の最高速度100km/h、最大加速度3.3km/h/s、常用減速度3.5km/h/s・非常減速度4.5km/h/sとされた。\n定員と自重は6100形(Tc1)が124人、29.5t。6200形(M1)が140人、34.1t。6300形(M2)が140人、32.0t。6400形(T)が140人、25.6t。6600形(Tc2)が124人、29.2tである。\n車両番号の下2桁は、開業時の編成からの通し番号で、3000形の最終編成の28に続き、通算で29編成目となる6000形第1編成では29となっている。",
+     "編成図": "編成例と車両別の諸元を記す。\n\nV: 主制御器\nSIV: 補助電源装置 (静止形インバータ)\nCP: 空気圧縮機\nBt: 蓄電池",
+     "構造": "",
+     "車体": "車体は無塗装、ヘアライン加工の耐食アルミニウム合金ダブルスキン構造で、西神・山手線のイメージカラーである緑色を前面と側面のラインに配している。デザインは川崎重工業が行い、監修を工業デザイナー奥山清行が代表を務める「KEN OKUYAMA DESIGN」が担当している。\n2016年のイベント「交通フェスティバル」やウェブサイト上で、新型車両のデザインをABCの3案から決定する投票を実施した。その中から得票数の最も多かったB案の「街に馴染む丸みを帯びたフレンドリーなデザイン」「車両全体を巻き込むような安心感を与えるカラーリング」に決定した。\n車両番号の文字は、神戸市電時代から使用される字体がベースとなっている。\n行先表示器は神戸市営地下鉄で初めてフルカラーLED表示器が採用された。方向幕時代と同様に「回送」や「試運転」の表示は赤地で表示できるほか、イラストが表示できたり、行先を表示する場合でもイベントに応じた特別色で表示されるようになっている。",
+     "内装": "車内の座席はオールロングシートで、座席幅を拡幅し、バケットシートを採用するなど快適性の向上を図った。一般座席・優先席ともにグリーン系の配色で、座席表皮に千鳥柄を採用している。木目調の大型袖仕切りに加え、ドア間の座席（9人掛け）に中仕切りとスタンションポールを設置している。編成合計定員は808名(編成座席定員272名)である。\n車内案内表示器（LCD）は1両あたり3か所のドア上に2画面ずつ設置し、4か国語表示による乗換案内や停車駅情報の提供、広告の放映が可能となっている。一方、LCDのないドア上には、ドアの開く方向を示す表示器がある。車椅子スペースは、従来どおり3、4号車に1箇所ずつ設置されているが、その他の車両にも、それぞれ1箇所ずつ非常通報装置を省略したフリースペースがある。各種照明はLED化され、客室内は間接照明としている。ドアの開閉時に鳴動するドアチャイムは、JR東日本の通勤形車両等と同じものが採用されている。戸閉装置に減圧機構を搭載している。\n側面の窓ガラスの面積も従来車より拡大され、車両間の貫通扉も大型のガラス扉となった。なお、6000形では鎧戸からカーテンに変更された。",
+     "乗務員室": "運転台は、従来車と同様の横軸ツーハンドル式を採用した。マスコンは力行4ノッチと抑速3ノッチ、ブレーキは常用最大7ノッチである。運転台の正面にはグラスコックピット用の画面があり、速度計・ブレーキ圧力計等を表示する画面と、車両・機器の状態を表示する画面をそれぞれ設けている。",
+     "主要機器": "台車は川崎重工業（現・川崎車両）製の軸梁式ボルスタ付き空気ばね台車で、M車にKW215形を、Tc・T車にKW216形をそれぞれ装着する。\n制御装置は日立製作所製のハイブリッドSiC素子を使用した2レベルのVVVFインバータ制御装置（VFI-HR1421H 形）を各電動車に1台ずつ搭載、4台の電動機を制御する1C4M方式である。SiCを用いた素子を使用することで、装置の小型軽量化を図っている。主電動機は定格出力170kWのかご形三相誘導電動機である。\n補助電源装置は三菱電機製ハイブリッドSiC素子を使用した静止形インバータ（SIV・NC-GAT150E 形）で、定格容量は 150 kVAを確保した。2台のSIVは出力波型を同期させた並列同期運転を行っており、負荷が少ない時には片方のSIVを休止させる機能を備えている。\n空気圧縮機（CP）は潤滑油が不要なオイルフリー式スクロール式を採用した（RR16T形・吐出量 1,360 L/min）。装置はナブテスコ製で、1台の機器箱に2台のCPおよび周辺機器が収納されたものである。\n集電装置はシングルアーム式パンタグラフのPT7181-Aで、M1・M3車に各2台を搭載する。冷房装置は能力21.98 kW（18,900 kcal/h）のCU786形を各車屋根上に2基搭載する。",
+     "運用": "北神線の谷上駅 - 新神戸駅間と、西神・山手線の新神戸駅 - 西神中央駅間で運用されている。\n2018年3月に川崎重工業兵庫工場から名谷車庫まで陸送され、6月11日より日中試運転が行われていた。営業運転開始に先立ち、2019年2月9・10日に市民向け試乗会が開催された。その際は試乗会という表示が掲出された。\n2019年2月16日、西神中央駅10時7分発の谷上行の列車より営業運転を開始した。\n以後も増備が続き、2023年8月18日のダイヤ改正より西神・山手線および北神線の全列車が本形式で統一された。",
+     "編成一覧": "2024年4月1日現在の編成は次のとおりである。",
+     "脚注": "",
+     "注釈": "",
+     "参考文献": "多田暁・安達充洋「新車ガイド 神戸市交通局6000形」『鉄道ファン』2019年10月号（通巻702号）、交友社、46-51頁。\n多田暁・安達充洋「神戸市交通局6000形」『鉄道ピクトリアル』2019年10月号（通巻965号）、電気車研究会、106-113頁。",
+     "外部リンク": "6000形車両 - 神戸市交通局\n神戸市営地下鉄西神・山手線でのお仕事と新型車両 - Asobon!web（スルッとKANSAI）\n日本地下鉄協会「SUBWAY」2019年5月号車両紹介「神戸市交通局西神・山手線新型車両6000形の概要」 (PDF) （52-57P掲載）"
+    },
+    "全文": "神戸市交通局6000形電車（こうべしこうつうきょく6000がたでんしゃ）は、神戸市交通局が2018年より導入した通勤形電車である。\n\n\n== 概要 ==\n6000形は西神・山手線では約25年ぶりの新型車両であり、従来の車両から機器類を一新し、安全性の更なる向上とバリアフリー化、快適性向上、省エネルギー化を目指して設計された。\n\n神戸市営地下鉄の電車は地元振興を理由に元来川崎車両（旧・川崎重工業）に発注されており、今回もその伝統が踏襲された。\n2022年度までに6両編成28本を順次投入し、西神・山手線の1000形18編成、2000形4編成、3000形6編成の合計28編成を6000形に置き換えた。また後に北神急行電鉄から譲受した7000系も1編成の追加増備をもって置き換え、2023年8月18日のダイヤ改正から、西神・山手線と北神線の車両は6000形に統一された。\n西神・山手線では全駅にホームドアを設置しており、6000形ではホームドアと車両扉の開閉連動が可能となるほか、ワンマン運転化にも対応している。\n\n\n== 編成構成 ==\n編成は西神中央方から6100形 (Tc) - 6200形 (M1) - 6300形 (M2) - 6400形 (T) - 6500形 (M3) - 6600形 (Tc) で、3M3Tの6両固定編成となっている。性能は従来車と同等の最高速度100km/h、最大加速度3.3km/h/s、常用減速度3.5km/h/s・非常減速度4.5km/h/sとされた。\n定員と自重は6100形(Tc1)が124人、29.5t。6200形(M1)が140人、34.1t。6300形(M2)が140人、32.0t。6400形(T)が140人、25.6t。6600形(Tc2)が124人、29.2tである。\n車両番号の下2桁は、開業時の編成からの通し番号で、3000形の最終編成の28に続き、通算で29編成目となる6000形第1編成では29となっている。\n\n\n=== 編成図 ===\n編成例と車両別の諸元を記す。\n\nV: 主制御器\nSIV: 補助電源装置 (静止形インバータ)\nCP: 空気圧縮機\nBt: 蓄電池\n\n\n== 構造 ==\n\n\n=== 車体 ===\n車体は無塗装、ヘアライン加工の耐食アルミニウム合金ダブルスキン構造で、西神・山手線のイメージカラーである緑色を前面と側面のラインに配している。デザインは川崎重工業が行い、監修を工業デザイナー奥山清行が代表を務める「KEN OKUYAMA DESIGN」が担当している。\n2016年のイベント「交通フェスティバル」やウェブサイト上で、新型車両のデザインをABCの3案から決定する投票を実施した。その中から得票数の最も多かったB案の「街に馴染む丸みを帯びたフレンドリーなデザイン」「車両全体を巻き込むような安心感を与えるカラーリング」に決定した。\n車両番号の文字は、神戸市電時代から使用される字体がベースとなっている。\n行先表示器は神戸市営地下鉄で初めてフルカラーLED表示器が採用された。方向幕時代と同様に「回送」や「試運転」の表示は赤地で表示できるほか、イラストが表示できたり、行先を表示する場合でもイベントに応じた特別色で表示されるようになっている。\n\n\n=== 内装 ===\n車内の座席はオールロングシートで、座席幅を拡幅し、バケットシートを採用するなど快適性の向上を図った。一般座席・優先席ともにグリーン系の配色で、座席表皮に千鳥柄を採用している。木目調の大型袖仕切りに加え、ドア間の座席（9人掛け）に中仕切りとスタンションポールを設置している。編成合計定員は808名(編成座席定員272名)である。\n車内案内表示器（LCD）は1両あたり3か所のドア上に2画面ずつ設置し、4か国語表示による乗換案内や停車駅情報の提供、広告の放映が可能となっている。一方、LCDのないドア上には、ドアの開く方向を示す表示器がある。車椅子スペースは、従来どおり3、4号車に1箇所ずつ設置されているが、その他の車両にも、それぞれ1箇所ずつ非常通報装置を省略したフリースペースがある。各種照明はLED化され、客室内は間接照明としている。ドアの開閉時に鳴動するドアチャイムは、JR東日本の通勤形車両等と同じものが採用されている。戸閉装置に減圧機構を搭載している。\n側面の窓ガラスの面積も従来車より拡大され、車両間の貫通扉も大型のガラス扉となった。なお、6000形では鎧戸からカーテンに変更された。\n\n\n=== 乗務員室 ===\n運転台は、従来車と同様の横軸ツーハンドル式を採用した。マスコンは力行4ノッチと抑速3ノッチ、ブレーキは常用最大7ノッチである。運転台の正面にはグラスコックピット用の画面があり、速度計・ブレーキ圧力計等を表示する画面と、車両・機器の状態を表示する画面をそれぞれ設けている。\n\n\n=== 主要機器 ===\n台車は川崎重工業（現・川崎車両）製の軸梁式ボルスタ付き空気ばね台車で、M車にKW215形を、Tc・T車にKW216形をそれぞれ装着する。\n制御装置は日立製作所製のハイブリッドSiC素子を使用した2レベルのVVVFインバータ制御装置（VFI-HR1421H 形）を各電動車に1台ずつ搭載、4台の電動機を制御する1C4M方式である。SiCを用いた素子を使用することで、装置の小型軽量化を図っている。主電動機は定格出力170kWのかご形三相誘導電動機である。\n補助電源装置は三菱電機製ハイブリッドSiC素子を使用した静止形インバータ（SIV・NC-GAT150E 形）で、定格容量は 150 kVAを確保した。2台のSIVは出力波型を同期させた並列同期運転を行っており、負荷が少ない時には片方のSIVを休止させる機能を備えている。\n空気圧縮機（CP）は潤滑油が不要なオイルフリー式スクロール式を採用した（RR16T形・吐出量 1,360 L/min）。装置はナブテスコ製で、1台の機器箱に2台のCPおよび周辺機器が収納されたものである。\n集電装置はシングルアーム式パンタグラフのPT7181-Aで、M1・M3車に各2台を搭載する。冷房装置は能力21.98 kW（18,900 kcal/h）のCU786形を各車屋根上に2基搭載する。\n\n\n== 運用 ==\n北神線の谷上駅 - 新神戸駅間と、西神・山手線の新神戸駅 - 西神中央駅間で運用されている。\n2018年3月に川崎重工業兵庫工場から名谷車庫まで陸送され、6月11日より日中試運転が行われていた。営業運転開始に先立ち、2019年2月9・10日に市民向け試乗会が開催された。その際は試乗会という表示が掲出された。\n2019年2月16日、西神中央駅10時7分発の谷上行の列車より営業運転を開始した。\n以後も増備が続き、2023年8月18日のダイヤ改正より西神・山手線および北神線の全列車が本形式で統一された。\n\n\n== 編成一覧 ==\n2024年4月1日現在の編成は次のとおりである。\n\n\n== 脚注 ==\n\n\n=== 注釈 ===\n\n\n== 参考文献 ==\n多田暁・安達充洋「新車ガイド 神戸市交通局6000形」『鉄道ファン』2019年10月号（通巻702号）、交友社、46-51頁。\n多田暁・安達充洋「神戸市交通局6000形」『鉄道ピクトリアル』2019年10月号（通巻965号）、電気車研究会、106-113頁。\n\n\n== 外部リンク ==\n\n6000形車両 - 神戸市交通局\n神戸市営地下鉄西神・山手線でのお仕事と新型車両 - Asobon!web（スルッとKANSAI）\n日本地下鉄協会「SUBWAY」2019年5月号車両紹介「神戸市交通局西神・山手線新型車両6000形の概要」 (PDF) （52-57P掲載）",
+    "字数": 3227
+   },
+   "中文": null,
+   "英文": {
+    "词条标题": "Kobe Municipal Subway 6000 series",
+    "链接": "https://en.wikipedia.org/wiki/Kobe%20Municipal%20Subway%206000%20series",
+    "首段": "The Kobe Municipal Subway 6000 series (神戸市交通局6000形, Kōbe Shi Kōtsū-kyōku 6000-gata) is an electric multiple unit (EMU) train type operated by the Kobe Municipal Subway on the Seishin-Yamate Line and Hokushin Line (the two lines operate a through service) since February 16, 2019.",
+    "章节": {
+     "Design and manufacturing": "The trains were manufactured by Kawasaki. They were initially designed by Ken Okuyama Design in 2016.\n28 six-car trainsets were ordered to replace the entire fleet of 28 1000/2000/3000 series trains on the Seishin-Yamate Line by 2022, providing a single common fleet of trains for the line allowing for the installation of automatic platform gates at every station.\nFollowing the transfer of the Hokushin Line to Kobe Municipality on June 1, 2020, one extra trainset was ordered to allow for replacement of the remaining Hokushin Kyuko Railway 7000 series[ja] trains, bringing the number of 6000 series trainsets to 29 which would allow all services on both the Seishin-Yamate and Hokushin Lines to be provided by the new 6000 series trains.",
+     "Interior": "Passenger accommodation consists of longitudinal bench seating throughout, with priority seats being provided at the ends of each car. LED lighting is used in the interiors, and pairs of LCD passenger information screens are provided above the doorways. Although there are gangway connections between each car, they are blocked by openable glass doors.",
+     "History": "The 6000 series trains replaced the following previously operated train types (all six-car trainsets). The initial order of 28 trainsets was to replace the 28 1000/2000/3000 series trains, with one additional trainset ordered to replace the remaining Hokushin Kyuko Railway 7000 series trains:\n\n1000 series[ja] (1977–2023) (18 sets). Withdrawn on August 17, 2023\n2000 series[ja] (1988–2022) (4 sets). Withdrawn on March 19, 2022\n3000 series[ja] (1992–2021) (6 sets). Withdrawn on July 24, 2021\nHokushin Kyuko Railway 7000 series[ja] (1988–2023). Initially 5 sets, 2 of which were withdrawn in 2022. The remaining 3 sets withdrawn on August 17, 2023.\nThe first 6000 series trainsets entered service on February 16, 2019.\nAs of August 2022, 25 trainsets have been constructed.\nThe initial order of 28 trainsets was completed on March 8, 2023, with the 29th trainset completed on November 1, 2023.\nOn July 18, 2023, it was announced that a timetable change would be implemented on August 18, 2023, and that all services on the Seishin-Yamate and Hokushin Lines from this date will be operated by the new 6000 series trains.",
+     "References": "This article incorporates material from the corresponding article in the Japanese Wikipedia.",
+     "External links": "6000 series vehicles at Kobe City Transportation Bureau (in Japanese)"
+    },
+    "全文": "The Kobe Municipal Subway 6000 series (神戸市交通局6000形, Kōbe Shi Kōtsū-kyōku 6000-gata) is an electric multiple unit (EMU) train type operated by the Kobe Municipal Subway on the Seishin-Yamate Line and Hokushin Line (the two lines operate a through service) since February 16, 2019.\n\n\n== Design and manufacturing ==\nThe trains were manufactured by Kawasaki. They were initially designed by Ken Okuyama Design in 2016.\n28 six-car trainsets were ordered to replace the entire fleet of 28 1000/2000/3000 series trains on the Seishin-Yamate Line by 2022, providing a single common fleet of trains for the line allowing for the installation of automatic platform gates at every station.\nFollowing the transfer of the Hokushin Line to Kobe Municipality on June 1, 2020, one extra trainset was ordered to allow for replacement of the remaining Hokushin Kyuko Railway 7000 series[ja] trains, bringing the number of 6000 series trainsets to 29 which would allow all services on both the Seishin-Yamate and Hokushin Lines to be provided by the new 6000 series trains.\n\n\n== Interior ==\nPassenger accommodation consists of longitudinal bench seating throughout, with priority seats being provided at the ends of each car. LED lighting is used in the interiors, and pairs of LCD passenger information screens are provided above the doorways. Although there are gangway connections between each car, they are blocked by openable glass doors.\n\n\n== History ==\nThe 6000 series trains replaced the following previously operated train types (all six-car trainsets). The initial order of 28 trainsets was to replace the 28 1000/2000/3000 series trains, with one additional trainset ordered to replace the remaining Hokushin Kyuko Railway 7000 series trains:\n\n1000 series[ja] (1977–2023) (18 sets). Withdrawn on August 17, 2023\n2000 series[ja] (1988–2022) (4 sets). Withdrawn on March 19, 2022\n3000 series[ja] (1992–2021) (6 sets). Withdrawn on July 24, 2021\nHokushin Kyuko Railway 7000 series[ja] (1988–2023). Initially 5 sets, 2 of which were withdrawn in 2022. The remaining 3 sets withdrawn on August 17, 2023.\nThe first 6000 series trainsets entered service on February 16, 2019.\nAs of August 2022, 25 trainsets have been constructed.\nThe initial order of 28 trainsets was completed on March 8, 2023, with the 29th trainset completed on November 1, 2023.\nOn July 18, 2023, it was announced that a timetable change would be implemented on August 18, 2023, and that all services on the Seishin-Yamate and Hokushin Lines from this date will be operated by the new 6000 series trains.\n\n\n== References ==\nThis article incorporates material from the corresponding article in the Japanese Wikipedia.\n\n\n== External links ==\n6000 series vehicles at Kobe City Transportation Bureau (in Japanese)",
+    "字数": 2766
+   }
+  }
+ }
+}

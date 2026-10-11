@@ -10,9 +10,11 @@
   },
   "标识": {
    "图标文件": [
+    "18_kintetsu/kintetsu-line__kin3220.png",
     "18_kintetsu/kintetsu-line__kin3221.png"
    ],
    "图标token": [
+    "kin3220",
     "kin3221"
    ],
    "网站键": {

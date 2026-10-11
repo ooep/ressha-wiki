@@ -10,9 +10,11 @@
   },
   "标识": {
    "图标文件": [
+    "03_tokai/tokai-area__c75os.png",
     "03_tokai/tokai-area__c75s.png"
    ],
    "图标token": [
+    "c75os",
     "c75s"
    ],
    "网站键": {

@@ -10,10 +10,12 @@
   },
   "标识": {
    "图标文件": [
-    "28_tohoku_mi/akitanairiku-rail__akn8800mtgb.png"
+    "28_tohoku_mi/akitanairiku-rail__akn8800mtgb.png",
+    "28_tohoku_mi/akitanairiku-rail__akn8800mtgr.png"
    ],
    "图标token": [
-    "akn8800mtgb"
+    "akn8800mtgb",
+    "akn8800mtgr"
    ],
    "网站键": {
     "特急": [],

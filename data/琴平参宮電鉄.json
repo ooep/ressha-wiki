@@ -10,9 +10,11 @@
   },
   "标识": {
    "图标文件": [
+    "33_shikoku_mi/zentuji-tram-1-2-2026-7-3-update__ktsn75.png",
     "33_shikoku_mi/zentuji-tram-1-2-2026-7-3-update__ktsn83.png"
    ],
    "图标token": [
+    "ktsn75",
     "ktsn83"
    ],
    "网站键": {

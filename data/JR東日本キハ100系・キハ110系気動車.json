@@ -10,25 +10,38 @@
   },
   "标识": {
    "图标文件": [
+    "02_east/koumi-line__e110.png",
     "02_east/morioka-area__e110mo.png",
+    "02_east/nagano-area__e110ak0.png",
+    "02_east/rikuu-aterazawa__e110at.png",
     "02_east/rikuu-aterazawa__e110oc.png",
+    "02_east/tadami-line__e110o1.png",
     "02_east/tadami-line__e110se.png"
    ],
    "图标token": [
+    "e110",
+    "e110ak0",
+    "e110at",
     "e110mo",
+    "e110o1",
     "e110oc",
     "e110se"
    ],
    "网站键": {
-    "特急": [],
+    "特急": [
+     "長野電鉄特急"
+    ],
     "线路": [
+     "信越本線",
      "只見線",
      "大船渡線",
+     "小海線",
      "左沢線",
      "盛岡",
      "花輪線",
      "陸羽東線",
-     "陸羽西線"
+     "陸羽西線",
+     "飯山線"
     ]
    }
   },

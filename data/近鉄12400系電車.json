@@ -10,10 +10,12 @@
   },
   "标识": {
    "图标文件": [
-    "18_kintetsu/les-saveurs-shima__kin12400lss.png"
+    "18_kintetsu/les-saveurs-shima__kin12400lss.png",
+    "18_kintetsu/les-saveurs-shima__kin12400lssp.png"
    ],
    "图标token": [
-    "kin12400lss"
+    "kin12400lss",
+    "kin12400lssp"
    ],
    "网站键": {
     "特急": [],

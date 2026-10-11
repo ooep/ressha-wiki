@@ -10,9 +10,11 @@
   },
   "标识": {
    "图标文件": [
+    "14_tokyu/izukyu-200__izq100.png",
     "14_tokyu/izukyu-200__izq1000.png"
    ],
    "图标token": [
+    "izq100",
     "izq1000"
    ],
    "网站键": {

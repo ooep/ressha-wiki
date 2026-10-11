@@ -5,18 +5,27 @@
    "中文": "日本國鐵ED76型電力機車",
    "英文": "JNR Class ED76",
    "运营者": [
+    "JR北海道",
     "JR貨物"
    ]
   },
   "标识": {
    "图标文件": [
+    "01_hokkaido/hokutosei-rishiri__ed76-5.png",
+    "01_hokkaido/hokutosei-rishiri__ed76-5b.png",
     "07_freight/el-ed76-62-79-jr-jr-1-2-2025-2-28-update__ed76w.png"
    ],
    "图标token": [
+    "ed76-5",
+    "ed76-5b",
     "ed76w"
    ],
    "网站键": {
-    "特急": [],
+    "特急": [
+     "スーパー北斗",
+     "北斗",
+     "能登かがり火"
+    ],
     "线路": [
      "飯田線"
     ]

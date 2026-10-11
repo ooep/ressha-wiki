@@ -10,10 +10,12 @@
   },
   "标识": {
    "图标文件": [
-    "30_koshinetsu_mi/shinano-rail__sin1.png"
+    "30_koshinetsu_mi/shinano-rail__sin1.png",
+    "30_koshinetsu_mi/shinano-rail__sin1b.png"
    ],
    "图标token": [
-    "sin1"
+    "sin1",
+    "sin1b"
    ],
    "网站键": {
     "特急": [],

@@ -10,9 +10,11 @@
   },
   "标识": {
    "图标文件": [
+    "30_koshinetsu_mi/alpico-rail__mtmt20100.png",
     "30_koshinetsu_mi/alpico-rail__mtmt20100t.png"
    ],
    "图标token": [
+    "mtmt20100",
     "mtmt20100t"
    ],
    "网站键": {

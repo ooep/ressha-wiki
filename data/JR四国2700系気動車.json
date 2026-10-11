@@ -10,13 +10,25 @@
   },
   "标识": {
    "图标文件": [
-    "05_shikoku/express-marine-liner__s2700.png"
+    "05_shikoku/express-marine-liner__s2700.png",
+    "05_shikoku/shikoku-express__s2700apr.png",
+    "05_shikoku/shikoku-express__s2700apr1.png",
+    "05_shikoku/shikoku-express__s2700apy.png",
+    "05_shikoku/shikoku-express__s2700apy1.png"
    ],
    "图标token": [
-    "s2700"
+    "s2700",
+    "s2700apr",
+    "s2700apr1",
+    "s2700apy",
+    "s2700apy1"
    ],
    "网站键": {
-    "特急": [],
+    "特急": [
+     "うずしお",
+     "南風",
+     "宇和海"
+    ],
     "线路": [
      "本四備讃線"
     ]

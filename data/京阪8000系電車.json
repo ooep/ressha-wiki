@@ -10,13 +10,21 @@
   },
   "标识": {
    "图标文件": [
-    "19_keihan/emu-8000-3000__khan8002.png"
+    "19_keihan/emu-8000-3000__khan8002.png",
+    "19_keihan/emu-8000-3000__khan8003.png",
+    "19_keihan/keihan-3000__khan8000expo.png",
+    "19_keihan/keihan-3000__khan8000expop.png"
    ],
    "图标token": [
-    "khan8002"
+    "khan8000expo",
+    "khan8000expop",
+    "khan8002",
+    "khan8003"
    ],
    "网站键": {
-    "特急": [],
+    "特急": [
+     "京阪特急"
+    ],
     "线路": [
      "中之島線",
      "交野線",

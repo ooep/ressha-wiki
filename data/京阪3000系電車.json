@@ -1,0 +1,53 @@
+{
+ "车辆": {
+  "名称": {
+   "日文": "京阪3000系電車",
+   "中文": null,
+   "英文": "Keihan 3000 series (1971)",
+   "运营者": [
+    "京阪"
+   ]
+  },
+  "标识": {
+   "图标文件": [
+    "19_keihan/keihan-3000__khan3000expo.png"
+   ],
+   "图标token": [
+    "khan3000expo"
+   ],
+   "网站键": {
+    "特急": [
+     "京阪特急"
+    ],
+    "线路": []
+   }
+  },
+  "百科": {
+   "日文": {
+    "词条标题": "京阪3000系電車",
+    "链接": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%98%AA3000%E7%B3%BB%E9%9B%BB%E8%BB%8A",
+    "首段": "京阪3000系電車（けいはん3000けいでんしゃ）とは、京阪電気鉄道の鉄道車両。",
+    "章节": {},
+    "全文": "京阪3000系電車（けいはん3000けいでんしゃ）とは、京阪電気鉄道の鉄道車両。\n\n1971年（昭和46年）から1973年（昭和48年）に製造された特急用車両。のちの京阪8000系電車30番台 - 京阪3000系電車 (初代)\n2008年（平成20年）に製造された快速急行用車両 - 京阪3000系電車 (2代)",
+    "字数": 156
+   },
+   "中文": null,
+   "英文": {
+    "词条标题": "Keihan 3000 series (1971)",
+    "链接": "https://en.wikipedia.org/wiki/Keihan%203000%20series%20%281971%29",
+    "首段": "The Keihan 3000 series (京阪3000系, Keihan 3000-kei) was an electric multiple unit (EMU) train type operated by the private railway operator Keihan Electric Railway in Japan from 1971 until 2013. From 2008 on, the 3000 series was designated as 8000-30 series (8000系30番台).",
+    "章节": {
+     "History": "Construction began in 1971 and resumed until 1973. Internally, the trains were fitted with color TVs. With the introduction of the Keihan 8000 series from 1989, the 3000 series trains were gradually replaced. A bi-level car was added to a 3000 series set in 1995. After the introduction of the new Keihan 3000 series in 2008, the old 3000 series was redesignated as 8000-30 series. The 3000 series was withdrawn from services by Keihan in March 2013.",
+     "Other operators": "",
+     "Toyama Chihō Railway": "Between 1990 and 1993, Toyama Chihō Railway received 16 former Keihan 3000 series cars, and classified them as 10030 series (10030形). A bi-level car was transferred from Keihan to Toyama Chihō Railway in 2013.",
+     "Ōigawa Railway": "Until 2014, Ōigawa Railway also operated a former Keihan 3000 series train.",
+     "Preserved examples": "One car  is preserved at Kuzuha Mall.",
+     "References": "",
+     "External links": "Toyama Chihō Railway (in Japanese)\nŌigawa Railway 3000 series information (in Japanese)"
+    },
+    "全文": "The Keihan 3000 series (京阪3000系, Keihan 3000-kei) was an electric multiple unit (EMU) train type operated by the private railway operator Keihan Electric Railway in Japan from 1971 until 2013. From 2008 on, the 3000 series was designated as 8000-30 series (8000系30番台).\n\n\n== History ==\nConstruction began in 1971 and resumed until 1973. Internally, the trains were fitted with color TVs. With the introduction of the Keihan 8000 series from 1989, the 3000 series trains were gradually replaced. A bi-level car was added to a 3000 series set in 1995. After the introduction of the new Keihan 3000 series in 2008, the old 3000 series was redesignated as 8000-30 series. The 3000 series was withdrawn from services by Keihan in March 2013.\n\n\n== Other operators ==\n\n\n=== Toyama Chihō Railway ===\nBetween 1990 and 1993, Toyama Chihō Railway received 16 former Keihan 3000 series cars, and classified them as 10030 series (10030形). A bi-level car was transferred from Keihan to Toyama Chihō Railway in 2013.\n\n\n=== Ōigawa Railway ===\nUntil 2014, Ōigawa Railway also operated a former Keihan 3000 series train.\n\n\n== Preserved examples ==\nOne car  is preserved at Kuzuha Mall.\n\n\n== References ==\n\n\n== External links ==\n\nToyama Chihō Railway (in Japanese)\nŌigawa Railway 3000 series information (in Japanese)",
+    "字数": 1297
+   }
+  }
+ }
+}

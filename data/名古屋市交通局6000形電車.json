@@ -10,16 +10,19 @@
   },
   "标识": {
    "图标文件": [
-    "31_tokai_mi/nagoya-metro__nag6000.png"
+    "31_tokai_mi/nagoya-metro__nag6000.png",
+    "31_tokai_mi/sakuradori-line__nag6000ll.png"
    ],
    "图标token": [
-    "nag6000"
+    "nag6000",
+    "nag6000ll"
    ],
    "网站键": {
     "特急": [],
     "线路": [
      "2号線名城線・名港線",
      "4号線名城線",
+     "6号線桜通線",
      "上飯田線"
     ]
    }

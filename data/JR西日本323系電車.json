@@ -10,9 +10,11 @@
   },
   "标识": {
    "图标文件": [
+    "04_west/osaka-loop-line__w323m.png",
     "04_west/osaka-loop-line__w323or.png"
    ],
    "图标token": [
+    "w323m",
     "w323or"
    ],
    "网站键": {

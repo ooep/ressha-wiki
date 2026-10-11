@@ -10,9 +10,11 @@
   },
   "标识": {
    "图标文件": [
+    "31_tokai_mi/nagaragawa-rail__nagr300.png",
     "31_tokai_mi/nagaragawa-rail__nagr501.png"
    ],
    "图标token": [
+    "nagr300",
     "nagr501"
    ],
    "网站键": {

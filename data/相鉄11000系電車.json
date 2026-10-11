@@ -10,11 +10,15 @@
   },
   "标识": {
    "图标文件": [
+    "16_sotetsu/sotetsu-11000__sote11000hoe.png",
     "16_sotetsu/sotetsu-11000__sote11000rg.png",
+    "16_sotetsu/sotetsu-11000__sote11000rg0.png",
     "16_sotetsu/sotetsu-rail__sote11001.png"
    ],
    "图标token": [
+    "sote11000hoe",
     "sote11000rg",
+    "sote11000rg0",
     "sote11001"
    ],
    "网站键": {

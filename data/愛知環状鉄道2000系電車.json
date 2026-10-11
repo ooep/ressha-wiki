@@ -1,0 +1,62 @@
+{
+ "车辆": {
+  "名称": {
+   "日文": "愛知環状鉄道2000系電車",
+   "中文": null,
+   "英文": "Aichi Loop Railway 2000 series",
+   "运营者": [
+    "東海私鉄"
+   ]
+  },
+  "标识": {
+   "图标文件": [
+    "31_tokai_mi/aichi-loop-rail__aitk2000.png"
+   ],
+   "图标token": [
+    "aitk2000"
+   ],
+   "网站键": {
+    "特急": [],
+    "线路": [
+     "愛知環状鉄道",
+     "愛知環状鉄道線"
+    ]
+   }
+  },
+  "百科": {
+   "日文": {
+    "词条标题": "愛知環状鉄道2000系電車",
+    "链接": "https://ja.wikipedia.org/wiki/%E6%84%9B%E7%9F%A5%E7%92%B0%E7%8A%B6%E9%89%84%E9%81%932000%E7%B3%BB%E9%9B%BB%E8%BB%8A",
+    "首段": "愛知環状鉄道2000系電車（あいちかんじょうてつどう2000けいでんしゃ）は、2002年（平成14年）に登場した愛知環状鉄道の電車である。",
+    "章节": {
+     "概要": "開業時から使用されていた100系を置き換えるため、2002年（平成14年）から2009年（平成21年）にかけて2両編成20本40両が導入された。全車が日本車輌製造で製造された。\n製造コストを抑えるため、JR東海の313系3000番台をベースに設計されている。このため外装、内装において同系と類似点が多いのが特徴である。",
+     "構造": "制御電動車2100形（Mc・岡崎寄り）と制御付随車2200形（Tc'・高蔵寺寄り）で2両編成を組む。車両番号の下2桁は編成番号の数字と同一である（G1編成：Mc2101-Tc'2201）。機器構成は313系300番台をベースとしており発電ブレーキは搭載されていない。起動加速度は2.6km/h/sとされている。20本のうち4本（G8 - G11）は冬季の架線霜取り用としてパンタグラフを2基備えている。\n外装のカラーリングは一般公募によって選ばれたデザインをもとにしている。太さの異なる5本の緑色の線で沿線の豊かな自然を、左右非対称の毛筆調の帯で都市の力強さを表現した大胆なデザインである。前面では、種別、行先表示部分にまで拡大した大型のガラスを採用し、足乗せ台の部分が小型化されるなどの差異がある。また、所属を示す「愛」の文字も独自のフォントが採用された。\n内装は313系3000番台と同様のセミクロスシートで、ワンマン運転に対応できる構造になっているものの運賃箱や整理券発行機等の装備はない。車内カラースキームがアースカラー（シートモケットの柄が緑色系、床や荷棚が茶色系）、自動放送装置、シート端部の大型の仕切り板、LED式旅客案内表示器が千鳥配置、蛍光灯のカバー省略、つり革の三角化（後期車のみ）といった点が313系とは異なる。\n自動放送は100系とは異なり音声合成装置となった。\nイベント仕様車としてG30番台の編成（2131・2231 - 2133・2233）が3本（計6両）在籍しているが、普段は通常仕様の車両と共通の運用が組まれている。イベント仕様車は、着脱式のテーブル、カラオケ用のコンセントなどを備えている。過去には、BOSE社製スピーカーや空気清浄機なども備えられていたが、いずれも撤去されている。",
+     "運用": "2003年（平成15年）3月14日のダイヤ改正から営業運転を開始し、以降2005年（平成17年）までに2両編成16本（計32両）が導入され、同年の「愛・地球博」終了後に100系の置き換えが完了した。\nラッシュ時を中心に2本を連結した4両編成で運用されるが、一部の列車は2両編成のまま非常に混雑した状態で輸送せざるを得ない状況にあり、2008年（平成20年）には新豊田駅 - 三河豊田駅間の複線化による両駅間のシャトル列車の新設を控えていたことから、2007年（平成19年）度に2両編成2本が追加投入された。この編成ではつり革が三角型に、トイレ前の1人掛けシートが廃止された。一方、同時期に製造された313系3次投入車に見られるフルカラーLED式種別・行先表示器やHID式前照灯などへの変更はない。ATS-PT機器の取り付けは2012年までに完了している（JR東海名古屋工場への入庫のため。当初は準備工事のみであった）。\n2009年（平成21年）3月14日のダイヤ改正時には、2両編成2本（G51、G52編成）が増備された。車体や機器が313系ベースであることに変更はないものの、ラッシュ時の収容力を確保とコスト面から座席はセミクロスシートから313系2500番台に準じたロングシートへと変更された。外板塗色は緑の左右非対称の帯から、愛知環状鉄道のコーポレートカラーである青色の帯が配されたものとなっている。同時に従来車に関しても順次車体帯の変更が行われることとなり、2026年3月をもってG9編成を除くすべての編成の車体帯の変更が完了した。なお、G9編成に関しては当面の間従来の塗色が維持される予定。",
+     "車両輸送": "甲種輸送の際は日本車輌豊川製作所→豊川駅→豊橋駅→岡崎駅→北野桝塚駅のルートで搬入された。\n\n※ 第1次輸送車のうち、G31、G33の編成は輸送時点ではそれぞれG12、G14を名乗っており、後に編成番号のみ改められた。",
+     "編成表": "",
+     "脚注": "",
+     "関連項目": "JR東海313系電車\nJR東海キハ25形気動車\n名古屋臨海高速鉄道1000形電車",
+     "参考文献": "『鉄道ファン』2003年3月号 交友社 p.78 - p.79",
+     "外部リンク": "2000系1-5次車フォトギャラリー - 愛知環状鉄道公式サイト内\n2000系6次車フォトギャラリー - 愛知環状鉄道公式サイト内\n愛知環状鉄道殿向け　2000系 - 日本車輌製造\n愛知環状鉄道殿向け　2000系6次車 - 日本車輌製造"
+    },
+    "全文": "愛知環状鉄道2000系電車（あいちかんじょうてつどう2000けいでんしゃ）は、2002年（平成14年）に登場した愛知環状鉄道の電車である。\n\n\n== 概要 ==\n開業時から使用されていた100系を置き換えるため、2002年（平成14年）から2009年（平成21年）にかけて2両編成20本40両が導入された。全車が日本車輌製造で製造された。\n製造コストを抑えるため、JR東海の313系3000番台をベースに設計されている。このため外装、内装において同系と類似点が多いのが特徴である。\n\n\n== 構造 ==\n制御電動車2100形（Mc・岡崎寄り）と制御付随車2200形（Tc'・高蔵寺寄り）で2両編成を組む。車両番号の下2桁は編成番号の数字と同一である（G1編成：Mc2101-Tc'2201）。機器構成は313系300番台をベースとしており発電ブレーキは搭載されていない。起動加速度は2.6km/h/sとされている。20本のうち4本（G8 - G11）は冬季の架線霜取り用としてパンタグラフを2基備えている。\n外装のカラーリングは一般公募によって選ばれたデザインをもとにしている。太さの異なる5本の緑色の線で沿線の豊かな自然を、左右非対称の毛筆調の帯で都市の力強さを表現した大胆なデザインである。前面では、種別、行先表示部分にまで拡大した大型のガラスを採用し、足乗せ台の部分が小型化されるなどの差異がある。また、所属を示す「愛」の文字も独自のフォントが採用された。\n内装は313系3000番台と同様のセミクロスシートで、ワンマン運転に対応できる構造になっているものの運賃箱や整理券発行機等の装備はない。車内カラースキームがアースカラー（シートモケットの柄が緑色系、床や荷棚が茶色系）、自動放送装置、シート端部の大型の仕切り板、LED式旅客案内表示器が千鳥配置、蛍光灯のカバー省略、つり革の三角化（後期車のみ）といった点が313系とは異なる。\n自動放送は100系とは異なり音声合成装置となった。\nイベント仕様車としてG30番台の編成（2131・2231 - 2133・2233）が3本（計6両）在籍しているが、普段は通常仕様の車両と共通の運用が組まれている。イベント仕様車は、着脱式のテーブル、カラオケ用のコンセントなどを備えている。過去には、BOSE社製スピーカーや空気清浄機なども備えられていたが、いずれも撤去されている。\n\n\n== 運用 ==\n2003年（平成15年）3月14日のダイヤ改正から営業運転を開始し、以降2005年（平成17年）までに2両編成16本（計32両）が導入され、同年の「愛・地球博」終了後に100系の置き換えが完了した。\nラッシュ時を中心に2本を連結した4両編成で運用されるが、一部の列車は2両編成のまま非常に混雑した状態で輸送せざるを得ない状況にあり、2008年（平成20年）には新豊田駅 - 三河豊田駅間の複線化による両駅間のシャトル列車の新設を控えていたことから、2007年（平成19年）度に2両編成2本が追加投入された。この編成ではつり革が三角型に、トイレ前の1人掛けシートが廃止された。一方、同時期に製造された313系3次投入車に見られるフルカラーLED式種別・行先表示器やHID式前照灯などへの変更はない。ATS-PT機器の取り付けは2012年までに完了している（JR東海名古屋工場への入庫のため。当初は準備工事のみであった）。\n2009年（平成21年）3月14日のダイヤ改正時には、2両編成2本（G51、G52編成）が増備された。車体や機器が313系ベースであることに変更はないものの、ラッシュ時の収容力を確保とコスト面から座席はセミクロスシートから313系2500番台に準じたロングシートへと変更された。外板塗色は緑の左右非対称の帯から、愛知環状鉄道のコーポレートカラーである青色の帯が配されたものとなっている。同時に従来車に関しても順次車体帯の変更が行われることとなり、2026年3月をもってG9編成を除くすべての編成の車体帯の変更が完了した。なお、G9編成に関しては当面の間従来の塗色が維持される予定。\n\n\n== 車両輸送 ==\n甲種輸送の際は日本車輌豊川製作所→豊川駅→豊橋駅→岡崎駅→北野桝塚駅のルートで搬入された。\n\n※ 第1次輸送車のうち、G31、G33の編成は輸送時点ではそれぞれG12、G14を名乗っており、後に編成番号のみ改められた。\n\n\n== 編成表 ==\n\n\n== 脚注 ==\n\n\n== 関連項目 ==\n\nJR東海313系電車\nJR東海キハ25形気動車\n名古屋臨海高速鉄道1000形電車\n\n\n== 参考文献 ==\n『鉄道ファン』2003年3月号 交友社 p.78 - p.79\n\n\n== 外部リンク ==\n2000系1-5次車フォトギャラリー - 愛知環状鉄道公式サイト内\n2000系6次車フォトギャラリー - 愛知環状鉄道公式サイト内\n愛知環状鉄道殿向け　2000系 - 日本車輌製造\n愛知環状鉄道殿向け　2000系6次車 - 日本車輌製造",
+    "字数": 2102
+   },
+   "中文": null,
+   "英文": {
+    "词条标题": "Aichi Loop Railway 2000 series",
+    "链接": "https://en.wikipedia.org/wiki/Aichi%20Loop%20Railway%202000%20series",
+    "首段": "The Aichi Loop Railway 2000 series (愛知環状鉄道2000系) is a 2-car electric multiple unit (EMU) train type operated by the Japanese third sector railway operator Aichi Loop Railway on the Aichi Loop Line since March 2003.\nIt is based on the JR Central 313 series.",
+    "章节": {
+     "Formations": "As of 1 April 2012, the fleet consists of 20 two-car sets formed as shown below, with one motored (Mc) car and one trailer (Tc) car.\n\nSets G31-G33 have cars numbered in the 213x and 223x series.\nSets G51-G52 have cars numbered in the 215x and 225x series.\nThe Mc cars are equipped with one single-arm pantograph (sets G8-G11 have two pantographs).",
+     "Interior": "Passenger accommodation consists of fixed facing 4-seat bays with bench seating by the doorways. Sets G51 and G52 have longitudinal seating throughout. The Tc cars have a universal access toilet. The G30 sets were originally configured to allow tables to be installed, and included internal speakers for use with karaoke equipment on special event services, but these features were subsequently removed.",
+     "History": "The first four sets, G1-G2 and G31-G32, were delivered to allow driver training between January and March 2003.\nFrom December 2009, the original sets were gradually repainted into the corporate livery with blue bodyside stripes, and the seat moquette was also changed from green to blue.",
+     "References": "",
+     "External links": "Aichi Loop Railway 2000 series (Nippon Sharyo) (in Japanese)\nAichi Loop Railway 2000 series (Japan Railfan Magazine Online) (in Japanese)\nAichi Loop Railway 2000 series 6th-batch type (Japan Railfan Magazine Online) (in Japanese)"
+    },
+    "全文": "The Aichi Loop Railway 2000 series (愛知環状鉄道2000系) is a 2-car electric multiple unit (EMU) train type operated by the Japanese third sector railway operator Aichi Loop Railway on the Aichi Loop Line since March 2003.\nIt is based on the JR Central 313 series.\n\n\n== Formations ==\n\nAs of 1 April 2012, the fleet consists of 20 two-car sets formed as shown below, with one motored (Mc) car and one trailer (Tc) car.\n\nSets G31-G33 have cars numbered in the 213x and 223x series.\nSets G51-G52 have cars numbered in the 215x and 225x series.\nThe Mc cars are equipped with one single-arm pantograph (sets G8-G11 have two pantographs).\n\n\n== Interior ==\nPassenger accommodation consists of fixed facing 4-seat bays with bench seating by the doorways. Sets G51 and G52 have longitudinal seating throughout. The Tc cars have a universal access toilet. The G30 sets were originally configured to allow tables to be installed, and included internal speakers for use with karaoke equipment on special event services, but these features were subsequently removed.\n\n\n== History ==\nThe first four sets, G1-G2 and G31-G32, were delivered to allow driver training between January and March 2003.\nFrom December 2009, the original sets were gradually repainted into the corporate livery with blue bodyside stripes, and the seat moquette was also changed from green to blue.\n\n\n== References ==\n\n\n== External links ==\n\nAichi Loop Railway 2000 series (Nippon Sharyo) (in Japanese)\nAichi Loop Railway 2000 series (Japan Railfan Magazine Online) (in Japanese)\nAichi Loop Railway 2000 series 6th-batch type (Japan Railfan Magazine Online) (in Japanese)",
+    "字数": 1622
+   }
+  }
+ }
+}

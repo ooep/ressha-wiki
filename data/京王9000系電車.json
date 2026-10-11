@@ -10,9 +10,13 @@
   },
   "标识": {
    "图标文件": [
+    "11_keio/emu-5000-9000-8000__keio9000.png",
+    "11_keio/emu-5000-9000-8000__keio9000ll.png",
     "11_keio/keio-line__keio9030ktb.png"
    ],
    "图标token": [
+    "keio9000",
+    "keio9000ll",
     "keio9030ktb"
    ],
    "网站键": {

@@ -10,13 +10,36 @@
   },
   "标识": {
    "图标文件": [
-    "02_east/untitled__e165sm.png"
+    "02_east/banetsu-akakura__e165ak.png",
+    "02_east/nagano-area__e169-na1.png",
+    "02_east/nagano-area__e169km.png",
+    "02_east/nagano-area__e169km1.png",
+    "02_east/nagano-area__e169na.png",
+    "02_east/nagano-area__e169na1.png",
+    "02_east/nagano-area__e169na1d.png",
+    "02_east/nagano-area__e169na2.png",
+    "02_east/nagano-area__e169nad.png",
+    "02_east/untitled__e165sm.png",
+    "02_east/untitled__e165smd.png"
    ],
    "图标token": [
-    "e165sm"
+    "e165ak",
+    "e165sm",
+    "e165smd",
+    "e169-na1",
+    "e169km",
+    "e169km1",
+    "e169na",
+    "e169na1",
+    "e169na1d",
+    "e169na2",
+    "e169nad"
    ],
    "网站键": {
-    "特急": [],
+    "特急": [
+     "SLばんえつ物語",
+     "長野電鉄特急"
+    ],
     "线路": [
      "八王子線"
     ]

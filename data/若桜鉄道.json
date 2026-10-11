@@ -10,10 +10,12 @@
   },
   "标识": {
    "图标文件": [
-    "26_sanyosanin/wakasa-rail__wks2500.png"
+    "26_sanyosanin/wakasa-rail__wks2500.png",
+    "26_sanyosanin/wakasa-rail__wks3000.png"
    ],
    "图标token": [
-    "wks2500"
+    "wks2500",
+    "wks3000"
    ],
    "网站键": {
     "特急": [],

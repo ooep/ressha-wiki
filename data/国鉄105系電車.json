@@ -11,16 +11,33 @@
   "标识": {
    "图标文件": [
     "04_west/fukuen-line__w105hy.png",
+    "04_west/fukuen-line__w105hy3.png",
     "04_west/kabe-line__w105hik.png",
+    "04_west/kabe-line__w105hik2.png",
+    "04_west/sanyo-area__w105fu.png",
+    "04_west/sanyo-area__w105fu1.png",
+    "04_west/sanyo-area__w105fu2.png",
+    "04_west/sanyo-area__w105ofu.png",
+    "04_west/wakayama-line__w105tbm2m.png",
     "04_west/wakayama-line__w105tbm2p.png"
    ],
    "图标token": [
+    "w105fu",
+    "w105fu1",
+    "w105fu2",
     "w105hik",
+    "w105hik2",
     "w105hy",
+    "w105hy3",
+    "w105ofu",
+    "w105tbm2m",
     "w105tbm2p"
    ],
    "网站键": {
-    "特急": [],
+    "特急": [
+     "山陽電鉄特急",
+     "直通特急"
+    ],
     "线路": [
      "可部線",
      "和歌山港線",

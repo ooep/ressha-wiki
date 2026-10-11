@@ -10,9 +10,11 @@
   },
   "标识": {
    "图标文件": [
+    "29_kanto_mi/kashima-r-rail__kasmr8000.png",
     "29_kanto_mi/kashima-r-rail__kasmr8001.png"
    ],
    "图标token": [
+    "kasmr8000",
     "kasmr8001"
    ],
    "网站键": {

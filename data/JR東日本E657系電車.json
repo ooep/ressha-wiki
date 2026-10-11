@@ -10,10 +10,22 @@
   },
   "标识": {
    "图标文件": [
-    "02_east/hitachi-tokiwa__e657.png"
+    "02_east/hitachi-tokiwa__e657.png",
+    "02_east/hitachi-tokiwa__e657b.png",
+    "02_east/hitachi-tokiwa__e657g.png",
+    "02_east/hitachi-tokiwa__e657o.png",
+    "02_east/hitachi-tokiwa__e657r.png",
+    "02_east/hitachi-tokiwa__e657w.png",
+    "02_east/hitachi-tokiwa__e657y.png"
    ],
    "图标token": [
-    "e657"
+    "e657",
+    "e657b",
+    "e657g",
+    "e657o",
+    "e657r",
+    "e657w",
+    "e657y"
    ],
    "网站键": {
     "特急": [

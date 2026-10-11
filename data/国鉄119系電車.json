@@ -10,10 +10,20 @@
   },
   "标识": {
    "图标文件": [
-    "03_tokai/iida-line-119__c119b.png"
+    "03_tokai/iida-line-119__c119-1.png",
+    "03_tokai/iida-line-119__c119.png",
+    "03_tokai/iida-line-119__c119b.png",
+    "03_tokai/iida-line-119__c119c-1.png",
+    "03_tokai/iida-line-119__c119c.png",
+    "03_tokai/iida-line-119__c119p.png"
    ],
    "图标token": [
-    "c119b"
+    "c119",
+    "c119-1",
+    "c119b",
+    "c119c",
+    "c119c-1",
+    "c119p"
    ],
    "网站键": {
     "特急": [

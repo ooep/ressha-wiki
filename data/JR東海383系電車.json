@@ -10,9 +10,15 @@
   },
   "标识": {
    "图标文件": [
+    "03_tokai/shinano__c383.png",
+    "03_tokai/shinano__c383k-1.png",
+    "03_tokai/shinano__c383k.png",
     "03_tokai/shinano__c385.png"
    ],
    "图标token": [
+    "c383",
+    "c383k",
+    "c383k-1",
     "c385"
    ],
    "网站键": {

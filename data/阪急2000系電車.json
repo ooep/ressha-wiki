@@ -1,0 +1,70 @@
+{
+ "车辆": {
+  "名称": {
+   "日文": "阪急2000系電車",
+   "中文": "阪急電鐵2000系電聯車 (2代)",
+   "英文": "Hankyu 2000 series (1960)",
+   "运营者": [
+    "阪急"
+   ]
+  },
+  "标识": {
+   "图标文件": [
+    "21_hankyu/emu2000-2300__hnq2000.png"
+   ],
+   "图标token": [
+    "hnq2000"
+   ],
+   "网站键": {
+    "特急": [
+     "阪急特急"
+    ],
+    "线路": [
+     "今津線",
+     "伊丹線",
+     "甲陽線",
+     "神戸",
+     "神戸本線",
+     "阪急神戸線"
+    ]
+   }
+  },
+  "百科": {
+   "日文": {
+    "词条标题": "阪急2000系電車",
+    "链接": "https://ja.wikipedia.org/wiki/%E9%98%AA%E6%80%A52000%E7%B3%BB%E9%9B%BB%E8%BB%8A",
+    "首段": "阪急2000系電車（はんきゅう2000けいでんしゃ）は阪急電鉄の神宝線用の通勤形電車の一系列。年代によって以下の2種が存在する。",
+    "章节": {},
+    "全文": "阪急2000系電車（はんきゅう2000けいでんしゃ）は阪急電鉄の神宝線用の通勤形電車の一系列。年代によって以下の2種が存在する。\n\n阪急2000系電車 (初代) - 1960年に新製された、阪急電鉄の高性能車両。\n阪急2000系電車 (2代) - 2024年に導入された車両。",
+    "字数": 138
+   },
+   "中文": {
+    "词条标题": "阪急電鐵2000系電聯車 (2代)",
+    "链接": "https://zh.wikipedia.org/wiki/%E9%98%AA%E6%80%A5%E9%9B%BB%E9%90%B52000%E7%B3%BB%E9%9B%BB%E8%81%AF%E8%BB%8A%20%282%E4%BB%A3%29",
+    "首段": "阪急電鐵2000系電聯車（日語：阪急2000系電車／はんきゅう2000けいでんしゃ，羅馬化：Hankyū dentetsu 2000-kei densha）是阪急電鐵使用的通勤型電聯車，並且在神戶本線與寶塚本線上進行運轉。2300系電聯車於2025年2月24日德仁天皇誕生日的補休日開始在寶塚本線上投入使用。而本型車也用於行駛往返寶塚本線川西能勢口站及能勢電鐵妙見線及日生線的特急列車「日生特快」。",
+    "章节": {
+     "規格與構造": "",
+     "車體": "本型車與阪急電鐵2300系電聯車皆以「安全與舒適」以及「兼顧環保的新阪急風格」為理念進行製造。車體採用鋁合金製的雙皮層結構，並且為確保列車在遭受衝撞時能維持車廂內的安全性，因此將雙皮層結構延伸至駕駛室側的入口處。駕駛室前面的面板厚度也增加，以提升車體的結構強度。車頭正面的窗戶增加流線型的曲線，營造出列車疾速行駛的視覺感。而本型車的車體寬度與神寶線上的鐵路車輛皆為2770mm，全長則為19,900mm。\n本型車的車廂為減少與月台間的高度落差，因此將地板高度降低至1150mm。車體側面的窗戶多為兩面或是三面連續的窗戶，並且在車門旁設置可手動開關的窗戶，以避免列車的空調系統故障時車廂內的空氣無法循環。車廂外的目的地顯示器均為全彩式LED燈。同時本型車也採用新型的高效半導體元件的控制單元，使2000系與阪急電鐵現有的電車相比減少約60%的能源消耗。",
+     "客室": "2000系電聯車的車體塗裝延續傳統的阪急栗，車廂內的客室牆面也同樣使用帶有木紋的化妝板。本型車的所有座位均為長條座椅，且為了避免列車上的乘客在緊急煞車時因彼此碰撞造成的傷害，因此在長條座椅的頭尾兩端安裝大型的半透明隔板；而所有的隔板上也安裝著垂直式的握把。普通座位的布料顏色為綠色系的金橄欖綠，博愛座的座椅顏色為紅色系的洋紅色；而本型車將博愛座區域的扶手高度較低，以方便女性及高齡乘客使用。最靠近車頭與車尾的窗戶因具備抗UV的功效，因此在視覺上呈現綠色。\n\n天花板採用淡米色系的化妝板，並搭配LED燈的照明，營造出明亮且開放的車廂空間。而車廂內的列車資訊顯示器使用32吋半的液晶顯示器，並以交錯的方式進行安裝。每節車廂均有設無障礙空間，並且為提升使用者的安全性而設置兩段式的扶手、緊急通話裝置和固定輪椅的器具；前頭車輛與最後一節車輛的無障礙空間較阪急電鐵現有的鐵路車輛大約60%，以提供舒適的搭乘空間。",
+     "運用": "2000系電聯車於2023年10月6日宣布將引進2000F編組，並於2025年2月24日德仁天皇誕生日的補休日開始在寶塚本線上投入使用。本型車的2001F編組於2025年12月投入至神戶線上使用。2002編組則於2026年2月投入運行，為第二列運行於寶塚線上的2000系電聯車。",
+     "參考文獻": ""
+    },
+    "全文": "阪急電鐵2000系電聯車（日語：阪急2000系電車／はんきゅう2000けいでんしゃ，羅馬化：Hankyū dentetsu 2000-kei densha）是阪急電鐵使用的通勤型電聯車，並且在神戶本線與寶塚本線上進行運轉。2300系電聯車於2025年2月24日德仁天皇誕生日的補休日開始在寶塚本線上投入使用。而本型車也用於行駛往返寶塚本線川西能勢口站及能勢電鐵妙見線及日生線的特急列車「日生特快」。\n\n\n== 規格與構造 ==\n\n\n=== 車體 ===\n本型車與阪急電鐵2300系電聯車皆以「安全與舒適」以及「兼顧環保的新阪急風格」為理念進行製造。車體採用鋁合金製的雙皮層結構，並且為確保列車在遭受衝撞時能維持車廂內的安全性，因此將雙皮層結構延伸至駕駛室側的入口處。駕駛室前面的面板厚度也增加，以提升車體的結構強度。車頭正面的窗戶增加流線型的曲線，營造出列車疾速行駛的視覺感。而本型車的車體寬度與神寶線上的鐵路車輛皆為2770mm，全長則為19,900mm。\n本型車的車廂為減少與月台間的高度落差，因此將地板高度降低至1150mm。車體側面的窗戶多為兩面或是三面連續的窗戶，並且在車門旁設置可手動開關的窗戶，以避免列車的空調系統故障時車廂內的空氣無法循環。車廂外的目的地顯示器均為全彩式LED燈。同時本型車也採用新型的高效半導體元件的控制單元，使2000系與阪急電鐵現有的電車相比減少約60%的能源消耗。\n\n\n=== 客室 ===\n\n2000系電聯車的車體塗裝延續傳統的阪急栗，車廂內的客室牆面也同樣使用帶有木紋的化妝板。本型車的所有座位均為長條座椅，且為了避免列車上的乘客在緊急煞車時因彼此碰撞造成的傷害，因此在長條座椅的頭尾兩端安裝大型的半透明隔板；而所有的隔板上也安裝著垂直式的握把。普通座位的布料顏色為綠色系的金橄欖綠，博愛座的座椅顏色為紅色系的洋紅色；而本型車將博愛座區域的扶手高度較低，以方便女性及高齡乘客使用。最靠近車頭與車尾的窗戶因具備抗UV的功效，因此在視覺上呈現綠色。\n\n天花板採用淡米色系的化妝板，並搭配LED燈的照明，營造出明亮且開放的車廂空間。而車廂內的列車資訊顯示器使用32吋半的液晶顯示器，並以交錯的方式進行安裝。每節車廂均有設無障礙空間，並且為提升使用者的安全性而設置兩段式的扶手、緊急通話裝置和固定輪椅的器具；前頭車輛與最後一節車輛的無障礙空間較阪急電鐵現有的鐵路車輛大約60%，以提供舒適的搭乘空間。\n\n\n== 運用 ==\n2000系電聯車於2023年10月6日宣布將引進2000F編組，並於2025年2月24日德仁天皇誕生日的補休日開始在寶塚本線上投入使用。本型車的2001F編組於2025年12月投入至神戶線上使用。2002編組則於2026年2月投入運行，為第二列運行於寶塚線上的2000系電聯車。\n\n\n== 參考文獻 ==",
+    "字数": 1182
+   },
+   "英文": {
+    "词条标题": "Hankyu 2000 series (1960)",
+    "链接": "https://en.wikipedia.org/wiki/Hankyu%202000%20series%20%281960%29",
+    "首段": "The Hankyu 2000 series (阪急電鉄2000系) was an electric multiple unit (EMU) train type operated in Japan by the private railway operator Hankyu Railway since 1960. It was the recipient of the inaugural Laurel Prize presented by the Japan Railfan Club in 1961.",
+    "章节": {
+     "Variants": "The 2000 series included the following types.\n\n2021 series (later reclassified 2071 series)\n2100 series",
+     "Interior": "Passenger accommodation consisted of longitudinal bench seating throughout.",
+     "Withdrawal and resale": "The 2100 series trains were withdrawn between 1983 and 1985, and four-car sets were sold to the Nose Electric Railway, classified as 1500 series. The 2000 series trains were withdrawn between 1989 and 1992, and four-car sets were sold to the Nose Electric Railway, classified as 1700 series.",
+     "References": ""
+    },
+    "全文": "The Hankyu 2000 series (阪急電鉄2000系) was an electric multiple unit (EMU) train type operated in Japan by the private railway operator Hankyu Railway since 1960. It was the recipient of the inaugural Laurel Prize presented by the Japan Railfan Club in 1961.\n\n\n== Variants ==\nThe 2000 series included the following types.\n\n2021 series (later reclassified 2071 series)\n2100 series\n\n\n== Interior ==\nPassenger accommodation consisted of longitudinal bench seating throughout.\n\n\n== Withdrawal and resale ==\nThe 2100 series trains were withdrawn between 1983 and 1985, and four-car sets were sold to the Nose Electric Railway, classified as 1500 series. The 2000 series trains were withdrawn between 1989 and 1992, and four-car sets were sold to the Nose Electric Railway, classified as 1700 series.\n\n\n== References ==",
+    "字数": 809
+   }
+  }
+ }
+}

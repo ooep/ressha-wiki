@@ -11,21 +11,33 @@
   "标识": {
    "图标文件": [
     "04_west/geibi-kisuki-line__w120ki3.png",
+    "04_west/geibi-kisuki-line__w120ki4.png",
     "04_west/kansai-area__w120cha.png",
     "04_west/kansai-line__w120ka.png",
+    "04_west/kansai-line__w120ka1.png",
     "04_west/kuzuryu-line__w120.png",
+    "04_west/kuzuryu-line__w120n.png",
     "04_west/mine-line__w120mi2.png",
+    "04_west/mine-line__w120mi3.png",
     "04_west/san-in-line__w120hm.png",
-    "04_west/takayama-line__w120gr.png"
+    "04_west/san-in-line__w120hmn.png",
+    "04_west/takayama-line__w120gr.png",
+    "04_west/takayama-line__w120grn.png"
    ],
    "图标token": [
     "w120",
     "w120cha",
     "w120gr",
+    "w120grn",
     "w120hm",
+    "w120hmn",
     "w120ka",
+    "w120ka1",
     "w120ki3",
-    "w120mi2"
+    "w120ki4",
+    "w120mi2",
+    "w120mi3",
+    "w120n"
    ],
    "网站键": {
     "特急": [],

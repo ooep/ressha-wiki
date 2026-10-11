@@ -10,14 +10,17 @@
   },
   "标识": {
    "图标文件": [
-    "33_shikoku_mi/kotoden-rail__ktdn700r.png"
+    "33_shikoku_mi/kotoden-rail__ktdn700r.png",
+    "33_shikoku_mi/untitled__ktdn600g.png"
    ],
    "图标token": [
+    "ktdn600g",
     "ktdn700r"
    ],
    "网站键": {
     "特急": [],
     "线路": [
+     "志度線",
      "琴平線",
      "長尾線"
     ]

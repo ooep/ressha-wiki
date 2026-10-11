@@ -10,12 +10,28 @@
   },
   "标识": {
    "图标文件": [
+    "04_west/shirasagi-683__w683-8.png",
+    "04_west/shirasagi-683__w683k8.png",
+    "04_west/shirasagi__w683ksrn-1.png",
     "04_west/shirasagi__w683ksrn.png",
+    "04_west/shirasagi__w683srn.png",
+    "04_west/thunderbird__w683.png",
+    "04_west/thunderbird__w683k-1.png",
+    "04_west/thunderbird__w683k.png",
+    "04_west/thunderbird__w683k4.png",
     "04_west/thunderbird__w683n.png"
    ],
    "图标token": [
+    "w683",
+    "w683-8",
+    "w683k",
+    "w683k-1",
+    "w683k4",
+    "w683k8",
     "w683ksrn",
-    "w683n"
+    "w683ksrn-1",
+    "w683n",
+    "w683srn"
    ],
    "网站键": {
     "特急": [

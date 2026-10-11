@@ -10,10 +10,12 @@
   },
   "标识": {
    "图标文件": [
-    "04_west/hanwa-line__w225-51.png"
+    "04_west/hanwa-line__w225-51.png",
+    "04_west/hanwa-line__w225h5.png"
    ],
    "图标token": [
-    "w225-51"
+    "w225-51",
+    "w225h5"
    ],
    "网站键": {
     "特急": [],

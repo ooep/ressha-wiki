@@ -5,27 +5,45 @@
    "中文": "JR東日本E231系電力動車組",
    "英文": "E231 series",
    "运营者": [
+    "JR新幹線",
     "JR東日本"
    ]
   },
   "标识": {
    "图标文件": [
+    "00_shinkansen/asama-e2-0__e2k.png",
+    "00_shinkansen/yamabiko-e2-1__e2pik.png",
+    "02_east/chuo-sobu-line__e231so5l.png",
     "02_east/joban-line__e231jyl.png",
+    "02_east/joban-line__e231jylk.png",
     "02_east/kawagoe-line__e231ha.png",
+    "02_east/kawagoe-line__e231hk1.png",
+    "02_east/musashino-line__e231mu.png",
     "02_east/musashino-line__e231mul.png"
    ],
    "图标token": [
     "e231ha",
+    "e231hk1",
     "e231jyl",
-    "e231mul"
+    "e231jylk",
+    "e231mu",
+    "e231mul",
+    "e231so5l",
+    "e2k",
+    "e2pik"
    ],
    "网站键": {
-    "特急": [],
+    "特急": [
+     "あさま",
+     "なすの",
+     "やまびこ"
+    ],
     "线路": [
      "八高線",
      "千代田線",
      "常磐線",
-     "武蔵野線"
+     "武蔵野線",
+     "総武本線"
     ]
    }
   },

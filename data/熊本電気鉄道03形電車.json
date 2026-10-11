@@ -10,10 +10,12 @@
   },
   "标识": {
    "图标文件": [
-    "34_kyushu_mi/kumaden-rail__kmdn03p.png"
+    "34_kyushu_mi/kumaden-rail__kmdn03p.png",
+    "34_kyushu_mi/kumaden-rail__kmdn03pp.png"
    ],
    "图标token": [
-    "kmdn03p"
+    "kmdn03p",
+    "kmdn03pp"
    ],
    "网站键": {
     "特急": [],

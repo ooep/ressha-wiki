@@ -11,10 +11,14 @@
   "标识": {
    "图标文件": [
     "04_west/kansai-area-jr-jr-1-2-3-4-5-6-7-8-2026-5-15-update__w223-1.png",
+    "04_west/kansai-area-jr-jr-1-2-3-4-5-6-7-8-2026-5-15-update__w223.png",
+    "04_west/tokaido-line__w223h1.png",
     "04_west/tokaido-line__w223ms.png"
    ],
    "图标token": [
+    "w223",
     "w223-1",
+    "w223h1",
     "w223ms"
    ],
    "网站键": {

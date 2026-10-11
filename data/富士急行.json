@@ -10,9 +10,11 @@
   },
   "标识": {
    "图标文件": [
+    "30_koshinetsu_mi/fujikyu-rail__fjq6700pp.png",
     "30_koshinetsu_mi/fujikyu-rail__fjq6700r.png"
    ],
    "图标token": [
+    "fjq6700pp",
     "fjq6700r"
    ],
    "网站键": {

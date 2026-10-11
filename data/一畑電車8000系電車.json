@@ -10,9 +10,11 @@
   },
   "标识": {
    "图标文件": [
+    "26_sanyosanin/ichibata-rail__itbt8000b.png",
     "26_sanyosanin/ichibata-rail__itbt8000bp.png"
    ],
    "图标token": [
+    "itbt8000b",
     "itbt8000bp"
    ],
    "网站键": {

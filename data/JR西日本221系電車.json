@@ -10,14 +10,19 @@
   },
   "标识": {
    "图标文件": [
+    "04_west/kansai-area__w221cha.png",
+    "04_west/kansai-area__w221n.png",
     "04_west/kansai-area__w221np.png"
    ],
    "图标token": [
+    "w221cha",
+    "w221n",
     "w221np"
    ],
    "网站键": {
     "特急": [],
     "线路": [
+     "久宝寺",
      "関西本線"
     ]
    }

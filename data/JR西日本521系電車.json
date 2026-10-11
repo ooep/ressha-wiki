@@ -12,11 +12,17 @@
   "标识": {
    "图标文件": [
     "04_west/nanao-line__w521na.png",
+    "25_hokuriku/ainokaze-rail-1-2-3-2026-3-13-update__aity521bg.png",
+    "25_hokuriku/hapiline-rail__hapi521.png",
     "25_hokuriku/hapiline-rail__hapi521a.png",
+    "25_hokuriku/ir-ishikawa-rail__iskw521.png",
     "25_hokuriku/ir-ishikawa-rail__iskw521b.png"
    ],
    "图标token": [
+    "aity521bg",
+    "hapi521",
     "hapi521a",
+    "iskw521",
     "iskw521b",
     "w521na"
    ],
@@ -25,6 +31,8 @@
     "线路": [
      "irいしかわ鉄道線",
      "jr七尾線",
+     "あいの風とやま鉄道",
+     "あいの風とやま鉄道線",
      "のと鉄道七尾線",
      "ハピラインふくい線",
      "七尾線"

@@ -10,10 +10,12 @@
   },
   "标识": {
    "图标文件": [
-    "02_east/azusa-kaiji__e353.png"
+    "02_east/azusa-kaiji__e353.png",
+    "02_east/azusa-kaiji__e353k.png"
    ],
    "图标token": [
-    "e353"
+    "e353",
+    "e353k"
    ],
    "网站键": {
     "特急": [

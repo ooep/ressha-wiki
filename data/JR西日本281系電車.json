@@ -10,10 +10,12 @@
   },
   "标识": {
    "图标文件": [
-    "04_west/haruka__w281.png"
+    "04_west/haruka__w281.png",
+    "04_west/haruka__w281kt.png"
    ],
    "图标token": [
-    "w281"
+    "w281",
+    "w281kt"
    ],
    "网站键": {
     "特急": [

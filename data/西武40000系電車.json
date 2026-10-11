@@ -10,11 +10,15 @@
   },
   "标识": {
    "图标文件": [
+    "12_seibu/emu-2-3-40000-6000__seb40000.png",
     "12_seibu/emu-2-3-40000-6000__seb40050.png",
-    "12_seibu/seibu-tokiiro__seb40000tko.png"
+    "12_seibu/seibu-tokiiro__seb40000tko.png",
+    "12_seibu/seibu-tokiiro__seb40000tkr.png"
    ],
    "图标token": [
+    "seb40000",
     "seb40000tko",
+    "seb40000tkr",
     "seb40050"
    ],
    "网站键": {

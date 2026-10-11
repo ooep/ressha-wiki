@@ -10,13 +10,23 @@
   },
   "标识": {
    "图标文件": [
-    "14_tokyu/untitled__yokk000.png"
+    "14_tokyu/emu-5080-5050-m500__yokk500.png",
+    "14_tokyu/emu-5080-5050-m500__yokk500f.png",
+    "14_tokyu/emu-5080-5050-m500__yokk500f3.png",
+    "14_tokyu/untitled__yokk000.png",
+    "14_tokyu/untitled__yokk000mo.png"
    ],
    "图标token": [
-    "yokk000"
+    "yokk000",
+    "yokk000mo",
+    "yokk500",
+    "yokk500f",
+    "yokk500f3"
    ],
    "网站键": {
-    "特急": [],
+    "特急": [
+     "東急特急"
+    ],
     "线路": [
      "こどもの国線"
     ]

@@ -10,10 +10,12 @@
   },
   "标识": {
    "图标文件": [
-    "29_kanto_mi/yurikamome-apm__yrkm7000-1.png"
+    "29_kanto_mi/yurikamome-apm__yrkm7000-1.png",
+    "29_kanto_mi/yurikamome-apm__yrkm7000-2.png"
    ],
    "图标token": [
-    "yrkm7000-1"
+    "yrkm7000-1",
+    "yrkm7000-2"
    ],
    "网站键": {
     "特急": [],

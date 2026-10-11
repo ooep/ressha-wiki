@@ -1,0 +1,80 @@
+{
+ "车辆": {
+  "名称": {
+   "日文": "京阪",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "京阪"
+   ]
+  },
+  "标识": {
+   "图标文件": [
+    "19_keihan/ishiyama-line__khan611cb.png",
+    "19_keihan/iwashimizu-funicular-1-2-2025-10-3-update__cb-khan3r.png",
+    "19_keihan/keihan-101-111-151__khan110jg.png",
+    "19_keihan/keihan-101-111-151__khan110jgk.png",
+    "19_keihan/keihan-101-111-151__khan150jg.png",
+    "19_keihan/keihan-rail__khan10011t1.png",
+    "19_keihan/keihan-rail__khan10011t2.png",
+    "19_keihan/keihan-rail__khan2401.png",
+    "19_keihan/keihan-rail__khan2601.png",
+    "19_keihan/keihan-rail__khan2601o.png",
+    "19_keihan/keihan-rail__khan5001.png",
+    "19_keihan/keihan-rail__khan5001o.png",
+    "19_keihan/keihan-rail__khan5002o.png",
+    "19_keihan/keihan-rail__khan711t.png",
+    "19_keihan/keihan-rail__khan7201t.png",
+    "19_keihan/keihan-rail__khan7202t.png",
+    "19_keihan/keishin-otsu-line__khan801.png"
+   ],
+   "图标token": [
+    "cb-khan3r",
+    "khan10011t1",
+    "khan10011t2",
+    "khan110jg",
+    "khan110jgk",
+    "khan150jg",
+    "khan2401",
+    "khan2601",
+    "khan2601o",
+    "khan5001",
+    "khan5001o",
+    "khan5002o",
+    "khan611cb",
+    "khan711t",
+    "khan7201t",
+    "khan7202t",
+    "khan801"
+   ],
+   "网站键": {
+    "特急": [
+     "京阪特急"
+    ],
+    "线路": [
+     "京津線",
+     "京阪大津線",
+     "京阪石山坂本線",
+     "大津",
+     "清水",
+     "清水八幡宮参道ケーブル",
+     "石山坂本線"
+    ]
+   }
+  },
+  "百科": {
+   "日文": {
+    "词条标题": "京阪",
+    "链接": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E9%98%AA",
+    "首段": "京阪または京坂（けいはん）とは、京都の京と大阪の阪をとったもの。以下に大別される。",
+    "章节": {
+     "関連項目": "「京阪」で始まるページの一覧\n京阪神\n阪神\n上方\n京滋\n京阪奈"
+    },
+    "全文": "京阪または京坂（けいはん）とは、京都の京と大阪の阪をとったもの。以下に大別される。\n\n京都と大阪。\n京阪式アクセント。京都市と大阪市を中心に用いられる日本語のアクセント。\n京阪語。京言葉と大阪弁の総称。上方語とも。\n京都と大阪の間の地域。京阪間。\n淀川流域。とりわけ京阪電鉄沿線である大阪府北河内地域と京都府山城地域の淀川左岸地域。淀川右岸は、大阪府側は「北摂地域」（もしくは「北大阪地域」）や「三島地域」、京都府側は「乙訓地域」と呼ばれることが多い。\n京都と大阪を結ぶもの。\n京阪電気鉄道。一般に「京阪」といえば、地域名よりも同社および同社を中核とする京阪ホールディングスなどの京阪グループ各社を指す場合が多い。京阪電気鉄道または京阪グループの記事を参照。\n京阪本線。同社の代表路線で、大阪市中央区の淀屋橋駅と京都市東山区の三条駅を結ぶ。\n新京阪鉄道。現在の阪急京都本線などを敷設した京阪電鉄系の会社。\n京阪国道。国道1号のうち、京都市京阪国道口 - 大阪市梅田新道間の通称。\n第二京阪道路。京阪国道のバイパス道路。\n\n\n== 関連項目 ==\n「京阪」で始まるページの一覧\n京阪神\n阪神\n上方\n京滋\n京阪奈",
+    "字数": 504
+   },
+   "中文": null,
+   "英文": null
+  }
+ }
+}

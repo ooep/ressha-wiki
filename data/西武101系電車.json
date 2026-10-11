@@ -10,9 +10,11 @@
   },
   "标识": {
    "图标文件": [
+    "12_seibu/emu-101-3000__seb101psk1.png",
     "12_seibu/emu-101-3000__seb101w.png"
    ],
    "图标token": [
+    "seb101psk1",
     "seb101w"
    ],
    "网站键": {

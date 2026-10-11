@@ -1,0 +1,79 @@
+{
+ "车辆": {
+  "名称": {
+   "日文": "流鉄",
+   "中文": "流鐵",
+   "英文": "Nagareyama Line",
+   "运营者": [
+    "関東私鉄"
+   ]
+  },
+  "标识": {
+   "图标文件": [
+    "29_kanto_mi/ryutetsu-rail__ngry5004n.png"
+   ],
+   "图标token": [
+    "ngry5004n"
+   ],
+   "网站键": {
+    "特急": [],
+    "线路": [
+     "流山線"
+    ]
+   }
+  },
+  "百科": {
+   "日文": {
+    "词条标题": "流鉄",
+    "链接": "https://ja.wikipedia.org/wiki/%E6%B5%81%E9%89%84",
+    "首段": "流鉄株式会社（りゅうてつ）は、千葉県にある流山線を経営する鉄道会社である。本社所在地は千葉県流山市流山1丁目264番地で、流山線の終点流山駅に隣接している。\n鉄道沿線の保有資産を活用した小規模な不動産業を行うほかに関連事業はほとんどなく、ほぼ鉄道専業に近い状態である。鉄道の路線延長は5.7kmと短い。かつては貨物輸送も行っていたが、既に廃止されている。ただし、鉄道事業は2005年に開業した首都圏新都市鉄道つくばエクスプレス (TX) によって大きな打撃を受け赤字が常態化しており、近年は安定した収益が得られる不動産業で鉄道事業の損失を埋め合わせる経営が続いている。",
+    "章节": {
+     "概要": "2008年（平成20年）8月1日に社名を総武流山電鉄（そうぶながれやまでんてつ）から流鉄に変更し、経営する総武流山線も流山線に改称した。「流鉄」は元々略称であるが、松戸駅前のビル（流鉄松戸ビル）や、かつて行っていたタクシー事業などで使用される程度で、鉄道路線の案内などでは使用されていなかった。\n創業以来どこの鉄道会社系列にも属さない独立系の鉄道会社であり、他に有力な副業を持たずに経営している小規模な鉄道事業者である。日本民営鉄道協会にも非加盟である。「町民鉄道」として沿線業者や住民が出資して開業させたことに端を発し、流山市も出資しているものの、その後の紆余曲折を経て旧・平和相互銀行のグループ企業であった総武都市開発が経営を掌握し（旧社名「総武流山電鉄」の「総武」は総武都市開発に由来）、市の出資比率は僅かにすぎないため第三セクター鉄道とはみなされていない。総武都市開発が会社解散（事実上の経営破綻）に至った後も、なお代表取締役は平和相互銀行のオーナーであった小宮山家から送り込まれ、株式の過半数は小宮山家の影響下にある企業が保有している。\nPASMO・Suica等の交通系ICカードについては2015年（平成27年）の時点で「対応する予定はない」とし、その後も導入に向けた動きはない。",
+     "歴史": "",
+     "年表": "1913年（大正2年）11月7日 - 流山名産の醤油や味醂輸送を目的として、流山町民116名の出資により流山軽便鉄道として設立。初代社長は都築六郎。\n1916年（大正5年）3月14日 - 馬橋 - 流山間で営業を開始。\n1922年（大正11年）11月15日 - 流山鉄道に社名変更。\n1927年（昭和2年）5月 - 中大路氏道が社長に就任。\n1936年（昭和11年）1月 - 村田三郎が社長に就任。\n1951年（昭和26年）11月28日 - 流山電気鉄道に社名変更。\n1962年（昭和37年）11月 - タクシー事業を開始。\n1967年（昭和42年）6月20日 - 流山電鉄に社名変更。\n1968年（昭和43年）7月 - タクシーの整備工場を使用して自動車整備業を開始（後に廃業）。\n1971年（昭和46年）1月20日 - 総武流山電鉄に社名変更。\n1974年（昭和49年）10月 - 不動産業を開始。\n1977年（昭和52年） - 国鉄常磐線の松戸駅前に流鉄松戸ビルを竣工。\n2004年（平成16年）9月20日 - タクシー事業（流鉄タクシー）を廃止。タクシーの従業員は新登交通へ移る。\n2008年（平成20年）8月1日 - 流鉄に社名変更、同時に路線名を流山線に変更。\n2013年（平成25年）3月21日 - 公式ウェブサイトを開設。",
+     "路線": "詳細は以下の項目を参照。\n\n 流山線 : 馬橋駅 - 流山駅間 5.7km",
+     "車両": "",
+     "脚注": "",
+     "注釈": "",
+     "出典": "",
+     "参考文献": "曽根悟（監修） 著、朝日新聞出版分冊百科編集部（編集） 編『週刊 歴史でめぐる鉄道全路線 公営鉄道・私鉄』 21号 関東鉄道・真岡鐵道・首都圏新都市鉄道・流鉄、朝日新聞出版〈週刊朝日百科〉、2011年8月7日。",
+     "関連文献": "青木栄一「日本鉄道土浦線と流山」『鉄道忌避伝説の謎 - 汽車が来た町、来なかった町』（吉川弘文館、2006年11月、ISBN 978-4642056229）\n山本鉱太郎『新編・川蒸気通運丸物語 - 利根の外輪快速船（新書）』（崙書房、2005年2月、ISBN 978-4845511075）\n『散歩の達人』（2003年11月号 p27、交通新聞社）\n山本鉱太郎『江戸川図志』（崙書房、2001年6月、ISBN 978-4845510801）\n山下耕一「常磐線の流山通過案と流山鉄道敷設について - 線形からの一考察」『流山市史研究』第16号（流山市立博物館 編、2000年3月、流山市教育委員会 発行、流山市立図書館 蔵）\n『流山糧秣廠』（流山市立博物館調査研究報告書13、流山市立博物館 発行、1996年、流山市立博物館 販売/蔵、流山市立図書館 蔵）\n白土貞夫「総武流山電鉄」『ちばの鉄道一世紀』（崙書房、1996年、ISBN 4-8455-1027-8）\n山本文男『流山電鉄七十八年 ぬくもりの香る町と人の物語』（流山新聞社、1994年）\n北野道彦、相原正義『新版利根運河 - 利根・江戸川を結ぶ船の道』（崙書房、1989年）\n総武流山電鉄七十年史編纂委員会 編『総武流山電鉄七十年史』（崙書房 製作、総武流山電鉄株式会社 発行、1986年）\n小林茂多『幻の鉄道 - 千葉県鉄道計画史（ふるさと文庫）』（崙書房、1984年）\n野口冬人「総武流山電鉄」『ローカル私鉄の旅』（刊々堂出版社 発行、星雲社 発売、1980年12月25日 新装1刷発行）\n山本鉱太郎『川蒸気通運丸物語 - 明治・大正を生き抜いた利根の快速船（ふるさと文庫）』（崙書房、1980年11月）\n北野道彦『「町民鉄道」の60年 - 総武流山電鉄の話』（崙書房、1978年）\n吉川文夫：文、廣田尚敬：写真「総武流山電鉄」『カラー 日本の私鉄1 ローカル編』（山と溪谷社、1976年）\n流山市立博物館友の会 編『東葛流山研究』（崙書房、流山市立図書館 蔵）",
+     "関連項目": "陸軍糧秣本廠流山出張所\n筑波高速度電気鉄道\n流山市立博物館\n房総の魅力500選\n万上味醂\n野田人車鉄道",
+     "外部リンク": "公式ウェブサイト\n流鉄 - 千葉県公式観光サイト ちば観光ナビ\n流鉄について - 流山市"
+    },
+    "全文": "流鉄株式会社（りゅうてつ）は、千葉県にある流山線を経営する鉄道会社である。本社所在地は千葉県流山市流山1丁目264番地で、流山線の終点流山駅に隣接している。\n鉄道沿線の保有資産を活用した小規模な不動産業を行うほかに関連事業はほとんどなく、ほぼ鉄道専業に近い状態である。鉄道の路線延長は5.7kmと短い。かつては貨物輸送も行っていたが、既に廃止されている。ただし、鉄道事業は2005年に開業した首都圏新都市鉄道つくばエクスプレス (TX) によって大きな打撃を受け赤字が常態化しており、近年は安定した収益が得られる不動産業で鉄道事業の損失を埋め合わせる経営が続いている。\n\n\n== 概要 ==\n2008年（平成20年）8月1日に社名を総武流山電鉄（そうぶながれやまでんてつ）から流鉄に変更し、経営する総武流山線も流山線に改称した。「流鉄」は元々略称であるが、松戸駅前のビル（流鉄松戸ビル）や、かつて行っていたタクシー事業などで使用される程度で、鉄道路線の案内などでは使用されていなかった。\n創業以来どこの鉄道会社系列にも属さない独立系の鉄道会社であり、他に有力な副業を持たずに経営している小規模な鉄道事業者である。日本民営鉄道協会にも非加盟である。「町民鉄道」として沿線業者や住民が出資して開業させたことに端を発し、流山市も出資しているものの、その後の紆余曲折を経て旧・平和相互銀行のグループ企業であった総武都市開発が経営を掌握し（旧社名「総武流山電鉄」の「総武」は総武都市開発に由来）、市の出資比率は僅かにすぎないため第三セクター鉄道とはみなされていない。総武都市開発が会社解散（事実上の経営破綻）に至った後も、なお代表取締役は平和相互銀行のオーナーであった小宮山家から送り込まれ、株式の過半数は小宮山家の影響下にある企業が保有している。\nPASMO・Suica等の交通系ICカードについては2015年（平成27年）の時点で「対応する予定はない」とし、その後も導入に向けた動きはない。\n\n\n== 歴史 ==\n\n\n=== 年表 ===\n1913年（大正2年）11月7日 - 流山名産の醤油や味醂輸送を目的として、流山町民116名の出資により流山軽便鉄道として設立。初代社長は都築六郎。\n1916年（大正5年）3月14日 - 馬橋 - 流山間で営業を開始。\n1922年（大正11年）11月15日 - 流山鉄道に社名変更。\n1927年（昭和2年）5月 - 中大路氏道が社長に就任。\n1936年（昭和11年）1月 - 村田三郎が社長に就任。\n1951年（昭和26年）11月28日 - 流山電気鉄道に社名変更。\n1962年（昭和37年）11月 - タクシー事業を開始。\n1967年（昭和42年）6月20日 - 流山電鉄に社名変更。\n1968年（昭和43年）7月 - タクシーの整備工場を使用して自動車整備業を開始（後に廃業）。\n1971年（昭和46年）1月20日 - 総武流山電鉄に社名変更。\n1974年（昭和49年）10月 - 不動産業を開始。\n1977年（昭和52年） - 国鉄常磐線の松戸駅前に流鉄松戸ビルを竣工。\n2004年（平成16年）9月20日 - タクシー事業（流鉄タクシー）を廃止。タクシーの従業員は新登交通へ移る。\n2008年（平成20年）8月1日 - 流鉄に社名変更、同時に路線名を流山線に変更。\n2013年（平成25年）3月21日 - 公式ウェブサイトを開設。\n\n\n== 路線 ==\n詳細は以下の項目を参照。\n\n 流山線 : 馬橋駅 - 流山駅間 5.7km\n\n\n== 車両 ==\n\n\n== 脚注 ==\n\n\n=== 注釈 ===\n\n\n=== 出典 ===\n\n\n== 参考文献 ==\n曽根悟（監修） 著、朝日新聞出版分冊百科編集部（編集） 編『週刊 歴史でめぐる鉄道全路線 公営鉄道・私鉄』 21号 関東鉄道・真岡鐵道・首都圏新都市鉄道・流鉄、朝日新聞出版〈週刊朝日百科〉、2011年8月7日。 \n\n\n== 関連文献 ==\n青木栄一「日本鉄道土浦線と流山」『鉄道忌避伝説の謎 - 汽車が来た町、来なかった町』（吉川弘文館、2006年11月、ISBN 978-4642056229）\n山本鉱太郎『新編・川蒸気通運丸物語 - 利根の外輪快速船（新書）』（崙書房、2005年2月、ISBN 978-4845511075）\n『散歩の達人』（2003年11月号 p27、交通新聞社）\n山本鉱太郎『江戸川図志』（崙書房、2001年6月、ISBN 978-4845510801）\n山下耕一「常磐線の流山通過案と流山鉄道敷設について - 線形からの一考察」『流山市史研究』第16号（流山市立博物館 編、2000年3月、流山市教育委員会 発行、流山市立図書館 蔵）\n『流山糧秣廠』（流山市立博物館調査研究報告書13、流山市立博物館 発行、1996年、流山市立博物館 販売/蔵、流山市立図書館 蔵）\n白土貞夫「総武流山電鉄」『ちばの鉄道一世紀』（崙書房、1996年、ISBN 4-8455-1027-8）\n山本文男『流山電鉄七十八年 ぬくもりの香る町と人の物語』（流山新聞社、1994年）\n北野道彦、相原正義『新版利根運河 - 利根・江戸川を結ぶ船の道』（崙書房、1989年）\n総武流山電鉄七十年史編纂委員会 編『総武流山電鉄七十年史』（崙書房 製作、総武流山電鉄株式会社 発行、1986年）\n小林茂多『幻の鉄道 - 千葉県鉄道計画史（ふるさと文庫）』（崙書房、1984年）\n野口冬人「総武流山電鉄」『ローカル私鉄の旅』（刊々堂出版社 発行、星雲社 発売、1980年12月25日 新装1刷発行）\n山本鉱太郎『川蒸気通運丸物語 - 明治・大正を生き抜いた利根の快速船（ふるさと文庫）』（崙書房、1980年11月）\n北野道彦『「町民鉄道」の60年 - 総武流山電鉄の話』（崙書房、1978年）\n吉川文夫：文、廣田尚敬：写真「総武流山電鉄」『カラー 日本の私鉄1 ローカル編』（山と溪谷社、1976年）\n流山市立博物館友の会 編『東葛流山研究』（崙書房、流山市立図書館 蔵）\n\n\n== 関連項目 ==\n陸軍糧秣本廠流山出張所\n筑波高速度電気鉄道\n流山市立博物館\n房総の魅力500選\n万上味醂\n野田人車鉄道\n\n\n== 外部リンク ==\n\n公式ウェブサイト\n流鉄 - 千葉県公式観光サイト ちば観光ナビ\n流鉄について - 流山市",
+    "字数": 2654
+   },
+   "中文": {
+    "词条标题": "流鐵",
+    "链接": "https://zh.wikipedia.org/wiki/%E6%B5%81%E9%90%B5",
+    "首段": "流鐵股份有限公司（日語：流鉄／りゅうてつ，羅馬化：Ryūtetsu），簡稱流鐵，是專營日本千葉縣的流山線的鐵路有限公司。公司所在地為千葉縣流山市流山一丁目264，與流山線的終點站流山站相鄰。\n業務以鐵路運輸為主。以前曾有貨運業務，但已停辦。此外僅有鐵路沿線小規模的不動產業務。營運的路線只有5.7公里長，但業務受到2005年開業的筑波快線影響，持續出現赤字。公司利用房地產業務彌補鐵路虧損以穩定盈利。",
+    "章节": {
+     "概要": "原名總武流山電鐵（総武流山電鉄），於2008年8月1日改名為流鐵，所營運的總武流山線也更名為流山線。「流鐵」原本僅是簡稱，用於松戶站前的建築物（流鐵松戶大樓）及出租車業務，並非用於指稱鐵路路線。\n流铁是小型的鐵路公司，成立以來持續保持獨立，並未成為任何鐵路公司的子公司，也沒有其他重要副業，甚至也不是日本民營鐵道協會的會員。\n流铁最初是由沿線企業和居民興辦的「市民鐵路」，流山市也有出資。後來由原平和相互銀行的總武都市開發公司接管業務，也就是原公司名稱「總武流山電鐵」中「總武」的由來。由於流山市的出資比例甚低，流铁不被認為屬於第三部門鐵道。總武都市開發破產解散後，代表董事仍由原平和相互銀行的所有者小宮山家族派出，大部分股份仍屬小宮山家族控制的公司持有。\n截至2015年，本路尚未開通電子交通票券（如PASMO和Suica），後續也未見導入計畫。",
+     "路線列表": "",
+     "參考": "青木栄一「日本鉄道土浦線と流山」『鉄道忌避伝説の謎 - 汽車が来た町、来なかった町』吉川弘文館、2006年11月、ISBN 978-4642056229",
+     "外部連結": ""
+    },
+    "全文": "流鐵股份有限公司（日語：流鉄／りゅうてつ，羅馬化：Ryūtetsu），簡稱流鐵，是專營日本千葉縣的流山線的鐵路有限公司。公司所在地為千葉縣流山市流山一丁目264，與流山線的終點站流山站相鄰。\n業務以鐵路運輸為主。以前曾有貨運業務，但已停辦。此外僅有鐵路沿線小規模的不動產業務。營運的路線只有5.7公里長，但業務受到2005年開業的筑波快線影響，持續出現赤字。公司利用房地產業務彌補鐵路虧損以穩定盈利。\n\n\n== 概要 ==\n原名總武流山電鐵（総武流山電鉄），於2008年8月1日改名為流鐵，所營運的總武流山線也更名為流山線。「流鐵」原本僅是簡稱，用於松戶站前的建築物（流鐵松戶大樓）及出租車業務，並非用於指稱鐵路路線。\n流铁是小型的鐵路公司，成立以來持續保持獨立，並未成為任何鐵路公司的子公司，也沒有其他重要副業，甚至也不是日本民營鐵道協會的會員。\n流铁最初是由沿線企業和居民興辦的「市民鐵路」，流山市也有出資。後來由原平和相互銀行的總武都市開發公司接管業務，也就是原公司名稱「總武流山電鐵」中「總武」的由來。由於流山市的出資比例甚低，流铁不被認為屬於第三部門鐵道。總武都市開發破產解散後，代表董事仍由原平和相互銀行的所有者小宮山家族派出，大部分股份仍屬小宮山家族控制的公司持有。\n截至2015年，本路尚未開通電子交通票券（如PASMO和Suica），後續也未見導入計畫。\n\n\n== 路線列表 ==\n\n\n== 參考 ==\n青木栄一「日本鉄道土浦線と流山」『鉄道忌避伝説の謎 - 汽車が来た町、来なかった町』吉川弘文館、2006年11月、ISBN 978-4642056229\n\n\n== 外部連結 ==",
+    "字数": 700
+   },
+   "英文": {
+    "词条标题": "Nagareyama Line",
+    "链接": "https://en.wikipedia.org/wiki/Nagareyama%20Line",
+    "首段": "The Nagareyama Line (Japanese: 流山線, Hepburn: Nagareyama-sen) is a commuter rail line in  Chiba Prefecture, Japan, operated by Ryutetsu (流鉄株式会社, Ryūtetsu kabushiki-kaisha) between Mabashi Station in Matsudo and Nagareyama Station in Nagareyama. The line and the operator company was called the Sōbu Nagareyama Line (総武流山線, Sōbu Nagareyama-sen) and Sōbu Nagareyama Electric Railway (総武流山電鉄, Sōbu Nagareyama Dentetsu) respectively until the renaming on August 1, 2008. The present line name was the most popular short name of the line. It was also called Ryūden (流電).\nThis is the only line Ryūtetsu operates, making the company unique for being an independent railway operator with just a single 5.7 km line and no major subsidiary businesses (unlike Yamaman, or The Oriental Land Company and their Disney Resort Line). The short line functions as a link between the centre of the city of Nagareyama and the East Japan Railway Company (JR East) Jōban Line. However, after the opening of the Tsukuba Express on August 24, 2005, ridership fell sharply. Suica and PASMO contactless smart cards cannot be used, and Ryūtetsu reportedly has no plans to introduce the system on the line.",
+    "章节": {
+     "Basic data": "Double-tracking: None\nRailway signalling: Automatic Train Stop\nPassing loop: Kogane-Jōshi Station",
+     "Rolling stock": "",
+     "Current": "5000 series (former Seibu New 101 series) 2-car EMU x five trainsets",
+     "Future": "On July 9, 2025, Ryutetsu announced that they had purchased four 211-6000 series 2-car trainsets from JR Central. The trains will be refurbished before entering service to replace the current 5000 series trains.",
+     "Stations": "All stations are in Chiba Prefecture.",
+     "History": "The company was incorporated on November 7, 1913 as Nagareyama Light Railway (流山軽便鉄道, Nagareyama Keiben Tetsudō) and opened a 762 mm (2 ft 6 in) gauge railway on March 14, 1916. The company renamed Nagareyama Railway (流山鉄道, Nagareyama Tetsudō) in November 1922 and rebuilt the railway track to 1,067 mm (3 ft 6 in) gauge in 1924.\nThe company name was again changed to Nagareyama Electric Railway (Nagareyama Denki Tetsudō) in 1949, to Nagareyama Electric Railway (Nagareyama Dentetsu) in 1967, to Sōbu Nagareyama Electric Railway in 1971 and to Ryūtetsu in 2008.",
+     "References": "This article incorporates material from the corresponding article in the Japanese Wikipedia.",
+     "External links": "Official website (in Japanese)"
+    },
+    "全文": "The Nagareyama Line (Japanese: 流山線, Hepburn: Nagareyama-sen) is a commuter rail line in  Chiba Prefecture, Japan, operated by Ryutetsu (流鉄株式会社, Ryūtetsu kabushiki-kaisha) between Mabashi Station in Matsudo and Nagareyama Station in Nagareyama. The line and the operator company was called the Sōbu Nagareyama Line (総武流山線, Sōbu Nagareyama-sen) and Sōbu Nagareyama Electric Railway (総武流山電鉄, Sōbu Nagareyama Dentetsu) respectively until the renaming on August 1, 2008. The present line name was the most popular short name of the line. It was also called Ryūden (流電).\nThis is the only line Ryūtetsu operates, making the company unique for being an independent railway operator with just a single 5.7 km line and no major subsidiary businesses (unlike Yamaman, or The Oriental Land Company and their Disney Resort Line). The short line functions as a link between the centre of the city of Nagareyama and the East Japan Railway Company (JR East) Jōban Line. However, after the opening of the Tsukuba Express on August 24, 2005, ridership fell sharply. Suica and PASMO contactless smart cards cannot be used, and Ryūtetsu reportedly has no plans to introduce the system on the line.\n\n\n== Basic data ==\nDouble-tracking: None\nRailway signalling: Automatic Train Stop\nPassing loop: Kogane-Jōshi Station\n\n\n== Rolling stock ==\n\n\n=== Current ===\n5000 series (former Seibu New 101 series) 2-car EMU x five trainsets\n\n\n=== Future ===\nOn July 9, 2025, Ryutetsu announced that they had purchased four 211-6000 series 2-car trainsets from JR Central. The trains will be refurbished before entering service to replace the current 5000 series trains.\n\n\n== Stations ==\nAll stations are in Chiba Prefecture.\n\n\n== History ==\nThe company was incorporated on November 7, 1913 as Nagareyama Light Railway (流山軽便鉄道, Nagareyama Keiben Tetsudō) and opened a 762 mm (2 ft 6 in) gauge railway on March 14, 1916. The company renamed Nagareyama Railway (流山鉄道, Nagareyama Tetsudō) in November 1922 and rebuilt the railway track to 1,067 mm (3 ft 6 in) gauge in 1924.\nThe company name was again changed to Nagareyama Electric Railway (Nagareyama Denki Tetsudō) in 1949, to Nagareyama Electric Railway (Nagareyama Dentetsu) in 1967, to Sōbu Nagareyama Electric Railway in 1971 and to Ryūtetsu in 2008.\n\n\n== References ==\nThis article incorporates material from the corresponding article in the Japanese Wikipedia.\n\n\n== External links ==\nOfficial website (in Japanese)",
+    "字数": 2432
+   }
+  }
+ }
+}

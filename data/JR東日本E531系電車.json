@@ -10,9 +10,11 @@
   },
   "标识": {
    "图标文件": [
+    "02_east/joban-line__e531ks.png",
     "02_east/joban-line__e531s.png"
    ],
    "图标token": [
+    "e531ks",
     "e531s"
    ],
    "网站键": {

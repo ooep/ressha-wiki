@@ -10,9 +10,11 @@
   },
   "标识": {
    "图标文件": [
+    "01_hokkaido/soya-hanasaki-line__h54.png",
     "01_hokkaido/soya-hanasaki-line__h54n.png"
    ],
    "图标token": [
+    "h54",
     "h54n"
    ],
    "网站键": {

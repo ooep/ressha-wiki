@@ -12,10 +12,12 @@
    "图标文件": [
     "02_east/chuo-sobu-line__e235so.png",
     "02_east/yamanote-line__e235ya.png",
-    "02_east/yokosuka-line__e235sk.png"
+    "02_east/yokosuka-line__e235sk.png",
+    "02_east/yokosuka-line__e235skk.png"
    ],
    "图标token": [
     "e235sk",
+    "e235skk",
     "e235so",
     "e235ya"
    ],

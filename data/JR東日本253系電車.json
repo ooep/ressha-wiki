@@ -10,14 +10,24 @@
   },
   "标识": {
    "图标文件": [
-    "02_east/untitled__e253nk.png"
+    "02_east/n-ex-boso-exp__e253-1.png",
+    "02_east/n-ex-boso-exp__e253.png",
+    "02_east/untitled__e253nk.png",
+    "02_east/untitled__e253nkb.png"
    ],
    "图标token": [
-    "e253nk"
+    "e253",
+    "e253-1",
+    "e253nk",
+    "e253nkb"
    ],
    "网站键": {
     "特急": [
-     "きぬがわ"
+     "きぬがわ",
+     "さざなみ",
+     "しおさい",
+     "わかしお",
+     "成田エクスプレス"
     ],
     "线路": [
      "jr日光線",

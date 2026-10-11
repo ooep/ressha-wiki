@@ -16,10 +16,15 @@
   "标识": {
    "图标文件": [
     "01_hokkaido/hokkaido-area__h40y.png",
+    "01_hokkaido/hokkaido-area__h40y1.png",
     "04_west/kibi-line__w40mmtr.png",
     "04_west/sakai-line__w40ktro11.png",
+    "04_west/sakai-line__w40ktro12.png",
     "04_west/takaoka-area__w40tk1b.png",
+    "04_west/takaoka-area__w40tk1g.png",
+    "04_west/tsuyama-line__w40ty.png",
     "04_west/tsuyama-line__w40ty1.png",
+    "04_west/west-japan-area__w40in.png",
     "04_west/west-japan-area__w40or.png",
     "06_kyushu/nagasaki-line__k40km.png",
     "09_keisei/kominato-rail__kmnt40.png",
@@ -28,14 +33,19 @@
    ],
    "图标token": [
     "h40y",
+    "h40y1",
     "isab40yb",
     "k40km",
     "kmnt40",
     "tugr35",
+    "w40in",
     "w40ktro11",
+    "w40ktro12",
     "w40mmtr",
     "w40or",
     "w40tk1b",
+    "w40tk1g",
+    "w40ty",
     "w40ty1"
    ],
    "网站键": {

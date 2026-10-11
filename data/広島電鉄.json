@@ -10,10 +10,12 @@
   },
   "标识": {
    "图标文件": [
-    "26_sanyosanin/hiroshima-tram__hrdn76.png"
+    "26_sanyosanin/hiroshima-tram__hrdn76.png",
+    "26_sanyosanin/hiroshima-tram__hrdn77.png"
    ],
    "图标token": [
-    "hrdn76"
+    "hrdn76",
+    "hrdn77"
    ],
    "网站键": {
     "特急": [],

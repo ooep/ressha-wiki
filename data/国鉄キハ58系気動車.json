@@ -5,19 +5,23 @@
    "中文": "日本國鐵KiHa 58系柴聯車",
    "英文": null,
    "运营者": [
+    "JR四国",
     "JR東日本"
    ]
   },
   "标识": {
    "图标文件": [
-    "02_east/yonesaka-line__e58yo15.png"
+    "02_east/yonesaka-line__e58yo15.png",
+    "05_shikoku/shikoku-area__s58.png"
    ],
    "图标token": [
-    "e58yo15"
+    "e58yo15",
+    "s58"
    ],
    "网站键": {
     "特急": [],
     "线路": [
+     "牟岐線",
      "磐越西線",
      "米坂線"
     ]

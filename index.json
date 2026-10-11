@@ -1,10 +1,10 @@
 {
  "统计": {
-  "车辆总数": 370,
-  "有日文词条": 370,
-  "有中文词条": 272,
-  "有英文词条": 248,
-  "三语齐全": 219
+  "车辆总数": 636,
+  "有日文词条": 634,
+  "有中文词条": 439,
+  "有英文词条": 407,
+  "三语齐全": 351
  },
  "车辆": [
   {
@@ -210,17 +210,33 @@
    "中文": "新幹線700系電聯車",
    "英文": "700 Series Shinkansen",
    "运营者": [
-    "JR新幹線"
+    "JR新幹線",
+    "阪神"
    ],
    "图标文件": [
+    "00_shinkansen/n700s-a-700__c700n.png",
+    "00_shinkansen/rail-star-500-n700__w700.png",
     "00_shinkansen/rail-star-500-n700__w700nm.png",
-    "00_shinkansen/sanyo-shinkansen__w700b.png"
+    "00_shinkansen/sanyo-shinkansen__w700b.png",
+    "00_shinkansen/sanyo-shinkansen__w700m.png",
+    "00_shinkansen/sanyo-shinkansen__w700pi.png",
+    "00_shinkansen/sanyo-shinkansen__w700ye.png",
+    "22_hanshin/sanyo-rail__snyo700.png"
    ],
    "图标token": [
+    "c700n",
+    "snyo700",
+    "w700",
     "w700b",
-    "w700nm"
+    "w700m",
+    "w700nm",
+    "w700pi",
+    "w700ye"
    ],
    "特急": [
+    "こだま",
+    "のぞみ",
+    "ひかり",
     "山陽電鉄特急",
     "直通特急"
    ],
@@ -241,10 +257,12 @@
     "JR新幹線"
    ],
    "图标文件": [
-    "00_shinkansen/sakura-n700-800__k800.png"
+    "00_shinkansen/sakura-n700-800__k800.png",
+    "00_shinkansen/sakura-n700-800__k800n.png"
    ],
    "图标token": [
-    "k800"
+    "k800",
+    "k800n"
    ],
    "特急": [
     "さくら",
@@ -325,15 +343,31 @@
    "中文": "日本國鐵KiHa 183系柴聯車",
    "英文": "KiHa 183 series",
    "运营者": [
+    "JR九州",
     "JR北海道"
    ],
    "图标文件": [
-    "01_hokkaido/asahiyama-zoo__h183askw.png"
+    "01_hokkaido/asahiyama-zoo__h183askg.png",
+    "01_hokkaido/asahiyama-zoo__h183askw.png",
+    "06_kyushu/midori-asoboi__k183asb.png",
+    "06_kyushu/yufuinnomori-yufu-dx__k183jyf.png",
+    "06_kyushu/yufuinnomori-yufu-dx__k183jyfy.png",
+    "06_kyushu/yufuinnomori-yufu-dx__k183jym2.png"
    ],
    "图标token": [
-    "h183askw"
+    "h183askg",
+    "h183askw",
+    "k183asb",
+    "k183jyf",
+    "k183jyfy",
+    "k183jym2"
    ],
-   "特急": [],
+   "特急": [
+    "あそ",
+    "みどり",
+    "ゆふ",
+    "九州横断特急"
+   ],
    "线路": [
     "京王動物園線",
     "動物園線"
@@ -351,14 +385,20 @@
     "JR北海道"
    ],
    "图标文件": [
-    "01_hokkaido/hakodate-area__h733v.png"
+    "01_hokkaido/hakodate-area__h733v.png",
+    "01_hokkaido/hakodate-line__h733.png"
    ],
    "图标token": [
+    "h733",
     "h733v"
    ],
    "特急": [],
    "线路": [
-    "日暮里・舎人ライナー"
+    "函館",
+    "函館本線",
+    "千歳線",
+    "日暮里・舎人ライナー",
+    "札沼線"
    ],
    "有日文": true,
    "有中文": false,
@@ -407,10 +447,15 @@
    ],
    "图标文件": [
     "01_hokkaido/hokkaido-area__h40y.png",
+    "01_hokkaido/hokkaido-area__h40y1.png",
     "04_west/kibi-line__w40mmtr.png",
     "04_west/sakai-line__w40ktro11.png",
+    "04_west/sakai-line__w40ktro12.png",
     "04_west/takaoka-area__w40tk1b.png",
+    "04_west/takaoka-area__w40tk1g.png",
+    "04_west/tsuyama-line__w40ty.png",
     "04_west/tsuyama-line__w40ty1.png",
+    "04_west/west-japan-area__w40in.png",
     "04_west/west-japan-area__w40or.png",
     "06_kyushu/nagasaki-line__k40km.png",
     "09_keisei/kominato-rail__kmnt40.png",
@@ -419,14 +464,19 @@
    ],
    "图标token": [
     "h40y",
+    "h40y1",
     "isab40yb",
     "k40km",
     "kmnt40",
     "tugr35",
+    "w40in",
     "w40ktro11",
+    "w40ktro12",
     "w40mmtr",
     "w40or",
     "w40tk1b",
+    "w40tk1g",
+    "w40ty",
     "w40ty1"
    ],
    "特急": [],
@@ -464,10 +514,26 @@
     "JR北海道"
    ],
    "图标文件": [
-    "01_hokkaido/hokuto__h281b.png"
+    "01_hokkaido/hokuto-kamui__h281psnsn.png",
+    "01_hokkaido/hokuto__h281.png",
+    "01_hokkaido/hokuto__h281b.png",
+    "01_hokkaido/hokuto__h281h.png",
+    "01_hokkaido/hokuto__h281kh.png",
+    "01_hokkaido/hokuto__h281p.png",
+    "01_hokkaido/hokuto__h281pb.png",
+    "01_hokkaido/hokuto__h281pn.png",
+    "01_hokkaido/hokuto__h281ps.png"
    ],
    "图标token": [
-    "h281b"
+    "h281",
+    "h281b",
+    "h281h",
+    "h281kh",
+    "h281p",
+    "h281pb",
+    "h281pn",
+    "h281ps",
+    "h281psnsn"
    ],
    "特急": [
     "スーパー北斗",
@@ -511,14 +577,21 @@
     "JR北海道"
    ],
    "图标文件": [
+    "01_hokkaido/hokuto-kamui__h789g1.png",
+    "01_hokkaido/lilac-kamui-789-785__h789-1.png",
     "01_hokkaido/lilac-kamui-789-785__h789l.png"
    ],
    "图标token": [
+    "h789-1",
+    "h789g1",
     "h789l"
    ],
    "特急": [
     "エアポート",
-    "カムイ"
+    "カムイ",
+    "スーパー北斗",
+    "北斗",
+    "能登かがり火"
    ],
    "线路": [],
    "有日文": true,
@@ -556,10 +629,14 @@
     "JR北海道"
    ],
    "图标文件": [
-    "01_hokkaido/ozora-tokachi__h283h.png"
+    "01_hokkaido/ozora-tokachi__h283.png",
+    "01_hokkaido/ozora-tokachi__h283h.png",
+    "01_hokkaido/ozora-tokachi__h283p.png"
    ],
    "图标token": [
-    "h283h"
+    "h283",
+    "h283h",
+    "h283p"
    ],
    "特急": [
     "おおぞら",
@@ -579,9 +656,11 @@
     "JR北海道"
    ],
    "图标文件": [
+    "01_hokkaido/soya-hanasaki-line__h54.png",
     "01_hokkaido/soya-hanasaki-line__h54n.png"
    ],
    "图标token": [
+    "h54",
     "h54n"
    ],
    "特急": [],
@@ -602,12 +681,19 @@
     "JR北海道"
    ],
    "图标文件": [
-    "01_hokkaido/tokachi-soya__h261w.png"
+    "01_hokkaido/ozora-tokachi__h261t.png",
+    "01_hokkaido/tokachi-soya__h261.png",
+    "01_hokkaido/tokachi-soya__h261w.png",
+    "01_hokkaido/tokachi-soya__h261wl.png"
    ],
    "图标token": [
-    "h261w"
+    "h261",
+    "h261t",
+    "h261w",
+    "h261wl"
    ],
    "特急": [
+    "おおぞら",
     "とかち",
     "オホーツク",
     "サロベツ",
@@ -631,14 +717,22 @@
    ],
    "图标文件": [
     "02_east/akita-area__e701ak4.png",
+    "02_east/akita-area__e701ak6.png",
+    "02_east/tazawako-line__e701ta1.png",
     "02_east/tazawako-line__e701tal.png",
+    "02_east/yamagata-line__e701ya.png",
     "28_tohoku_mi/aoimori-rail__aoim701ms.png",
+    "28_tohoku_mi/aoimori-rail__aoim701msl.png",
     "28_tohoku_mi/igr-rail__igr7000.png"
    ],
    "图标token": [
     "aoim701ms",
+    "aoim701msl",
     "e701ak4",
+    "e701ak6",
+    "e701ta1",
     "e701tal",
+    "e701ya",
     "igr7000"
    ],
    "特急": [],
@@ -648,6 +742,8 @@
     "北上線",
     "北銀河鉄道",
     "奥羽本線",
+    "山形",
+    "山形線",
     "田沢湖線",
     "青い森鉄道",
     "青い森鉄道線"
@@ -665,10 +761,12 @@
     "JR東日本"
    ],
    "图标文件": [
-    "02_east/azusa-kaiji__e353.png"
+    "02_east/azusa-kaiji__e353.png",
+    "02_east/azusa-kaiji__e353k.png"
    ],
    "图标token": [
-    "e353"
+    "e353",
+    "e353k"
    ],
    "特急": [
     "あずさ",
@@ -715,6 +813,7 @@
     "02_east/boso-area__e131bo.png",
     "02_east/nagano-area__e131na.png",
     "02_east/nikko-line__e131nk.png",
+    "02_east/nikko-line__e131nkp.png",
     "02_east/sagami-line__e131sg.png",
     "02_east/senseki-line__e131se.png",
     "02_east/tsurumi-line__e131tr.png"
@@ -723,6 +822,7 @@
     "e131bo",
     "e131na",
     "e131nk",
+    "e131nkp",
     "e131se",
     "e131sg",
     "e131tr"
@@ -761,17 +861,77 @@
    ],
    "图标文件": [
     "02_east/chuo-line__e115su0.png",
+    "02_east/nagano-area__e115coca.png",
+    "02_east/nagano-area__e115na.png",
+    "02_east/nagano-area__e115na01.png",
+    "02_east/nagano-area__e115na1.png",
+    "02_east/nagano-area__e115na1n.png",
     "04_west/fukuchiyama-area__w115s65kg.png",
+    "04_west/fukuchiyama-area__w115s65pkg.png",
     "04_west/okayama-area__w115n3y.png",
-    "04_west/yamaguchi-area__w115hy15.png"
+    "04_west/okayama-area__w115y16.png",
+    "04_west/sanyo-area__w115hi.png",
+    "04_west/sanyo-area__w115hid.png",
+    "04_west/sanyo-area__w115hit.png",
+    "04_west/sanyo-area__w115hitc.png",
+    "04_west/sanyo-area__w115hiu.png",
+    "04_west/sanyo-area__w115hiud.png",
+    "04_west/sanyo-line__w115hi15.png",
+    "04_west/sanyo-line__w115hi15p.png",
+    "04_west/sanyo-line__w115hi4.png",
+    "04_west/sanyo-line__w115hi5.png",
+    "04_west/sanyo-line__w115hi5c.png",
+    "04_west/sanyo-line__w115hi5t.png",
+    "04_west/sanyo-line__w115n.png",
+    "04_west/sanyo-line__w115nc.png",
+    "04_west/sanyo-line__w115ppqq.png",
+    "04_west/sanyo-line__w115s65k.png",
+    "04_west/sanyo-line__w115s65kp.png",
+    "04_west/sanyo-line__w115s65t.png",
+    "04_west/sanyo-line__w115s65tw.png",
+    "04_west/sanyo-line__w115sett.png",
+    "04_west/yamaguchi-area__w115hy15.png",
+    "04_west/yamaguchi-area__w115hy15p.png"
    ],
    "图标token": [
+    "e115coca",
+    "e115na",
+    "e115na01",
+    "e115na1",
+    "e115na1n",
     "e115su0",
+    "w115hi",
+    "w115hi15",
+    "w115hi15p",
+    "w115hi4",
+    "w115hi5",
+    "w115hi5c",
+    "w115hi5t",
+    "w115hid",
+    "w115hit",
+    "w115hitc",
+    "w115hiu",
+    "w115hiud",
     "w115hy15",
+    "w115hy15p",
+    "w115n",
     "w115n3y",
-    "w115s65kg"
+    "w115nc",
+    "w115ppqq",
+    "w115s65k",
+    "w115s65kg",
+    "w115s65kp",
+    "w115s65pkg",
+    "w115s65t",
+    "w115s65tw",
+    "w115sett",
+    "w115y16"
    ],
-   "特急": [],
+   "特急": [
+    "山陽電鉄特急",
+    "直通特急",
+    "長野電鉄特急"
+   ],
    "线路": [
     "下関",
     "伯備線",
@@ -792,36 +952,56 @@
     "JR東日本"
    ],
    "图标文件": [
+    "02_east/boso-area__e233bo.png",
+    "02_east/boso-area__e233bo1.png",
+    "02_east/boso-area__e233bok.png",
     "02_east/chuo-line__e233kor.png",
+    "02_east/chuo-line__e233or.png",
     "02_east/keiyo-line__e233ky.png",
+    "02_east/keiyo-line__e233kyk.png",
     "02_east/nanbu-line__e233na.png",
+    "02_east/nanbu-line__e233na1.png",
     "02_east/saikyo-line__e233sk.png",
     "02_east/yokohama-line__e233yo.png"
    ],
    "图标token": [
+    "e233bo",
+    "e233bo1",
+    "e233bok",
     "e233kor",
     "e233ky",
+    "e233kyk",
     "e233na",
+    "e233na1",
+    "e233or",
     "e233sk",
     "e233yo"
    ],
-   "特急": [],
+   "特急": [
+    "さざなみ",
+    "しおさい",
+    "わかしお"
+   ],
    "线路": [
     "中央本線",
     "中央線",
     "五日市線",
     "京葉線",
+    "内房線",
     "南武支線",
     "南武線",
+    "外房線",
     "大月線",
     "川越線",
     "東急新横浜線",
+    "東金線",
     "横浜",
     "横浜市営地下鉄1号線",
     "横浜市営地下鉄3号線",
     "横浜市営地下鉄4号線",
     "横浜線",
-    "青梅線"
+    "青梅線",
+    "鹿島線"
    ],
    "有日文": true,
    "有中文": true,
@@ -838,10 +1018,12 @@
    "图标文件": [
     "02_east/chuo-sobu-line__e235so.png",
     "02_east/yamanote-line__e235ya.png",
-    "02_east/yokosuka-line__e235sk.png"
+    "02_east/yokosuka-line__e235sk.png",
+    "02_east/yokosuka-line__e235skk.png"
    ],
    "图标token": [
     "e235sk",
+    "e235skk",
     "e235so",
     "e235ya"
    ],
@@ -867,18 +1049,54 @@
     "JR東日本"
    ],
    "图标文件": [
+    "02_east/azusa-kaiji__e257-2.png",
+    "02_east/azusa-kaiji__e257.png",
+    "02_east/azusa-kaiji__e257k.png",
+    "02_east/azusa-kaiji__e257k2.png",
+    "02_east/azusa-kaiji__e257kk.png",
+    "02_east/azusa-kaiji__e257s.png",
+    "02_east/azusa-kaiji__e257sk.png",
+    "02_east/fuji-excursion__e257s5g.png",
     "02_east/fuji-excursion__e257s5r.png",
-    "02_east/kusatsu-shima__e257-55.png"
+    "02_east/kusatsu-shima__e257-55.png",
+    "02_east/n-ex-boso-exp__e257-5.png",
+    "02_east/n-ex-boso-exp__e257s5.png",
+    "02_east/odoriko__e257od.png",
+    "02_east/odoriko__e257od25.png",
+    "02_east/odoriko__e257odk.png"
    ],
    "图标token": [
+    "e257",
+    "e257-2",
+    "e257-5",
     "e257-55",
-    "e257s5r"
+    "e257k",
+    "e257k2",
+    "e257kk",
+    "e257od",
+    "e257od25",
+    "e257odk",
+    "e257s",
+    "e257s5",
+    "e257s5g",
+    "e257s5r",
+    "e257sk"
    ],
    "特急": [
     "あかぎ",
-    "草津"
+    "あずさ",
+    "かいじ",
+    "さざなみ",
+    "しおさい",
+    "はちおうじ",
+    "わかしお",
+    "成田エクスプレス",
+    "湘南",
+    "草津",
+    "踊り子"
    ],
    "线路": [
+    "伊東線",
     "富士",
     "草津線"
    ],
@@ -918,10 +1136,22 @@
     "JR東日本"
    ],
    "图标文件": [
-    "02_east/hitachi-tokiwa__e657.png"
+    "02_east/hitachi-tokiwa__e657.png",
+    "02_east/hitachi-tokiwa__e657b.png",
+    "02_east/hitachi-tokiwa__e657g.png",
+    "02_east/hitachi-tokiwa__e657o.png",
+    "02_east/hitachi-tokiwa__e657r.png",
+    "02_east/hitachi-tokiwa__e657w.png",
+    "02_east/hitachi-tokiwa__e657y.png"
    ],
    "图标token": [
-    "e657"
+    "e657",
+    "e657b",
+    "e657g",
+    "e657o",
+    "e657r",
+    "e657w",
+    "e657y"
    ],
    "特急": [
     "ときわ",
@@ -941,10 +1171,24 @@
     "JR東日本"
    ],
    "图标文件": [
-    "02_east/inaho__e653ihp.png"
+    "02_east/inaho-shirayuki__e653ni.png",
+    "02_east/inaho-shirayuki__e653nu.png",
+    "02_east/inaho-shirayuki__e653nu1.png",
+    "02_east/inaho-shirayuki__e653nu2.png",
+    "02_east/inaho__e653ihb.png",
+    "02_east/inaho__e653ihp.png",
+    "02_east/inaho__e653jb.png",
+    "02_east/inaho__e653or1.png"
    ],
    "图标token": [
-    "e653ihp"
+    "e653ihb",
+    "e653ihp",
+    "e653jb",
+    "e653ni",
+    "e653nu",
+    "e653nu1",
+    "e653nu2",
+    "e653or1"
    ],
    "特急": [
     "いなほ",
@@ -961,24 +1205,42 @@
    "中文": "JR東日本E231系電力動車組",
    "英文": "E231 series",
    "运营者": [
+    "JR新幹線",
     "JR東日本"
    ],
    "图标文件": [
+    "00_shinkansen/asama-e2-0__e2k.png",
+    "00_shinkansen/yamabiko-e2-1__e2pik.png",
+    "02_east/chuo-sobu-line__e231so5l.png",
     "02_east/joban-line__e231jyl.png",
+    "02_east/joban-line__e231jylk.png",
     "02_east/kawagoe-line__e231ha.png",
+    "02_east/kawagoe-line__e231hk1.png",
+    "02_east/musashino-line__e231mu.png",
     "02_east/musashino-line__e231mul.png"
    ],
    "图标token": [
     "e231ha",
+    "e231hk1",
     "e231jyl",
-    "e231mul"
+    "e231jylk",
+    "e231mu",
+    "e231mul",
+    "e231so5l",
+    "e2k",
+    "e2pik"
    ],
-   "特急": [],
+   "特急": [
+    "あさま",
+    "なすの",
+    "やまびこ"
+   ],
    "线路": [
     "八高線",
     "千代田線",
     "常磐線",
-    "武蔵野線"
+    "武蔵野線",
+    "総武本線"
    ],
    "有日文": true,
    "有中文": true,
@@ -993,9 +1255,11 @@
     "JR東日本"
    ],
    "图标文件": [
+    "02_east/joban-line__e531ks.png",
     "02_east/joban-line__e531s.png"
    ],
    "图标token": [
+    "e531ks",
     "e531s"
    ],
    "特急": [],
@@ -1094,24 +1358,37 @@
     "JR東日本"
    ],
    "图标文件": [
+    "02_east/koumi-line__e110.png",
     "02_east/morioka-area__e110mo.png",
+    "02_east/nagano-area__e110ak0.png",
+    "02_east/rikuu-aterazawa__e110at.png",
     "02_east/rikuu-aterazawa__e110oc.png",
+    "02_east/tadami-line__e110o1.png",
     "02_east/tadami-line__e110se.png"
    ],
    "图标token": [
+    "e110",
+    "e110ak0",
+    "e110at",
     "e110mo",
+    "e110o1",
     "e110oc",
     "e110se"
    ],
-   "特急": [],
+   "特急": [
+    "長野電鉄特急"
+   ],
    "线路": [
+    "信越本線",
     "只見線",
     "大船渡線",
+    "小海線",
     "左沢線",
     "盛岡",
     "花輪線",
     "陸羽東線",
-    "陸羽西線"
+    "陸羽西線",
+    "飯山線"
    ],
    "有日文": true,
    "有中文": true,
@@ -1126,16 +1403,25 @@
     "JR東日本"
    ],
    "图标文件": [
-    "02_east/n-ex-boso-exp__e259n.png"
+    "02_east/n-ex-boso-exp__e259-1.png",
+    "02_east/n-ex-boso-exp__e259.png",
+    "02_east/n-ex-boso-exp__e259n.png",
+    "02_east/n-ex-boso-exp__e259nk.png",
+    "02_east/odoriko__e259od.png"
    ],
    "图标token": [
-    "e259n"
+    "e259",
+    "e259-1",
+    "e259n",
+    "e259nk",
+    "e259od"
    ],
    "特急": [
     "さざなみ",
     "しおさい",
     "わかしお",
-    "成田エクスプレス"
+    "成田エクスプレス",
+    "踊り子"
    ],
    "线路": [
     "成田",
@@ -1156,10 +1442,14 @@
    ],
    "图标文件": [
     "02_east/nagano-area__e127mt.png",
+    "02_east/nagano-area__e127mtp.png",
+    "30_koshinetsu_mi/tokimeki-rail__toki127.png",
     "30_koshinetsu_mi/tokimeki-rail__toki127g.png"
    ],
    "图标token": [
     "e127mt",
+    "e127mtp",
+    "toki127",
     "toki127g"
    ],
    "特急": [
@@ -1184,14 +1474,41 @@
     "JR東日本"
    ],
    "图标文件": [
+    "02_east/boso-area__e211cb.png",
+    "02_east/boso-area__e211cg.png",
+    "02_east/boso-area__e211cr.png",
+    "02_east/boso-area__e211crp.png",
+    "02_east/boso-area__e211cy.png",
+    "02_east/nagano-area__e211na.png",
+    "02_east/nagano-area__e211na1.png",
+    "02_east/nagano-area__e211na1n.png",
+    "02_east/nagano-area__e211na2.png",
+    "02_east/nagano-area__e211na2n.png",
+    "02_east/nagano-area__e211na6.png",
     "02_east/nagano-area__e211su.png",
-    "02_east/takasaki-area__e211ry.png"
+    "02_east/takasaki-area__e211ry.png",
+    "02_east/takasaki-area__e211s1.png"
    ],
    "图标token": [
+    "e211cb",
+    "e211cg",
+    "e211cr",
+    "e211crp",
+    "e211cy",
+    "e211na",
+    "e211na1",
+    "e211na1n",
+    "e211na2",
+    "e211na2n",
+    "e211na6",
     "e211ry",
+    "e211s1",
     "e211su"
    ],
    "特急": [
+    "さざなみ",
+    "しおさい",
+    "わかしお",
     "長野電鉄特急"
    ],
    "线路": [
@@ -1268,6 +1585,7 @@
     "東北私鉄"
    ],
    "图标文件": [
+    "02_east/sendai-area__e721se.png",
     "02_east/sendai-area__e721se1.png",
     "02_east/yamagata-line__e723ya.png",
     "28_tohoku_mi/abukuma-exp__abk900b.png",
@@ -1275,6 +1593,7 @@
    ],
    "图标token": [
     "abk900b",
+    "e721se",
     "e721se1",
     "e723ya",
     "sat721"
@@ -1309,12 +1628,26 @@
     "JR東日本"
    ],
    "图标文件": [
+    "02_east/banetsu-line__e455ba.png",
+    "02_east/banetsu-line__e455ba2.png",
+    "02_east/banetsu-line__e455bab.png",
+    "02_east/banetsu-line__e455bal.png",
+    "02_east/banetsu-line__e455bal2.png",
+    "02_east/senzan-line__e455opg.png",
     "02_east/senzan-line__e455se.png"
    ],
    "图标token": [
+    "e455ba",
+    "e455ba2",
+    "e455bab",
+    "e455bal",
+    "e455bal2",
+    "e455opg",
     "e455se"
    ],
-   "特急": [],
+   "特急": [
+    "SLばんえつ物語"
+   ],
    "线路": [
     "仙山線"
    ],
@@ -1333,19 +1666,37 @@
    ],
    "图标文件": [
     "02_east/shinagawa-999__e103br.png",
-    "04_west/kakogawa-obama__w103kg.png"
+    "04_west/bantan-line__w103ba.png",
+    "04_west/kakogawa-obama__w103kg.png",
+    "04_west/kakogawa-obama__w103kgp.png",
+    "04_west/sanyo-area__w103hhi.png",
+    "04_west/sanyo-area__w103hi.png",
+    "04_west/sanyo-area__w103hi2.png",
+    "04_west/sanyo-area__w103hi3.png",
+    "04_west/sanyo-area__w103hy2.png"
    ],
    "图标token": [
     "e103br",
-    "w103kg"
+    "w103ba",
+    "w103hhi",
+    "w103hi",
+    "w103hi2",
+    "w103hi3",
+    "w103hy2",
+    "w103kg",
+    "w103kgp"
    ],
-   "特急": [],
+   "特急": [
+    "山陽電鉄特急",
+    "直通特急"
+   ],
    "线路": [
     "加古川",
     "加古川線",
     "古川",
     "品川",
-    "小浜線"
+    "小浜線",
+    "播但線"
    ],
    "有日文": true,
    "有中文": true,
@@ -1360,9 +1711,11 @@
     "JR東日本"
    ],
    "图标文件": [
+    "02_east/tokaido-line__e217ktd1.png",
     "02_east/tokaido-line__e217td1.png"
    ],
    "图标token": [
+    "e217ktd1",
     "e217td1"
    ],
    "特急": [],
@@ -1404,12 +1757,35 @@
     "JR東日本"
    ],
    "图标文件": [
-    "02_east/untitled__e165sm.png"
+    "02_east/banetsu-akakura__e165ak.png",
+    "02_east/nagano-area__e169-na1.png",
+    "02_east/nagano-area__e169km.png",
+    "02_east/nagano-area__e169km1.png",
+    "02_east/nagano-area__e169na.png",
+    "02_east/nagano-area__e169na1.png",
+    "02_east/nagano-area__e169na1d.png",
+    "02_east/nagano-area__e169na2.png",
+    "02_east/nagano-area__e169nad.png",
+    "02_east/untitled__e165sm.png",
+    "02_east/untitled__e165smd.png"
    ],
    "图标token": [
-    "e165sm"
+    "e165ak",
+    "e165sm",
+    "e165smd",
+    "e169-na1",
+    "e169km",
+    "e169km1",
+    "e169na",
+    "e169na1",
+    "e169na1d",
+    "e169na2",
+    "e169nad"
    ],
-   "特急": [],
+   "特急": [
+    "SLばんえつ物語",
+    "長野電鉄特急"
+   ],
    "线路": [
     "八王子線"
    ],
@@ -1426,13 +1802,23 @@
     "JR東日本"
    ],
    "图标文件": [
-    "02_east/untitled__e253nk.png"
+    "02_east/n-ex-boso-exp__e253-1.png",
+    "02_east/n-ex-boso-exp__e253.png",
+    "02_east/untitled__e253nk.png",
+    "02_east/untitled__e253nkb.png"
    ],
    "图标token": [
-    "e253nk"
+    "e253",
+    "e253-1",
+    "e253nk",
+    "e253nkb"
    ],
    "特急": [
-    "きぬがわ"
+    "きぬがわ",
+    "さざなみ",
+    "しおさい",
+    "わかしお",
+    "成田エクスプレス"
    ],
    "线路": [
     "jr日光線",
@@ -1471,16 +1857,20 @@
    "中文": "日本國鐵KiHa 58系柴聯車",
    "英文": null,
    "运营者": [
+    "JR四国",
     "JR東日本"
    ],
    "图标文件": [
-    "02_east/yonesaka-line__e58yo15.png"
+    "02_east/yonesaka-line__e58yo15.png",
+    "05_shikoku/shikoku-area__s58.png"
    ],
    "图标token": [
-    "e58yo15"
+    "e58yo15",
+    "s58"
    ],
    "特急": [],
    "线路": [
+    "牟岐線",
     "磐越西線",
     "米坂線"
    ],
@@ -1498,13 +1888,19 @@
     "関西私鉄"
    ],
    "图标文件": [
+    "03_tokai/hida-mie-hc85-35__c35.png",
     "03_tokai/hida-mie-hc85-35__c85h.png",
     "03_tokai/hida-nanki__c85.png",
+    "03_tokai/hida-nanki__c85na.png",
+    "03_tokai/hida-nanki__c85s.png",
     "32_kansai_mi/tango-rail-8500__ktr8500.png"
    ],
    "图标token": [
+    "c35",
     "c85",
     "c85h",
+    "c85na",
+    "c85s",
     "ktr8500"
    ],
    "特急": [
@@ -1531,10 +1927,20 @@
     "JR東海"
    ],
    "图标文件": [
-    "03_tokai/iida-line-119__c119b.png"
+    "03_tokai/iida-line-119__c119-1.png",
+    "03_tokai/iida-line-119__c119.png",
+    "03_tokai/iida-line-119__c119b.png",
+    "03_tokai/iida-line-119__c119c-1.png",
+    "03_tokai/iida-line-119__c119c.png",
+    "03_tokai/iida-line-119__c119p.png"
    ],
    "图标token": [
-    "c119b"
+    "c119",
+    "c119-1",
+    "c119b",
+    "c119c",
+    "c119c-1",
+    "c119p"
    ],
    "特急": [
     "伊那路"
@@ -1576,9 +1982,15 @@
     "JR東海"
    ],
    "图标文件": [
+    "03_tokai/shinano__c383.png",
+    "03_tokai/shinano__c383k-1.png",
+    "03_tokai/shinano__c383k.png",
     "03_tokai/shinano__c385.png"
    ],
    "图标token": [
+    "c383",
+    "c383k",
+    "c383k-1",
     "c385"
    ],
    "特急": [
@@ -1624,10 +2036,12 @@
     "JR東海"
    ],
    "图标文件": [
+    "03_tokai/tokai-area-jr__c25-1.png",
     "03_tokai/tokai-area-jr__c25.png"
    ],
    "图标token": [
-    "c25"
+    "c25",
+    "c25-1"
    ],
    "特急": [],
    "线路": [
@@ -1648,10 +2062,12 @@
     "JR東海"
    ],
    "图标文件": [
-    "03_tokai/tokai-area__c315.png"
+    "03_tokai/tokai-area__c315.png",
+    "03_tokai/tokai-area__c315k.png"
    ],
    "图标token": [
-    "c315"
+    "c315",
+    "c315k"
    ],
    "特急": [],
    "线路": [
@@ -1674,9 +2090,11 @@
     "JR東海"
    ],
    "图标文件": [
+    "03_tokai/tokai-area__c75os.png",
     "03_tokai/tokai-area__c75s.png"
    ],
    "图标token": [
+    "c75os",
     "c75s"
    ],
    "特急": [],
@@ -1715,15 +2133,24 @@
    "中文": "日本國鐵14系客車",
    "英文": null,
    "运营者": [
+    "JR北海道",
     "JR西日本"
    ],
    "图标文件": [
+    "01_hokkaido/hokutosei-rishiri__h14ok.png",
+    "01_hokkaido/hokutosei-rishiri__h14rs.png",
     "04_west/akatsuki-nihonkai__w14rgt.png"
    ],
    "图标token": [
+    "h14ok",
+    "h14rs",
     "w14rgt"
    ],
-   "特急": [],
+   "特急": [
+    "スーパー北斗",
+    "北斗",
+    "能登かがり火"
+   ],
    "线路": [
     "日本海ひすいライン"
    ],
@@ -1762,12 +2189,24 @@
     "JR西日本"
    ],
    "图标文件": [
-    "04_west/former-681__w681ft.png"
+    "04_west/former-681__w681ft.png",
+    "04_west/thunderbird__w681.png",
+    "04_west/thunderbird__w681k.png",
+    "04_west/thunderbird__w681n.png",
+    "04_west/thunderbird__w681p.png"
    ],
    "图标token": [
-    "w681ft"
+    "w681",
+    "w681ft",
+    "w681k",
+    "w681n",
+    "w681p"
    ],
-   "特急": [],
+   "特急": [
+    "らくラクはりま",
+    "らくラクびわこ",
+    "サンダーバード"
+   ],
    "线路": [
     "京都",
     "阪急京都線"
@@ -1786,15 +2225,32 @@
    ],
    "图标文件": [
     "04_west/fukuen-line__w105hy.png",
+    "04_west/fukuen-line__w105hy3.png",
     "04_west/kabe-line__w105hik.png",
+    "04_west/kabe-line__w105hik2.png",
+    "04_west/sanyo-area__w105fu.png",
+    "04_west/sanyo-area__w105fu1.png",
+    "04_west/sanyo-area__w105fu2.png",
+    "04_west/sanyo-area__w105ofu.png",
+    "04_west/wakayama-line__w105tbm2m.png",
     "04_west/wakayama-line__w105tbm2p.png"
    ],
    "图标token": [
+    "w105fu",
+    "w105fu1",
+    "w105fu2",
     "w105hik",
+    "w105hik2",
     "w105hy",
+    "w105hy3",
+    "w105ofu",
+    "w105tbm2m",
     "w105tbm2p"
    ],
-   "特急": [],
+   "特急": [
+    "山陽電鉄特急",
+    "直通特急"
+   ],
    "线路": [
     "可部線",
     "和歌山港線",
@@ -1814,21 +2270,33 @@
    ],
    "图标文件": [
     "04_west/geibi-kisuki-line__w120ki3.png",
+    "04_west/geibi-kisuki-line__w120ki4.png",
     "04_west/kansai-area__w120cha.png",
     "04_west/kansai-line__w120ka.png",
+    "04_west/kansai-line__w120ka1.png",
     "04_west/kuzuryu-line__w120.png",
+    "04_west/kuzuryu-line__w120n.png",
     "04_west/mine-line__w120mi2.png",
+    "04_west/mine-line__w120mi3.png",
     "04_west/san-in-line__w120hm.png",
-    "04_west/takayama-line__w120gr.png"
+    "04_west/san-in-line__w120hmn.png",
+    "04_west/takayama-line__w120gr.png",
+    "04_west/takayama-line__w120grn.png"
    ],
    "图标token": [
     "w120",
     "w120cha",
     "w120gr",
+    "w120grn",
     "w120hm",
+    "w120hmn",
     "w120ka",
+    "w120ka1",
     "w120ki3",
-    "w120mi2"
+    "w120ki4",
+    "w120mi2",
+    "w120mi3",
+    "w120n"
    ],
    "特急": [],
    "线路": [
@@ -1859,10 +2327,12 @@
     "JR西日本"
    ],
    "图标文件": [
-    "04_west/hanwa-line__w225-51.png"
+    "04_west/hanwa-line__w225-51.png",
+    "04_west/hanwa-line__w225h5.png"
    ],
    "图标token": [
-    "w225-51"
+    "w225-51",
+    "w225h5"
    ],
    "特急": [],
    "线路": [
@@ -1882,10 +2352,12 @@
     "JR西日本"
    ],
    "图标文件": [
-    "04_west/haruka__w281.png"
+    "04_west/haruka__w281.png",
+    "04_west/haruka__w281kt.png"
    ],
    "图标token": [
-    "w281"
+    "w281",
+    "w281kt"
    ],
    "特急": [
     "はるか"
@@ -1905,14 +2377,20 @@
    ],
    "图标文件": [
     "04_west/hiroshima-area__w227hi.png",
+    "04_west/hiroshima-area__w227himx.png",
     "04_west/okayama-area__w227ok.png",
+    "04_west/okayama-area__w227okp.png",
     "04_west/wakayama-line__w227wk.png",
+    "04_west/wakayama-line__w227wkp.png",
     "04_west/yamaguchi-area__w227ym.png"
    ],
    "图标token": [
     "w227hi",
+    "w227himx",
     "w227ok",
+    "w227okp",
     "w227wk",
+    "w227wkp",
     "w227ym"
    ],
    "特急": [],
@@ -1945,10 +2423,12 @@
     "JR西日本"
    ],
    "图标文件": [
-    "04_west/jr-tozai-line__w321.png"
+    "04_west/jr-tozai-line__w321.png",
+    "04_west/jr-tozai-line__w321p.png"
    ],
    "图标token": [
-    "w321"
+    "w321",
+    "w321p"
    ],
    "特急": [],
    "线路": [
@@ -1977,10 +2457,14 @@
    ],
    "图标文件": [
     "04_west/kansai-area-jr-jr-1-2-3-4-5-6-7-8-2026-5-15-update__w223-1.png",
+    "04_west/kansai-area-jr-jr-1-2-3-4-5-6-7-8-2026-5-15-update__w223.png",
+    "04_west/tokaido-line__w223h1.png",
     "04_west/tokaido-line__w223ms.png"
    ],
    "图标token": [
+    "w223",
     "w223-1",
+    "w223h1",
     "w223ms"
    ],
    "特急": [],
@@ -2007,13 +2491,18 @@
     "JR西日本"
    ],
    "图标文件": [
+    "04_west/kansai-area__w221cha.png",
+    "04_west/kansai-area__w221n.png",
     "04_west/kansai-area__w221np.png"
    ],
    "图标token": [
+    "w221cha",
+    "w221n",
     "w221np"
    ],
    "特急": [],
    "线路": [
+    "久宝寺",
     "関西本線"
    ],
    "有日文": true,
@@ -2029,10 +2518,12 @@
     "JR西日本"
    ],
    "图标文件": [
-    "04_west/kansai-nara-line__w201ka1.png"
+    "04_west/kansai-nara-line__w201ka1.png",
+    "04_west/kansai-nara-line__w201ka2.png"
    ],
    "图标token": [
-    "w201ka1"
+    "w201ka1",
+    "w201ka2"
    ],
    "特急": [],
    "线路": [
@@ -2075,12 +2566,23 @@
     "JR西日本"
    ],
    "图标文件": [
-    "04_west/kisei-line__w117wm.png"
+    "04_west/kisei-line__w117ks.png",
+    "04_west/kisei-line__w117wm.png",
+    "04_west/sanyo-line__w117hy.png",
+    "04_west/sanyo-line__w117pmt.png",
+    "04_west/sanyo-line__w117sn.png"
    ],
    "图标token": [
+    "w117hy",
+    "w117ks",
+    "w117pmt",
+    "w117sn",
     "w117wm"
    ],
-   "特急": [],
+   "特急": [
+    "山陽電鉄特急",
+    "直通特急"
+   ],
    "线路": [
     "紀勢本線"
    ],
@@ -2097,10 +2599,12 @@
     "JR西日本"
    ],
    "图标文件": [
-    "04_west/kitakinki-area__w183ha.png"
+    "04_west/kitakinki-area__w183ha.png",
+    "04_west/kitakinki-area__w183kha1.png"
    ],
    "图标token": [
-    "w183ha"
+    "w183ha",
+    "w183kha1"
    ],
    "特急": [],
    "线路": [
@@ -2119,10 +2623,16 @@
     "JR西日本"
    ],
    "图标文件": [
-    "04_west/kounotori-289__w289kani.png"
+    "04_west/kounotori-289__w289g.png",
+    "04_west/kounotori-289__w289kani.png",
+    "04_west/kounotori-289__w289kg.png",
+    "04_west/kounotori-289__w289kkani.png"
    ],
    "图标token": [
-    "w289kani"
+    "w289g",
+    "w289kani",
+    "w289kg",
+    "w289kkani"
    ],
    "特急": [
     "こうのとり"
@@ -2141,9 +2651,11 @@
     "JR西日本"
    ],
    "图标文件": [
+    "04_west/kuroshio-287__w287krm.png",
     "04_west/kuroshio-287__w287skr.png"
    ],
    "图标token": [
+    "w287krm",
     "w287skr"
    ],
    "特急": [
@@ -2165,11 +2677,17 @@
    ],
    "图标文件": [
     "04_west/nanao-line__w521na.png",
+    "25_hokuriku/ainokaze-rail-1-2-3-2026-3-13-update__aity521bg.png",
+    "25_hokuriku/hapiline-rail__hapi521.png",
     "25_hokuriku/hapiline-rail__hapi521a.png",
+    "25_hokuriku/ir-ishikawa-rail__iskw521.png",
     "25_hokuriku/ir-ishikawa-rail__iskw521b.png"
    ],
    "图标token": [
+    "aity521bg",
+    "hapi521",
     "hapi521a",
+    "iskw521",
     "iskw521b",
     "w521na"
    ],
@@ -2177,6 +2695,8 @@
    "线路": [
     "irいしかわ鉄道線",
     "jr七尾線",
+    "あいの風とやま鉄道",
+    "あいの風とやま鉄道線",
     "のと鉄道七尾線",
     "ハピラインふくい線",
     "七尾線"
@@ -2194,9 +2714,11 @@
     "JR西日本"
    ],
    "图标文件": [
+    "04_west/osaka-loop-line__w323m.png",
     "04_west/osaka-loop-line__w323or.png"
    ],
    "图标token": [
+    "w323m",
     "w323or"
    ],
    "特急": [],
@@ -2251,12 +2773,28 @@
     "JR西日本"
    ],
    "图标文件": [
+    "04_west/shirasagi-683__w683-8.png",
+    "04_west/shirasagi-683__w683k8.png",
+    "04_west/shirasagi__w683ksrn-1.png",
     "04_west/shirasagi__w683ksrn.png",
+    "04_west/shirasagi__w683srn.png",
+    "04_west/thunderbird__w683.png",
+    "04_west/thunderbird__w683k-1.png",
+    "04_west/thunderbird__w683k.png",
+    "04_west/thunderbird__w683k4.png",
     "04_west/thunderbird__w683n.png"
    ],
    "图标token": [
+    "w683",
+    "w683-8",
+    "w683k",
+    "w683k-1",
+    "w683k4",
+    "w683k8",
     "w683ksrn",
-    "w683n"
+    "w683ksrn-1",
+    "w683n",
+    "w683srn"
    ],
    "特急": [
     "しらさぎ",
@@ -2278,10 +2816,12 @@
     "JR西日本"
    ],
    "图标文件": [
+    "04_west/sunrise-exp-mizukaze__w285-1.png",
     "04_west/sunrise-exp-mizukaze__w285.png"
    ],
    "图标token": [
-    "w285"
+    "w285",
+    "w285-1"
    ],
    "特急": [
     "サンライズ出雲",
@@ -2320,22 +2860,46 @@
    "中文": "日本國鐵KiHa 185系柴聯車",
    "英文": "KiHa 185 series",
    "运营者": [
+    "JR九州",
     "JR四国"
    ],
    "图标文件": [
     "05_shikoku/bakumatsu-ishin__s185to3.png",
+    "05_shikoku/shimanto-ai__s185ai.png",
     "05_shikoku/shimanto-ai__s185sm.png",
-    "05_shikoku/tsurugisan-muroto__s185.png"
+    "05_shikoku/tsurugisan-muroto__s185.png",
+    "05_shikoku/tsurugisan-muroto__s185cm.png",
+    "05_shikoku/tsurugisan-muroto__s185tu.png",
+    "06_kyushu/ibuatma-atrain-umisachi__k185at.png",
+    "06_kyushu/yufuin-trans-kyushu__k185.png",
+    "06_kyushu/yufuin-trans-kyushu__k185n.png",
+    "06_kyushu/yufuin-trans-kyushu__k185q.png",
+    "06_kyushu/yufuin-trans-kyushu__k185q2.png",
+    "06_kyushu/yufuin-trans-kyushu__k185q3.png",
+    "06_kyushu/yufuin-trans-kyushu__k185yfu.png"
    ],
    "图标token": [
+    "k185",
+    "k185at",
+    "k185n",
+    "k185q",
+    "k185q2",
+    "k185q3",
+    "k185yfu",
     "s185",
+    "s185ai",
+    "s185cm",
     "s185sm",
-    "s185to3"
+    "s185to3",
+    "s185tu"
    ],
    "特急": [
     "あしずり",
     "しまんと",
-    "剣山"
+    "ゆふ",
+    "九州横断特急",
+    "剣山",
+    "指宿のたまて箱"
    ],
    "线路": [
     "予讃線",
@@ -2354,12 +2918,24 @@
     "JR四国"
    ],
    "图标文件": [
-    "05_shikoku/express-marine-liner__s2700.png"
+    "05_shikoku/express-marine-liner__s2700.png",
+    "05_shikoku/shikoku-express__s2700apr.png",
+    "05_shikoku/shikoku-express__s2700apr1.png",
+    "05_shikoku/shikoku-express__s2700apy.png",
+    "05_shikoku/shikoku-express__s2700apy1.png"
    ],
    "图标token": [
-    "s2700"
+    "s2700",
+    "s2700apr",
+    "s2700apr1",
+    "s2700apy",
+    "s2700apy1"
    ],
-   "特急": [],
+   "特急": [
+    "うずしお",
+    "南風",
+    "宇和海"
+   ],
    "线路": [
     "本四備讃線"
    ],
@@ -2398,10 +2974,50 @@
     "JR四国"
    ],
    "图标文件": [
-    "05_shikoku/shikoku-express__s2000.png"
+    "05_shikoku/shikoku-express-jr-jr-1-2-2026-3-27-update__s2000gp.png",
+    "05_shikoku/shikoku-express-jr-jr-1-2-2026-3-27-update__s2000gp1.png",
+    "05_shikoku/shikoku-express-jr-jr-1-2-2026-3-27-update__s2000p.png",
+    "05_shikoku/shikoku-express-jr-jr-1-2-2026-3-27-update__s2000p1.png",
+    "05_shikoku/shikoku-express__s2000-2.png",
+    "05_shikoku/shikoku-express__s2000-3.png",
+    "05_shikoku/shikoku-express__s2000.png",
+    "05_shikoku/shikoku-express__s2000anp-mg.png",
+    "05_shikoku/shikoku-express__s2000anp-my.png",
+    "05_shikoku/shikoku-express__s2000anp4.png",
+    "05_shikoku/shikoku-express__s2000anp5.png",
+    "05_shikoku/shikoku-express__s2000anp6.png",
+    "05_shikoku/shikoku-express__s2000g.png",
+    "05_shikoku/shikoku-express__s2000ganp-mb.png",
+    "05_shikoku/shikoku-express__s2000ganp-mp.png",
+    "05_shikoku/shikoku-express__s2000ganp1.png",
+    "05_shikoku/shikoku-express__s2000ganp2.png",
+    "05_shikoku/shikoku-express__s2000ganp3.png",
+    "05_shikoku/shikoku-express__s2000l.png",
+    "05_shikoku/shikoku-express__s2000n.png",
+    "05_shikoku/shikoku-express__s2000nl.png"
    ],
    "图标token": [
-    "s2000"
+    "s2000",
+    "s2000-2",
+    "s2000-3",
+    "s2000anp-mg",
+    "s2000anp-my",
+    "s2000anp4",
+    "s2000anp5",
+    "s2000anp6",
+    "s2000g",
+    "s2000ganp-mb",
+    "s2000ganp-mp",
+    "s2000ganp1",
+    "s2000ganp2",
+    "s2000ganp3",
+    "s2000gp",
+    "s2000gp1",
+    "s2000l",
+    "s2000n",
+    "s2000nl",
+    "s2000p",
+    "s2000p1"
    ],
    "特急": [
     "うずしお",
@@ -2424,14 +3040,27 @@
     "JR四国"
    ],
    "图标文件": [
-    "05_shikoku/shiokaze-ishizuchi__s8000no.png"
+    "05_shikoku/shikoku-express__s8000ap.png",
+    "05_shikoku/shikoku-express__s8000lapk.png",
+    "05_shikoku/shiokaze-ishizuchi__s8000.png",
+    "05_shikoku/shiokaze-ishizuchi__s8000k.png",
+    "05_shikoku/shiokaze-ishizuchi__s8000no.png",
+    "05_shikoku/shiokaze-ishizuchi__s8000nr.png"
    ],
    "图标token": [
-    "s8000no"
+    "s8000",
+    "s8000ap",
+    "s8000k",
+    "s8000lapk",
+    "s8000no",
+    "s8000nr"
    ],
    "特急": [
     "いしづち",
-    "しおかぜ"
+    "うずしお",
+    "しおかぜ",
+    "南風",
+    "宇和海"
    ],
    "线路": [],
    "有日文": true,
@@ -2492,14 +3121,19 @@
     "JR四国"
    ],
    "图标文件": [
-    "05_shikoku/yodo-line__s32kpuy1.png"
+    "05_shikoku/bakumatsu-ishin__s32to3.png",
+    "05_shikoku/yodo-line__s32kpuy1.png",
+    "05_shikoku/yodo-line__s32kpuy2.png"
    ],
    "图标token": [
-    "s32kpuy1"
+    "s32kpuy1",
+    "s32kpuy2",
+    "s32to3"
    ],
    "特急": [],
    "线路": [
-    "予土線"
+    "予土線",
+    "高知"
    ],
    "有日文": true,
    "有中文": false,
@@ -2618,18 +3252,38 @@
    ],
    "图标文件": [
     "06_kyushu/huis-ten-bosch__k783ha2.png",
+    "06_kyushu/huis-ten-bosch__k783has.png",
+    "06_kyushu/huis-ten-bosch__k783kha.png",
+    "06_kyushu/huis-ten-bosch__k783kha2.png",
+    "06_kyushu/kamome-sonic__k783s.png",
+    "06_kyushu/midori-asoboi__k783kmi.png",
     "06_kyushu/midori-asoboi__k783mis.png"
    ],
    "图标token": [
     "k783ha2",
-    "k783mis"
+    "k783has",
+    "k783kha",
+    "k783kha2",
+    "k783kmi",
+    "k783mis",
+    "k783s"
    ],
    "特急": [
     "あそ",
+    "かささぎ",
+    "きらめき",
+    "にちりん",
+    "にちりんシーガイア",
+    "ひゅうが",
     "みどり",
-    "ハウステンボス"
+    "ソニック",
+    "ハウステンボス",
+    "リレーかもめ",
+    "博多南"
    ],
-   "线路": [],
+   "线路": [
+    "博多南線"
+   ],
    "有日文": true,
    "有中文": true,
    "有英文": true,
@@ -2674,16 +3328,25 @@
     "JR九州"
    ],
    "图标文件": [
-    "06_kyushu/karatsu-line__k125yak.png"
+    "06_kyushu/ibuatma-atrain-umisachi__k125uy.png",
+    "06_kyushu/karatsu-line__k125yak.png",
+    "06_kyushu/kyushu-area__k125.png"
    ],
    "图标token": [
+    "k125",
+    "k125uy",
     "k125yak"
    ],
-   "特急": [],
+   "特急": [
+    "指宿のたまて箱"
+   ],
    "线路": [
+    "久大本線",
     "佐世保線",
     "佐賀",
-    "唐津線"
+    "唐津線",
+    "指宿枕崎線",
+    "日南線"
    ],
    "有日文": true,
    "有中文": true,
@@ -2695,16 +3358,70 @@
    "中文": "日本國鐵485系電力動車組",
    "英文": "485 series",
    "运营者": [
-    "JR九州"
+    "JR九州",
+    "JR東日本",
+    "JR西日本"
    ],
    "图标文件": [
-    "06_kyushu/kirishima-hyuga__k485j.png"
+    "02_east/boso-area__e485jnano.png",
+    "02_east/inaho-express__e485ih.png",
+    "02_east/inaho-express__e485ihk.png",
+    "02_east/inaho-express__e485mi-b.png",
+    "02_east/inaho-express__e485mi-b2.png",
+    "02_east/inaho-express__e485mi.png",
+    "02_east/inaho-express__e485mi2.png",
+    "02_east/inaho-express__e485ra.png",
+    "02_east/tsugaru__e485ha.png",
+    "02_east/tsugaru__e485ka.png",
+    "04_west/kuroshio-kagayaki__w485kg.png",
+    "04_west/kuroshio-kagayaki__w485kkg.png",
+    "04_west/shirasagi__w485bl.png",
+    "04_west/shirasagi__w485bl2.png",
+    "04_west/shirasagi__w485bl3.png",
+    "04_west/shirasagi__w485bl4-1.png",
+    "04_west/shirasagi__w485bl4.png",
+    "04_west/shirasagi__w485kbl.png",
+    "04_west/shirasagi__w485p.png",
+    "04_west/shirasagi__w485si.png",
+    "06_kyushu/kirishima-hyuga__k485j.png",
+    "06_kyushu/kirishima-hyuga__k485kh.png",
+    "06_kyushu/kirishima-hyuga__k485ki.png"
    ],
    "图标token": [
-    "k485j"
+    "e485ha",
+    "e485ih",
+    "e485ihk",
+    "e485jnano",
+    "e485ka",
+    "e485mi",
+    "e485mi-b",
+    "e485mi-b2",
+    "e485mi2",
+    "e485ra",
+    "k485j",
+    "k485kh",
+    "k485ki",
+    "w485bl",
+    "w485bl2",
+    "w485bl3",
+    "w485bl4",
+    "w485bl4-1",
+    "w485kbl",
+    "w485kg",
+    "w485kkg",
+    "w485p",
+    "w485si"
    ],
    "特急": [
-    "きりしま"
+    "いなほ",
+    "きりしま",
+    "くろしお",
+    "さざなみ",
+    "しおさい",
+    "しらさぎ",
+    "しらゆき",
+    "つがる",
+    "わかしお"
    ],
    "线路": [],
    "有日文": true,
@@ -2747,10 +3464,12 @@
     "JR九州"
    ],
    "图标文件": [
-    "06_kyushu/misumi-line__k70000b.png"
+    "06_kyushu/misumi-line__k70000b.png",
+    "06_kyushu/misumi-line__k70000bw.png"
    ],
    "图标token": [
-    "k70000b"
+    "k70000b",
+    "k70000bw"
    ],
    "特急": [],
    "线路": [
@@ -2796,10 +3515,14 @@
    ],
    "图标文件": [
     "06_kyushu/oita-area__k415-0.png",
+    "06_kyushu/oita-area__k415.png",
+    "06_kyushu/working-car-jr-jr-1-2-3-2025-12-12-update__k415rr.png",
     "06_kyushu/working-car-jr-jr-1-2-3-2025-12-12-update__k415w.png"
    ],
    "图标token": [
+    "k415",
     "k415-0",
+    "k415rr",
     "k415w"
    ],
    "特急": [],
@@ -2888,15 +3611,24 @@
    "中文": "日本國鐵ED76型電力機車",
    "英文": "JNR Class ED76",
    "运营者": [
+    "JR北海道",
     "JR貨物"
    ],
    "图标文件": [
+    "01_hokkaido/hokutosei-rishiri__ed76-5.png",
+    "01_hokkaido/hokutosei-rishiri__ed76-5b.png",
     "07_freight/el-ed76-62-79-jr-jr-1-2-2025-2-28-update__ed76w.png"
    ],
    "图标token": [
+    "ed76-5",
+    "ed76-5b",
     "ed76w"
    ],
-   "特急": [],
+   "特急": [
+    "スーパー北斗",
+    "北斗",
+    "能登かがり火"
+   ],
    "线路": [
     "飯田線"
    ],
@@ -2960,16 +3692,22 @@
     "東武"
    ],
    "图标文件": [
-    "08_tobu/daishi-line__tob1000.png"
+    "08_tobu/daishi-line__tob1000.png",
+    "08_tobu/skytree-line__tob10030kinp.png"
    ],
    "图标token": [
-    "tob1000"
+    "tob1000",
+    "tob10030kinp"
    ],
    "特急": [],
    "线路": [
     "亀戸線",
     "京急大師線",
-    "東武大師線"
+    "東武大師線",
+    "東武鉄道",
+    "近畿日本鉄道",
+    "近鉄京都線",
+    "近鉄名古屋線"
    ],
    "有日文": true,
    "有中文": true,
@@ -2984,10 +3722,12 @@
     "東武"
    ],
    "图标文件": [
-    "08_tobu/emu-50000__tob50000.png"
+    "08_tobu/emu-50000__tob50000.png",
+    "08_tobu/emu-50000__tob50000ll.png"
    ],
    "图标token": [
-    "tob50000"
+    "tob50000",
+    "tob50000ll"
    ],
    "特急": [],
    "线路": [
@@ -3008,10 +3748,12 @@
     "東武"
    ],
    "图标文件": [
-    "08_tobu/emu-9000-9050__tob9001.png"
+    "08_tobu/emu-9000-9050__tob9001.png",
+    "08_tobu/emu-9000-9050__tob9050.png"
    ],
    "图标token": [
-    "tob9001"
+    "tob9001",
+    "tob9050"
    ],
    "特急": [],
    "线路": [
@@ -3030,10 +3772,12 @@
     "東武"
    ],
    "图标文件": [
-    "08_tobu/jomo-rail__jymo800v.png"
+    "08_tobu/jomo-rail__jymo800v.png",
+    "08_tobu/jomo-rail__jymo800vp.png"
    ],
    "图标token": [
-    "jymo800v"
+    "jymo800v",
+    "jymo800vp"
    ],
    "特急": [],
    "线路": [
@@ -3099,9 +3843,17 @@
     "東武"
    ],
    "图标文件": [
+    "08_tobu/ryomo-skytree__tob200.png",
+    "08_tobu/ryomo-skytree__tob200b.png",
+    "08_tobu/ryomo-skytree__tob200bw.png",
+    "08_tobu/ryomo-skytree__tob200r.png",
     "08_tobu/ryomo-skytree__tob250.png"
    ],
    "图标token": [
+    "tob200",
+    "tob200b",
+    "tob200bw",
+    "tob200r",
     "tob250"
    ],
    "特急": [
@@ -3122,9 +3874,11 @@
     "東武"
    ],
    "图标文件": [
+    "08_tobu/skytree-line-th-liner__tob70000.png",
     "08_tobu/skytree-line-th-liner__tob70090.png"
    ],
    "图标token": [
+    "tob70000",
     "tob70090"
    ],
    "特急": [],
@@ -3527,9 +4281,11 @@
     "東京メトロ"
    ],
    "图标文件": [
+    "10_metro/toyo-rapid-rail__toyo2000.png",
     "10_metro/toyo-rapid-rail__toyo2001.png"
    ],
    "图标token": [
+    "toyo2000",
     "toyo2001"
    ],
    "特急": [],
@@ -3550,10 +4306,12 @@
     "京王"
    ],
    "图标文件": [
-    "11_keio/keio-1000__keio1001vi1.png"
+    "11_keio/keio-1000__keio1001vi1.png",
+    "11_keio/keio-1000__keio1001vil.png"
    ],
    "图标token": [
-    "keio1001vi1"
+    "keio1001vi1",
+    "keio1001vil"
    ],
    "特急": [],
    "线路": [
@@ -3597,9 +4355,13 @@
     "京王"
    ],
    "图标文件": [
+    "11_keio/emu-5000-9000-8000__keio9000.png",
+    "11_keio/emu-5000-9000-8000__keio9000ll.png",
     "11_keio/keio-line__keio9030ktb.png"
    ],
    "图标token": [
+    "keio9000",
+    "keio9000ll",
     "keio9030ktb"
    ],
    "特急": [
@@ -3645,9 +4407,11 @@
     "西武"
    ],
    "图标文件": [
+    "12_seibu/emu-101-3000__seb101psk1.png",
     "12_seibu/emu-101-3000__seb101w.png"
    ],
    "图标token": [
+    "seb101psk1",
     "seb101w"
    ],
    "特急": [],
@@ -3669,11 +4433,15 @@
     "西武"
    ],
    "图标文件": [
+    "12_seibu/emu-2-3-40000-6000__seb40000.png",
     "12_seibu/emu-2-3-40000-6000__seb40050.png",
-    "12_seibu/seibu-tokiiro__seb40000tko.png"
+    "12_seibu/seibu-tokiiro__seb40000tko.png",
+    "12_seibu/seibu-tokiiro__seb40000tkr.png"
    ],
    "图标token": [
+    "seb40000",
     "seb40000tko",
+    "seb40000tkr",
     "seb40050"
    ],
    "特急": [],
@@ -3756,10 +4524,12 @@
     "西武"
    ],
    "图标文件": [
-    "12_seibu/omi-rail__omi200r.png"
+    "12_seibu/omi-rail__omi200r.png",
+    "12_seibu/omi-rail__omi200rp.png"
    ],
    "图标token": [
-    "omi200r"
+    "omi200r",
+    "omi200rp"
    ],
    "特急": [],
    "线路": [
@@ -3851,9 +4621,11 @@
     "小田急"
    ],
    "图标文件": [
+    "13_odakyu/emu-4000-5000__odq4000c.png",
     "13_odakyu/emu-4000-5000__odq5001.png"
    ],
    "图标token": [
+    "odq4000c",
     "odq5001"
    ],
    "特急": [],
@@ -4067,17 +4839,22 @@
    ],
    "图标文件": [
     "14_tokyu/denentoshi-line__toq2020.png",
+    "14_tokyu/emu-5080-3000-3020__toq3020.png",
     "14_tokyu/ohimachi-line__toq6020.png"
    ],
    "图标token": [
     "toq2020",
+    "toq3020",
     "toq6020"
    ],
    "特急": [],
    "线路": [
     "大井町線",
     "東急大井町線",
-    "田園都市線"
+    "東急目黒線",
+    "田園都市線",
+    "目黒",
+    "目黒線"
    ],
    "有日文": true,
    "有中文": true,
@@ -4092,23 +4869,35 @@
     "東急"
    ],
    "图标文件": [
+    "14_tokyu/3000-5050-5000__toq5050n.png",
     "14_tokyu/emu-5080-3000-3020__toq3028.png",
+    "14_tokyu/emu-5080-5050-m500__toq4001hkr.png",
+    "14_tokyu/emu-5080-5050-m500__toq5050.png",
     "14_tokyu/emu-5080-5050-m500__toq5051.png",
+    "14_tokyu/emu-5080-5050-m500__toq5058.png",
+    "14_tokyu/emu-5080-5050-m500__toq5059.png",
     "14_tokyu/tokyu-4000__toq4000w.png"
    ],
    "图标token": [
     "toq3028",
     "toq4000w",
-    "toq5051"
+    "toq4001hkr",
+    "toq5050",
+    "toq5050n",
+    "toq5051",
+    "toq5058",
+    "toq5059"
    ],
    "特急": [
     "東急特急"
    ],
    "线路": [
     "みなとみらい21線",
+    "大森線",
     "新横浜",
     "東急東横線",
     "東急目黒線",
+    "東急電鉄",
     "東横線",
     "目黒",
     "目黒線"
@@ -4149,9 +4938,11 @@
     "東急"
    ],
    "图标文件": [
+    "14_tokyu/izukyu-200__izq100.png",
     "14_tokyu/izukyu-200__izq1000.png"
    ],
    "图标token": [
+    "izq100",
     "izq1000"
    ],
    "特急": [],
@@ -4239,12 +5030,22 @@
     "東急"
    ],
    "图标文件": [
-    "14_tokyu/untitled__yokk000.png"
+    "14_tokyu/emu-5080-5050-m500__yokk500.png",
+    "14_tokyu/emu-5080-5050-m500__yokk500f.png",
+    "14_tokyu/emu-5080-5050-m500__yokk500f3.png",
+    "14_tokyu/untitled__yokk000.png",
+    "14_tokyu/untitled__yokk000mo.png"
    ],
    "图标token": [
-    "yokk000"
+    "yokk000",
+    "yokk000mo",
+    "yokk500",
+    "yokk500f",
+    "yokk500f3"
    ],
-   "特急": [],
+   "特急": [
+    "東急特急"
+   ],
    "线路": [
     "こどもの国線"
    ],
@@ -4308,10 +5109,12 @@
     "京急"
    ],
    "图标文件": [
-    "15_keikyu/untitled__khk2100.png"
+    "15_keikyu/untitled__khk2100.png",
+    "15_keikyu/untitled__khk2100bl.png"
    ],
    "图标token": [
-    "khk2100"
+    "khk2100",
+    "khk2100bl"
    ],
    "特急": [
     "エアポート快特",
@@ -4355,11 +5158,15 @@
     "相鉄"
    ],
    "图标文件": [
+    "16_sotetsu/sotetsu-11000__sote11000hoe.png",
     "16_sotetsu/sotetsu-11000__sote11000rg.png",
+    "16_sotetsu/sotetsu-11000__sote11000rg0.png",
     "16_sotetsu/sotetsu-rail__sote11001.png"
    ],
    "图标token": [
+    "sote11000hoe",
     "sote11000rg",
+    "sote11000rg0",
     "sote11001"
    ],
    "特急": [
@@ -4454,10 +5261,12 @@
     "名鉄"
    ],
    "图标文件": [
-    "17_meitetsu/emu-1000-1200__mei1000.png"
+    "17_meitetsu/emu-1000-1200__mei1000.png",
+    "17_meitetsu/emu-1000-1200__mei1001.png"
    ],
    "图标token": [
-    "mei1000"
+    "mei1000",
+    "mei1001"
    ],
    "特急": [],
    "线路": [
@@ -4486,10 +5295,20 @@
     "名鉄"
    ],
    "图标文件": [
+    "17_meitetsu/2000-2200-1700__mei1701.png",
+    "17_meitetsu/2000-2200-1700__mei2000.png",
+    "17_meitetsu/2000-2200-1700__mei2000ev.png",
+    "17_meitetsu/2000-2200-1700__mei2201.png",
+    "17_meitetsu/2000-2200-1700__mei2202.png",
     "17_meitetsu/meitetsu-2000__mei2000b.png"
    ],
    "图标token": [
-    "mei2000b"
+    "mei1701",
+    "mei2000",
+    "mei2000b",
+    "mei2000ev",
+    "mei2201",
+    "mei2202"
    ],
    "特急": [
     "ミュースカイ",
@@ -4509,10 +5328,12 @@
     "名鉄"
    ],
    "图标文件": [
-    "17_meitetsu/meitetsu-9500-9100__mei9500.png"
+    "17_meitetsu/meitetsu-9500-9100__mei9500.png",
+    "17_meitetsu/meitetsu-9500-9100__mei9500k.png"
    ],
    "图标token": [
-    "mei9500"
+    "mei9500",
+    "mei9500k"
    ],
    "特急": [],
    "线路": [
@@ -4531,10 +5352,12 @@
     "名鉄"
    ],
    "图标文件": [
-    "17_meitetsu/meitetsu-rail__mei5000.png"
+    "17_meitetsu/meitetsu-rail__mei5000.png",
+    "17_meitetsu/meitetsu-rail__mei5000o1.png"
    ],
    "图标token": [
-    "mei5000"
+    "mei5000",
+    "mei5000o1"
    ],
    "特急": [],
    "线路": [
@@ -4658,9 +5481,11 @@
     "近鉄"
    ],
    "图标文件": [
+    "18_kintetsu/kintetsu-line__kin3220.png",
     "18_kintetsu/kintetsu-line__kin3221.png"
    ],
    "图标token": [
+    "kin3220",
     "kin3221"
    ],
    "特急": [],
@@ -4680,10 +5505,12 @@
     "近鉄"
    ],
    "图标文件": [
-    "18_kintetsu/kintetsu-rail-1-2-3-2026-8-28-update__kin5800expoy.png"
+    "18_kintetsu/kintetsu-rail-1-2-3-2026-8-28-update__kin5800expoy.png",
+    "18_kintetsu/kintetsu-rail-1-2-3-2026-8-28-update__kin5800expoy1.png"
    ],
    "图标token": [
-    "kin5800expoy"
+    "kin5800expoy",
+    "kin5800expoy1"
    ],
    "特急": [],
    "线路": [
@@ -4704,10 +5531,12 @@
     "近鉄"
    ],
    "图标文件": [
-    "18_kintetsu/les-saveurs-shima__kin12400lss.png"
+    "18_kintetsu/les-saveurs-shima__kin12400lss.png",
+    "18_kintetsu/les-saveurs-shima__kin12400lssp.png"
    ],
    "图标token": [
-    "kin12400lss"
+    "kin12400lss",
+    "kin12400lssp"
    ],
    "特急": [],
    "线路": [
@@ -4796,12 +5625,20 @@
     "京阪"
    ],
    "图标文件": [
-    "19_keihan/emu-8000-3000__khan8002.png"
+    "19_keihan/emu-8000-3000__khan8002.png",
+    "19_keihan/emu-8000-3000__khan8003.png",
+    "19_keihan/keihan-3000__khan8000expo.png",
+    "19_keihan/keihan-3000__khan8000expop.png"
    ],
    "图标token": [
-    "khan8002"
+    "khan8000expo",
+    "khan8000expop",
+    "khan8002",
+    "khan8003"
    ],
-   "特急": [],
+   "特急": [
+    "京阪特急"
+   ],
    "线路": [
     "中之島線",
     "交野線",
@@ -4821,12 +5658,16 @@
     "京阪"
    ],
    "图标文件": [
-    "19_keihan/ishiyama-line__khan612cb.png"
+    "19_keihan/ishiyama-line__khan612cb.png",
+    "19_keihan/keihan-rail__khan600h1.png"
    ],
    "图标token": [
+    "khan600h1",
     "khan612cb"
    ],
-   "特急": [],
+   "特急": [
+    "京阪特急"
+   ],
    "线路": [
     "京阪石山坂本線",
     "石山坂本線"
@@ -4867,10 +5708,12 @@
     "京阪"
    ],
    "图标文件": [
-    "19_keihan/keihan-rail__khan6000h.png"
+    "19_keihan/keihan-rail__khan6000h.png",
+    "19_keihan/keihan-rail__khan6000hp.png"
    ],
    "图标token": [
-    "khan6000h"
+    "khan6000h",
+    "khan6000hp"
    ],
    "特急": [
     "京阪特急"
@@ -4913,10 +5756,12 @@
     "京阪"
    ],
    "图标文件": [
-    "19_keihan/kyoto-randen__kfuk21.png"
+    "19_keihan/kyoto-randen__kfuk21.png",
+    "19_keihan/kyoto-randen__kfuk27.png"
    ],
    "图标token": [
-    "kfuk21"
+    "kfuk21",
+    "kfuk27"
    ],
    "特急": [],
    "线路": [
@@ -5118,12 +5963,30 @@
     "阪急"
    ],
    "图标文件": [
-    "21_hankyu/emu-8000-8300__hnq8001s.png"
+    "21_hankyu/emu-8000-8300__hnq8000n.png",
+    "21_hankyu/emu-8000-8300__hnq8000nw.png",
+    "21_hankyu/emu-8000-8300__hnq8000w.png",
+    "21_hankyu/emu-8000-8300__hnq8001.png",
+    "21_hankyu/emu-8000-8300__hnq8001n.png",
+    "21_hankyu/emu-8000-8300__hnq8001nw.png",
+    "21_hankyu/emu-8000-8300__hnq8001s.png",
+    "21_hankyu/emu-8000-8300__hnq8001w.png",
+    "21_hankyu/emu-8000-8300__hnq8301w.png"
    ],
    "图标token": [
-    "hnq8001s"
+    "hnq8000n",
+    "hnq8000nw",
+    "hnq8000w",
+    "hnq8001",
+    "hnq8001n",
+    "hnq8001nw",
+    "hnq8001s",
+    "hnq8001w",
+    "hnq8301w"
    ],
-   "特急": [],
+   "特急": [
+    "阪急特急"
+   ],
    "线路": [
     "阪急嵐山線"
    ],
@@ -5216,9 +6079,11 @@
     "阪急"
    ],
    "图标文件": [
+    "21_hankyu/kobe-rail__kobed6000.png",
     "21_hankyu/kobe-rail__kobed6001.png"
    ],
    "图标token": [
+    "kobed6000",
     "kobed6001"
    ],
    "特急": [],
@@ -5242,9 +6107,11 @@
     "阪神"
    ],
    "图标文件": [
+    "22_hanshin/emu-110-200__hnsn5000p.png",
     "22_hanshin/emu-110-200__hnsn5200st.png"
    ],
    "图标token": [
+    "hnsn5000p",
     "hnsn5200st"
    ],
    "特急": [],
@@ -5264,10 +6131,16 @@
     "阪神"
    ],
    "图标文件": [
-    "22_hanshin/hanshin-rail__hnsn9300n1.png"
+    "22_hanshin/hanshin-1-8-9000__hnsn9300.png",
+    "22_hanshin/hanshin-rail__hnsn9300n1.png",
+    "22_hanshin/hanshin-rail__hnsn9300n2.png",
+    "22_hanshin/hanshin-rail__hnsn9300n3.png"
    ],
    "图标token": [
-    "hnsn9300n1"
+    "hnsn9300",
+    "hnsn9300n1",
+    "hnsn9300n2",
+    "hnsn9300n3"
    ],
    "特急": [
     "阪神特急"
@@ -5289,12 +6162,20 @@
     "阪神"
    ],
    "图标文件": [
-    "22_hanshin/mukogawa-line__hnsn5500m.png"
+    "22_hanshin/hanshin-5000-5700__hnsn5500.png",
+    "22_hanshin/hanshin-rail__hnsn5500n.png",
+    "22_hanshin/mukogawa-line__hnsn5500m.png",
+    "22_hanshin/mukogawa-line__hnsn5500mk.png"
    ],
    "图标token": [
-    "hnsn5500m"
+    "hnsn5500",
+    "hnsn5500m",
+    "hnsn5500mk",
+    "hnsn5500n"
    ],
-   "特急": [],
+   "特急": [
+    "阪神特急"
+   ],
    "线路": [
     "武庫川線",
     "阪神武庫川線"
@@ -5312,16 +6193,19 @@
     "阪神"
    ],
    "图标文件": [
-    "22_hanshin/sanyo-5000-3050__san6000.png"
+    "22_hanshin/sanyo-5000-3050__san6000.png",
+    "22_hanshin/snayo-rail-2026-5-15-update__san6000m.png"
    ],
    "图标token": [
-    "san6000"
+    "san6000",
+    "san6000m"
    ],
    "特急": [
     "山陽電鉄特急",
     "直通特急"
    ],
    "线路": [
+    "南海本線",
     "山陽電鉄本線"
    ],
    "有日文": true,
@@ -5337,9 +6221,19 @@
     "阪神"
    ],
    "图标文件": [
+    "22_hanshin/sanyo-5000-3050__san3050.png",
+    "22_hanshin/sanyo-5000-3050__san3050al.png",
+    "22_hanshin/sanyo-rail__san3000.png",
+    "22_hanshin/sanyo-rail__san3000al.png",
+    "22_hanshin/sanyo-rail__san3050b.png",
     "22_hanshin/sanyo-rail__san3050f.png"
    ],
    "图标token": [
+    "san3000",
+    "san3000al",
+    "san3050",
+    "san3050al",
+    "san3050b",
     "san3050f"
    ],
    "特急": [
@@ -5365,14 +6259,26 @@
     "阪神"
    ],
    "图标文件": [
+    "22_hanshin/sanyo-5000-3050__san3001al.png",
+    "22_hanshin/sanyo-5000-3050__san5000.png",
+    "22_hanshin/sanyo-5000-3050__san5000n.png",
+    "22_hanshin/sanyo-5000-3050__san5001.png",
     "22_hanshin/snayo-rail-2026-5-15-update__san5000tw.png"
    ],
    "图标token": [
-    "san5000tw"
+    "san3001al",
+    "san5000",
+    "san5000n",
+    "san5000tw",
+    "san5001"
    ],
-   "特急": [],
+   "特急": [
+    "山陽電鉄特急",
+    "直通特急"
+   ],
    "线路": [
-    "南海本線"
+    "南海本線",
+    "山陽電鉄本線"
    ],
    "有日文": true,
    "有中文": true,
@@ -5389,12 +6295,16 @@
    "图标文件": [
     "23_nankai/emu-20-23-2200__nan2000.png",
     "23_nankai/kada-line__nan2000mdm.png",
-    "23_nankai/tenku__nan2000ten.png"
+    "23_nankai/kada-line__nan2000mdmp.png",
+    "23_nankai/tenku__nan2000ten.png",
+    "23_nankai/tenku__nan2000ten0.png"
    ],
    "图标token": [
     "nan2000",
     "nan2000mdm",
-    "nan2000ten"
+    "nan2000mdmp",
+    "nan2000ten",
+    "nan2000ten0"
    ],
    "特急": [],
    "线路": [
@@ -5442,14 +6352,19 @@
     "南海"
    ],
    "图标文件": [
-    "23_nankai/kouya-rinkan__nan11000.png"
+    "23_nankai/kouya-rinkan__nan11000.png",
+    "23_nankai/semboku-liner-1-2-2025-8-14-update__nan11000g1.png",
+    "23_nankai/semboku-liner-1-2-2025-8-14-update__nan11000g1p.png"
    ],
    "图标token": [
-    "nan11000"
+    "nan11000",
+    "nan11000g1",
+    "nan11000g1p"
    ],
    "特急": [
     "こうや",
-    "りんかん"
+    "りんかん",
+    "泉北ライナー"
    ],
    "线路": [],
    "有日文": true,
@@ -5580,10 +6495,12 @@
     "西鉄"
    ],
    "图标文件": [
-    "24_nishitetsu/emu-3000__nisi3000.png"
+    "24_nishitetsu/emu-3000__nisi3000.png",
+    "24_nishitetsu/emu-3000__nisi3001.png"
    ],
    "图标token": [
-    "nisi3000"
+    "nisi3000",
+    "nisi3001"
    ],
    "特急": [],
    "线路": [
@@ -5605,12 +6522,22 @@
     "西鉄"
    ],
    "图标文件": [
-    "24_nishitetsu/kaizuka-line__nisi601.png"
+    "24_nishitetsu/kaizuka-line__nisi600y.png",
+    "24_nishitetsu/kaizuka-line__nisi601.png",
+    "24_nishitetsu/omuta-line-1-2-2025-8-22-update__nisi600o1.png",
+    "24_nishitetsu/omuta-line__nisi600.png",
+    "24_nishitetsu/omuta-line__nisi600o.png"
    ],
    "图标token": [
+    "nisi600",
+    "nisi600o",
+    "nisi600o1",
+    "nisi600y",
     "nisi601"
    ],
-   "特急": [],
+   "特急": [
+    "西鉄特急"
+   ],
    "线路": [
     "西鉄貝塚線",
     "貝塚線"
@@ -5629,10 +6556,14 @@
    ],
    "图标文件": [
     "24_nishitetsu/nishitetsu-5000__nisi5000y.png",
-    "24_nishitetsu/omuta-line__nisi5000.png"
+    "24_nishitetsu/omuta-line__nisi5000.png",
+    "24_nishitetsu/omuta-line__nisi5000gl.png",
+    "24_nishitetsu/omuta-line__nisi5000pk.png"
    ],
    "图标token": [
     "nisi5000",
+    "nisi5000gl",
+    "nisi5000pk",
     "nisi5000y"
    ],
    "特急": [
@@ -5654,10 +6585,12 @@
     "西鉄"
    ],
    "图标文件": [
-    "24_nishitetsu/nishitetsu-900__nisi900jg.png"
+    "24_nishitetsu/nishitetsu-900__nisi900jg.png",
+    "24_nishitetsu/nishitetsu-900__nisi901jg.png"
    ],
    "图标token": [
-    "nisi900jg"
+    "nisi900jg",
+    "nisi901jg"
    ],
    "特急": [],
    "线路": [
@@ -5723,10 +6656,12 @@
     "北陸"
    ],
    "图标文件": [
-    "25_hokuriku/hokuriku-rail-8800__hkrk8901.png"
+    "25_hokuriku/hokuriku-rail-8800__hkrk8901.png",
+    "25_hokuriku/hokuriku-rail-8800__hkrk8901w.png"
    ],
    "图标token": [
-    "hkrk8901"
+    "hkrk8901",
+    "hkrk8901w"
    ],
    "特急": [],
    "线路": [
@@ -5881,12 +6816,16 @@
     "北陸"
    ],
    "图标文件": [
+    "25_hokuriku/toyama-regioal-rail__tymti14760.png",
     "25_hokuriku/toyama-regioal-rail__tymti14760o.png",
-    "25_hokuriku/toyamachiho-rail__tymti14760tmy.png"
+    "25_hokuriku/toyamachiho-rail__tymti14760tmy.png",
+    "25_hokuriku/toyamachiho-rail__tymti14760tmyp.png"
    ],
    "图标token": [
+    "tymti14760",
     "tymti14760o",
-    "tymti14760tmy"
+    "tymti14760tmy",
+    "tymti14760tmyp"
    ],
    "特急": [
     "富山地方鉄道特急"
@@ -5907,10 +6846,72 @@
     "北陸"
    ],
    "图标文件": [
-    "25_hokuriku/toyama-tram__tlr601.png"
+    "25_hokuriku/toyama-rail__tymti10001.png",
+    "25_hokuriku/toyama-rail__tymti10001k.png",
+    "25_hokuriku/toyama-rail__tymti10023o.png",
+    "25_hokuriku/toyama-rail__tymti120.png",
+    "25_hokuriku/toyama-rail__tymti12510.png",
+    "25_hokuriku/toyama-rail__tymti14781.png",
+    "25_hokuriku/toyama-rail__tymti14782.png",
+    "25_hokuriku/toyama-rail__tymti7530.png",
+    "25_hokuriku/toyama-rail__tymti7541o.png",
+    "25_hokuriku/toyama-rail__tymti90.png",
+    "25_hokuriku/toyama-regioal-rail__tymti10031.png",
+    "25_hokuriku/toyama-regioal-rail__tymti10032.png",
+    "25_hokuriku/toyama-regioal-rail__tymti10033.png",
+    "25_hokuriku/toyama-regioal-rail__tymti10b.png",
+    "25_hokuriku/toyama-regioal-rail__tymti14721.png",
+    "25_hokuriku/toyama-regioal-rail__tymti14761.png",
+    "25_hokuriku/toyama-regioal-rail__tymti14761o.png",
+    "25_hokuriku/toyama-regioal-rail__tymti14762.png",
+    "25_hokuriku/toyama-regioal-rail__tymti16011.png",
+    "25_hokuriku/toyama-regioal-rail__tymti3500.png",
+    "25_hokuriku/toyama-regioal-rail__tymti5000.png",
+    "25_hokuriku/toyama-regioal-rail__tymti5001.png",
+    "25_hokuriku/toyama-regioal-rail__tymti6500.png",
+    "25_hokuriku/toyama-regioal-rail__tymti6501.png",
+    "25_hokuriku/toyama-regioal-rail__tymti6502.png",
+    "25_hokuriku/toyama-tram__tlr601.png",
+    "25_hokuriku/toyama-tram__tymti-t100.png",
+    "25_hokuriku/toyama-tram__tymti-t100f.png",
+    "25_hokuriku/toyama-tram__tymti7001.png",
+    "25_hokuriku/toyama-tram__tymti9001.png",
+    "25_hokuriku/toyama-tram__tymti9002.png",
+    "25_hokuriku/toyama-tram__tymti9003.png"
    ],
    "图标token": [
-    "tlr601"
+    "tlr601",
+    "tymti-t100",
+    "tymti-t100f",
+    "tymti10001",
+    "tymti10001k",
+    "tymti10023o",
+    "tymti10031",
+    "tymti10032",
+    "tymti10033",
+    "tymti10b",
+    "tymti120",
+    "tymti12510",
+    "tymti14721",
+    "tymti14761",
+    "tymti14761o",
+    "tymti14762",
+    "tymti14781",
+    "tymti14782",
+    "tymti16011",
+    "tymti3500",
+    "tymti5000",
+    "tymti5001",
+    "tymti6500",
+    "tymti6501",
+    "tymti6502",
+    "tymti7001",
+    "tymti7530",
+    "tymti7541o",
+    "tymti90",
+    "tymti9001",
+    "tymti9002",
+    "tymti9003"
    ],
    "特急": [
     "富山地方鉄道特急"
@@ -5980,10 +6981,12 @@
     "山陽山陰"
    ],
    "图标文件": [
-    "26_sanyosanin/hiroshima-tram__hrdn76.png"
+    "26_sanyosanin/hiroshima-tram__hrdn76.png",
+    "26_sanyosanin/hiroshima-tram__hrdn77.png"
    ],
    "图标token": [
-    "hrdn76"
+    "hrdn76",
+    "hrdn77"
    ],
    "特急": [],
    "线路": [
@@ -6031,9 +7034,11 @@
     "山陽山陰"
    ],
    "图标文件": [
+    "26_sanyosanin/ichibata-rail__itbt8000b.png",
     "26_sanyosanin/ichibata-rail__itbt8000bp.png"
    ],
    "图标token": [
+    "itbt8000b",
     "itbt8000bp"
    ],
    "特急": [
@@ -6083,10 +7088,12 @@
     "山陽山陰"
    ],
    "图标文件": [
-    "26_sanyosanin/nishikigawa-rail__nsk3001.png"
+    "26_sanyosanin/nishikigawa-rail__nsk3001.png",
+    "26_sanyosanin/nishikigawa-rail__nsk3002.png"
    ],
    "图标token": [
-    "nsk3001"
+    "nsk3001",
+    "nsk3002"
    ],
    "特急": [],
    "线路": [
@@ -6129,10 +7136,12 @@
     "山陽山陰"
    ],
    "图标文件": [
-    "26_sanyosanin/super-hakuto__hot7000.png"
+    "26_sanyosanin/super-hakuto__hot7000.png",
+    "26_sanyosanin/super-hakuto__hot7000k.png"
    ],
    "图标token": [
-    "hot7000"
+    "hot7000",
+    "hot7000k"
    ],
    "特急": [
     "スーパーはくと"
@@ -6150,17 +7159,29 @@
    "中文": "球磨川鐵道",
    "英文": "Yunomae Line",
    "运营者": [
+    "九州私鉄",
     "山陽山陰"
    ],
    "图标文件": [
-    "26_sanyosanin/untitled__lkure600.png"
+    "26_sanyosanin/untitled__lkure600.png",
+    "26_sanyosanin/untitled__lkure800.png",
+    "34_kyushu_mi/kumamoto-tram__lkuma0803.png"
    ],
    "图标token": [
-    "lkure600"
+    "lkuma0803",
+    "lkure600",
+    "lkure800"
    ],
    "特急": [],
    "线路": [
-    "呉線"
+    "上熊本線",
+    "健軍線",
+    "呉線",
+    "桜町支線",
+    "水前寺線",
+    "熊本市交通局",
+    "熊本市電",
+    "田崎線"
    ],
    "有日文": true,
    "有中文": true,
@@ -6175,10 +7196,12 @@
     "山陽山陰"
    ],
    "图标文件": [
-    "26_sanyosanin/wakasa-rail__wks2500.png"
+    "26_sanyosanin/wakasa-rail__wks2500.png",
+    "26_sanyosanin/wakasa-rail__wks3000.png"
    ],
    "图标token": [
-    "wks2500"
+    "wks2500",
+    "wks3000"
    ],
    "特急": [],
    "线路": [
@@ -6219,9 +7242,11 @@
     "北海道私鉄"
    ],
    "图标文件": [
+    "27_hokkaido_mi/haboro-rail__hbr11.png",
     "27_hokkaido_mi/haboro-rail__hbr22.png"
    ],
    "图标token": [
+    "hbr11",
     "hbr22"
    ],
    "特急": [],
@@ -6338,10 +7363,12 @@
     "北海道私鉄"
    ],
    "图标文件": [
-    "27_hokkaido_mi/shibecha-rail__sbch1.png"
+    "27_hokkaido_mi/shibecha-rail__sbch1.png",
+    "27_hokkaido_mi/shibecha-rail__sbch2.png"
    ],
    "图标token": [
-    "sbch1"
+    "sbch1",
+    "sbch2"
    ],
    "特急": [],
    "线路": [
@@ -6360,10 +7387,12 @@
     "北海道私鉄"
    ],
    "图标文件": [
-    "27_hokkaido_mi/tokachi-rail__tkch2.png"
+    "27_hokkaido_mi/tokachi-rail__tkch2.png",
+    "27_hokkaido_mi/tokachi-rail__tkch2l.png"
    ],
    "图标token": [
-    "tkch2"
+    "tkch2",
+    "tkch2l"
    ],
    "特急": [],
    "线路": [
@@ -6404,10 +7433,12 @@
     "東北私鉄"
    ],
    "图标文件": [
-    "28_tohoku_mi/akitanairiku-rail__akn8800mtgb.png"
+    "28_tohoku_mi/akitanairiku-rail__akn8800mtgb.png",
+    "28_tohoku_mi/akitanairiku-rail__akn8800mtgr.png"
    ],
    "图标token": [
-    "akn8800mtgb"
+    "akn8800mtgb",
+    "akn8800mtgr"
    ],
    "特急": [],
    "线路": [
@@ -6451,10 +7482,12 @@
     "東北私鉄"
    ],
    "图标文件": [
-    "28_tohoku_mi/hanamaki-rail__lhnmk22.png"
+    "28_tohoku_mi/hanamaki-rail__lhnmk22.png",
+    "28_tohoku_mi/hanamaki-rail__lhnmk28.png"
    ],
    "图标token": [
-    "lhnmk22"
+    "lhnmk22",
+    "lhnmk28"
    ],
    "特急": [],
    "线路": [
@@ -6522,10 +7555,12 @@
     "東北私鉄"
    ],
    "图标文件": [
-    "28_tohoku_mi/sanriku-rail__snrk36fk.png"
+    "28_tohoku_mi/sanriku-rail__snrk36fk.png",
+    "28_tohoku_mi/sanriku-rail__snrk36kk.png"
    ],
    "图标token": [
-    "snrk36fk"
+    "snrk36fk",
+    "snrk36kk"
    ],
    "特急": [],
    "线路": [
@@ -6590,9 +7625,11 @@
     "関東私鉄"
    ],
    "图标文件": [
+    "29_kanto_mi/asakusa-line__toky6300.png",
     "29_kanto_mi/asakusa-line__toky6500.png"
    ],
    "图标token": [
+    "toky6300",
     "toky6500"
    ],
    "特急": [],
@@ -6633,16 +7670,20 @@
    "中文": "銚子電鐵22000型電聯車",
    "英文": "Nankai 22000 series",
    "运营者": [
+    "南海",
     "関東私鉄"
    ],
    "图标文件": [
+    "23_nankai/emu-2270-2200__nan2200.png",
     "29_kanto_mi/choshi-rail__chos22000ji.png"
    ],
    "图标token": [
-    "chos22000ji"
+    "chos22000ji",
+    "nan2200"
    ],
    "特急": [],
    "线路": [
+    "貴志川線",
     "銚子",
     "銚子電気鉄道",
     "銚子電気鉄道線",
@@ -6706,9 +7747,11 @@
     "関東私鉄"
    ],
    "图标文件": [
+    "29_kanto_mi/kashima-r-rail__kasmr8000.png",
     "29_kanto_mi/kashima-r-rail__kasmr8001.png"
    ],
    "图标token": [
+    "kasmr8000",
     "kasmr8001"
    ],
    "特急": [],
@@ -6729,9 +7772,11 @@
     "関東私鉄"
    ],
    "图标文件": [
+    "29_kanto_mi/kawasaki-tram__lkwsk200.png",
     "29_kanto_mi/kawasaki-tram__lkwsk700.png"
    ],
    "图标token": [
+    "lkwsk200",
     "lkwsk700"
    ],
    "特急": [],
@@ -7092,10 +8137,12 @@
     "関東私鉄"
    ],
    "图标文件": [
-    "29_kanto_mi/yurikamome-apm__yrkm7000-1.png"
+    "29_kanto_mi/yurikamome-apm__yrkm7000-1.png",
+    "29_kanto_mi/yurikamome-apm__yrkm7000-2.png"
    ],
    "图标token": [
-    "yrkm7000-1"
+    "yrkm7000-1",
+    "yrkm7000-2"
    ],
    "特急": [],
    "线路": [
@@ -7114,9 +8161,11 @@
     "甲信越私鉄"
    ],
    "图标文件": [
+    "30_koshinetsu_mi/alpico-rail__mtmt20100.png",
     "30_koshinetsu_mi/alpico-rail__mtmt20100t.png"
    ],
    "图标token": [
+    "mtmt20100",
     "mtmt20100t"
    ],
    "特急": [],
@@ -7159,9 +8208,11 @@
     "甲信越私鉄"
    ],
    "图标文件": [
+    "30_koshinetsu_mi/fujikyu-rail__fjq6700pp.png",
     "30_koshinetsu_mi/fujikyu-rail__fjq6700r.png"
    ],
    "图标token": [
+    "fjq6700pp",
     "fjq6700r"
    ],
    "特急": [],
@@ -7228,10 +8279,12 @@
     "甲信越私鉄"
    ],
    "图标文件": [
-    "30_koshinetsu_mi/shinano-rail__sin1.png"
+    "30_koshinetsu_mi/shinano-rail__sin1.png",
+    "30_koshinetsu_mi/shinano-rail__sin1b.png"
    ],
    "图标token": [
-    "sin1"
+    "sin1",
+    "sin1b"
    ],
    "特急": [],
    "线路": [
@@ -7318,10 +8371,12 @@
     "東海私鉄"
    ],
    "图标文件": [
-    "31_tokai_mi/akechi-rail__akch1.png"
+    "31_tokai_mi/akechi-rail__akch1.png",
+    "31_tokai_mi/akechi-rail__akch10.png"
    ],
    "图标token": [
-    "akch1"
+    "akch1",
+    "akch10"
    ],
    "特急": [],
    "线路": [
@@ -7362,9 +8417,11 @@
     "東海私鉄"
    ],
    "图标文件": [
+    "31_tokai_mi/enshu-rail__ent2000l.png",
     "31_tokai_mi/enshu-rail__ent2000ll.png"
    ],
    "图标token": [
+    "ent2000l",
     "ent2000ll"
    ],
    "特急": [],
@@ -7479,9 +8536,11 @@
     "東海私鉄"
    ],
    "图标文件": [
+    "31_tokai_mi/nagaragawa-rail__nagr300.png",
     "31_tokai_mi/nagaragawa-rail__nagr501.png"
    ],
    "图标token": [
+    "nagr300",
     "nagr501"
    ],
    "特急": [],
@@ -7501,15 +8560,18 @@
     "東海私鉄"
    ],
    "图标文件": [
-    "31_tokai_mi/nagoya-metro__nag6000.png"
+    "31_tokai_mi/nagoya-metro__nag6000.png",
+    "31_tokai_mi/sakuradori-line__nag6000ll.png"
    ],
    "图标token": [
-    "nag6000"
+    "nag6000",
+    "nag6000ll"
    ],
    "特急": [],
    "线路": [
     "2号線名城線・名港線",
     "4号線名城線",
+    "6号線桜通線",
     "上飯田線"
    ],
    "有日文": true,
@@ -7594,15 +8656,20 @@
     "東海私鉄"
    ],
    "图标文件": [
-    "31_tokai_mi/sangi-rail__sang5000.png"
+    "31_tokai_mi/sangi-rail__sang202.png",
+    "31_tokai_mi/sangi-rail__sang5000.png",
+    "31_tokai_mi/sangi-rail__sang750.png"
    ],
    "图标token": [
-    "sang5000"
+    "sang202",
+    "sang5000",
+    "sang750"
    ],
    "特急": [],
    "线路": [
     "三岐線",
-    "三岐鉄道"
+    "三岐鉄道",
+    "北勢線"
    ],
    "有日文": true,
    "有中文": true,
@@ -7638,15 +8705,21 @@
    "中文": "樽見鐵道",
    "英文": "Tarumi Line",
    "运营者": [
-    "東海私鉄"
+    "東海私鉄",
+    "阪神"
    ],
    "图标文件": [
+    "22_hanshin/sanyo-rail__snyo280.png",
     "31_tokai_mi/tarumi-rail__tarm330s.png"
    ],
    "图标token": [
+    "snyo280",
     "tarm330s"
    ],
-   "特急": [],
+   "特急": [
+    "山陽電鉄特急",
+    "直通特急"
+   ],
    "线路": [
     "樽見線",
     "樽見鉄道"
@@ -7664,9 +8737,11 @@
     "東海私鉄"
    ],
    "图标文件": [
+    "31_tokai_mi/tenryu-rail__tht2000.png",
     "31_tokai_mi/tenryu-rail__thtg100.png"
    ],
    "图标token": [
+    "tht2000",
     "thtg100"
    ],
    "特急": [],
@@ -7777,10 +8852,12 @@
    ],
    "图标文件": [
     "32_kansai_mi/mizuma-rail__mzma1000.png",
+    "32_kansai_mi/untitled__mzma7000.png",
     "32_kansai_mi/untitled__mzma7001.png"
    ],
    "图标token": [
     "mzma1000",
+    "mzma7000",
     "mzma7001"
    ],
    "特急": [],
@@ -7801,10 +8878,12 @@
     "関西私鉄"
    ],
    "图标文件": [
-    "32_kansai_mi/osaka-monorail__mn-osk3000.png"
+    "32_kansai_mi/osaka-monorail__mn-osk3000.png",
+    "32_kansai_mi/osaka-monorail__mn-osk3000y.png"
    ],
    "图标token": [
-    "mn-osk3000"
+    "mn-osk3000",
+    "mn-osk3000y"
    ],
    "特急": [],
    "线路": [
@@ -8014,13 +9093,16 @@
     "四国私鉄"
    ],
    "图标文件": [
-    "33_shikoku_mi/kotoden-rail__ktdn700r.png"
+    "33_shikoku_mi/kotoden-rail__ktdn700r.png",
+    "33_shikoku_mi/untitled__ktdn600g.png"
    ],
    "图标token": [
+    "ktdn600g",
     "ktdn700r"
    ],
    "特急": [],
    "线路": [
+    "志度線",
     "琴平線",
     "長尾線"
    ],
@@ -8061,14 +9143,18 @@
     "四国私鉄"
    ],
    "图标文件": [
+    "33_shikoku_mi/kotoden-rail__ktdn720r.png",
     "33_shikoku_mi/untitled__ktdn721r.png"
    ],
    "图标token": [
+    "ktdn720r",
     "ktdn721r"
    ],
    "特急": [],
    "线路": [
-    "志度線"
+    "志度線",
+    "琴平線",
+    "長尾線"
    ],
    "有日文": true,
    "有中文": true,
@@ -8083,9 +9169,11 @@
     "四国私鉄"
    ],
    "图标文件": [
+    "33_shikoku_mi/zentuji-tram-1-2-2026-7-3-update__ktsn75.png",
     "33_shikoku_mi/zentuji-tram-1-2-2026-7-3-update__ktsn83.png"
    ],
    "图标token": [
+    "ktsn75",
     "ktsn83"
    ],
    "特急": [],
@@ -8270,10 +9358,12 @@
     "九州私鉄"
    ],
    "图标文件": [
-    "34_kyushu_mi/kumaden-rail__kmdn03p.png"
+    "34_kyushu_mi/kumaden-rail__kmdn03p.png",
+    "34_kyushu_mi/kumaden-rail__kmdn03pp.png"
    ],
    "图标token": [
-    "kmdn03p"
+    "kmdn03p",
+    "kmdn03pp"
    ],
    "特急": [],
    "线路": [
@@ -8577,15 +9667,68 @@
     "ケーブルカー"
    ],
    "图标文件": [
-    "35_cablecar/kiboso-hotel-1-2-2026-9-18-update__slp-kiboso1gh.png"
+    "35_cablecar/eizan-funicular__cb-kfuk.png",
+    "35_cablecar/jukkoku-funicular__cb-jkk1v.png",
+    "35_cablecar/kiboso-hotel-1-2-2026-9-18-update__slp-kiboso1gh.png",
+    "35_cablecar/kiboso-hotel-1-2-2026-9-18-update__slp-kiboso1rh.png",
+    "35_cablecar/kurobe-funicular__cb-krb1l.png",
+    "35_cablecar/maya-funicular__cb-maya1r.png",
+    "35_cablecar/minoo-funicular__cb-mno1g.png",
+    "35_cablecar/mitake-funicular__cb-mtk3lr.png",
+    "35_cablecar/myoken-funicular__cb-mykn2u.png",
+    "35_cablecar/oyama-funicular__cb-oym1s.png",
+    "35_cablecar/rakutenchi-funicular__cb-rktn1.png",
+    "35_cablecar/rakutenchi-funicular__cb-rktn2.png",
+    "35_cablecar/sarakura-funicular__cb-hbsrb.png",
+    "35_cablecar/takaosan-funicular__cb-tko102.png",
+    "35_cablecar/tateyama-funicular__cb-ttym0.png",
+    "35_cablecar/tateyama-funicular__cb-ttym0l.png",
+    "35_cablecar/tsukuba-funicular__cb-tkb-g.png",
+    "35_cablecar/untitled__cb-krm2l.png",
+    "35_cablecar/yakuri-funicular__cb-ygr2l.png"
    ],
    "图标token": [
-    "slp-kiboso1gh"
+    "cb-hbsrb",
+    "cb-jkk1v",
+    "cb-kfuk",
+    "cb-krb1l",
+    "cb-krm2l",
+    "cb-maya1r",
+    "cb-mno1g",
+    "cb-mtk3lr",
+    "cb-mykn2u",
+    "cb-oym1s",
+    "cb-rktn1",
+    "cb-rktn2",
+    "cb-tkb-g",
+    "cb-tko102",
+    "cb-ttym0",
+    "cb-ttym0l",
+    "cb-ygr2l",
+    "slp-kiboso1gh",
+    "slp-kiboso1rh"
    ],
    "特急": [],
    "线路": [
+    "八栗ケーブル",
+    "別府ラクテンチケーブル線",
+    "十国鋼索線",
+    "叡山ケーブル",
+    "大山鋼索線",
+    "妙見線",
+    "御岳登山ケーブル",
+    "摩耶ケーブル線",
     "湯の山線",
-    "近鉄湯の山線"
+    "皿倉山ケーブルカー",
+    "立山ケーブルカー",
+    "筑波山鋼索鉄道線",
+    "箕面線",
+    "近鉄湯の山線",
+    "鞍馬線",
+    "高尾",
+    "高尾登山ケーブル",
+    "高尾線",
+    "黒部ケーブルカー"
    ],
    "有日文": true,
    "有中文": true,
@@ -9017,6 +10160,7003 @@
    "有中文": false,
    "有英文": false,
    "文件": "data/生駒山上遊園地.json"
+  },
+  {
+   "日文": "JR東日本719系電車",
+   "中文": "JR东日本719系电力动车组",
+   "英文": "719 series",
+   "运营者": [
+    "JR東日本"
+   ],
+   "图标文件": [
+    "02_east/banetsu-line__e719b.png",
+    "02_east/banetsu-line__e719bs.png"
+   ],
+   "图标token": [
+    "e719b",
+    "e719bs"
+   ],
+   "特急": [
+    "SLばんえつ物語"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/JR東日本719系電車.json"
+  },
+  {
+   "日文": "JR東日本651系電車",
+   "中文": "JR东日本651系电力动车组",
+   "英文": "651 series",
+   "运营者": [
+    "JR東日本"
+   ],
+   "图标文件": [
+    "02_east/kusatsu-akagi__e651.png",
+    "02_east/kusatsu-akagi__e651f.png"
+   ],
+   "图标token": [
+    "e651",
+    "e651f"
+   ],
+   "特急": [
+    "あかぎ",
+    "草津"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/JR東日本651系電車.json"
+  },
+  {
+   "日文": "国鉄185系電車",
+   "中文": "日本國鐵185系電力動車組",
+   "英文": "185 series",
+   "运营者": [
+    "JR東日本"
+   ],
+   "图标文件": [
+    "02_east/kusatsu-akagi__e185ex.png",
+    "02_east/kusatsu-akagi__e185ex2.png",
+    "02_east/kusatsu-akagi__e185fl.png",
+    "02_east/kusatsu-akagi__e185j.png",
+    "02_east/kusatsu-akagi__e185sh.png",
+    "02_east/kusatsu-akagi__e185shh.png",
+    "02_east/odoriko__e185od.png",
+    "02_east/odoriko__e185od2.png",
+    "02_east/odoriko__e185odj.png"
+   ],
+   "图标token": [
+    "e185ex",
+    "e185ex2",
+    "e185fl",
+    "e185j",
+    "e185od",
+    "e185od2",
+    "e185odj",
+    "e185sh",
+    "e185shh"
+   ],
+   "特急": [
+    "あかぎ",
+    "草津",
+    "踊り子"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/国鉄185系電車.json"
+  },
+  {
+   "日文": "国鉄183系電車",
+   "中文": null,
+   "英文": "183 series",
+   "运营者": [
+    "JR東日本"
+   ],
+   "图标文件": [
+    "02_east/azusa-kaiji__e183az.png",
+    "02_east/azusa-kaiji__e183az1.png",
+    "02_east/azusa-kaiji__e183ka.png",
+    "02_east/boso-exp__e183k.png",
+    "02_east/kusatsu-akagi__e183nm.png"
+   ],
+   "图标token": [
+    "e183az",
+    "e183az1",
+    "e183k",
+    "e183ka",
+    "e183nm"
+   ],
+   "特急": [
+    "あかぎ",
+    "あずさ",
+    "かいじ",
+    "さざなみ",
+    "しおさい",
+    "はちおうじ",
+    "わかしお",
+    "湘南",
+    "草津"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": true,
+   "文件": "data/国鉄183系電車.json"
+  },
+  {
+   "日文": "JR四国2600系気動車",
+   "中文": "JR四國2600系柴聯車",
+   "英文": "JR Shikoku 2600 series",
+   "运营者": [
+    "JR四国"
+   ],
+   "图标文件": [
+    "05_shikoku/shikoku-express__s2600ap.png",
+    "05_shikoku/shikoku-express__s2600apb.png"
+   ],
+   "图标token": [
+    "s2600ap",
+    "s2600apb"
+   ],
+   "特急": [
+    "うずしお",
+    "南風",
+    "宇和海"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/JR四国2600系気動車.json"
+  },
+  {
+   "日文": "小田急70000形電車",
+   "中文": "小田急70000型電力動車組",
+   "英文": "Odakyu 70000 series GSE",
+   "运营者": [
+    "小田急"
+   ],
+   "图标文件": [
+    "13_odakyu/untitled__odq70000.png"
+   ],
+   "图标token": [
+    "odq70000"
+   ],
+   "特急": [
+    "えのしま",
+    "さがみ",
+    "はこね",
+    "ふじさん",
+    "ホームウェイ",
+    "メトロえのしま",
+    "メトロはこね",
+    "メトロホームウェイ",
+    "メトロモーニングウェイ",
+    "モーニングウェイ",
+    "小田急特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/小田急70000形電車.json"
+  },
+  {
+   "日文": "小田急60000形電車",
+   "中文": "小田急60000型電聯車",
+   "英文": "Odakyu 60000 series MSE",
+   "运营者": [
+    "小田急"
+   ],
+   "图标文件": [
+    "13_odakyu/untitled__odq60000.png"
+   ],
+   "图标token": [
+    "odq60000"
+   ],
+   "特急": [
+    "えのしま",
+    "さがみ",
+    "はこね",
+    "ふじさん",
+    "ホームウェイ",
+    "メトロえのしま",
+    "メトロはこね",
+    "メトロホームウェイ",
+    "メトロモーニングウェイ",
+    "モーニングウェイ",
+    "小田急特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/小田急60000形電車.json"
+  },
+  {
+   "日文": "小田急30000形電車",
+   "中文": "小田急30000型電聯車",
+   "英文": "Odakyu 30000 series EXE",
+   "运营者": [
+    "小田急"
+   ],
+   "图标文件": [
+    "13_odakyu/untitled__odq30000.png",
+    "13_odakyu/untitled__odq30000k.png"
+   ],
+   "图标token": [
+    "odq30000",
+    "odq30000k"
+   ],
+   "特急": [
+    "えのしま",
+    "さがみ",
+    "はこね",
+    "ふじさん",
+    "ホームウェイ",
+    "メトロえのしま",
+    "メトロはこね",
+    "メトロホームウェイ",
+    "メトロモーニングウェイ",
+    "モーニングウェイ",
+    "小田急特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/小田急30000形電車.json"
+  },
+  {
+   "日文": "小田急7000形電車",
+   "中文": "小田急70000型電力動車組",
+   "英文": "Odakyu 7000 series LSE",
+   "运营者": [
+    "小田急"
+   ],
+   "图标文件": [
+    "13_odakyu/rse-se-hise-nse__odq7000.png",
+    "13_odakyu/rse-se-hise-nse__odq7000r.png"
+   ],
+   "图标token": [
+    "odq7000",
+    "odq7000r"
+   ],
+   "特急": [
+    "えのしま",
+    "さがみ",
+    "はこね",
+    "ふじさん",
+    "ホームウェイ",
+    "メトロえのしま",
+    "メトロはこね",
+    "メトロホームウェイ",
+    "メトロモーニングウェイ",
+    "モーニングウェイ",
+    "小田急特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/小田急7000形電車.json"
+  },
+  {
+   "日文": "小田急20000形電車",
+   "中文": null,
+   "英文": "Odakyu 20000 series RSE",
+   "运营者": [
+    "小田急"
+   ],
+   "图标文件": [
+    "13_odakyu/rse-se-hise-nse__odq20000.png"
+   ],
+   "图标token": [
+    "odq20000"
+   ],
+   "特急": [
+    "えのしま",
+    "さがみ",
+    "はこね",
+    "ふじさん",
+    "ホームウェイ",
+    "メトロえのしま",
+    "メトロはこね",
+    "メトロホームウェイ",
+    "メトロモーニングウェイ",
+    "モーニングウェイ",
+    "小田急特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": true,
+   "文件": "data/小田急20000形電車.json"
+  },
+  {
+   "日文": "小田急3000形電車",
+   "中文": "小田急3000型電聯車",
+   "英文": null,
+   "运营者": [
+    "小田急"
+   ],
+   "图标文件": [
+    "13_odakyu/rse-se-hise-nse__odq3000se.png",
+    "13_odakyu/rse-se-hise-nse__odq3000se0.png"
+   ],
+   "图标token": [
+    "odq3000se",
+    "odq3000se0"
+   ],
+   "特急": [
+    "えのしま",
+    "さがみ",
+    "はこね",
+    "ふじさん",
+    "ホームウェイ",
+    "メトロえのしま",
+    "メトロはこね",
+    "メトロホームウェイ",
+    "メトロモーニングウェイ",
+    "モーニングウェイ",
+    "小田急特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": false,
+   "文件": "data/小田急3000形電車.json"
+  },
+  {
+   "日文": "小田急10000形電車",
+   "中文": "小田急10000型電聯車",
+   "英文": "Odakyu 10000 series HiSE",
+   "运营者": [
+    "小田急"
+   ],
+   "图标文件": [
+    "13_odakyu/rse-se-hise-nse__odq10000.png"
+   ],
+   "图标token": [
+    "odq10000"
+   ],
+   "特急": [
+    "えのしま",
+    "さがみ",
+    "はこね",
+    "ふじさん",
+    "ホームウェイ",
+    "メトロえのしま",
+    "メトロはこね",
+    "メトロホームウェイ",
+    "メトロモーニングウェイ",
+    "モーニングウェイ",
+    "小田急特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/小田急10000形電車.json"
+  },
+  {
+   "日文": "小田急3100形電車",
+   "中文": null,
+   "英文": "Odakyu 3100 series NSE",
+   "运营者": [
+    "小田急"
+   ],
+   "图标文件": [
+    "13_odakyu/rse-se-hise-nse__odq3100.png",
+    "13_odakyu/rse-se-hise-nse__odq3100ym70.png"
+   ],
+   "图标token": [
+    "odq3100",
+    "odq3100ym70"
+   ],
+   "特急": [
+    "えのしま",
+    "さがみ",
+    "はこね",
+    "ふじさん",
+    "ホームウェイ",
+    "メトロえのしま",
+    "メトロはこね",
+    "メトロホームウェイ",
+    "メトロモーニングウェイ",
+    "モーニングウェイ",
+    "小田急特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": true,
+   "文件": "data/小田急3100形電車.json"
+  },
+  {
+   "日文": "JR九州885系電車",
+   "中文": "JR九州885系電力動車組",
+   "英文": "885 series",
+   "运营者": [
+    "JR九州"
+   ],
+   "图标文件": [
+    "06_kyushu/kamome-sonic__k885kb.png",
+    "06_kyushu/kamome-sonic__k885s.png"
+   ],
+   "图标token": [
+    "k885kb",
+    "k885s"
+   ],
+   "特急": [
+    "かささぎ",
+    "きらめき",
+    "にちりん",
+    "にちりんシーガイア",
+    "ひゅうが",
+    "ソニック",
+    "リレーかもめ",
+    "博多南"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/JR九州885系電車.json"
+  },
+  {
+   "日文": "JR九州883系電車",
+   "中文": "JR九州883系电力动车组",
+   "英文": "883 series",
+   "运营者": [
+    "JR九州"
+   ],
+   "图标文件": [
+    "06_kyushu/kamome-sonic__k883n.png",
+    "06_kyushu/kamome-sonic__k883n6.png",
+    "06_kyushu/kamome-sonic__k883nm.png",
+    "06_kyushu/sonic__k883-2.png",
+    "06_kyushu/sonic__k883.png",
+    "06_kyushu/sonic__k883b.png",
+    "06_kyushu/sonic__k883o-2.png",
+    "06_kyushu/sonic__k883o.png",
+    "06_kyushu/sonic__k883ob.png",
+    "06_kyushu/sonic__k883or.png",
+    "06_kyushu/sonic__k883os.png",
+    "06_kyushu/sonic__k883oy.png",
+    "06_kyushu/sonic__k883r.png",
+    "06_kyushu/sonic__k883s.png",
+    "06_kyushu/sonic__k883y.png"
+   ],
+   "图标token": [
+    "k883",
+    "k883-2",
+    "k883b",
+    "k883n",
+    "k883n6",
+    "k883nm",
+    "k883o",
+    "k883o-2",
+    "k883ob",
+    "k883or",
+    "k883os",
+    "k883oy",
+    "k883r",
+    "k883s",
+    "k883y"
+   ],
+   "特急": [
+    "かささぎ",
+    "きらめき",
+    "にちりん",
+    "にちりんシーガイア",
+    "ひゅうが",
+    "ソニック",
+    "リレーかもめ",
+    "博多南"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/JR九州883系電車.json"
+  },
+  {
+   "日文": "JR西日本キハ189系気動車",
+   "中文": "JR西日本KiHa 189系柴聯車",
+   "英文": "KiHa 189 series",
+   "运营者": [
+    "JR西日本"
+   ],
+   "图标文件": [
+    "04_west/sanin-area__w189.png"
+   ],
+   "图标token": [
+    "w189"
+   ],
+   "特急": [
+    "きのさき",
+    "たんご",
+    "はしだて",
+    "はまかぜ",
+    "まいづる",
+    "スーパーいなば",
+    "スーパーおき",
+    "スーパーまつかぜ"
+   ],
+   "线路": [
+    "山陰本線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/JR西日本キハ189系気動車.json"
+  },
+  {
+   "日文": "JR西日本283系電車",
+   "中文": "JR西日本283系電力動車組",
+   "英文": "283 series",
+   "运营者": [
+    "JR西日本"
+   ],
+   "图标文件": [
+    "04_west/kuroshio__w283.png",
+    "04_west/kuroshio__w283k-1.png",
+    "04_west/kuroshio__w283k.png"
+   ],
+   "图标token": [
+    "w283",
+    "w283k",
+    "w283k-1"
+   ],
+   "特急": [
+    "くろしお"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/JR西日本283系電車.json"
+  },
+  {
+   "日文": "国鉄381系電車",
+   "中文": null,
+   "英文": "381 series",
+   "运营者": [
+    "JR東海",
+    "JR西日本"
+   ],
+   "图标文件": [
+    "03_tokai/shinano__c381n.png",
+    "04_west/kuroshio-kagayaki__w381kr1.png",
+    "04_west/kuroshio-kagayaki__w381kr2.png",
+    "04_west/kuroshio-kagayaki__w381pkr1.png",
+    "04_west/kuroshio-kagayaki__w381pkr2.png",
+    "04_west/yakumo__w381pyk.png",
+    "04_west/yakumo__w381yk.png",
+    "04_west/yakumo__w381yk5.png",
+    "04_west/yakumo__w381yk5j.png",
+    "04_west/yakumo__w381ykk.png"
+   ],
+   "图标token": [
+    "c381n",
+    "w381kr1",
+    "w381kr2",
+    "w381pkr1",
+    "w381pkr2",
+    "w381pyk",
+    "w381yk",
+    "w381yk5",
+    "w381yk5j",
+    "w381ykk"
+   ],
+   "特急": [
+    "くろしお",
+    "しなの",
+    "やくも"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": true,
+   "文件": "data/国鉄381系電車.json"
+  },
+  {
+   "日文": "東武1720系電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "東武"
+   ],
+   "图标文件": [
+    "08_tobu/kegon-daiya__tob1700o.png",
+    "08_tobu/kegon-daiya__tob1720.png"
+   ],
+   "图标token": [
+    "tob1700o",
+    "tob1720"
+   ],
+   "特急": [
+    "けごん"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/東武1720系電車.json"
+  },
+  {
+   "日文": "東武6000系電車",
+   "中文": null,
+   "英文": "Seibu 6000 series",
+   "运营者": [
+    "東武"
+   ],
+   "图标文件": [
+    "08_tobu/kegon-daiya__tob6000.png"
+   ],
+   "图标token": [
+    "tob6000"
+   ],
+   "特急": [
+    "けごん"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": true,
+   "文件": "data/東武6000系電車.json"
+  },
+  {
+   "日文": "東武5700系電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "東武"
+   ],
+   "图标文件": [
+    "08_tobu/kegon-daiya__tob5700.png",
+    "08_tobu/kegon-daiya__tob5700bl.png"
+   ],
+   "图标token": [
+    "tob5700",
+    "tob5700bl"
+   ],
+   "特急": [
+    "けごん"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/東武5700系電車.json"
+  },
+  {
+   "日文": "南海11001系電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "南海"
+   ],
+   "图标文件": [
+    "23_nankai/kouya-rinkan__nan11001.png",
+    "23_nankai/rapit-southern-exp__nan12001.png"
+   ],
+   "图标token": [
+    "nan11001",
+    "nan12001"
+   ],
+   "特急": [
+    "こうや",
+    "りんかん",
+    "サザン",
+    "ラピート"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/南海11001系電車.json"
+  },
+  {
+   "日文": "南海31000系電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "南海"
+   ],
+   "图标文件": [
+    "23_nankai/kouya-rinkan__nan31000.png"
+   ],
+   "图标token": [
+    "nan31000"
+   ],
+   "特急": [
+    "こうや",
+    "りんかん"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/南海31000系電車.json"
+  },
+  {
+   "日文": "南海20000系電車",
+   "中文": "相鐵20000系電聯車",
+   "英文": null,
+   "运营者": [
+    "南海"
+   ],
+   "图标文件": [
+    "23_nankai/kouya-rinkan__nan20000.png"
+   ],
+   "图标token": [
+    "nan20000"
+   ],
+   "特急": [
+    "こうや",
+    "りんかん"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": false,
+   "文件": "data/南海20000系電車.json"
+  },
+  {
+   "日文": "南海30000系電車",
+   "中文": "近鐵30000系電聯車",
+   "英文": "Nankai 30000 series",
+   "运营者": [
+    "南海"
+   ],
+   "图标文件": [
+    "23_nankai/kouya-rinkan__nan30000.png"
+   ],
+   "图标token": [
+    "nan30000"
+   ],
+   "特急": [
+    "こうや",
+    "りんかん"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/南海30000系電車.json"
+  },
+  {
+   "日文": "JR東日本255系電車",
+   "中文": "JR東日本255系電力動車組",
+   "英文": "255 series",
+   "运营者": [
+    "JR東日本"
+   ],
+   "图标文件": [
+    "02_east/n-ex-boso-exp__e255.png"
+   ],
+   "图标token": [
+    "e255"
+   ],
+   "特急": [
+    "さざなみ",
+    "しおさい",
+    "わかしお",
+    "成田エクスプレス"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/JR東日本255系電車.json"
+  },
+  {
+   "日文": "JR東日本209系電車",
+   "中文": "JR東日本209系電聯車",
+   "英文": "209 series",
+   "运营者": [
+    "JR東日本"
+   ],
+   "图标文件": [
+    "02_east/boso-area__e209c.png",
+    "02_east/boso-bicicle-base__e209bbb.png"
+   ],
+   "图标token": [
+    "e209bbb",
+    "e209c"
+   ],
+   "特急": [
+    "さざなみ",
+    "しおさい",
+    "わかしお"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/JR東日本209系電車.json"
+  },
+  {
+   "日文": "国鉄113系電車",
+   "中文": "日本國鐵113系電力動車組",
+   "英文": "113 series",
+   "运营者": [
+    "JR東日本",
+    "JR西日本"
+   ],
+   "图标文件": [
+    "02_east/boso-area__e113-su.png",
+    "02_east/boso-area__e113su16.png",
+    "02_east/shinagawa-999__e113br.png",
+    "04_west/sanyo-area__w113hid2.png",
+    "04_west/sanyo-area__w113hid3.png",
+    "04_west/sanyo-line__w113abml.png"
+   ],
+   "图标token": [
+    "e113-su",
+    "e113br",
+    "e113su16",
+    "w113abml",
+    "w113hid2",
+    "w113hid3"
+   ],
+   "特急": [
+    "さざなみ",
+    "しおさい",
+    "わかしお",
+    "山陽電鉄特急",
+    "直通特急"
+   ],
+   "线路": [
+    "品川"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/国鉄113系電車.json"
+  },
+  {
+   "日文": "JR西日本271系電車",
+   "中文": "JR西日本271系电力动车组",
+   "英文": "271 series",
+   "运营者": [
+    "JR西日本"
+   ],
+   "图标文件": [
+    "04_west/haruka__w271.png"
+   ],
+   "图标token": [
+    "w271"
+   ],
+   "特急": [
+    "はるか"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/JR西日本271系電車.json"
+  },
+  {
+   "日文": "JR九州キハ71系気動車",
+   "中文": null,
+   "英文": "KiHa 71 series",
+   "运营者": [
+    "JR九州"
+   ],
+   "图标文件": [
+    "06_kyushu/yufuin-trans-kyushu__k71.png"
+   ],
+   "图标token": [
+    "k71"
+   ],
+   "特急": [
+    "ゆふ",
+    "九州横断特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": true,
+   "文件": "data/JR九州キハ71系気動車.json"
+  },
+  {
+   "日文": "東武1800系電車",
+   "中文": null,
+   "英文": "Tobu 1800 series",
+   "运营者": [
+    "東武"
+   ],
+   "图标文件": [
+    "08_tobu/ryomo-shimotsuke__tob1800.png",
+    "08_tobu/ryomo-shimotsuke__tob1800o.png"
+   ],
+   "图标token": [
+    "tob1800",
+    "tob1800o"
+   ],
+   "特急": [
+    "りょうもう",
+    "川越特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": true,
+   "文件": "data/東武1800系電車.json"
+  },
+  {
+   "日文": "東武300系電車",
+   "中文": "新幹線300系電力動車組",
+   "英文": "Tobu 300 series",
+   "运营者": [
+    "東武"
+   ],
+   "图标文件": [
+    "08_tobu/ryomo-shimotsuke__tob350.png"
+   ],
+   "图标token": [
+    "tob350"
+   ],
+   "特急": [
+    "りょうもう",
+    "川越特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/東武300系電車.json"
+  },
+  {
+   "日文": "京成3150形電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "京成"
+   ],
+   "图标文件": [
+    "09_keisei/skyliner-keisei__kese3150.png"
+   ],
+   "图标token": [
+    "kese3150"
+   ],
+   "特急": [
+    "アクセス特急",
+    "スカイライナー",
+    "京成快速特急",
+    "京成特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/京成3150形電車.json"
+  },
+  {
+   "日文": "京成3500形電車",
+   "中文": null,
+   "英文": "Keisei 3500 series",
+   "运营者": [
+    "京成"
+   ],
+   "图标文件": [
+    "09_keisei/shibayama-rail__sbym3500ng.png",
+    "09_keisei/skyliner-keisei__kese3500n.png"
+   ],
+   "图标token": [
+    "kese3500n",
+    "sbym3500ng"
+   ],
+   "特急": [
+    "アクセス特急",
+    "スカイライナー",
+    "京成快速特急",
+    "京成特急"
+   ],
+   "线路": [
+    "芝山鉄道線"
+   ],
+   "有日文": true,
+   "有中文": false,
+   "有英文": true,
+   "文件": "data/京成3500形電車.json"
+  },
+  {
+   "日文": "京成3400形電車",
+   "中文": "京成3400型電力動車組",
+   "英文": "Keisei 3400 series",
+   "运营者": [
+    "京成"
+   ],
+   "图标文件": [
+    "09_keisei/skyliner-keisei__kese3400.png"
+   ],
+   "图标token": [
+    "kese3400"
+   ],
+   "特急": [
+    "アクセス特急",
+    "スカイライナー",
+    "京成快速特急",
+    "京成特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/京成3400形電車.json"
+  },
+  {
+   "日文": "京成100形電車",
+   "中文": "京成AE100型電聯車",
+   "英文": null,
+   "运营者": [
+    "京成"
+   ],
+   "图标文件": [
+    "09_keisei/skyliner__kese100.png"
+   ],
+   "图标token": [
+    "kese100"
+   ],
+   "特急": [
+    "アクセス特急",
+    "スカイライナー",
+    "京成快速特急",
+    "京成特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": false,
+   "文件": "data/京成100形電車.json"
+  },
+  {
+   "日文": "JR北海道785系電車",
+   "中文": "JR北海道785系電聯車",
+   "英文": "785 series",
+   "运营者": [
+    "JR北海道"
+   ],
+   "图标文件": [
+    "01_hokkaido/lilac-kamui-789-785__h785.png"
+   ],
+   "图标token": [
+    "h785"
+   ],
+   "特急": [
+    "エアポート",
+    "カムイ"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/JR北海道785系電車.json"
+  },
+  {
+   "日文": "京急600形電車 (3代)",
+   "中文": "京急600型電聯車 (3代)",
+   "英文": "Keikyu 600 series",
+   "运营者": [
+    "京急"
+   ],
+   "图标文件": [
+    "15_keikyu/untitled__khk600.png",
+    "15_keikyu/untitled__khk600bl.png"
+   ],
+   "图标token": [
+    "khk600",
+    "khk600bl"
+   ],
+   "特急": [
+    "エアポート快特",
+    "京急特急"
+   ],
+   "线路": [
+    "久里浜線",
+    "京急本線",
+    "逗子線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/京急600形電車 (3代).json"
+  },
+  {
+   "日文": "南海12000系電車",
+   "中文": null,
+   "英文": "Nankai 12000 series",
+   "运营者": [
+    "南海"
+   ],
+   "图标文件": [
+    "23_nankai/rapit-southern-exp__nan12000.png",
+    "23_nankai/semboku-liner-1-2-2025-8-14-update__snbk12000.png",
+    "23_nankai/semboku-liner__snbk12000n.png"
+   ],
+   "图标token": [
+    "nan12000",
+    "snbk12000",
+    "snbk12000n"
+   ],
+   "特急": [
+    "サザン",
+    "ラピート",
+    "泉北ライナー"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": true,
+   "文件": "data/南海12000系電車.json"
+  },
+  {
+   "日文": "南海10000系電車",
+   "中文": null,
+   "英文": "Nankai 10000 series",
+   "运营者": [
+    "南海"
+   ],
+   "图标文件": [
+    "23_nankai/rapit-southern-exp__nan10000.png"
+   ],
+   "图标token": [
+    "nan10000"
+   ],
+   "特急": [
+    "サザン",
+    "ラピート"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": true,
+   "文件": "data/南海10000系電車.json"
+  },
+  {
+   "日文": "智頭急行HOT3500形気動車",
+   "中文": "智頭急行HOT3500型柴聯車",
+   "英文": null,
+   "运营者": [
+    "山陽山陰"
+   ],
+   "图标文件": [
+    "26_sanyosanin/super-hakuto__hot3500.png"
+   ],
+   "图标token": [
+    "hot3500"
+   ],
+   "特急": [
+    "スーパーはくと"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": false,
+   "文件": "data/智頭急行HOT3500形気動車.json"
+  },
+  {
+   "日文": "国鉄51系電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "JR北海道"
+   ],
+   "图标文件": [
+    "01_hokkaido/hokutosei-rishiri__dd51bl.png",
+    "01_hokkaido/hokutosei-rishiri__dd51bl2.png"
+   ],
+   "图标token": [
+    "dd51bl",
+    "dd51bl2"
+   ],
+   "特急": [
+    "スーパー北斗",
+    "北斗",
+    "能登かがり火"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/国鉄51系電車.json"
+  },
+  {
+   "日文": "JR東日本",
+   "中文": "東日本旅客鐵道",
+   "英文": "East Japan Railway Company",
+   "运营者": [
+    "JR新幹線",
+    "JR東日本"
+   ],
+   "图标文件": [
+    "00_shinkansen/e8-e3-2-tsubasa__e8-1.png",
+    "00_shinkansen/komachi-e6__e6-1.png",
+    "00_shinkansen/max-toki-e4-e1__e4n-1.png",
+    "02_east/banetsu-akakura__e12ba.png",
+    "02_east/banetsu-akakura__e12ba2.png",
+    "02_east/banetsu-shukura__e12bap.png",
+    "02_east/banetsu-shukura__e12bap2.png",
+    "02_east/banetsu-shukura__e40jksn.png",
+    "02_east/gono-oga-line__ee801ogr.png",
+    "02_east/hokutosei__j24dng.png",
+    "02_east/hokutosei__j24dng0.png",
+    "02_east/hokutosei__j24hg.png",
+    "02_east/hokutosei__j24m50g.png",
+    "02_east/nagano-area__e58ucc.png",
+    "02_east/niigata-area__e129ni.png",
+    "02_east/yonesaka-line__e58yo1.png"
+   ],
+   "图标token": [
+    "e129ni",
+    "e12ba",
+    "e12ba2",
+    "e12bap",
+    "e12bap2",
+    "e40jksn",
+    "e4n-1",
+    "e58ucc",
+    "e58yo1",
+    "e6-1",
+    "e8-1",
+    "ee801ogr",
+    "j24dng",
+    "j24dng0",
+    "j24hg",
+    "j24m50g"
+   ],
+   "特急": [
+    "SLばんえつ物語",
+    "こまち",
+    "たにがわ",
+    "つばさ",
+    "スーパー北斗",
+    "北斗",
+    "能登かがり火",
+    "長野電鉄特急"
+   ],
+   "线路": [
+    "五能線",
+    "弥彦線",
+    "新潟",
+    "男鹿線",
+    "白新線",
+    "磐越東線",
+    "磐越西線",
+    "米坂線",
+    "羽越本線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/JR東日本.json"
+  },
+  {
+   "日文": "名鉄2200系電車",
+   "中文": "京阪2200系電聯車",
+   "英文": "Meitetsu 2200 series",
+   "运营者": [
+    "名鉄"
+   ],
+   "图标文件": [
+    "17_meitetsu/2000-2200-1700__mei1700.png",
+    "17_meitetsu/2000-2200-1700__mei2200.png"
+   ],
+   "图标token": [
+    "mei1700",
+    "mei2200"
+   ],
+   "特急": [
+    "ミュースカイ",
+    "名鉄特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/名鉄2200系電車.json"
+  },
+  {
+   "日文": "西武10000系電車",
+   "中文": "東京地鐵10000系電力動車組",
+   "英文": "Seibu 10000 series",
+   "运营者": [
+    "北陸",
+    "西武"
+   ],
+   "图标文件": [
+    "12_seibu/raview-red-arrow__seb10000.png",
+    "12_seibu/raview-red-arrow__seb10000b.png",
+    "25_hokuriku/toyama-regioal-rail__tymti20020.png"
+   ],
+   "图标token": [
+    "seb10000",
+    "seb10000b",
+    "tymti20020"
+   ],
+   "特急": [
+    "ラビュー",
+    "富山地方鉄道特急",
+    "西武特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/西武10000系電車.json"
+  },
+  {
+   "日文": "東武100系電車",
+   "中文": "東武100系電聯車",
+   "英文": "Tobu 100 series",
+   "运营者": [
+    "東武"
+   ],
+   "图标文件": [
+    "08_tobu/spacia-rivety__tob100.png",
+    "08_tobu/spacia-rivety__tob100drc.png",
+    "08_tobu/spacia-rivety__tob100g.png",
+    "08_tobu/spacia-rivety__tob100m.png",
+    "08_tobu/spacia-rivety__tob100o.png",
+    "08_tobu/spacia-rivety__tob100re.png",
+    "08_tobu/spacia-rivety__tob100v.png"
+   ],
+   "图标token": [
+    "tob100",
+    "tob100drc",
+    "tob100g",
+    "tob100m",
+    "tob100o",
+    "tob100re",
+    "tob100v"
+   ],
+   "特急": [
+    "リバティ会津",
+    "東武特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/東武100系電車.json"
+  },
+  {
+   "日文": "一畑電車1000系電車",
+   "中文": "一畑電車1000系電聯車",
+   "英文": "Tokyu 1000 series",
+   "运营者": [
+    "山陽山陰"
+   ],
+   "图标文件": [
+    "26_sanyosanin/ichibata-rail__itbt1000.png"
+   ],
+   "图标token": [
+    "itbt1000"
+   ],
+   "特急": [
+    "一畑電車特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/一畑電車1000系電車.json"
+  },
+  {
+   "日文": "山陽山陰",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "山陽山陰"
+   ],
+   "图标文件": [
+    "26_sanyosanin/ichibata-rail__1itbt11d.png"
+   ],
+   "图标token": [
+    "1itbt11d"
+   ],
+   "特急": [
+    "一畑電車特急"
+   ],
+   "线路": [],
+   "有日文": false,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/山陽山陰.json"
+  },
+  {
+   "日文": "一畑電車7000系電車",
+   "中文": "一畑電車7000系電聯車",
+   "英文": null,
+   "运营者": [
+    "山陽山陰"
+   ],
+   "图标文件": [
+    "26_sanyosanin/ichibata-rail__itbt7000.png",
+    "26_sanyosanin/ichibata-rail__itbt7000p.png"
+   ],
+   "图标token": [
+    "itbt7000",
+    "itbt7000p"
+   ],
+   "特急": [
+    "一畑電車特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": false,
+   "文件": "data/一畑電車7000系電車.json"
+  },
+  {
+   "日文": "一畑電気鉄道3000系電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "山陽山陰"
+   ],
+   "图标文件": [
+    "26_sanyosanin/ichibata-rail__itbt3000.png"
+   ],
+   "图标token": [
+    "itbt3000"
+   ],
+   "特急": [
+    "一畑電車特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/一畑電気鉄道3000系電車.json"
+  },
+  {
+   "日文": "京王5000系電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "京王"
+   ],
+   "图标文件": [
+    "11_keio/emu-5000-9000-8000__keio5003.png",
+    "11_keio/emu-5000-9000-8000__keio8001.png",
+    "11_keio/emu-5000-9000-8000__keio8002.png",
+    "11_keio/emu-5000-9000-8000__keio8003.png",
+    "11_keio/emu-5000-9000-8000__keio9030.png",
+    "11_keio/emu-5000-9000-8000__keio9030kt.png",
+    "11_keio/emu-5000-9000-8000__keio9030ll.png",
+    "11_keio/emu-5000-9000-8000__keio9031.png"
+   ],
+   "图标token": [
+    "keio5003",
+    "keio8001",
+    "keio8002",
+    "keio8003",
+    "keio9030",
+    "keio9030kt",
+    "keio9030ll",
+    "keio9031"
+   ],
+   "特急": [
+    "京王ライナー",
+    "京王特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/京王5000系電車.json"
+  },
+  {
+   "日文": "京王8000系電車",
+   "中文": null,
+   "英文": "Keio 8000 series",
+   "运营者": [
+    "京王"
+   ],
+   "图标文件": [
+    "11_keio/emu-5000-9000-8000__keio8000.png"
+   ],
+   "图标token": [
+    "keio8000"
+   ],
+   "特急": [
+    "京王ライナー",
+    "京王特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": true,
+   "文件": "data/京王8000系電車.json"
+  },
+  {
+   "日文": "京阪7000系電車",
+   "中文": "京阪7000系電聯車",
+   "英文": "Keihan 7000 series",
+   "运营者": [
+    "京阪"
+   ],
+   "图标文件": [
+    "19_keihan/keihan-rail__khan7000ll.png",
+    "19_keihan/keihan-rail__khan7000t.png",
+    "19_keihan/keihan-rail__khan7000t09r.png",
+    "19_keihan/keihan-rail__khan7000t09y.png"
+   ],
+   "图标token": [
+    "khan7000ll",
+    "khan7000t",
+    "khan7000t09r",
+    "khan7000t09y"
+   ],
+   "特急": [
+    "京阪特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/京阪7000系電車.json"
+  },
+  {
+   "日文": "京阪3000系電車",
+   "中文": null,
+   "英文": "Keihan 3000 series (1971)",
+   "运营者": [
+    "京阪"
+   ],
+   "图标文件": [
+    "19_keihan/keihan-3000__khan3000expo.png"
+   ],
+   "图标token": [
+    "khan3000expo"
+   ],
+   "特急": [
+    "京阪特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": true,
+   "文件": "data/京阪3000系電車.json"
+  },
+  {
+   "日文": "京阪2200系電車",
+   "中文": "京阪2200系電聯車",
+   "英文": null,
+   "运营者": [
+    "京阪"
+   ],
+   "图标文件": [
+    "19_keihan/keihan-rail__khan2200.png",
+    "19_keihan/keihan-rail__khan2200n.png"
+   ],
+   "图标token": [
+    "khan2200",
+    "khan2200n"
+   ],
+   "特急": [
+    "京阪特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": false,
+   "文件": "data/京阪2200系電車.json"
+  },
+  {
+   "日文": "京阪2400系電車",
+   "中文": "京阪2400系電聯車",
+   "英文": null,
+   "运营者": [
+    "京阪"
+   ],
+   "图标文件": [
+    "19_keihan/keihan-rail__khan2400.png",
+    "19_keihan/keihan-rail__khan2400o.png"
+   ],
+   "图标token": [
+    "khan2400",
+    "khan2400o"
+   ],
+   "特急": [
+    "京阪特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": false,
+   "文件": "data/京阪2400系電車.json"
+  },
+  {
+   "日文": "京阪2600系電車",
+   "中文": "京阪2600系電聯車",
+   "英文": null,
+   "运营者": [
+    "京阪"
+   ],
+   "图标文件": [
+    "19_keihan/keihan-rail__khan2600.png",
+    "19_keihan/keihan-rail__khan2600o.png"
+   ],
+   "图标token": [
+    "khan2600",
+    "khan2600o"
+   ],
+   "特急": [
+    "京阪特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": false,
+   "文件": "data/京阪2600系電車.json"
+  },
+  {
+   "日文": "京阪5000系電車",
+   "中文": null,
+   "英文": "Keihan 5000 series",
+   "运营者": [
+    "京阪"
+   ],
+   "图标文件": [
+    "19_keihan/keihan-rail__khan5000.png",
+    "19_keihan/keihan-rail__khan5000o.png",
+    "19_keihan/keihan-rail__khan5000o1.png"
+   ],
+   "图标token": [
+    "khan5000",
+    "khan5000o",
+    "khan5000o1"
+   ],
+   "特急": [
+    "京阪特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": true,
+   "文件": "data/京阪5000系電車.json"
+  },
+  {
+   "日文": "京阪100型電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "京阪"
+   ],
+   "图标文件": [
+    "19_keihan/keihan-101-111-151__khan100jg.png"
+   ],
+   "图标token": [
+    "khan100jg"
+   ],
+   "特急": [
+    "京阪特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/京阪100型電車.json"
+  },
+  {
+   "日文": "京阪70型電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "京阪"
+   ],
+   "图标文件": [
+    "19_keihan/keihan-rail__khan70jg1.png",
+    "19_keihan/keihan-rail__khan70jg2.png"
+   ],
+   "图标token": [
+    "khan70jg1",
+    "khan70jg2"
+   ],
+   "特急": [
+    "京阪特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/京阪70型電車.json"
+  },
+  {
+   "日文": "京阪7200系電車",
+   "中文": "京阪7200系電聯車",
+   "英文": "Keihan 7200 series",
+   "运营者": [
+    "京阪"
+   ],
+   "图标文件": [
+    "19_keihan/keihan-rail__khan7200t.png"
+   ],
+   "图标token": [
+    "khan7200t"
+   ],
+   "特急": [
+    "京阪特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/京阪7200系電車.json"
+  },
+  {
+   "日文": "京阪10000系電車",
+   "中文": "京阪10000系電聯車",
+   "英文": "Keihan 10000 series",
+   "运营者": [
+    "京阪"
+   ],
+   "图标文件": [
+    "19_keihan/keihan-rail__khan10000t.png"
+   ],
+   "图标token": [
+    "khan10000t"
+   ],
+   "特急": [
+    "京阪特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/京阪10000系電車.json"
+  },
+  {
+   "日文": "富山地方鉄道10020形電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "北陸"
+   ],
+   "图标文件": [
+    "25_hokuriku/toyama-regioal-rail__tymti10020o.png"
+   ],
+   "图标token": [
+    "tymti10020o"
+   ],
+   "特急": [
+    "富山地方鉄道特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/富山地方鉄道10020形電車.json"
+  },
+  {
+   "日文": "富山地方鉄道14790形電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "北陸"
+   ],
+   "图标文件": [
+    "25_hokuriku/toyama-regioal-rail__tymti14770.png",
+    "25_hokuriku/toyama-regioal-rail__tymti14790.png"
+   ],
+   "图标token": [
+    "tymti14770",
+    "tymti14790"
+   ],
+   "特急": [
+    "富山地方鉄道特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/富山地方鉄道14790形電車.json"
+  },
+  {
+   "日文": "富山地方鉄道14710形電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "北陸"
+   ],
+   "图标文件": [
+    "25_hokuriku/toyama-regioal-rail__tymti14710b.png",
+    "25_hokuriku/toyama-regioal-rail__tymti14710o.png"
+   ],
+   "图标token": [
+    "tymti14710b",
+    "tymti14710o"
+   ],
+   "特急": [
+    "富山地方鉄道特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/富山地方鉄道14710形電車.json"
+  },
+  {
+   "日文": "富山地方鉄道14780形電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "北陸"
+   ],
+   "图标文件": [
+    "25_hokuriku/toyama-regioal-rail__tymti14780r.png"
+   ],
+   "图标token": [
+    "tymti14780r"
+   ],
+   "特急": [
+    "富山地方鉄道特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/富山地方鉄道14780形電車.json"
+  },
+  {
+   "日文": "富山地方鉄道7000形電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "北陸"
+   ],
+   "图标文件": [
+    "25_hokuriku/toyama-tram__tymti7000.png",
+    "25_hokuriku/toyama-tram__tymti7000g.png",
+    "25_hokuriku/toyama-tram__tymti7000pt.png"
+   ],
+   "图标token": [
+    "tymti7000",
+    "tymti7000g",
+    "tymti7000pt"
+   ],
+   "特急": [
+    "富山地方鉄道特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/富山地方鉄道7000形電車.json"
+  },
+  {
+   "日文": "富山地方鉄道8000形電車",
+   "中文": "富山地方鐵道8000型電車",
+   "英文": null,
+   "运营者": [
+    "北陸"
+   ],
+   "图标文件": [
+    "25_hokuriku/toyama-tram__tymti8000-100.png",
+    "25_hokuriku/toyama-tram__tymti8000.png"
+   ],
+   "图标token": [
+    "tymti8000",
+    "tymti8000-100"
+   ],
+   "特急": [
+    "富山地方鉄道特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": false,
+   "文件": "data/富山地方鉄道8000形電車.json"
+  },
+  {
+   "日文": "東急8090系電車",
+   "中文": null,
+   "英文": "Tokyu 8090 series",
+   "运营者": [
+    "北陸",
+    "東急"
+   ],
+   "图标文件": [
+    "14_tokyu/emu-8090__toq8090.png",
+    "14_tokyu/emu-8090__toq8090k.png",
+    "14_tokyu/emu-8090__toq8091.png",
+    "14_tokyu/emu-8090__toq8092.png",
+    "14_tokyu/emu-8090__toq8094.png",
+    "14_tokyu/emu-8090__toq8590s.png",
+    "25_hokuriku/toyama-regioal-rail__tymti17480.png"
+   ],
+   "图标token": [
+    "toq8090",
+    "toq8090k",
+    "toq8091",
+    "toq8092",
+    "toq8094",
+    "toq8590s",
+    "tymti17480"
+   ],
+   "特急": [
+    "富山地方鉄道特急",
+    "東急特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": true,
+   "文件": "data/東急8090系電車.json"
+  },
+  {
+   "日文": "富山地方鉄道14720形電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "北陸"
+   ],
+   "图标文件": [
+    "25_hokuriku/toyama-regioal-rail__tymti14720.png"
+   ],
+   "图标token": [
+    "tymti14720"
+   ],
+   "特急": [
+    "富山地方鉄道特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/富山地方鉄道14720形電車.json"
+  },
+  {
+   "日文": "京阪3000系電車 (初代)",
+   "中文": "京阪3000系電聯車 (2代)",
+   "英文": "Keihan 3000 series (1971)",
+   "运营者": [
+    "北陸"
+   ],
+   "图标文件": [
+    "25_hokuriku/toyama-regioal-rail__tymti10030.png"
+   ],
+   "图标token": [
+    "tymti10030"
+   ],
+   "特急": [
+    "富山地方鉄道特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/京阪3000系電車 (初代).json"
+  },
+  {
+   "日文": "富山地方鉄道16010形電車",
+   "中文": "富山地方鐵道16010型電聯車",
+   "英文": null,
+   "运营者": [
+    "北陸"
+   ],
+   "图标文件": [
+    "25_hokuriku/toyama-regioal-rail__tymti16010.png"
+   ],
+   "图标token": [
+    "tymti16010"
+   ],
+   "特急": [
+    "富山地方鉄道特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": false,
+   "文件": "data/富山地方鉄道16010形電車.json"
+  },
+  {
+   "日文": "富山地方鉄道14750形電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "北陸"
+   ],
+   "图标文件": [
+    "25_hokuriku/toyama-rail__tymti14750.png",
+    "25_hokuriku/toyama-rail__tymti14750o.png"
+   ],
+   "图标token": [
+    "tymti14750",
+    "tymti14750o"
+   ],
+   "特急": [
+    "富山地方鉄道特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/富山地方鉄道14750形電車.json"
+  },
+  {
+   "日文": "国鉄123系電車",
+   "中文": "日本國鐵123系電聯車",
+   "英文": "123 series",
+   "运营者": [
+    "JR東日本",
+    "JR西日本"
+   ],
+   "图标文件": [
+    "02_east/chuo-line__e123r.png",
+    "04_west/sanyo-area__w123sm.png",
+    "04_west/sanyo-area__w123sm0.png",
+    "04_west/sanyo-area__w123sm1.png",
+    "04_west/sanyo-area__w123smk.png",
+    "04_west/sanyo-area__w123smkp.png",
+    "04_west/sanyo-area__w123smw.png"
+   ],
+   "图标token": [
+    "e123r",
+    "w123sm",
+    "w123sm0",
+    "w123sm1",
+    "w123smk",
+    "w123smkp",
+    "w123smw"
+   ],
+   "特急": [
+    "山陽電鉄特急",
+    "直通特急"
+   ],
+   "线路": [
+    "富山地方鉄道本線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/国鉄123系電車.json"
+  },
+  {
+   "日文": "山陽電気鉄道5030系電車",
+   "中文": null,
+   "英文": "Sanyo 5030 series",
+   "运营者": [
+    "阪神"
+   ],
+   "图标文件": [
+    "22_hanshin/sanyo-5000-3050__san5030.png",
+    "22_hanshin/sanyo-rail__san5030f.png"
+   ],
+   "图标token": [
+    "san5030",
+    "san5030f"
+   ],
+   "特急": [
+    "山陽電鉄特急",
+    "直通特急"
+   ],
+   "线路": [
+    "山陽電気鉄道",
+    "山陽電車",
+    "日生線",
+    "網干線"
+   ],
+   "有日文": true,
+   "有中文": false,
+   "有英文": true,
+   "文件": "data/山陽電気鉄道5030系電車.json"
+  },
+  {
+   "日文": "山陽電気鉄道2000系電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "阪神"
+   ],
+   "图标文件": [
+    "22_hanshin/sanyo-rail__san2000al.png",
+    "22_hanshin/sanyo-rail__san2000o.png"
+   ],
+   "图标token": [
+    "san2000al",
+    "san2000o"
+   ],
+   "特急": [
+    "山陽電鉄特急",
+    "直通特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/山陽電気鉄道2000系電車.json"
+  },
+  {
+   "日文": "山陽電気鉄道2700系電車",
+   "中文": "JR四國2700系柴聯車",
+   "英文": null,
+   "运营者": [
+    "阪神"
+   ],
+   "图标文件": [
+    "22_hanshin/sanyo-rail__san2700.png"
+   ],
+   "图标token": [
+    "san2700"
+   ],
+   "特急": [
+    "山陽電鉄特急",
+    "直通特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": false,
+   "文件": "data/山陽電気鉄道2700系電車.json"
+  },
+  {
+   "日文": "山陽電気鉄道200形電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "阪神"
+   ],
+   "图标文件": [
+    "22_hanshin/sanyo-rail__san200.png"
+   ],
+   "图标token": [
+    "san200"
+   ],
+   "特急": [
+    "山陽電鉄特急",
+    "直通特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/山陽電気鉄道200形電車.json"
+  },
+  {
+   "日文": "山陽電気鉄道700形電車",
+   "中文": "新幹線N700系電聯車",
+   "英文": null,
+   "运营者": [
+    "阪神"
+   ],
+   "图标文件": [
+    "22_hanshin/sanyo-rail__san700.png"
+   ],
+   "图标token": [
+    "san700"
+   ],
+   "特急": [
+    "山陽電鉄特急",
+    "直通特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": false,
+   "文件": "data/山陽電気鉄道700形電車.json"
+  },
+  {
+   "日文": "山陽電気鉄道250形電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "阪神"
+   ],
+   "图标文件": [
+    "22_hanshin/sanyo-rail__san250.png"
+   ],
+   "图标token": [
+    "san250"
+   ],
+   "特急": [
+    "山陽電鉄特急",
+    "直通特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/山陽電気鉄道250形電車.json"
+  },
+  {
+   "日文": "山陽電気鉄道2300系電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "阪神"
+   ],
+   "图标文件": [
+    "22_hanshin/sanyo-rail__san2300.png"
+   ],
+   "图标token": [
+    "san2300"
+   ],
+   "特急": [
+    "山陽電鉄特急",
+    "直通特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/山陽電気鉄道2300系電車.json"
+  },
+  {
+   "日文": "東急9000系電車",
+   "中文": null,
+   "英文": "Tokyu 9000 series",
+   "运营者": [
+    "東急"
+   ],
+   "图标文件": [
+    "14_tokyu/untitled__toq9000.png",
+    "14_tokyu/untitled__toq9000sk.png"
+   ],
+   "图标token": [
+    "toq9000",
+    "toq9000sk"
+   ],
+   "特急": [
+    "東急特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": true,
+   "文件": "data/東急9000系電車.json"
+  },
+  {
+   "日文": "東急1000系電車",
+   "中文": null,
+   "英文": "Tokyu 1000 series",
+   "运营者": [
+    "東急"
+   ],
+   "图标文件": [
+    "14_tokyu/ikegami-tamagawa-line__toq1000g.png",
+    "14_tokyu/untitled__toq1000.png",
+    "14_tokyu/untitled__toq1000k.png"
+   ],
+   "图标token": [
+    "toq1000",
+    "toq1000g",
+    "toq1000k"
+   ],
+   "特急": [
+    "東急特急"
+   ],
+   "线路": [
+    "東急池上線",
+    "池上線"
+   ],
+   "有日文": true,
+   "有中文": false,
+   "有英文": true,
+   "文件": "data/東急1000系電車.json"
+  },
+  {
+   "日文": "大阪府都市開発5000系電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "南海"
+   ],
+   "图标文件": [
+    "23_nankai/semboku-line__snbk5000.png",
+    "23_nankai/semboku-line__snbk5000b.png",
+    "23_nankai/semboku-line__snbk5000bb.png",
+    "23_nankai/semboku-line__snbk5000m.png",
+    "23_nankai/semboku-line__snbk5000pi.png"
+   ],
+   "图标token": [
+    "snbk5000",
+    "snbk5000b",
+    "snbk5000bb",
+    "snbk5000m",
+    "snbk5000pi"
+   ],
+   "特急": [
+    "泉北ライナー"
+   ],
+   "线路": [
+    "南海泉北線",
+    "泉北線"
+   ],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/大阪府都市開発5000系電車.json"
+  },
+  {
+   "日文": "大阪府都市開発7000系電車",
+   "中文": null,
+   "英文": "Semboku 7000 series",
+   "运营者": [
+    "南海"
+   ],
+   "图标文件": [
+    "23_nankai/semboku-line__snbk7000.png",
+    "23_nankai/semboku-line__snbk7000b.png",
+    "23_nankai/semboku-line__snbk7000ft.png",
+    "23_nankai/semboku-line__snbk7000p.png",
+    "23_nankai/semboku-line__snbk7000pb.png",
+    "23_nankai/semboku-line__snbk7020.png",
+    "23_nankai/semboku-line__snbk7020b.png",
+    "23_nankai/semboku-line__snbk7020pb.png"
+   ],
+   "图标token": [
+    "snbk7000",
+    "snbk7000b",
+    "snbk7000ft",
+    "snbk7000p",
+    "snbk7000pb",
+    "snbk7020",
+    "snbk7020b",
+    "snbk7020pb"
+   ],
+   "特急": [
+    "泉北ライナー"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": true,
+   "文件": "data/大阪府都市開発7000系電車.json"
+  },
+  {
+   "日文": "大阪府都市開発3000系電車",
+   "中文": null,
+   "英文": "Semboku 3000 series",
+   "运营者": [
+    "南海"
+   ],
+   "图标文件": [
+    "23_nankai/semboku-line__snbk3000.png"
+   ],
+   "图标token": [
+    "snbk3000"
+   ],
+   "特急": [
+    "泉北ライナー"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": true,
+   "文件": "data/大阪府都市開発3000系電車.json"
+  },
+  {
+   "日文": "相鉄10000系電車",
+   "中文": "相鐵10000系電聯車",
+   "英文": "Sotetsu 10000 series",
+   "运营者": [
+    "相鉄"
+   ],
+   "图标文件": [
+    "16_sotetsu/sotetsu-rail__sote10000r.png"
+   ],
+   "图标token": [
+    "sote10000r"
+   ],
+   "特急": [
+    "相鉄特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/相鉄10000系電車.json"
+  },
+  {
+   "日文": "相鉄20000系電車",
+   "中文": "相鐵20000系電聯車",
+   "英文": "Sotetsu 20000 series",
+   "运营者": [
+    "相鉄"
+   ],
+   "图标文件": [
+    "16_sotetsu/sotetsu-rail__sote20000.png"
+   ],
+   "图标token": [
+    "sote20000"
+   ],
+   "特急": [
+    "相鉄特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/相鉄20000系電車.json"
+  },
+  {
+   "日文": "相鉄12000系電車",
+   "中文": "相鐵12000系電聯車",
+   "英文": "Sotetsu 12000 series",
+   "运营者": [
+    "相鉄"
+   ],
+   "图标文件": [
+    "16_sotetsu/sotetsu-rail__sote12000.png"
+   ],
+   "图标token": [
+    "sote12000"
+   ],
+   "特急": [
+    "相鉄特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/相鉄12000系電車.json"
+  },
+  {
+   "日文": "相鉄8000系電車",
+   "中文": "近鐵8000系電聯車",
+   "英文": "Sotetsu 8000 series",
+   "运营者": [
+    "相鉄"
+   ],
+   "图标文件": [
+    "16_sotetsu/sotetsu-rail__sote8000n.png"
+   ],
+   "图标token": [
+    "sote8000n"
+   ],
+   "特急": [
+    "相鉄特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/相鉄8000系電車.json"
+  },
+  {
+   "日文": "相鉄5000系電車",
+   "中文": "東急5000系電聯車 (2代)",
+   "英文": "Sotetsu 5000 series",
+   "运营者": [
+    "相鉄"
+   ],
+   "图标文件": [
+    "16_sotetsu/sotetsu-rail__sote5000km.png",
+    "16_sotetsu/sotetsu-rail__sote5000kmp.png",
+    "16_sotetsu/sotetsu-rail__sote5000o.png",
+    "16_sotetsu/sotetsu-rail__sote5000op.png"
+   ],
+   "图标token": [
+    "sote5000km",
+    "sote5000kmp",
+    "sote5000o",
+    "sote5000op"
+   ],
+   "特急": [
+    "相鉄特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/相鉄5000系電車.json"
+  },
+  {
+   "日文": "西鉄1000形電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "西鉄"
+   ],
+   "图标文件": [
+    "24_nishitetsu/omuta-line__nisi1000.png",
+    "24_nishitetsu/omuta-line__nisi1000bl.png",
+    "24_nishitetsu/omuta-line__nisi1000pykp.png"
+   ],
+   "图标token": [
+    "nisi1000",
+    "nisi1000bl",
+    "nisi1000pykp"
+   ],
+   "特急": [
+    "西鉄特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/西鉄1000形電車.json"
+  },
+  {
+   "日文": "西鉄1300形電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "西鉄"
+   ],
+   "图标文件": [
+    "24_nishitetsu/omuta-line__nisi1300.png",
+    "24_nishitetsu/omuta-line__nisi1300bl.png"
+   ],
+   "图标token": [
+    "nisi1300",
+    "nisi1300bl"
+   ],
+   "特急": [
+    "西鉄特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/西鉄1300形電車.json"
+  },
+  {
+   "日文": "西鉄20形電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "西鉄"
+   ],
+   "图标文件": [
+    "24_nishitetsu/omuta-line__nisi20.png"
+   ],
+   "图标token": [
+    "nisi20"
+   ],
+   "特急": [
+    "西鉄特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/西鉄20形電車.json"
+  },
+  {
+   "日文": "西鉄100形電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "西鉄"
+   ],
+   "图标文件": [
+    "24_nishitetsu/omuta-line__nisi100.png"
+   ],
+   "图标token": [
+    "nisi100"
+   ],
+   "特急": [
+    "西鉄特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/西鉄100形電車.json"
+  },
+  {
+   "日文": "西鉄200形電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "西鉄"
+   ],
+   "图标文件": [
+    "24_nishitetsu/omuta-line-1-2-2025-8-22-update__nisi200bp.png",
+    "24_nishitetsu/omuta-line-1-2-2025-8-22-update__nisi200op.png",
+    "24_nishitetsu/omuta-line__nisi200b.png",
+    "24_nishitetsu/omuta-line__nisi200o.png"
+   ],
+   "图标token": [
+    "nisi200b",
+    "nisi200bp",
+    "nisi200o",
+    "nisi200op"
+   ],
+   "特急": [
+    "西鉄特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/西鉄200形電車.json"
+  },
+  {
+   "日文": "西鉄313形電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "西鉄"
+   ],
+   "图标文件": [
+    "24_nishitetsu/omuta-line__nisi313.png"
+   ],
+   "图标token": [
+    "nisi313"
+   ],
+   "特急": [
+    "西鉄特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/西鉄313形電車.json"
+  },
+  {
+   "日文": "西鉄500形電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "西鉄"
+   ],
+   "图标文件": [
+    "24_nishitetsu/omuta-line__nisi500.png"
+   ],
+   "图标token": [
+    "nisi500"
+   ],
+   "特急": [
+    "西鉄特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/西鉄500形電車.json"
+  },
+  {
+   "日文": "西鉄700形電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "西鉄"
+   ],
+   "图标文件": [
+    "24_nishitetsu/omuta-line__nisi700.png"
+   ],
+   "图标token": [
+    "nisi700"
+   ],
+   "特急": [
+    "西鉄特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/西鉄700形電車.json"
+  },
+  {
+   "日文": "JR東日本251系電車",
+   "中文": "JR東日本251系電力動車組",
+   "英文": "251 series",
+   "运营者": [
+    "JR東日本"
+   ],
+   "图标文件": [
+    "02_east/odoriko__e251.png",
+    "02_east/odoriko__e251n.png"
+   ],
+   "图标token": [
+    "e251",
+    "e251n"
+   ],
+   "特急": [
+    "踊り子"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/JR東日本251系電車.json"
+  },
+  {
+   "日文": "近鉄80000系電車",
+   "中文": "近铁80000系电力动车组",
+   "英文": "Kintetsu 80000 series",
+   "运营者": [
+    "近鉄"
+   ],
+   "图标文件": [
+    "18_kintetsu/shimakaze-hinotori__kin80000.png"
+   ],
+   "图标token": [
+    "kin80000"
+   ],
+   "特急": [
+    "近鉄特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/近鉄80000系電車.json"
+  },
+  {
+   "日文": "阪急2000系電車",
+   "中文": "阪急電鐵2000系電聯車 (2代)",
+   "英文": "Hankyu 2000 series (1960)",
+   "运营者": [
+    "阪急"
+   ],
+   "图标文件": [
+    "21_hankyu/emu2000-2300__hnq2000.png"
+   ],
+   "图标token": [
+    "hnq2000"
+   ],
+   "特急": [
+    "阪急特急"
+   ],
+   "线路": [
+    "今津線",
+    "伊丹線",
+    "甲陽線",
+    "神戸",
+    "神戸本線",
+    "阪急神戸線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/阪急2000系電車.json"
+  },
+  {
+   "日文": "阪急1000系電車",
+   "中文": "阪急電鐵1000系電聯車 (2代)",
+   "英文": null,
+   "运营者": [
+    "阪急"
+   ],
+   "图标文件": [
+    "21_hankyu/emu1000-1300__hnq1000.png"
+   ],
+   "图标token": [
+    "hnq1000"
+   ],
+   "特急": [
+    "阪急特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": false,
+   "文件": "data/阪急1000系電車.json"
+  },
+  {
+   "日文": "阪急9000系電車",
+   "中文": "阪急電鐵9000系電聯車",
+   "英文": "Hankyu 9000 series",
+   "运营者": [
+    "阪急"
+   ],
+   "图标文件": [
+    "21_hankyu/emu-9000-9300__hnq9000.png",
+    "21_hankyu/emu-9000-9300__hnq9301.png"
+   ],
+   "图标token": [
+    "hnq9000",
+    "hnq9301"
+   ],
+   "特急": [
+    "阪急特急"
+   ],
+   "线路": [
+    "宝塚本線",
+    "阪急宝塚線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/阪急9000系電車.json"
+  },
+  {
+   "日文": "阪急8300系電車",
+   "中文": "阪急電鐵8300系電聯車",
+   "英文": "Hankyu 8300 series",
+   "运营者": [
+    "阪急"
+   ],
+   "图标文件": [
+    "21_hankyu/emu-8000-8300__hnq8300w.png"
+   ],
+   "图标token": [
+    "hnq8300w"
+   ],
+   "特急": [
+    "阪急特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/阪急8300系電車.json"
+  },
+  {
+   "日文": "阪急7000系電車",
+   "中文": "阪急電鐵7000系電聯車",
+   "英文": "Hankyu 7000 series",
+   "运营者": [
+    "阪急"
+   ],
+   "图标文件": [
+    "21_hankyu/73-7000-6000__hnq6001.png",
+    "21_hankyu/73-7000-6000__hnq7000.png",
+    "21_hankyu/73-7000-6000__hnq7000n.png",
+    "21_hankyu/73-7000-6000__hnq7000pn.png",
+    "21_hankyu/73-7000-6000__hnq7001.png",
+    "21_hankyu/73-7000-6000__hnq7301.png",
+    "21_hankyu/73-7000-6000__hnq7302.png"
+   ],
+   "图标token": [
+    "hnq6001",
+    "hnq7000",
+    "hnq7000n",
+    "hnq7000pn",
+    "hnq7001",
+    "hnq7301",
+    "hnq7302"
+   ],
+   "特急": [
+    "阪急特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/阪急7000系電車.json"
+  },
+  {
+   "日文": "阪急6000系電車",
+   "中文": "阪急電鐵6000系電聯車",
+   "英文": "Hankyu 6000 series",
+   "运营者": [
+    "阪急"
+   ],
+   "图标文件": [
+    "21_hankyu/73-7000-6000__hnq6000.png"
+   ],
+   "图标token": [
+    "hnq6000"
+   ],
+   "特急": [
+    "阪急特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/阪急6000系電車.json"
+  },
+  {
+   "日文": "阪神1000系電車",
+   "中文": "阪神1000系電聯車",
+   "英文": "Hanshin 1000 series",
+   "运营者": [
+    "阪神"
+   ],
+   "图标文件": [
+    "22_hanshin/hanshin-1-8-9000__hnsn1000.png",
+    "22_hanshin/hanshin-rail__hnsn1000r.png",
+    "22_hanshin/hanshin-rail__hnsn1000rk.png"
+   ],
+   "图标token": [
+    "hnsn1000",
+    "hnsn1000r",
+    "hnsn1000rk"
+   ],
+   "特急": [
+    "阪神特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/阪神1000系電車.json"
+  },
+  {
+   "日文": "阪神8000系電車",
+   "中文": "阪神8000系電聯車",
+   "英文": "Hanshin 8000 series",
+   "运营者": [
+    "阪神"
+   ],
+   "图标文件": [
+    "22_hanshin/hanshin-1-8-9000__hnsn8000n.png",
+    "22_hanshin/hanshin-rail__hnsn8000g100.png",
+    "22_hanshin/hanshin-rail__hnsn8000rn.png"
+   ],
+   "图标token": [
+    "hnsn8000g100",
+    "hnsn8000n",
+    "hnsn8000rn"
+   ],
+   "特急": [
+    "阪神特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/阪神8000系電車.json"
+  },
+  {
+   "日文": "阪神1001形電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "阪神"
+   ],
+   "图标文件": [
+    "22_hanshin/hanshin-1-8-9000__hnsn1001.png"
+   ],
+   "图标token": [
+    "hnsn1001"
+   ],
+   "特急": [
+    "阪神特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/阪神1001形電車.json"
+  },
+  {
+   "日文": "阪神9000系電車",
+   "中文": "阪神9000系電聯車",
+   "英文": "Hanshin 9000 series",
+   "运营者": [
+    "阪神"
+   ],
+   "图标文件": [
+    "22_hanshin/hanshin-1-8-9000__hnsn8001.png",
+    "22_hanshin/hanshin-1-8-9000__hnsn8001n.png",
+    "22_hanshin/hanshin-1-8-9000__hnsn9001.png",
+    "22_hanshin/hanshin-1-8-9000__hnsn9002.png"
+   ],
+   "图标token": [
+    "hnsn8001",
+    "hnsn8001n",
+    "hnsn9001",
+    "hnsn9002"
+   ],
+   "特急": [
+    "阪神特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/阪神9000系電車.json"
+  },
+  {
+   "日文": "阪神5001形電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "阪神"
+   ],
+   "图标文件": [
+    "22_hanshin/hanshin-rail__hnsn5001.png"
+   ],
+   "图标token": [
+    "hnsn5001"
+   ],
+   "特急": [
+    "阪神特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/阪神5001形電車.json"
+  },
+  {
+   "日文": "阪神5700系電車",
+   "中文": "阪神5700系電力動車組",
+   "英文": "Hanshin 5700 series",
+   "运营者": [
+    "阪神"
+   ],
+   "图标文件": [
+    "22_hanshin/hanshin-5000-5700__hnsn5000.png",
+    "22_hanshin/hanshin-5000-5700__hnsn5000o.png",
+    "22_hanshin/hanshin-5000-5700__hnsn5501.png",
+    "22_hanshin/hanshin-5000-5700__hnsn5551.png",
+    "22_hanshin/hanshin-5000-5700__hnsn5700.png"
+   ],
+   "图标token": [
+    "hnsn5000",
+    "hnsn5000o",
+    "hnsn5501",
+    "hnsn5551",
+    "hnsn5700"
+   ],
+   "特急": [
+    "阪神特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/阪神5700系電車.json"
+  },
+  {
+   "日文": "阪神5550系電車",
+   "中文": "阪神5550系電聯車",
+   "英文": "Hanshin 5550 series",
+   "运营者": [
+    "阪神"
+   ],
+   "图标文件": [
+    "22_hanshin/hanshin-5000-5700__hnsn5550.png"
+   ],
+   "图标token": [
+    "hnsn5550"
+   ],
+   "特急": [
+    "阪神特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/阪神5550系電車.json"
+  },
+  {
+   "日文": "阪神5311形電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "阪神"
+   ],
+   "图标文件": [
+    "22_hanshin/hanshin-5000-5700__hnsn5311.png"
+   ],
+   "图标token": [
+    "hnsn5311"
+   ],
+   "特急": [
+    "阪神特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/阪神5311形電車.json"
+  },
+  {
+   "日文": "阪神3000系電車",
+   "中文": "阪神3000系電聯車 (2代)",
+   "英文": "Hanshin 3000 series",
+   "运营者": [
+    "阪神"
+   ],
+   "图标文件": [
+    "22_hanshin/hanshin-7001__hnsn3000.png"
+   ],
+   "图标token": [
+    "hnsn3000"
+   ],
+   "特急": [
+    "阪神特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/阪神3000系電車.json"
+  },
+  {
+   "日文": "阪神7001・7101形電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "京阪",
+    "阪神"
+   ],
+   "图标文件": [
+    "19_keihan/keihan-rail__khan7001h.png",
+    "22_hanshin/hanshin-7001__hnsn3300.png",
+    "22_hanshin/hanshin-7001__hnsn7001.png"
+   ],
+   "图标token": [
+    "hnsn3300",
+    "hnsn7001",
+    "khan7001h"
+   ],
+   "特急": [
+    "京阪特急",
+    "阪神特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/阪神7001・7101形電車.json"
+  },
+  {
+   "日文": "阪神7801・7901形電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "阪神"
+   ],
+   "图标文件": [
+    "22_hanshin/hanshin-rail__hnsn7801.png"
+   ],
+   "图标token": [
+    "hnsn7801"
+   ],
+   "特急": [
+    "阪神特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/阪神7801・7901形電車.json"
+  },
+  {
+   "日文": "阪神155形電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "阪神"
+   ],
+   "图标文件": [
+    "22_hanshin/hanshin-rail__hnsn155.png",
+    "22_hanshin/hanshin-rail__hnsn155p.png"
+   ],
+   "图标token": [
+    "hnsn155",
+    "hnsn155p"
+   ],
+   "特急": [
+    "阪神特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/阪神155形電車.json"
+  },
+  {
+   "日文": "営団02系電車",
+   "中文": "營團02系電聯車",
+   "英文": "Tokyo Metro 02 series",
+   "运营者": [
+    "東京メトロ"
+   ],
+   "图标文件": [
+    "10_metro/marunouchi-line__tkm02n2.png"
+   ],
+   "图标token": [
+    "tkm02n2"
+   ],
+   "特急": [],
+   "线路": [
+    "丸ノ内線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/営団02系電車.json"
+  },
+  {
+   "日文": "北総開発鉄道7300形電車",
+   "中文": null,
+   "英文": "Hokuso 7300 series",
+   "运营者": [
+    "京成"
+   ],
+   "图标文件": [
+    "09_keisei/nt__hkso9800.png"
+   ],
+   "图标token": [
+    "hkso9800"
+   ],
+   "特急": [],
+   "线路": [
+    "北総線",
+    "千葉線"
+   ],
+   "有日文": true,
+   "有中文": false,
+   "有英文": true,
+   "文件": "data/北総開発鉄道7300形電車.json"
+  },
+  {
+   "日文": "営団08系電車",
+   "中文": "營團08系電力動車組",
+   "英文": "Tokyo Metro 08 series",
+   "运营者": [
+    "東京メトロ"
+   ],
+   "图标文件": [
+    "10_metro/hanzomon-line__tkm08f.png"
+   ],
+   "图标token": [
+    "tkm08f"
+   ],
+   "特急": [],
+   "线路": [
+    "半蔵門線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/営団08系電車.json"
+  },
+  {
+   "日文": "広島電鉄1060形電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "山陽山陰"
+   ],
+   "图标文件": [
+    "26_sanyosanin/hiroden-rail__hrdn1060.png"
+   ],
+   "图标token": [
+    "hrdn1060"
+   ],
+   "特急": [],
+   "线路": [
+    "宮島線"
+   ],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/広島電鉄1060形電車.json"
+  },
+  {
+   "日文": "名鉄4000系電車",
+   "中文": null,
+   "英文": "Meitetsu 4000 series",
+   "运营者": [
+    "名鉄"
+   ],
+   "图标文件": [
+    "17_meitetsu/300-4000-5000__mei4000.png"
+   ],
+   "图标token": [
+    "mei4000"
+   ],
+   "特急": [],
+   "线路": [
+    "名鉄小牧線",
+    "名鉄瀬戸線",
+    "小牧線",
+    "瀬戸線"
+   ],
+   "有日文": true,
+   "有中文": false,
+   "有英文": true,
+   "文件": "data/名鉄4000系電車.json"
+  },
+  {
+   "日文": "愛知環状鉄道2000系電車",
+   "中文": null,
+   "英文": "Aichi Loop Railway 2000 series",
+   "运营者": [
+    "東海私鉄"
+   ],
+   "图标文件": [
+    "31_tokai_mi/aichi-loop-rail__aitk2000.png"
+   ],
+   "图标token": [
+    "aitk2000"
+   ],
+   "特急": [],
+   "线路": [
+    "愛知環状鉄道",
+    "愛知環状鉄道線"
+   ],
+   "有日文": true,
+   "有中文": false,
+   "有英文": true,
+   "文件": "data/愛知環状鉄道2000系電車.json"
+  },
+  {
+   "日文": "新京成電鉄8800形電車",
+   "中文": null,
+   "英文": "Shin-Keisei 8800 series",
+   "运营者": [
+    "京成"
+   ],
+   "图标文件": [
+    "09_keisei/matsudo-line__kese8800ll.png"
+   ],
+   "图标token": [
+    "kese8800ll"
+   ],
+   "特急": [],
+   "线路": [
+    "松戸",
+    "松戸線"
+   ],
+   "有日文": true,
+   "有中文": false,
+   "有英文": true,
+   "文件": "data/新京成電鉄8800形電車.json"
+  },
+  {
+   "日文": "京都市交通局10系電車",
+   "中文": null,
+   "英文": "Kyoto Municipal Subway 10 series",
+   "运营者": [
+    "関西私鉄"
+   ],
+   "图标文件": [
+    "32_kansai_mi/kyoto-metro__kyot10-1.png"
+   ],
+   "图标token": [
+    "kyot10-1"
+   ],
+   "特急": [],
+   "线路": [
+    "烏丸線"
+   ],
+   "有日文": true,
+   "有中文": false,
+   "有英文": true,
+   "文件": "data/京都市交通局10系電車.json"
+  },
+  {
+   "日文": "国鉄301系電車",
+   "中文": "日本國鐵301系電力動車組",
+   "英文": "301 series",
+   "运营者": [
+    "JR東日本"
+   ],
+   "图标文件": [
+    "02_east/karasuyama-line__ee301kap.png"
+   ],
+   "图标token": [
+    "ee301kap"
+   ],
+   "特急": [],
+   "线路": [
+    "烏山線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/国鉄301系電車.json"
+  },
+  {
+   "日文": "名鉄6000系電車",
+   "中文": "京王6000系電聯車",
+   "英文": "Meitetsu 6000 series",
+   "运营者": [
+    "名鉄"
+   ],
+   "图标文件": [
+    "17_meitetsu/100-6000__mei6000.png"
+   ],
+   "图标token": [
+    "mei6000"
+   ],
+   "特急": [],
+   "线路": [
+    "名鉄犬山線",
+    "犬山線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/名鉄6000系電車.json"
+  },
+  {
+   "日文": "横浜新都市交通2000形電車",
+   "中文": "橫濱新都市交通2000型電聯車",
+   "英文": null,
+   "运营者": [
+    "京急"
+   ],
+   "图标文件": [
+    "15_keikyu/seaside-line-apm-2025-5-10-update__knzws2000.png"
+   ],
+   "图标token": [
+    "knzws2000"
+   ],
+   "特急": [],
+   "线路": [
+    "相鉄本線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": false,
+   "文件": "data/横浜新都市交通2000形電車.json"
+  },
+  {
+   "日文": "JR九州811系電車",
+   "中文": "JR九州811系電力動車組",
+   "英文": "811 series",
+   "运营者": [
+    "JR九州"
+   ],
+   "图标文件": [
+    "06_kyushu/fukuoka-area-307-811__k811qpo.png"
+   ],
+   "图标token": [
+    "k811qpo"
+   ],
+   "特急": [],
+   "线路": [
+    "筑肥線",
+    "鹿児島",
+    "鹿児島中央",
+    "鹿児島市電唐湊線",
+    "鹿児島市電第一期線",
+    "鹿児島市電第二期線",
+    "鹿児島市電谷山線",
+    "鹿児島本線",
+    "鹿児島線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/JR九州811系電車.json"
+  },
+  {
+   "日文": "箱根登山鉄道3000形電車",
+   "中文": "箱根登山鐵道3000型電聯車",
+   "英文": "Hakone Tozan 3000 series",
+   "运营者": [
+    "小田急"
+   ],
+   "图标文件": [
+    "13_odakyu/hakone-rail__htr3000.png"
+   ],
+   "图标token": [
+    "htr3000"
+   ],
+   "特急": [],
+   "线路": [
+    "箱根登山鉄道線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/箱根登山鉄道3000形電車.json"
+  },
+  {
+   "日文": "東武60000系電車",
+   "中文": "東武60000系電聯車",
+   "英文": "Tobu 60000 series",
+   "运营者": [
+    "東武"
+   ],
+   "图标文件": [
+    "08_tobu/noda-line-upl__tob60000f.png"
+   ],
+   "图标token": [
+    "tob60000f"
+   ],
+   "特急": [],
+   "线路": [
+    "小野田線",
+    "野田線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/東武60000系電車.json"
+  },
+  {
+   "日文": "国鉄62系電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "JR貨物"
+   ],
+   "图标文件": [
+    "07_freight/el-ed76-62-79-jr-jr-1-2-2025-2-28-update__ed62f.png"
+   ],
+   "图标token": [
+    "ed62f"
+   ],
+   "特急": [],
+   "线路": [
+    "飯田線"
+   ],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/国鉄62系電車.json"
+  },
+  {
+   "日文": "JR九州BEC819系電車",
+   "中文": "JR九州BEC819系電聯車",
+   "英文": "BEC819 series",
+   "运营者": [
+    "JR九州"
+   ],
+   "图标文件": [
+    "06_kyushu/miyazaki-kashii__k819.png"
+   ],
+   "图标token": [
+    "k819"
+   ],
+   "特急": [],
+   "线路": [
+    "吉都線",
+    "吉野線",
+    "宮崎",
+    "宮崎線",
+    "香椎線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/JR九州BEC819系電車.json"
+  },
+  {
+   "日文": "国鉄32系電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "南海"
+   ],
+   "图标文件": [
+    "23_nankai/koyasan-cable__cb-nan32.png"
+   ],
+   "图标token": [
+    "cb-nan32"
+   ],
+   "特急": [],
+   "线路": [
+    "高野山ケーブル",
+    "高野山電車"
+   ],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/国鉄32系電車.json"
+  },
+  {
+   "日文": "南海2001形電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "南海"
+   ],
+   "图标文件": [
+    "23_nankai/emu-20-23-2200__nan2001.png"
+   ],
+   "图标token": [
+    "nan2001"
+   ],
+   "特急": [],
+   "线路": [
+    "南海高野線",
+    "高野線"
+   ],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/南海2001形電車.json"
+  },
+  {
+   "日文": "小田急8000形電車",
+   "中文": "北大阪急行電鐵8000型電聯車",
+   "英文": "Odakyu 8000 series",
+   "运营者": [
+    "小田急"
+   ],
+   "图标文件": [
+    "13_odakyu/untitled__odq8000hg.png"
+   ],
+   "图标token": [
+    "odq8000hg"
+   ],
+   "特急": [],
+   "线路": [
+    "千葉都市モノレール1号線",
+    "千葉都市モノレール2号線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/小田急8000形電車.json"
+  },
+  {
+   "日文": "長野電鉄1000系電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "甲信越私鉄"
+   ],
+   "图标文件": [
+    "30_koshinetsu_mi/nagano-rail__ngdn1000.png"
+   ],
+   "图标token": [
+    "ngdn1000"
+   ],
+   "特急": [],
+   "线路": [
+    "長野電鉄",
+    "長野電鉄長野線"
+   ],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/長野電鉄1000系電車.json"
+  },
+  {
+   "日文": "JR北海道キハ150形気動車",
+   "中文": "JR北海道KiHa 150型柴聯車",
+   "英文": "KiHa 150",
+   "运营者": [
+    "JR北海道"
+   ],
+   "图标文件": [
+    "01_hokkaido/hokkaido-area__h150fu.png"
+   ],
+   "图标token": [
+    "h150fu"
+   ],
+   "特急": [],
+   "线路": [
+    "上磯線",
+    "石勝線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/JR北海道キハ150形気動車.json"
+  },
+  {
+   "日文": "JR九州817系電車",
+   "中文": "JR九州817系電力動車組",
+   "英文": "817 series",
+   "运营者": [
+    "JR九州"
+   ],
+   "图标文件": [
+    "06_kyushu/fukuoka-area__k817-2.png"
+   ],
+   "图标token": [
+    "k817-2"
+   ],
+   "特急": [],
+   "线路": [
+    "北九州",
+    "後藤寺線",
+    "筑豊線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/JR九州817系電車.json"
+  },
+  {
+   "日文": "広島高速交通1000系電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "山陽山陰"
+   ],
+   "图标文件": [
+    "26_sanyosanin/astram-line__astrm1000.png"
+   ],
+   "图标token": [
+    "astrm1000"
+   ],
+   "特急": [],
+   "线路": [
+    "広島新交通1号線",
+    "広島高速交通"
+   ],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/広島高速交通1000系電車.json"
+  },
+  {
+   "日文": "江ノ島電鉄500形電車",
+   "中文": "江之島電鐵500型電聯車",
+   "英文": null,
+   "运营者": [
+    "小田急"
+   ],
+   "图标文件": [
+    "13_odakyu/enoden-500-1000__enod1505.png"
+   ],
+   "图标token": [
+    "enod1505"
+   ],
+   "特急": [],
+   "线路": [
+    "江の島線",
+    "江ノ島電鉄",
+    "江ノ電"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": false,
+   "文件": "data/江ノ島電鉄500形電車.json"
+  },
+  {
+   "日文": "京阪",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "京阪"
+   ],
+   "图标文件": [
+    "19_keihan/ishiyama-line__khan611cb.png",
+    "19_keihan/iwashimizu-funicular-1-2-2025-10-3-update__cb-khan3r.png",
+    "19_keihan/keihan-101-111-151__khan110jg.png",
+    "19_keihan/keihan-101-111-151__khan110jgk.png",
+    "19_keihan/keihan-101-111-151__khan150jg.png",
+    "19_keihan/keihan-rail__khan10011t1.png",
+    "19_keihan/keihan-rail__khan10011t2.png",
+    "19_keihan/keihan-rail__khan2401.png",
+    "19_keihan/keihan-rail__khan2601.png",
+    "19_keihan/keihan-rail__khan2601o.png",
+    "19_keihan/keihan-rail__khan5001.png",
+    "19_keihan/keihan-rail__khan5001o.png",
+    "19_keihan/keihan-rail__khan5002o.png",
+    "19_keihan/keihan-rail__khan711t.png",
+    "19_keihan/keihan-rail__khan7201t.png",
+    "19_keihan/keihan-rail__khan7202t.png",
+    "19_keihan/keishin-otsu-line__khan801.png"
+   ],
+   "图标token": [
+    "cb-khan3r",
+    "khan10011t1",
+    "khan10011t2",
+    "khan110jg",
+    "khan110jgk",
+    "khan150jg",
+    "khan2401",
+    "khan2601",
+    "khan2601o",
+    "khan5001",
+    "khan5001o",
+    "khan5002o",
+    "khan611cb",
+    "khan711t",
+    "khan7201t",
+    "khan7202t",
+    "khan801"
+   ],
+   "特急": [
+    "京阪特急"
+   ],
+   "线路": [
+    "京津線",
+    "京阪大津線",
+    "京阪石山坂本線",
+    "大津",
+    "清水",
+    "清水八幡宮参道ケーブル",
+    "石山坂本線"
+   ],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/京阪.json"
+  },
+  {
+   "日文": "長崎電気軌道5000形電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "九州私鉄"
+   ],
+   "图标文件": [
+    "34_kyushu_mi/nagasaki-tram__lngsk5000.png"
+   ],
+   "图标token": [
+    "lngsk5000"
+   ],
+   "特急": [],
+   "线路": [
+    "蛍茶屋支線",
+    "赤迫支線",
+    "長崎電気軌道"
+   ],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/長崎電気軌道5000形電車.json"
+  },
+  {
+   "日文": "京急1000形電車",
+   "中文": "京急1000型電車",
+   "英文": null,
+   "运营者": [
+    "京急"
+   ],
+   "图标文件": [
+    "15_keikyu/keikyu-rail__khk1000n5.png"
+   ],
+   "图标token": [
+    "khk1000n5"
+   ],
+   "特急": [],
+   "线路": [
+    "京急電鉄"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": false,
+   "文件": "data/京急1000形電車.json"
+  },
+  {
+   "日文": "上田電鉄1000系電車",
+   "中文": "上田電鐵1000系電聯車",
+   "英文": null,
+   "运营者": [
+    "東急"
+   ],
+   "图标文件": [
+    "14_tokyu/ueda-rail__ued6000.png"
+   ],
+   "图标token": [
+    "ued6000"
+   ],
+   "特急": [],
+   "线路": [
+    "上田電鉄",
+    "別所線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": false,
+   "文件": "data/上田電鉄1000系電車.json"
+  },
+  {
+   "日文": "福島交通7000系電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "東北私鉄"
+   ],
+   "图标文件": [
+    "28_tohoku_mi/fukushima-rail__fuk7000.png"
+   ],
+   "图标token": [
+    "fuk7000"
+   ],
+   "特急": [],
+   "线路": [
+    "福島",
+    "福島交通",
+    "飯坂線"
+   ],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/福島交通7000系電車.json"
+  },
+  {
+   "日文": "新京成電鉄800形電車",
+   "中文": "新京成電鐵80000型電聯車",
+   "英文": null,
+   "运营者": [
+    "京成"
+   ],
+   "图标文件": [
+    "09_keisei/matsudo-line__nkesen800f.png"
+   ],
+   "图标token": [
+    "nkesen800f"
+   ],
+   "特急": [],
+   "线路": [
+    "新京成電鉄"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": false,
+   "文件": "data/新京成電鉄800形電車.json"
+  },
+  {
+   "日文": "JR東海キヤ97系気動車",
+   "中文": "JR東海KiYa 97系柴油動車組",
+   "英文": null,
+   "运营者": [
+    "JR東海"
+   ],
+   "图标文件": [
+    "03_tokai/working-car__c97.png"
+   ],
+   "图标token": [
+    "c97"
+   ],
+   "特急": [],
+   "线路": [
+    "東海"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": false,
+   "文件": "data/JR東海キヤ97系気動車.json"
+  },
+  {
+   "日文": "国鉄キハ10系気動車",
+   "中文": "日本國鐵KiHa 10系柴聯車",
+   "英文": "KiHa 100 series",
+   "运营者": [
+    "JR北海道"
+   ],
+   "图标文件": [
+    "01_hokkaido/norokko__de10jku.png"
+   ],
+   "图标token": [
+    "de10jku"
+   ],
+   "特急": [],
+   "线路": [
+    "釧路"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/国鉄キハ10系気動車.json"
+  },
+  {
+   "日文": "神戸新交通1000型電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "関西私鉄"
+   ],
+   "图标文件": [
+    "32_kansai_mi/rokko-liner-apm-1-2-3-2026-1-30-update__roko1000.png"
+   ],
+   "图标token": [
+    "roko1000"
+   ],
+   "特急": [],
+   "线路": [
+    "ポートアイランド線",
+    "六甲アイランド線"
+   ],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/神戸新交通1000型電車.json"
+  },
+  {
+   "日文": "JR東海371系電車",
+   "中文": "JR東海371系電聯車",
+   "英文": "371 series",
+   "运营者": [
+    "甲信越私鉄"
+   ],
+   "图标文件": [
+    "30_koshinetsu_mi/untitled__fjq8500.png"
+   ],
+   "图标token": [
+    "fjq8500"
+   ],
+   "特急": [],
+   "线路": [
+    "河口湖線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/JR東海371系電車.json"
+  },
+  {
+   "日文": "JR四国",
+   "中文": "四國旅客鐵道",
+   "英文": "Shikoku Railway Company",
+   "运营者": [
+    "JR四国"
+   ],
+   "图标文件": [
+    "05_shikoku/express-marine-liner__s5001.png",
+    "05_shikoku/shikoku-express__s2001ag.png",
+    "05_shikoku/shikoku-express__s2001ar.png",
+    "05_shikoku/shikoku-express__s2001av.png",
+    "05_shikoku/shikoku-express__s2001ay.png",
+    "05_shikoku/shikoku-express__s2002a.png",
+    "05_shikoku/shikoku-express__s2003l.png",
+    "05_shikoku/shiokaze-ishizuchi__s8001.png",
+    "05_shikoku/shiokaze-ishizuchi__s8001k.png",
+    "05_shikoku/takamatsu-area__s6001p.png",
+    "05_shikoku/untitled__s1201.png",
+    "05_shikoku/yosan-line__s7002.png"
+   ],
+   "图标token": [
+    "s1201",
+    "s2001ag",
+    "s2001ar",
+    "s2001av",
+    "s2001ay",
+    "s2002a",
+    "s2003l",
+    "s5001",
+    "s6001p",
+    "s7002",
+    "s8001",
+    "s8001k"
+   ],
+   "特急": [
+    "いしづち",
+    "うずしお",
+    "しおかぜ",
+    "南風",
+    "宇和海"
+   ],
+   "线路": [
+    "内子線",
+    "徳島線",
+    "本四備讃線",
+    "高徳線",
+    "高松"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/JR四国.json"
+  },
+  {
+   "日文": "国鉄キハ181系気動車",
+   "中文": "日本國鐵KiHa 181系柴聯車",
+   "英文": "KiHa 181 series",
+   "运营者": [
+    "JR四国"
+   ],
+   "图标文件": [
+    "05_shikoku/shikoku-express__s181.png"
+   ],
+   "图标token": [
+    "s181"
+   ],
+   "特急": [
+    "うずしお",
+    "南風",
+    "宇和海"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/国鉄キハ181系気動車.json"
+  },
+  {
+   "日文": "小田急",
+   "中文": "小田急電鐵",
+   "英文": "Odakyu Electric Railway",
+   "运营者": [
+    "小田急"
+   ],
+   "图标文件": [
+    "13_odakyu/untitled__odq30001.png",
+    "13_odakyu/untitled__odq30001k.png",
+    "13_odakyu/untitled__odq60001.png"
+   ],
+   "图标token": [
+    "odq30001",
+    "odq30001k",
+    "odq60001"
+   ],
+   "特急": [
+    "えのしま",
+    "さがみ",
+    "はこね",
+    "ふじさん",
+    "ホームウェイ",
+    "メトロえのしま",
+    "メトロはこね",
+    "メトロホームウェイ",
+    "メトロモーニングウェイ",
+    "モーニングウェイ",
+    "小田急特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/小田急.json"
+  },
+  {
+   "日文": "東武",
+   "中文": "東武",
+   "英文": null,
+   "运营者": [
+    "東武"
+   ],
+   "图标文件": [
+    "08_tobu/kegon-daiya__tob5701.png",
+    "08_tobu/kegon-daiya__tob5702.png",
+    "08_tobu/ryomo-shimotsuke__tob201.png",
+    "08_tobu/ryomo-skytree__tob6341.png",
+    "08_tobu/ryomo-skytree__tob6342.png"
+   ],
+   "图标token": [
+    "tob201",
+    "tob5701",
+    "tob5702",
+    "tob6341",
+    "tob6342"
+   ],
+   "特急": [
+    "けごん",
+    "りょうもう",
+    "川越特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": false,
+   "文件": "data/東武.json"
+  },
+  {
+   "日文": "南海",
+   "中文": "南海 (消歧義)",
+   "英文": "南海",
+   "运营者": [
+    "南海"
+   ],
+   "图标文件": [
+    "23_nankai/kouya-rinkan__nan11002.png",
+    "23_nankai/kouya-rinkan__nan11003.png",
+    "23_nankai/kouya-rinkan__nan30001.png",
+    "23_nankai/kouya-rinkan__nan30002.png",
+    "23_nankai/kouya-rinkan__nan30003.png",
+    "23_nankai/rapit-southern-exp__nan50001.png",
+    "23_nankai/rapit-southern-exp__nan50002.png",
+    "23_nankai/rapit-southern-exp__nan50003.png",
+    "23_nankai/semboku-liner-1-2-2025-8-14-update__nan11004.png",
+    "23_nankai/semboku-liner-1-2-2025-8-14-update__nan11005.png",
+    "23_nankai/semboku-liner-1-2-2025-8-14-update__nan11006.png",
+    "23_nankai/semboku-liner-1-2-2025-8-14-update__nan11007.png",
+    "23_nankai/southern-kouya__nan10002.png",
+    "23_nankai/southern-kouya__nan10003.png",
+    "23_nankai/southern-kouya__nan2003.png",
+    "23_nankai/southern-kouya__nan2004.png",
+    "23_nankai/southern-kouya__nan30004.png",
+    "23_nankai/southern-kouya__nan30005.png",
+    "23_nankai/southern-kouya__nan31001.png"
+   ],
+   "图标token": [
+    "nan10002",
+    "nan10003",
+    "nan11002",
+    "nan11003",
+    "nan11004",
+    "nan11005",
+    "nan11006",
+    "nan11007",
+    "nan2003",
+    "nan2004",
+    "nan30001",
+    "nan30002",
+    "nan30003",
+    "nan30004",
+    "nan30005",
+    "nan31001",
+    "nan50001",
+    "nan50002",
+    "nan50003"
+   ],
+   "特急": [
+    "こうや",
+    "りんかん",
+    "サザン",
+    "ラピート",
+    "泉北ライナー"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/南海.json"
+  },
+  {
+   "日文": "南海1900号電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "南海"
+   ],
+   "图标文件": [
+    "23_nankai/kouya-rinkan__nan1900.png"
+   ],
+   "图标token": [
+    "nan1900"
+   ],
+   "特急": [
+    "こうや",
+    "りんかん"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/南海1900号電車.json"
+  },
+  {
+   "日文": "京成",
+   "中文": "京成集團",
+   "英文": null,
+   "运营者": [
+    "京成"
+   ],
+   "图标文件": [
+    "09_keisei/skyliner-keisei__kese3001n.png",
+    "09_keisei/skyliner-keisei__kese3051.png",
+    "09_keisei/skyliner__kese-ae.png",
+    "09_keisei/skyliner__kese-ae1.png",
+    "09_keisei/skyliner__kese101.png",
+    "09_keisei/skyliner__kese102.png"
+   ],
+   "图标token": [
+    "kese-ae",
+    "kese-ae1",
+    "kese101",
+    "kese102",
+    "kese3001n",
+    "kese3051"
+   ],
+   "特急": [
+    "アクセス特急",
+    "スカイライナー",
+    "京成快速特急",
+    "京成特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": false,
+   "文件": "data/京成.json"
+  },
+  {
+   "日文": "京急",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "京急"
+   ],
+   "图标文件": [
+    "15_keikyu/untitled__khk1003.png",
+    "15_keikyu/untitled__khk2101.png",
+    "15_keikyu/untitled__khk2101bl.png",
+    "15_keikyu/untitled__khk2102.png",
+    "15_keikyu/untitled__khk601bl.png"
+   ],
+   "图标token": [
+    "khk1003",
+    "khk2101",
+    "khk2101bl",
+    "khk2102",
+    "khk601bl"
+   ],
+   "特急": [
+    "エアポート快特",
+    "京急特急"
+   ],
+   "线路": [
+    "浅草線"
+   ],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/京急.json"
+  },
+  {
+   "日文": "南海C10001形蒸気機関車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "南海"
+   ],
+   "图标文件": [
+    "23_nankai/rapit-southern-exp__nan10001.png"
+   ],
+   "图标token": [
+    "nan10001"
+   ],
+   "特急": [
+    "サザン",
+    "ラピート"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/南海C10001形蒸気機関車.json"
+  },
+  {
+   "日文": "JR西日本",
+   "中文": "西日本旅客鐵道",
+   "英文": "West Japan Railway Company",
+   "运营者": [
+    "JR西日本"
+   ],
+   "图标文件": [
+    "04_west/akatsuki-nihonkai__w24dngs.png",
+    "04_west/kinokuni-seaside__w12jks.png",
+    "04_west/sunrise-exp-mizukaze__w87.png"
+   ],
+   "图标token": [
+    "w12jks",
+    "w24dngs",
+    "w87"
+   ],
+   "特急": [
+    "サンライズ出雲",
+    "サンライズ瀬戸"
+   ],
+   "线路": [
+    "日本海ひすいライン",
+    "金沢シーサイド線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/JR西日本.json"
+  },
+  {
+   "日文": "智頭急行",
+   "中文": "智頭急行",
+   "英文": "Chizu Express",
+   "运营者": [
+    "山陽山陰"
+   ],
+   "图标文件": [
+    "26_sanyosanin/super-hakuto__hot3520.png",
+    "26_sanyosanin/super-hakuto__hot3521.png"
+   ],
+   "图标token": [
+    "hot3520",
+    "hot3521"
+   ],
+   "特急": [
+    "スーパーはくと"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/智頭急行.json"
+  },
+  {
+   "日文": "新幹線400系電車",
+   "中文": "新幹線400系電力動車組",
+   "英文": "400 Series Shinkansen",
+   "运营者": [
+    "JR北海道",
+    "JR東日本"
+   ],
+   "图标文件": [
+    "01_hokkaido/hokutosei-rishiri__h400.png",
+    "01_hokkaido/hokutosei-rishiri__h400b.png",
+    "02_east/tohoku-area__ee400ak.png"
+   ],
+   "图标token": [
+    "ee400ak",
+    "h400",
+    "h400b"
+   ],
+   "特急": [
+    "スーパー北斗",
+    "北斗",
+    "能登かがり火"
+   ],
+   "线路": [
+    "八戸",
+    "八戸線",
+    "大湊線",
+    "釜石",
+    "釜石線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/新幹線400系電車.json"
+  },
+  {
+   "日文": "国鉄EF81形電気機関車",
+   "中文": "日本国铁EF81型电力机车",
+   "英文": "JNR Class EF81",
+   "运营者": [
+    "JR東日本"
+   ],
+   "图标文件": [
+    "02_east/hokutosei__ef81kas.png",
+    "02_east/hokutosei__ef81kas2.png"
+   ],
+   "图标token": [
+    "ef81kas",
+    "ef81kas2"
+   ],
+   "特急": [
+    "スーパー北斗",
+    "北斗",
+    "能登かがり火"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/国鉄EF81形電気機関車.json"
+  },
+  {
+   "日文": "国鉄24系客車",
+   "中文": "日本國鐵24系客車",
+   "英文": null,
+   "运营者": [
+    "JR東日本"
+   ],
+   "图标文件": [
+    "02_east/hokutosei__e24.png"
+   ],
+   "图标token": [
+    "e24"
+   ],
+   "特急": [
+    "スーパー北斗",
+    "北斗",
+    "能登かがり火"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": false,
+   "文件": "data/国鉄24系客車.json"
+  },
+  {
+   "日文": "西武501系電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "東武"
+   ],
+   "图标文件": [
+    "08_tobu/spacia-rivety__tob501.png"
+   ],
+   "图标token": [
+    "tob501"
+   ],
+   "特急": [
+    "リバティ会津",
+    "東武特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/西武501系電車.json"
+  },
+  {
+   "日文": "一畑電車",
+   "中文": "一畑電車",
+   "英文": "Ichibata Electric Railway",
+   "运营者": [
+    "山陽山陰"
+   ],
+   "图标文件": [
+    "26_sanyosanin/ichibata-rail__itbt1.png",
+    "26_sanyosanin/ichibata-rail__itbt1001.png",
+    "26_sanyosanin/ichibata-rail__itbt1002.png",
+    "26_sanyosanin/ichibata-rail__itbt1003.png",
+    "26_sanyosanin/ichibata-rail__itbt1o.png",
+    "26_sanyosanin/ichibata-rail__itbt3001.png",
+    "26_sanyosanin/ichibata-rail__itbt60.png",
+    "26_sanyosanin/ichibata-rail__itbt7001.png",
+    "26_sanyosanin/ichibata-rail__itbt7001p.png",
+    "26_sanyosanin/ichibata-rail__itbt7002.png",
+    "26_sanyosanin/ichibata-rail__itbt7002p.png",
+    "26_sanyosanin/ichibata-rail__itbt7003.png",
+    "26_sanyosanin/ichibata-rail__itbt7003p.png",
+    "26_sanyosanin/ichibata-rail__itbt7004.png",
+    "26_sanyosanin/ichibata-rail__itbt7004p.png",
+    "26_sanyosanin/ichibata-rail__itbt90.png"
+   ],
+   "图标token": [
+    "itbt1",
+    "itbt1001",
+    "itbt1002",
+    "itbt1003",
+    "itbt1o",
+    "itbt3001",
+    "itbt60",
+    "itbt7001",
+    "itbt7001p",
+    "itbt7002",
+    "itbt7002p",
+    "itbt7003",
+    "itbt7003p",
+    "itbt7004",
+    "itbt7004p",
+    "itbt90"
+   ],
+   "特急": [
+    "一畑電車特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/一畑電車.json"
+  },
+  {
+   "日文": "一畑電気鉄道2100系電車",
+   "中文": "一畑電氣鐵道2100系電聯車",
+   "英文": null,
+   "运营者": [
+    "山陽山陰"
+   ],
+   "图标文件": [
+    "26_sanyosanin/ichibata-rail__itbt21.png"
+   ],
+   "图标token": [
+    "itbt21"
+   ],
+   "特急": [
+    "一畑電車特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": false,
+   "文件": "data/一畑電気鉄道2100系電車.json"
+  },
+  {
+   "日文": "一畑電気鉄道70系電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "山陽山陰"
+   ],
+   "图标文件": [
+    "26_sanyosanin/ichibata-rail__itbt70.png"
+   ],
+   "图标token": [
+    "itbt70"
+   ],
+   "特急": [
+    "一畑電車特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/一畑電気鉄道70系電車.json"
+  },
+  {
+   "日文": "一畑電気鉄道デハニ50形電車",
+   "中文": "一畑電氣鐵道5000系電聯車",
+   "英文": null,
+   "运营者": [
+    "山陽山陰"
+   ],
+   "图标文件": [
+    "26_sanyosanin/ichibata-rail__itbt50.png"
+   ],
+   "图标token": [
+    "itbt50"
+   ],
+   "特急": [
+    "一畑電車特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": false,
+   "文件": "data/一畑電気鉄道デハニ50形電車.json"
+  },
+  {
+   "日文": "一畑電気鉄道80系電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "山陽山陰"
+   ],
+   "图标文件": [
+    "26_sanyosanin/ichibata-rail__itbt80.png"
+   ],
+   "图标token": [
+    "itbt80"
+   ],
+   "特急": [
+    "一畑電車特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/一畑電気鉄道80系電車.json"
+  },
+  {
+   "日文": "大阪市交通局2201形電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "京阪"
+   ],
+   "图标文件": [
+    "19_keihan/keihan-rail__khan2201n.png"
+   ],
+   "图标token": [
+    "khan2201n"
+   ],
+   "特急": [
+    "京阪特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/大阪市交通局2201形電車.json"
+  },
+  {
+   "日文": "富山地方鉄道デキ12020形電気機関車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "北陸"
+   ],
+   "图标文件": [
+    "25_hokuriku/toyama-regioal-rail__tymti12020.png"
+   ],
+   "图标token": [
+    "tymti12020"
+   ],
+   "特急": [
+    "富山地方鉄道特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/富山地方鉄道デキ12020形電気機関車.json"
+  },
+  {
+   "日文": "富山港線",
+   "中文": "富山港線",
+   "英文": "Toyama Chihō Railway Toyamakō Line",
+   "运营者": [
+    "北陸"
+   ],
+   "图标文件": [
+    "25_hokuriku/toyama-tram__tlr602.png",
+    "25_hokuriku/toyama-tram__tlr603.png",
+    "25_hokuriku/toyama-tram__tlr604.png",
+    "25_hokuriku/toyama-tram__tlr605.png",
+    "25_hokuriku/toyama-tram__tlr606.png",
+    "25_hokuriku/toyama-tram__tlr607.png",
+    "25_hokuriku/toyama-tram__tlr608.png"
+   ],
+   "图标token": [
+    "tlr602",
+    "tlr603",
+    "tlr604",
+    "tlr605",
+    "tlr606",
+    "tlr607",
+    "tlr608"
+   ],
+   "特急": [
+    "富山地方鉄道特急"
+   ],
+   "线路": [
+    "上滝線",
+    "不二越線",
+    "富山ライトレール",
+    "富山地方鉄道",
+    "富山港線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/富山港線.json"
+  },
+  {
+   "日文": "山陽電気鉄道",
+   "中文": "山陽電氣鐵道",
+   "英文": "Sanyo Electric Railway",
+   "运营者": [
+    "阪神"
+   ],
+   "图标文件": [
+    "22_hanshin/sanyo-rail__san10jg.png",
+    "22_hanshin/sanyo-rail__san1500jg.png",
+    "22_hanshin/sanyo-rail__san2001o.png",
+    "22_hanshin/sanyo-rail__san2002o.png",
+    "22_hanshin/sanyo-rail__san251.png",
+    "22_hanshin/sanyo-rail__san252.png",
+    "22_hanshin/sanyo-rail__san255jg.png",
+    "22_hanshin/sanyo-rail__san255jgk.png",
+    "22_hanshin/sanyo-rail__san2701.png",
+    "22_hanshin/sanyo-rail__san3001.png",
+    "22_hanshin/sanyo-rail__san5110.png",
+    "22_hanshin/sanyo-rail__san5111.png",
+    "22_hanshin/sanyo-rail__san701.png"
+   ],
+   "图标token": [
+    "san10jg",
+    "san1500jg",
+    "san2001o",
+    "san2002o",
+    "san251",
+    "san252",
+    "san255jg",
+    "san255jgk",
+    "san2701",
+    "san3001",
+    "san5110",
+    "san5111",
+    "san701"
+   ],
+   "特急": [
+    "山陽電鉄特急",
+    "直通特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/山陽電気鉄道.json"
+  },
+  {
+   "日文": "JR九州",
+   "中文": "九州旅客鐵道",
+   "英文": "Kyushu Railway Company",
+   "运营者": [
+    "JR九州"
+   ],
+   "图标文件": [
+    "06_kyushu/ibuatma-atrain-umisachi__k147ibtm2.png",
+    "06_kyushu/oita-kumamoto__k220.png"
+   ],
+   "图标token": [
+    "k147ibtm2",
+    "k220"
+   ],
+   "特急": [
+    "指宿のたまて箱"
+   ],
+   "线路": [
+    "熊本",
+    "豊肥本線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/JR九州.json"
+  },
+  {
+   "日文": "東急",
+   "中文": "東急",
+   "英文": "Tokyu Corporation",
+   "运营者": [
+    "東急",
+    "関東私鉄"
+   ],
+   "图标文件": [
+    "14_tokyu/denentoshi-line__toq5005.png",
+    "14_tokyu/ohimachi-line__toq6021.png",
+    "14_tokyu/setagaya-line__toq303.png",
+    "14_tokyu/untitled__toq1001.png",
+    "29_kanto_mi/oedo-line__toky12690.png",
+    "29_kanto_mi/shinjuku-line__toky10490.png",
+    "29_kanto_mi/toneri-liner-apm__toky330.png"
+   ],
+   "图标token": [
+    "toky10490",
+    "toky12690",
+    "toky330",
+    "toq1001",
+    "toq303",
+    "toq5005",
+    "toq6021"
+   ],
+   "特急": [
+    "東急特急"
+   ],
+   "线路": [
+    "世田谷線",
+    "大井町線",
+    "大江戸線",
+    "日暮里",
+    "東京都交通局",
+    "東急世田谷線",
+    "東急大井町線",
+    "田園都市線",
+    "都営地下鉄",
+    "都営地下鉄大江戸線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/東急.json"
+  },
+  {
+   "日文": "泉北高速鉄道",
+   "中文": "泉北高速鐵道",
+   "英文": "Semboku Rapid Railway (company)",
+   "运营者": [
+    "南海"
+   ],
+   "图标文件": [
+    "23_nankai/semboku-line__snbk100.png",
+    "23_nankai/semboku-line__snbk100p.png",
+    "23_nankai/semboku-line__snbk101.png",
+    "23_nankai/semboku-line__snbk3001.png",
+    "23_nankai/semboku-line__snbk3550.png",
+    "23_nankai/semboku-line__snbk3551.png",
+    "23_nankai/semboku-line__snbk5001.png",
+    "23_nankai/semboku-line__snbk5002.png",
+    "23_nankai/semboku-line__snbk5003.png",
+    "23_nankai/semboku-line__snbk5004.png",
+    "23_nankai/semboku-line__snbk7021.png"
+   ],
+   "图标token": [
+    "snbk100",
+    "snbk100p",
+    "snbk101",
+    "snbk3001",
+    "snbk3550",
+    "snbk3551",
+    "snbk5001",
+    "snbk5002",
+    "snbk5003",
+    "snbk5004",
+    "snbk7021"
+   ],
+   "特急": [
+    "泉北ライナー"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/泉北高速鉄道.json"
+  },
+  {
+   "日文": "相鉄",
+   "中文": "相鐵控股",
+   "英文": null,
+   "运营者": [
+    "相鉄"
+   ],
+   "图标文件": [
+    "16_sotetsu/sotetsu-rail__sote10002.png",
+    "16_sotetsu/sotetsu-rail__sote10004.png",
+    "16_sotetsu/sotetsu-rail__sote11002.png",
+    "16_sotetsu/sotetsu-rail__sote8007.png",
+    "16_sotetsu/sotetsu-rail__sote9007.png"
+   ],
+   "图标token": [
+    "sote10002",
+    "sote10004",
+    "sote11002",
+    "sote8007",
+    "sote9007"
+   ],
+   "特急": [
+    "相鉄特急"
+   ],
+   "线路": [
+    "相鉄新横浜線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": false,
+   "文件": "data/相鉄.json"
+  },
+  {
+   "日文": "西鉄",
+   "中文": "西鐵",
+   "英文": "西鐵",
+   "运营者": [
+    "西鉄"
+   ],
+   "图标文件": [
+    "24_nishitetsu/omuta-line-1-2-2025-8-22-update__nisi61.png",
+    "24_nishitetsu/omuta-line__nisi303.png",
+    "24_nishitetsu/omuta-line__nisi602.png",
+    "24_nishitetsu/omuta-line__nisi602o.png",
+    "24_nishitetsu/omuta-line__nisi603o.png",
+    "24_nishitetsu/omuta-line__nisi60b.png"
+   ],
+   "图标token": [
+    "nisi303",
+    "nisi602",
+    "nisi602o",
+    "nisi603o",
+    "nisi60b",
+    "nisi61"
+   ],
+   "特急": [
+    "西鉄特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/西鉄.json"
+  },
+  {
+   "日文": "西武701系電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "西鉄"
+   ],
+   "图标文件": [
+    "24_nishitetsu/omuta-line__nisi701.png"
+   ],
+   "图标token": [
+    "nisi701"
+   ],
+   "特急": [
+    "西鉄特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/西武701系電車.json"
+  },
+  {
+   "日文": "西武601系電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "西鉄"
+   ],
+   "图标文件": [
+    "24_nishitetsu/omuta-line__nisi601o.png"
+   ],
+   "图标token": [
+    "nisi601o"
+   ],
+   "特急": [
+    "西鉄特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/西武601系電車.json"
+  },
+  {
+   "日文": "阪神",
+   "中文": "阪神",
+   "英文": "Hanshin",
+   "运营者": [
+    "阪神"
+   ],
+   "图标文件": [
+    "22_hanshin/hanshin-rail__hnsn1002.png",
+    "22_hanshin/hanshin-rail__hnsn1003.png",
+    "22_hanshin/hanshin-rail__hnsn3001.png",
+    "22_hanshin/hanshin-rail__hnsn5002.png",
+    "22_hanshin/hanshin-rail__hnsn5502.png",
+    "22_hanshin/hanshin-rail__hnsn5552.png",
+    "22_hanshin/hanshin-rail__hnsn5701.png",
+    "22_hanshin/hanshin-rail__hnsn7700.png",
+    "22_hanshin/hanshin-rail__hnsn8002n.png",
+    "22_hanshin/hanshin-rail__hnsn8003n.png",
+    "22_hanshin/hanshin-rail__hnsn8004.png",
+    "22_hanshin/hanshin-rail__hnsn9003.png",
+    "22_hanshin/hanshin-rail__hnsn9004.png",
+    "22_hanshin/hanshin-rail__hnsn9007.png",
+    "22_hanshin/hanshin-rail__hnsn9007k.png",
+    "22_hanshin/hanshin-rail__hnsn9301.png"
+   ],
+   "图标token": [
+    "hnsn1002",
+    "hnsn1003",
+    "hnsn3001",
+    "hnsn5002",
+    "hnsn5502",
+    "hnsn5552",
+    "hnsn5701",
+    "hnsn7700",
+    "hnsn8002n",
+    "hnsn8003n",
+    "hnsn8004",
+    "hnsn9003",
+    "hnsn9004",
+    "hnsn9007",
+    "hnsn9007k",
+    "hnsn9301"
+   ],
+   "特急": [
+    "阪神特急"
+   ],
+   "线路": [],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/阪神.json"
+  },
+  {
+   "日文": "新幹線E5系・H5系電車",
+   "中文": "新幹線E5/H5系電力動車組",
+   "英文": "E5 and H5 Series Shinkansen",
+   "运营者": [
+    "JR新幹線"
+   ],
+   "图标文件": [
+    "00_shinkansen/hayabusa-e5-h5__h5.png"
+   ],
+   "图标token": [
+    "h5"
+   ],
+   "特急": [
+    "はやて",
+    "はやぶさ"
+   ],
+   "线路": [
+    "北海道新幹線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/新幹線E5系・H5系電車.json"
+  },
+  {
+   "日文": "新幹線N700系電車",
+   "中文": "新幹線N700系電聯車",
+   "英文": "N700 Series Shinkansen",
+   "运营者": [
+    "JR新幹線"
+   ],
+   "图标文件": [
+    "00_shinkansen/kamome-n700s__k700s2.png"
+   ],
+   "图标token": [
+    "k700s2"
+   ],
+   "特急": [
+    "かもめ"
+   ],
+   "线路": [
+    "九州新幹線",
+    "西九州新幹線",
+    "西九州線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/新幹線N700系電車.json"
+  },
+  {
+   "日文": "IGRいわて銀河鉄道",
+   "中文": "IGR岩手銀河鐵道",
+   "英文": "Iwate Galaxy Railway Line",
+   "运营者": [
+    "東北私鉄"
+   ],
+   "图标文件": [
+    "28_tohoku_mi/igr-rail__igr7001.png"
+   ],
+   "图标token": [
+    "igr7001"
+   ],
+   "特急": [],
+   "线路": [
+    "IGRいわて銀河鉄道",
+    "いわて銀河鉄道線",
+    "北銀河鉄道"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/IGRいわて銀河鉄道.json"
+  },
+  {
+   "日文": "首都圏新都市鉄道TX-2000系電車",
+   "中文": "首都圈新都市鐵道TX-2000系電力動車組",
+   "英文": "TX-2000 series",
+   "运营者": [
+    "関東私鉄"
+   ],
+   "图标文件": [
+    "29_kanto_mi/tsukuba-exp__tx2000.png"
+   ],
+   "图标token": [
+    "tx2000"
+   ],
+   "特急": [],
+   "线路": [
+    "つくばエクスプレス線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/首都圏新都市鉄道TX-2000系電車.json"
+  },
+  {
+   "日文": "東京臨海高速鉄道",
+   "中文": "東京臨海高速鐵道",
+   "英文": null,
+   "运营者": [
+    "関東私鉄"
+   ],
+   "图标文件": [
+    "29_kanto_mi/twr-rinkai-line__twr70000.png"
+   ],
+   "图标token": [
+    "twr70000"
+   ],
+   "特急": [],
+   "线路": [
+    "りんかい線",
+    "東京臨海高速鉄道"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": false,
+   "文件": "data/東京臨海高速鉄道.json"
+  },
+  {
+   "日文": "わたらせ渓谷鐵道WKT-510形気動車",
+   "中文": "渡良瀨溪谷鐵道WKT-510型柴聯車",
+   "英文": null,
+   "运营者": [
+    "東武"
+   ],
+   "图标文件": [
+    "08_tobu/watarase-rail__wtrs510.png"
+   ],
+   "图标token": [
+    "wtrs510"
+   ],
+   "特急": [],
+   "线路": [
+    "わたらせ渓谷線",
+    "わたらせ渓谷鉄道"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": false,
+   "文件": "data/わたらせ渓谷鐵道WKT-510形気動車.json"
+  },
+  {
+   "日文": "山万",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "関東私鉄"
+   ],
+   "图标文件": [
+    "29_kanto_mi/untitled__ymmn1003.png"
+   ],
+   "图标token": [
+    "ymmn1003"
+   ],
+   "特急": [],
+   "线路": [
+    "ユーカリが丘線"
+   ],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/山万.json"
+  },
+  {
+   "日文": "上信電鉄",
+   "中文": "上信電鐵",
+   "英文": "Jōshin Dentetsu Jōshin Line",
+   "运营者": [
+    "関東私鉄"
+   ],
+   "图标文件": [
+    "29_kanto_mi/joshin-rail__jysn502k.png"
+   ],
+   "图标token": [
+    "jysn502k"
+   ],
+   "特急": [],
+   "线路": [
+    "上信線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/上信電鉄.json"
+  },
+  {
+   "日文": "名古屋市交通局6050形電車",
+   "中文": null,
+   "英文": "Nagoya Municipal Subway 6050 series",
+   "运营者": [
+    "東海私鉄"
+   ],
+   "图标文件": [
+    "31_tokai_mi/nagoya-metro__nag6050.png"
+   ],
+   "图标token": [
+    "nag6050"
+   ],
+   "特急": [],
+   "线路": [
+    "2号線名城線・名港線",
+    "4号線名城線",
+    "上飯田線"
+   ],
+   "有日文": true,
+   "有中文": false,
+   "有英文": true,
+   "文件": "data/名古屋市交通局6050形電車.json"
+  },
+  {
+   "日文": "石見交通",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "山陽山陰"
+   ],
+   "图标文件": [
+    "26_sanyosanin/ibara-rail__irt355r.png"
+   ],
+   "图标token": [
+    "irt355r"
+   ],
+   "特急": [],
+   "线路": [
+    "井原線",
+    "井原鉄道"
+   ],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/石見交通.json"
+  },
+  {
+   "日文": "大井川鉄道cワフ0形貨車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "東海私鉄"
+   ],
+   "图标文件": [
+    "31_tokai_mi/ohigawa-rail__oig-pp0.png"
+   ],
+   "图标token": [
+    "oig-pp0"
+   ],
+   "特急": [],
+   "线路": [
+    "井川線",
+    "大井川本線",
+    "大井川鉄道",
+    "大井川鐵道"
+   ],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/大井川鉄道cワフ0形貨車.json"
+  },
+  {
+   "日文": "大阪市高速電気軌道",
+   "中文": "大阪市高速電氣軌道",
+   "英文": "Osaka Metro",
+   "运营者": [
+    "大阪メトロ"
+   ],
+   "图标文件": [
+    "20_osakametro/imazatosuji-line__osak80a.png",
+    "20_osakametro/midosuji-line__osak21.png",
+    "20_osakametro/sennichimae-line__osak25a.png",
+    "20_osakametro/tanimachi-line__osak32l.png",
+    "20_osakametro/untitled__osak66n.png",
+    "20_osakametro/yotsuhashi-line__osak23a.png"
+   ],
+   "图标token": [
+    "osak21",
+    "osak23a",
+    "osak25a",
+    "osak32l",
+    "osak66n",
+    "osak80a"
+   ],
+   "特急": [],
+   "线路": [
+    "今里筋線",
+    "千日前線",
+    "四つ橋線",
+    "堺筋線",
+    "大阪メトロ御堂筋線",
+    "御堂筋線",
+    "谷町線",
+    "阪堺線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/大阪市高速電気軌道.json"
+  },
+  {
+   "日文": "会津鉄道",
+   "中文": "會津鐵道",
+   "英文": "Aizu Railway",
+   "运营者": [
+    "東北私鉄"
+   ],
+   "图标文件": [
+    "28_tohoku_mi/aizu-rail__aiz650.png"
+   ],
+   "图标token": [
+    "aiz650"
+   ],
+   "特急": [],
+   "线路": [
+    "会津線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/会津鉄道.json"
+  },
+  {
+   "日文": "信楽高原鐵道",
+   "中文": "信樂高原鐵道",
+   "英文": "Shigaraki Kohgen Railway",
+   "运营者": [
+    "関西私鉄"
+   ],
+   "图标文件": [
+    "32_kansai_mi/shigaraki-rail-1-2-3-2026-1-2-update__sgrk312p2.png"
+   ],
+   "图标token": [
+    "sgrk312p2"
+   ],
+   "特急": [],
+   "线路": [
+    "信楽線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/信楽高原鐵道.json"
+  },
+  {
+   "日文": "函館市交通局",
+   "中文": "函館市企業局交通部",
+   "英文": "Hakodate Transportation Bureau",
+   "运营者": [
+    "北海道私鉄"
+   ],
+   "图标文件": [
+    "27_hokkaido_mi/hakodate__lhkdt9602.png"
+   ],
+   "图标token": [
+    "lhkdt9602"
+   ],
+   "特急": [],
+   "线路": [
+    "函館市企業局交通部",
+    "函館市電",
+    "函館市電本線",
+    "宝来・谷地頭線",
+    "湯の川線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/函館市交通局.json"
+  },
+  {
+   "日文": "東京メトロ",
+   "中文": "東京地下鐵",
+   "英文": "Tokyo Metro",
+   "运营者": [
+    "東京メトロ"
+   ],
+   "图标文件": [
+    "10_metro/fukutoshin-line__tkm17008.png",
+    "10_metro/ginza-line__tkm1001.png",
+    "10_metro/nanboku-line__tkm9003.png"
+   ],
+   "图标token": [
+    "tkm1001",
+    "tkm17008",
+    "tkm9003"
+   ],
+   "特急": [],
+   "线路": [
+    "1条線",
+    "仙台市地下鉄南北線",
+    "副都心線",
+    "埼玉高速鉄道",
+    "埼玉高速鉄道線",
+    "富山駅南北接続線",
+    "本町線",
+    "札幌市営地下鉄南北線",
+    "東京メトロ副都心線",
+    "東京メトロ南北線",
+    "東京メトロ有楽町線",
+    "神戸高速線",
+    "西武有楽町線",
+    "銀座線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/東京メトロ.json"
+  },
+  {
+   "日文": "能勢電鉄",
+   "中文": "能勢電鐵",
+   "英文": "Nose Electric Railway",
+   "运营者": [
+    "大阪メトロ"
+   ],
+   "图标文件": [
+    "20_osakametro/kita-osaka-rail__nosk9001.png"
+   ],
+   "图标token": [
+    "nosk9001"
+   ],
+   "特急": [],
+   "线路": [
+    "北大阪急行線",
+    "千里線",
+    "阪急京都本線",
+    "阪急電鉄"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/能勢電鉄.json"
+  },
+  {
+   "日文": "北条鉄道",
+   "中文": "北條鐵道",
+   "英文": "Hōjō Line",
+   "运营者": [
+    "関西私鉄"
+   ],
+   "图标文件": [
+    "32_kansai_mi/untitled__hojo2000v.png"
+   ],
+   "图标token": [
+    "hojo2000v"
+   ],
+   "特急": [],
+   "线路": [
+    "北条線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/北条鉄道.json"
+  },
+  {
+   "日文": "神戸市交通局1000形電車 (鉄道)",
+   "中文": "福井鐵道F1000型電車",
+   "英文": null,
+   "运营者": [
+    "関西私鉄"
+   ],
+   "图标文件": [
+    "32_kansai_mi/kobe-metro__kob1000.png"
+   ],
+   "图标token": [
+    "kob1000"
+   ],
+   "特急": [],
+   "线路": [
+    "北神急行電鉄",
+    "北神線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": false,
+   "文件": "data/神戸市交通局1000形電車 (鉄道).json"
+  },
+  {
+   "日文": "叡山電鉄",
+   "中文": "叡山電鐵",
+   "英文": "Eizan Electric Railway",
+   "运营者": [
+    "京阪"
+   ],
+   "图标文件": [
+    "19_keihan/eizan-rail__eizn722nrp.png"
+   ],
+   "图标token": [
+    "eizn722nrp"
+   ],
+   "特急": [],
+   "线路": [
+    "叡山本線",
+    "叡山電鉄",
+    "叡山電鉄本線",
+    "鞍馬山鋼索鉄道"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/叡山電鉄.json"
+  },
+  {
+   "日文": "スロープカー",
+   "中文": null,
+   "英文": "Slope car",
+   "运营者": [
+    "スロープカー"
+   ],
+   "图标文件": [
+    "36_slopecar/fuji-kodomo__slp-fjikdm2.png",
+    "36_slopecar/hamamatsu-fp__slp-hmmtfp1l.png",
+    "36_slopecar/kai-kinugawa-hotel__slp-kaikngw1.png",
+    "36_slopecar/koura-shrine__slp-takr1l.png",
+    "36_slopecar/mt-minobusan__slp-mnb1.png",
+    "36_slopecar/naruto-sloppy__slp-narut1y.png",
+    "36_slopecar/naruto-sloppy__slp-narut1yk.png"
+   ],
+   "图标token": [
+    "slp-fjikdm2",
+    "slp-hmmtfp1l",
+    "slp-kaikngw1",
+    "slp-mnb1",
+    "slp-narut1y",
+    "slp-narut1yk",
+    "slp-takr1l"
+   ],
+   "特急": [],
+   "线路": [
+    "フラワー長井線",
+    "一畑電車大社線",
+    "会津鬼怒川線",
+    "大社線",
+    "山形鉄道フラワー長井線",
+    "東急こどもの国線",
+    "浜松",
+    "身延線",
+    "鳴門線"
+   ],
+   "有日文": true,
+   "有中文": false,
+   "有英文": true,
+   "文件": "data/スロープカー.json"
+  },
+  {
+   "日文": "JR北海道",
+   "中文": "北海道旅客鐵道",
+   "英文": "Hokkaido Railway Company",
+   "运营者": [
+    "JR北海道"
+   ],
+   "图标文件": [
+    "01_hokkaido/asahikawa-area__h100frn1.png",
+    "01_hokkaido/hidaka-muroran__h100mu1.png",
+    "01_hokkaido/kushiro-area__h100hnsk1.png",
+    "01_hokkaido/nemuro-soya-line__h100sy1.png"
+   ],
+   "图标token": [
+    "h100frn1",
+    "h100hnsk1",
+    "h100mu1",
+    "h100sy1"
+   ],
+   "特急": [],
+   "线路": [
+    "室蘭",
+    "室蘭本線",
+    "富良野線",
+    "日高",
+    "日高本線",
+    "根室",
+    "根室本線",
+    "石北本線",
+    "釧網本線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/JR北海道.json"
+  },
+  {
+   "日文": "箱根登山鉄道",
+   "中文": "小田急箱根",
+   "英文": "Odakyu Hakone",
+   "运营者": [
+    "小田急"
+   ],
+   "图标文件": [
+    "13_odakyu/odawara-tram-1-2-2026-1-2-update__htr-l200.png"
+   ],
+   "图标token": [
+    "htr-l200"
+   ],
+   "特急": [],
+   "线路": [
+    "小田原",
+    "小田原線",
+    "田原本線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/箱根登山鉄道.json"
+  },
+  {
+   "日文": "岳南鉄道",
+   "中文": null,
+   "英文": "Gakunan Railway Line",
+   "运营者": [
+    "東海私鉄"
+   ],
+   "图标文件": [
+    "31_tokai_mi/gakunan-rail__gkna8001o.png"
+   ],
+   "图标token": [
+    "gkna8001o"
+   ],
+   "特急": [],
+   "线路": [
+    "岳南鉄道",
+    "岳南鉄道線",
+    "岳南電車"
+   ],
+   "有日文": true,
+   "有中文": false,
+   "有英文": true,
+   "文件": "data/岳南鉄道.json"
+  },
+  {
+   "日文": "島原鉄道",
+   "中文": "島原鐵道",
+   "英文": "Shimabara Railway",
+   "运营者": [
+    "九州私鉄"
+   ],
+   "图标文件": [
+    "34_kyushu_mi/shimabara-rail__smbr2501.png"
+   ],
+   "图标token": [
+    "smbr2501"
+   ],
+   "特急": [],
+   "线路": [
+    "島原鉄道",
+    "島原鉄道島原線",
+    "島原鉄道線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/島原鉄道.json"
+  },
+  {
+   "日文": "国鉄DE10形ディーゼル機関車",
+   "中文": "日本國鐵DE10型柴油機車",
+   "英文": "JNR Class DE10",
+   "运营者": [
+    "関西私鉄"
+   ],
+   "图标文件": [
+    "32_kansai_mi/sagano-rail__sagn-de10.png"
+   ],
+   "图标token": [
+    "sagn-de10"
+   ],
+   "特急": [],
+   "线路": [
+    "嵯峨野観光線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/国鉄DE10形ディーゼル機関車.json"
+  },
+  {
+   "日文": "樽見鉄道ハイモ330-700形気動車",
+   "中文": "樽見鐵道Haimo 330-700型柴聯車",
+   "英文": null,
+   "运营者": [
+    "東海私鉄"
+   ],
+   "图标文件": [
+    "31_tokai_mi/tarumi-rail__tarm330.png"
+   ],
+   "图标token": [
+    "tarm330"
+   ],
+   "特急": [],
+   "线路": [
+    "樽見線",
+    "樽見鉄道"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": false,
+   "文件": "data/樽見鉄道ハイモ330-700形気動車.json"
+  },
+  {
+   "日文": "水島臨海鉄道MRT300形気動車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "山陽山陰"
+   ],
+   "图标文件": [
+    "26_sanyosanin/kurashiki-rail__mzsm300wb.png",
+    "26_sanyosanin/mizushima-rail__mzsm300.png"
+   ],
+   "图标token": [
+    "mzsm300",
+    "mzsm300wb"
+   ],
+   "特急": [],
+   "线路": [
+    "倉敷",
+    "東京臨海新交通臨海線",
+    "水島本線",
+    "水島臨海鉄道"
+   ],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/水島臨海鉄道MRT300形気動車.json"
+  },
+  {
+   "日文": "江ノ島電鉄",
+   "中文": "江之島電鐵",
+   "英文": "Enoshima Electric Railway",
+   "运营者": [
+    "小田急"
+   ],
+   "图标文件": [
+    "13_odakyu/untitled__enod356b.png"
+   ],
+   "图标token": [
+    "enod356b"
+   ],
+   "特急": [],
+   "线路": [
+    "江ノ島電鉄線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/江ノ島電鉄.json"
+  },
+  {
+   "日文": "津軽鉄道",
+   "中文": "津輕鐵道",
+   "英文": "Tsugaru Railway Company",
+   "运营者": [
+    "東北私鉄"
+   ],
+   "图标文件": [
+    "28_tohoku_mi/tsugaru-rail__tugr33.png"
+   ],
+   "图标token": [
+    "tugr33"
+   ],
+   "特急": [],
+   "线路": [
+    "津軽線",
+    "津軽鉄道",
+    "津軽鉄道線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/津軽鉄道.json"
+  },
+  {
+   "日文": "流鉄",
+   "中文": "流鐵",
+   "英文": "Nagareyama Line",
+   "运营者": [
+    "関東私鉄"
+   ],
+   "图标文件": [
+    "29_kanto_mi/ryutetsu-rail__ngry5004n.png"
+   ],
+   "图标token": [
+    "ngry5004n"
+   ],
+   "特急": [],
+   "线路": [
+    "流山線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/流鉄.json"
+  },
+  {
+   "日文": "阿佐海岸鉄道",
+   "中文": "阿佐海岸鐵道",
+   "英文": "Asatō Line",
+   "运营者": [
+    "四国私鉄"
+   ],
+   "图标文件": [
+    "33_shikoku_mi/asakaigan-rail__asa-dmv0m.png"
+   ],
+   "图标token": [
+    "asa-dmv0m"
+   ],
+   "特急": [],
+   "线路": [
+    "海岸線",
+    "阿佐東線",
+    "阿佐海岸鉄道",
+    "阿佐線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/阿佐海岸鉄道.json"
+  },
+  {
+   "日文": "豊橋鉄道",
+   "中文": "豐橋鐵道",
+   "英文": "Toyohashi Railroad",
+   "运营者": [
+    "名鉄"
+   ],
+   "图标文件": [
+    "17_meitetsu/toyohashi-rail__tyhs1803.png"
+   ],
+   "图标token": [
+    "tyhs1803"
+   ],
+   "特急": [],
+   "线路": [
+    "内部線",
+    "広見線",
+    "東田本線",
+    "渥美線",
+    "豊橋"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/豊橋鉄道.json"
+  },
+  {
+   "日文": "真岡鐵道モオカ14形気動車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "関東私鉄"
+   ],
+   "图标文件": [
+    "29_kanto_mi/moka-rail__moka14.png"
+   ],
+   "图标token": [
+    "moka14"
+   ],
+   "特急": [],
+   "线路": [
+    "真岡線",
+    "真岡鉄道"
+   ],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/真岡鐵道モオカ14形気動車.json"
+  },
+  {
+   "日文": "北陸鉄道",
+   "中文": "北陸鐵道",
+   "英文": "Hokuriku Railroad",
+   "运营者": [
+    "九州私鉄",
+    "北陸"
+   ],
+   "图标文件": [
+    "25_hokuriku/hokuriku-rail__hkrk1mg.png",
+    "34_kyushu_mi/mojiko-rail__mjrt102.png"
+   ],
+   "图标token": [
+    "hkrk1mg",
+    "mjrt102"
+   ],
+   "特急": [],
+   "线路": [
+    "北陸鉄道石川線",
+    "石川線",
+    "門司",
+    "門司港レトロ観光線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/北陸鉄道.json"
+  },
+  {
+   "日文": "筑豊電気鉄道",
+   "中文": "筑豐電氣鐵道",
+   "英文": "Chikuhō Electric Railroad Line",
+   "运营者": [
+    "西鉄"
+   ],
+   "图标文件": [
+    "24_nishitetsu/chikuho-rail__tkhd2002.png"
+   ],
+   "图标token": [
+    "tkhd2002"
+   ],
+   "特急": [],
+   "线路": [
+    "筑豊本線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/筑豊電気鉄道.json"
+  },
+  {
+   "日文": "紀州鉄道",
+   "中文": "紀州鐵道",
+   "英文": "Kishū Railway Line",
+   "运营者": [
+    "関西私鉄"
+   ],
+   "图标文件": [
+    "32_kansai_mi/kishu-rail__kish2b.png"
+   ],
+   "图标token": [
+    "kish2b"
+   ],
+   "特急": [],
+   "线路": [
+    "紀州鉄道",
+    "紀州鉄道線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/紀州鉄道.json"
+  },
+  {
+   "日文": "肥薩おれんじ鉄道",
+   "中文": "肥薩橙鐵道",
+   "英文": "Hisatsu Orange Railway",
+   "运营者": [
+    "九州私鉄"
+   ],
+   "图标文件": [
+    "34_kyushu_mi/hisatsu-rail__hsor106.png"
+   ],
+   "图标token": [
+    "hsor106"
+   ],
+   "特急": [],
+   "线路": [
+    "肥薩おれんじ鉄道線",
+    "肥薩線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/肥薩おれんじ鉄道.json"
+  },
+  {
+   "日文": "広島電鉄5100形電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "甲信越私鉄"
+   ],
+   "图标文件": [
+    "30_koshinetsu_mi/echigo-rail__ecgo5100.png"
+   ],
+   "图标token": [
+    "ecgo5100"
+   ],
+   "特急": [],
+   "线路": [
+    "越後線"
+   ],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/広島電鉄5100形電車.json"
+  },
+  {
+   "日文": "阿武隈急行",
+   "中文": "阿武隈急行",
+   "英文": "Abukuma Kyuko",
+   "运营者": [
+    "東北私鉄"
+   ],
+   "图标文件": [
+    "28_tohoku_mi/abukuma-exp__abk900p.png"
+   ],
+   "图标token": [
+    "abk900p"
+   ],
+   "特急": [],
+   "线路": [
+    "阿武隈急行",
+    "阿武隈急行線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/阿武隈急行.json"
+  },
+  {
+   "日文": "黒部峡谷鉄道",
+   "中文": "黑部峽谷鐵道",
+   "英文": "Kurobe Gorge Railway",
+   "运营者": [
+    "北陸"
+   ],
+   "图标文件": [
+    "25_hokuriku/kurobe-rail__krb-edr20.png"
+   ],
+   "图标token": [
+    "krb-edr20"
+   ],
+   "特急": [],
+   "线路": [
+    "黒部峡谷鉄道本線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/黒部峡谷鉄道.json"
+  },
+  {
+   "日文": "東海交通事業",
+   "中文": "JR东海交通事业",
+   "英文": "JR-Central Transport Service Company",
+   "运营者": [
+    "東海私鉄"
+   ],
+   "图标文件": [
+    "31_tokai_mi/johoku-line__tkai11-3.png"
+   ],
+   "图标token": [
+    "tkai11-3"
+   ],
+   "特急": [],
+   "线路": [
+    "tkj城北線",
+    "伊予鉄道城北線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/東海交通事業.json"
+  },
+  {
+   "日文": "多摩都市モノレール",
+   "中文": "多摩都市單軌電車",
+   "英文": null,
+   "运营者": [
+    "関東私鉄"
+   ],
+   "图标文件": [
+    "29_kanto_mi/tama-monorail__mn-tma1002.png"
+   ],
+   "图标token": [
+    "mn-tma1002"
+   ],
+   "特急": [],
+   "线路": [
+    "国際文化公園都市モノレール線",
+    "多摩都市モノレール線",
+    "沖縄都市モノレール線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": false,
+   "文件": "data/多摩都市モノレール.json"
+  },
+  {
+   "日文": "小湊鉄道キハ200形気動車",
+   "中文": "小湊鐵道KiHa 200型柴聯車",
+   "英文": "Kominato Railway KiHa 200 series",
+   "运营者": [
+    "京成"
+   ],
+   "图标文件": [
+    "09_keisei/kominato-rail__kmnt200.png"
+   ],
+   "图标token": [
+    "kmnt200"
+   ],
+   "特急": [],
+   "线路": [
+    "小湊鉄道線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/小湊鉄道キハ200形気動車.json"
+  },
+  {
+   "日文": "伊豆箱根鉄道",
+   "中文": "伊豆箱根鐵道",
+   "英文": "Izuhakone Railway",
+   "运营者": [
+    "西武"
+   ],
+   "图标文件": [
+    "12_seibu/izuhakone-rail__izh160.png",
+    "12_seibu/izuhakone-rail__izh5501.png"
+   ],
+   "图标token": [
+    "izh160",
+    "izh5501"
+   ],
+   "特急": [],
+   "线路": [
+    "伊豆箱根鉄道",
+    "大雄山線",
+    "富山軌道線支線",
+    "富山軌道線本線",
+    "箱根登山ケーブル",
+    "箱根登山電車",
+    "軌道線呉羽線",
+    "軌道線安野屋線",
+    "軌道線富山都心線",
+    "駿豆線",
+    "高岡軌道線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/伊豆箱根鉄道.json"
+  },
+  {
+   "日文": "JR北海道731系電車",
+   "中文": "JR北海道731系電聯車",
+   "英文": "731 series",
+   "运营者": [
+    "京阪"
+   ],
+   "图标文件": [
+    "19_keihan/eizan-rail__eizn731.png"
+   ],
+   "图标token": [
+    "eizn731"
+   ],
+   "特急": [],
+   "线路": [
+    "比叡山鉄道線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/JR北海道731系電車.json"
+  },
+  {
+   "日文": "甘木鉄道",
+   "中文": "甘木鐵道",
+   "英文": "Amagi Railway Amagi Line",
+   "运营者": [
+    "九州私鉄"
+   ],
+   "图标文件": [
+    "34_kyushu_mi/amagi-rail__amg100.png"
+   ],
+   "图标token": [
+    "amg100"
+   ],
+   "特急": [],
+   "线路": [
+    "甘木鉄道",
+    "甘木鉄道甘木線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/甘木鉄道.json"
+  },
+  {
+   "日文": "武蔵野鉄道デハ5560形電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "西武"
+   ],
+   "图标文件": [
+    "12_seibu/seibu-musashino-rail__musa5560.png"
+   ],
+   "图标token": [
+    "musa5560"
+   ],
+   "特急": [],
+   "线路": [
+    "西武多摩川線",
+    "西武山口線",
+    "西武新宿線"
+   ],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/武蔵野鉄道デハ5560形電車.json"
+  },
+  {
+   "日文": "大阪市交通局",
+   "中文": "大阪市交通局",
+   "英文": "Osaka Municipal Transportation Bureau",
+   "运营者": [
+    "大阪メトロ"
+   ],
+   "图标文件": [
+    "20_osakametro/osaka-apm__n-osk206.png"
+   ],
+   "图标token": [
+    "n-osk206"
+   ],
+   "特急": [],
+   "线路": [
+    "南港ポートタウン線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/大阪市交通局.json"
+  },
+  {
+   "日文": "北越急行",
+   "中文": "北越急行",
+   "英文": "Hokuhoku Line",
+   "运营者": [
+    "甲信越私鉄"
+   ],
+   "图标文件": [
+    "30_koshinetsu_mi/hokuetsu-rail__hk101.png"
+   ],
+   "图标token": [
+    "hk101"
+   ],
+   "特急": [],
+   "线路": [
+    "ほくほく線",
+    "北越急行ほくほく線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/北越急行.json"
+  },
+  {
+   "日文": "阪堺電気軌道",
+   "中文": "阪堺電氣軌道",
+   "英文": "Hankai Tramway",
+   "运营者": [
+    "南海"
+   ],
+   "图标文件": [
+    "23_nankai/osaka-tram__lhnki1000or.png"
+   ],
+   "图标token": [
+    "lhnki1000or"
+   ],
+   "特急": [],
+   "线路": [
+    "上町線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/阪堺電気軌道.json"
+  },
+  {
+   "日文": "愛知高速交通",
+   "中文": "愛知高速交通",
+   "英文": "Linimo",
+   "运营者": [
+    "東海私鉄"
+   ],
+   "图标文件": [
+    "31_tokai_mi/linimo__linimo2.png"
+   ],
+   "图标token": [
+    "linimo2"
+   ],
+   "特急": [],
+   "线路": [
+    "愛知高速交通",
+    "東部丘陵線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/愛知高速交通.json"
+  },
+  {
+   "日文": "埼玉新都市交通",
+   "中文": "埼玉新都市交通",
+   "英文": "New Shuttle",
+   "运营者": [
+    "関東私鉄"
+   ],
+   "图标文件": [
+    "29_kanto_mi/nut-ina-line__nstl2007.png"
+   ],
+   "图标token": [
+    "nstl2007"
+   ],
+   "特急": [],
+   "线路": [
+    "伊奈線",
+    "埼玉新都市交通"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/埼玉新都市交通.json"
+  },
+  {
+   "日文": "札幌市交通局A1200形電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "北海道私鉄"
+   ],
+   "图标文件": [
+    "27_hokkaido_mi/sapporo-tram__lspr1200.png"
+   ],
+   "图标token": [
+    "lspr1200"
+   ],
+   "特急": [],
+   "线路": [
+    "山鼻線",
+    "山鼻西線",
+    "札幌市交通局",
+    "札幌市電"
+   ],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/札幌市交通局A1200形電車.json"
+  },
+  {
+   "日文": "伊予鉄道モハ5000形電車",
+   "中文": "伊予鐵道MoHa 5000型電車",
+   "英文": null,
+   "运营者": [
+    "四国私鉄"
+   ],
+   "图标文件": [
+    "33_shikoku_mi/iyotetsu-rail__iyo5000.png"
+   ],
+   "图标token": [
+    "iyo5000"
+   ],
+   "特急": [],
+   "线路": [
+    "伊予鉄道",
+    "横河原線",
+    "郡中線",
+    "高浜線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": false,
+   "文件": "data/伊予鉄道モハ5000形電車.json"
+  },
+  {
+   "日文": "とさでん交通",
+   "中文": "土佐電交通",
+   "英文": "Tosaden Kōtsū",
+   "运营者": [
+    "四国私鉄"
+   ],
+   "图标文件": [
+    "33_shikoku_mi/kochi-tram__tosdn100.png"
+   ],
+   "图标token": [
+    "tosdn100"
+   ],
+   "特急": [],
+   "线路": [
+    "とさでん",
+    "とさでん交通",
+    "伊野線",
+    "土佐電鉄",
+    "城南線",
+    "大手町線",
+    "後免線",
+    "桟橋線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/とさでん交通.json"
+  },
+  {
+   "日文": "札幌市営地下鉄",
+   "中文": "札幌市營地下鐵",
+   "英文": "Sapporo Municipal Subway",
+   "运营者": [
+    "北海道私鉄"
+   ],
+   "图标文件": [
+    "27_hokkaido_mi/sapporo-metro__spr5001.png"
+   ],
+   "图标token": [
+    "spr5001"
+   ],
+   "特急": [],
+   "线路": [
+    "札幌市営地下鉄",
+    "東豊線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/札幌市営地下鉄.json"
+  },
+  {
+   "日文": "福岡市交通局",
+   "中文": "福岡市交通局",
+   "英文": "Fukuoka City Subway",
+   "运营者": [
+    "九州私鉄"
+   ],
+   "图标文件": [
+    "34_kyushu_mi/fukuoka-metro__fkok1001.png"
+   ],
+   "图标token": [
+    "fkok1001"
+   ],
+   "特急": [],
+   "线路": [
+    "七隈線",
+    "福岡",
+    "福岡市地下鉄",
+    "箱崎線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/福岡市交通局.json"
+  },
+  {
+   "日文": "静岡鉄道",
+   "中文": "靜岡鐵道",
+   "英文": "Shizuoka Railway",
+   "运营者": [
+    "東海私鉄"
+   ],
+   "图标文件": [
+    "31_tokai_mi/shizuoka-rail__szok3002.png"
+   ],
+   "图标token": [
+    "szok3002"
+   ],
+   "特急": [],
+   "线路": [
+    "静岡",
+    "静岡清水線",
+    "静岡鉄道"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/静岡鉄道.json"
+  },
+  {
+   "日文": "水間鉄道",
+   "中文": "水間鐵道",
+   "英文": "Mizuma Railway Mizuma Line",
+   "运营者": [
+    "関西私鉄"
+   ],
+   "图标文件": [
+    "32_kansai_mi/mizuma-rail__mzma1001.png"
+   ],
+   "图标token": [
+    "mzma1001"
+   ],
+   "特急": [],
+   "线路": [
+    "水間鉄道"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/水間鉄道.json"
+  },
+  {
+   "日文": "土佐くろしお鉄道",
+   "中文": "土佐黑潮鐵道",
+   "英文": "Tosa Kuroshio Railway",
+   "运营者": [
+    "四国私鉄"
+   ],
+   "图标文件": [
+    "33_shikoku_mi/tosa-kuroshio__tosa8020.png"
+   ],
+   "图标token": [
+    "tosa8020"
+   ],
+   "特急": [],
+   "线路": [
+    "中村線",
+    "土佐くろしお鉄道",
+    "宿毛線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/土佐くろしお鉄道.json"
+  },
+  {
+   "日文": "松浦鉄道",
+   "中文": "松浦鐵道",
+   "英文": "Matsuura Railway",
+   "运营者": [
+    "九州私鉄"
+   ],
+   "图标文件": [
+    "34_kyushu_mi/matsuura-rail-1-2-3-4-2026-9-18-update__mtur610.png"
+   ],
+   "图标token": [
+    "mtur610"
+   ],
+   "特急": [],
+   "线路": [
+    "大浦支線",
+    "松浦",
+    "松浦鉄道",
+    "松浦鉄道西九州線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/松浦鉄道.json"
+  },
+  {
+   "日文": "南阿蘇鉄道MT-4000形気動車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "九州私鉄"
+   ],
+   "图标文件": [
+    "34_kyushu_mi/minami-aso-rail-1-2-3-4-2024-2-2-update__aso4000.png"
+   ],
+   "图标token": [
+    "aso4000"
+   ],
+   "特急": [],
+   "线路": [
+    "南阿蘇鉄道",
+    "高森線"
+   ],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/南阿蘇鉄道MT-4000形気動車.json"
+  },
+  {
+   "日文": "*沖縄県営鉄道/電軌",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "九州私鉄"
+   ],
+   "图标文件": [
+    "34_kyushu_mi/okinawa-rail-tram__1okik1.png"
+   ],
+   "图标token": [
+    "1okik1"
+   ],
+   "特急": [],
+   "线路": [
+    "沖縄都市モノレール"
+   ],
+   "有日文": false,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/_沖縄県営鉄道_電軌.json"
+  },
+  {
+   "日文": "鹿児島市交通局",
+   "中文": "鹿兒島市交通局",
+   "英文": "Kagoshima City Transportation Bureau",
+   "运营者": [
+    "九州私鉄"
+   ],
+   "图标文件": [
+    "34_kyushu_mi/kagoshima__lkgsm2113r.png"
+   ],
+   "图标token": [
+    "lkgsm2113r"
+   ],
+   "特急": [],
+   "线路": [
+    "鹿児島市交通局",
+    "鹿児島市電"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/鹿児島市交通局.json"
+  },
+  {
+   "日文": "国鉄50系客車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "JR北海道"
+   ],
+   "图标文件": [
+    "01_hokkaido/kaikyo-midnight__h50bl.png"
+   ],
+   "图标token": [
+    "h50bl"
+   ],
+   "特急": [],
+   "线路": [
+    "津軽海峡線",
+    "海峡線"
+   ],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/国鉄50系客車.json"
+  },
+  {
+   "日文": "道南いさりび鉄道",
+   "中文": "道南漁火鐵道",
+   "英文": "South Hokkaido Railway Company",
+   "运营者": [
+    "北海道私鉄"
+   ],
+   "图标文件": [
+    "27_hokkaido_mi/isaribi-rail__isab40bw.png"
+   ],
+   "图标token": [
+    "isab40bw"
+   ],
+   "特急": [],
+   "线路": [
+    "道南いさりび鉄道"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/道南いさりび鉄道.json"
+  },
+  {
+   "日文": "由利高原鉄道",
+   "中文": "由利高原鐵道",
+   "英文": "Chōkai Sanroku Line",
+   "运营者": [
+    "東北私鉄"
+   ],
+   "图标文件": [
+    "28_tohoku_mi/yamagata-rail__yr881.png",
+    "28_tohoku_mi/yuri-rail__yur3002.png"
+   ],
+   "图标token": [
+    "yr881",
+    "yur3002"
+   ],
+   "特急": [],
+   "线路": [
+    "山形鉄道",
+    "由利高原鉄道",
+    "鳥海山ろく線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/由利高原鉄道.json"
+  },
+  {
+   "日文": "関東鉄道キハ5010形気動車",
+   "中文": "關東鐵道KiHa 5010型柴聯車",
+   "英文": null,
+   "运营者": [
+    "京成"
+   ],
+   "图标文件": [
+    "09_keisei/kanto-rail__kant5010.png"
+   ],
+   "图标token": [
+    "kant5010"
+   ],
+   "特急": [],
+   "线路": [
+    "常総線",
+    "竜ケ崎線",
+    "関東鉄道"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": false,
+   "文件": "data/関東鉄道キハ5010形気動車.json"
+  },
+  {
+   "日文": "伊勢鉄道",
+   "中文": "伊勢鐵道",
+   "英文": "Ise Line",
+   "运营者": [
+    "東海私鉄"
+   ],
+   "图标文件": [
+    "31_tokai_mi/aonami-ise-rail__ise1.png"
+   ],
+   "图标token": [
+    "ise1"
+   ],
+   "特急": [],
+   "线路": [
+    "名古屋臨海高速鉄道"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/伊勢鉄道.json"
+  },
+  {
+   "日文": "熊本市交通局8200形電車",
+   "中文": "熊本市交通局8200型電車",
+   "英文": null,
+   "运营者": [
+    "山陽山陰"
+   ],
+   "图标文件": [
+    "26_sanyosanin/okayama-tram__okdn8200.png"
+   ],
+   "图标token": [
+    "okdn8200"
+   ],
+   "特急": [],
+   "线路": [
+    "岡山電気軌道",
+    "清輝橋線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": false,
+   "文件": "data/熊本市交通局8200形電車.json"
+  },
+  {
+   "日文": "JR貨物EH500形電気機関車",
+   "中文": "JR貨物EH500型電力機車",
+   "英文": "JR Freight Class EH500",
+   "运营者": [
+    "JR貨物"
+   ],
+   "图标文件": [
+    "07_freight/switcher-db500-0__db500.png"
+   ],
+   "图标token": [
+    "db500"
+   ],
+   "特急": [],
+   "线路": [
+    "日本貨物鉄道"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/JR貨物EH500形電気機関車.json"
+  },
+  {
+   "日文": "留萌鉄道",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "北海道私鉄"
+   ],
+   "图标文件": [
+    "27_hokkaido_mi/rumoi-rail__rmoi1000.png"
+   ],
+   "图标token": [
+    "rmoi1000"
+   ],
+   "特急": [],
+   "线路": [
+    "留萌",
+    "留萌本線"
+   ],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/留萌鉄道.json"
+  },
+  {
+   "日文": "高千穂鉄道TR-300形気動車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "九州私鉄"
+   ],
+   "图标文件": [
+    "34_kyushu_mi/takachiho-rail__tkth300.png"
+   ],
+   "图标token": [
+    "tkth300"
+   ],
+   "特急": [],
+   "线路": [
+    "高千穂線"
+   ],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/高千穂鉄道TR-300形気動車.json"
+  },
+  {
+   "日文": "越後交通",
+   "中文": "越後交通",
+   "英文": "Echigo Kotsu",
+   "运营者": [
+    "甲信越私鉄"
+   ],
+   "图标文件": [
+    "30_koshinetsu_mi/tochio-nagaoka-rail__tcio101.png"
+   ],
+   "图标token": [
+    "tcio101"
+   ],
+   "特急": [],
+   "线路": [
+    "長岡"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/越後交通.json"
+  },
+  {
+   "日文": "北陸鉄道モハ2300形電車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "北陸"
+   ],
+   "图标文件": [
+    "25_hokuriku/kanazawa-tram__hkrk-l2300.png"
+   ],
+   "图标token": [
+    "hkrk-l2300"
+   ],
+   "特急": [],
+   "线路": [
+    "金沢"
+   ],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/北陸鉄道モハ2300形電車.json"
+  },
+  {
+   "日文": "福井鉄道F1000形電車",
+   "中文": "福井鐵道F1000型電車",
+   "英文": null,
+   "运营者": [
+    "北陸"
+   ],
+   "图标文件": [
+    "25_hokuriku/fukui-tram__fkui1000.png"
+   ],
+   "图标token": [
+    "fkui1000"
+   ],
+   "特急": [],
+   "线路": [
+    "勝山永平寺線",
+    "福井",
+    "福武線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": false,
+   "文件": "data/福井鉄道F1000形電車.json"
+  },
+  {
+   "日文": "千葉都市モノレール",
+   "中文": "千葉都市單軌電車",
+   "英文": "Chiba Urban Monorail",
+   "运营者": [
+    "関東私鉄"
+   ],
+   "图标文件": [
+    "29_kanto_mi/chiba-monorail__mn-tib.png"
+   ],
+   "图标token": [
+    "mn-tib"
+   ],
+   "特急": [],
+   "线路": [
+    "千葉"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/千葉都市モノレール.json"
+  },
+  {
+   "日文": "国鉄タキ10000形貨車",
+   "中文": null,
+   "英文": null,
+   "运营者": [
+    "関東私鉄"
+   ],
+   "图标文件": [
+    "29_kanto_mi/tokyo-monorail__mn-tky10000o.png"
+   ],
+   "图标token": [
+    "mn-tky10000o"
+   ],
+   "特急": [],
+   "线路": [
+    "東京"
+   ],
+   "有日文": true,
+   "有中文": false,
+   "有英文": false,
+   "文件": "data/国鉄タキ10000形貨車.json"
+  },
+  {
+   "日文": "国鉄",
+   "中文": "國鐵",
+   "英文": null,
+   "运营者": [
+    "JR東日本"
+   ],
+   "图标文件": [
+    "02_east/working-car__dd16omy5.png"
+   ],
+   "图标token": [
+    "dd16omy5"
+   ],
+   "特急": [],
+   "线路": [
+    "大宮"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": false,
+   "文件": "data/国鉄.json"
+  },
+  {
+   "日文": "熊本電気鉄道",
+   "中文": "熊本電氣鐵道",
+   "英文": "Kumamoto Electric Railway",
+   "运营者": [
+    "九州私鉄"
+   ],
+   "图标文件": [
+    "34_kyushu_mi/untitled__kmgw502.png"
+   ],
+   "图标token": [
+    "kmgw502"
+   ],
+   "特急": [],
+   "线路": [
+    "湯前線"
+   ],
+   "有日文": true,
+   "有中文": true,
+   "有英文": true,
+   "文件": "data/熊本電気鉄道.json"
   }
  ]
 }

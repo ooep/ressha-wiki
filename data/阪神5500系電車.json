@@ -10,13 +10,21 @@
   },
   "标识": {
    "图标文件": [
-    "22_hanshin/mukogawa-line__hnsn5500m.png"
+    "22_hanshin/hanshin-5000-5700__hnsn5500.png",
+    "22_hanshin/hanshin-rail__hnsn5500n.png",
+    "22_hanshin/mukogawa-line__hnsn5500m.png",
+    "22_hanshin/mukogawa-line__hnsn5500mk.png"
    ],
    "图标token": [
-    "hnsn5500m"
+    "hnsn5500",
+    "hnsn5500m",
+    "hnsn5500mk",
+    "hnsn5500n"
    ],
    "网站键": {
-    "特急": [],
+    "特急": [
+     "阪神特急"
+    ],
     "线路": [
      "武庫川線",
      "阪神武庫川線"

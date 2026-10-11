@@ -10,13 +10,24 @@
   },
   "标识": {
    "图标文件": [
-    "04_west/kisei-line__w117wm.png"
+    "04_west/kisei-line__w117ks.png",
+    "04_west/kisei-line__w117wm.png",
+    "04_west/sanyo-line__w117hy.png",
+    "04_west/sanyo-line__w117pmt.png",
+    "04_west/sanyo-line__w117sn.png"
    ],
    "图标token": [
+    "w117hy",
+    "w117ks",
+    "w117pmt",
+    "w117sn",
     "w117wm"
    ],
    "网站键": {
-    "特急": [],
+    "特急": [
+     "山陽電鉄特急",
+     "直通特急"
+    ],
     "线路": [
      "紀勢本線"
     ]

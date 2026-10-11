@@ -10,17 +10,26 @@
   },
   "标识": {
    "图标文件": [
-    "02_east/n-ex-boso-exp__e259n.png"
+    "02_east/n-ex-boso-exp__e259-1.png",
+    "02_east/n-ex-boso-exp__e259.png",
+    "02_east/n-ex-boso-exp__e259n.png",
+    "02_east/n-ex-boso-exp__e259nk.png",
+    "02_east/odoriko__e259od.png"
    ],
    "图标token": [
-    "e259n"
+    "e259",
+    "e259-1",
+    "e259n",
+    "e259nk",
+    "e259od"
    ],
    "网站键": {
     "特急": [
      "さざなみ",
      "しおさい",
      "わかしお",
-     "成田エクスプレス"
+     "成田エクスプレス",
+     "踊り子"
     ],
     "线路": [
      "成田",

@@ -10,9 +10,11 @@
   },
   "标识": {
    "图标文件": [
+    "31_tokai_mi/enshu-rail__ent2000l.png",
     "31_tokai_mi/enshu-rail__ent2000ll.png"
    ],
    "图标token": [
+    "ent2000l",
     "ent2000ll"
    ],
    "网站键": {

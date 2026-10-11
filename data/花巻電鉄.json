@@ -10,10 +10,12 @@
   },
   "标识": {
    "图标文件": [
-    "28_tohoku_mi/hanamaki-rail__lhnmk22.png"
+    "28_tohoku_mi/hanamaki-rail__lhnmk22.png",
+    "28_tohoku_mi/hanamaki-rail__lhnmk28.png"
    ],
    "图标token": [
-    "lhnmk22"
+    "lhnmk22",
+    "lhnmk28"
    ],
    "网站键": {
     "特急": [],

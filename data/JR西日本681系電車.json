@@ -10,13 +10,25 @@
   },
   "标识": {
    "图标文件": [
-    "04_west/former-681__w681ft.png"
+    "04_west/former-681__w681ft.png",
+    "04_west/thunderbird__w681.png",
+    "04_west/thunderbird__w681k.png",
+    "04_west/thunderbird__w681n.png",
+    "04_west/thunderbird__w681p.png"
    ],
    "图标token": [
-    "w681ft"
+    "w681",
+    "w681ft",
+    "w681k",
+    "w681n",
+    "w681p"
    ],
    "网站键": {
-    "特急": [],
+    "特急": [
+     "らくラクはりま",
+     "らくラクびわこ",
+     "サンダーバード"
+    ],
     "线路": [
      "京都",
      "阪急京都線"

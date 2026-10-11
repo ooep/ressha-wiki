@@ -10,15 +10,28 @@
   },
   "标识": {
    "图标文件": [
-    "05_shikoku/shiokaze-ishizuchi__s8000no.png"
+    "05_shikoku/shikoku-express__s8000ap.png",
+    "05_shikoku/shikoku-express__s8000lapk.png",
+    "05_shikoku/shiokaze-ishizuchi__s8000.png",
+    "05_shikoku/shiokaze-ishizuchi__s8000k.png",
+    "05_shikoku/shiokaze-ishizuchi__s8000no.png",
+    "05_shikoku/shiokaze-ishizuchi__s8000nr.png"
    ],
    "图标token": [
-    "s8000no"
+    "s8000",
+    "s8000ap",
+    "s8000k",
+    "s8000lapk",
+    "s8000no",
+    "s8000nr"
    ],
    "网站键": {
     "特急": [
      "いしづち",
-     "しおかぜ"
+     "うずしお",
+     "しおかぜ",
+     "南風",
+     "宇和海"
     ],
     "线路": []
    }

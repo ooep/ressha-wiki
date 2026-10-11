@@ -10,10 +10,12 @@
   },
   "标识": {
    "图标文件": [
-    "04_west/jr-tozai-line__w321.png"
+    "04_west/jr-tozai-line__w321.png",
+    "04_west/jr-tozai-line__w321p.png"
    ],
    "图标token": [
-    "w321"
+    "w321",
+    "w321p"
    ],
    "网站键": {
     "特急": [],

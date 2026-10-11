@@ -1,0 +1,96 @@
+{
+ "车辆": {
+  "名称": {
+   "日文": "大阪府都市開発7000系電車",
+   "中文": null,
+   "英文": "Semboku 7000 series",
+   "运营者": [
+    "南海"
+   ]
+  },
+  "标识": {
+   "图标文件": [
+    "23_nankai/semboku-line__snbk7000.png",
+    "23_nankai/semboku-line__snbk7000b.png",
+    "23_nankai/semboku-line__snbk7000ft.png",
+    "23_nankai/semboku-line__snbk7000p.png",
+    "23_nankai/semboku-line__snbk7000pb.png",
+    "23_nankai/semboku-line__snbk7020.png",
+    "23_nankai/semboku-line__snbk7020b.png",
+    "23_nankai/semboku-line__snbk7020pb.png"
+   ],
+   "图标token": [
+    "snbk7000",
+    "snbk7000b",
+    "snbk7000ft",
+    "snbk7000p",
+    "snbk7000pb",
+    "snbk7020",
+    "snbk7020b",
+    "snbk7020pb"
+   ],
+   "网站键": {
+    "特急": [
+     "泉北ライナー"
+    ],
+    "线路": []
+   }
+  },
+  "百科": {
+   "日文": {
+    "词条标题": "大阪府都市開発7000系電車",
+    "链接": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E5%BA%9C%E9%83%BD%E5%B8%82%E9%96%8B%E7%99%BA7000%E7%B3%BB%E9%9B%BB%E8%BB%8A",
+    "首段": "大阪府都市開発7000系電車（おおさかふとしかいはつ7000けいでんしゃ）は、大阪府都市開発が1996年（平成8年）から導入した通勤形電車である。本系列をベースに2007年（平成19年）から導入した車両については大阪府都市開発7020系電車を参照。\n2025年（令和7年）に泉北高速鉄道が南海電気鉄道（南海）に吸収合併されたことに伴い、同年からは南海所属の車両となっている。\n以下、編成単位の解説にあたっては難波方先頭車の車両番号+F（Formation=編成の略）を編成名として表記する。",
+    "章节": {
+     "概要": "老朽化した100系の置き換えを目的として、1996年（平成8年）から1998年（平成8年）にかけて6両編成×1本、4両編成×5本の計26両が製造された。前年まで導入されていた5000系は併結を考慮しない8両固定の非貫通構造であったが、本系列は10両までの増結を可能とするため貫通構造が採用された。全車が川崎重工業で製造されている。",
+     "車両概説": "",
+     "車体": "5000系を踏襲したアルミ合金製であるが、乗り入れ先の南海電気鉄道が車両限界を拡大したのに合わせ、車体幅を約10 cm拡大している。このため車体断面は裾絞り形状となり、全体的に丸みを帯びたデザインとなった。前面貫通扉には、貫通幌を収納可能な自動開閉式の両開きプラグドアを採用し、見付け向上と編成の柔軟化を両立させている。車体色は5000系と同様のアイボリー地にブルーとライトブルーの帯を配したもので、営業運転開始とともに先頭車側面の前頭部寄りに「SEMBOKU」ロゴが貼り付けられた。\nなお、車体色は9300系の導入に合わせて、帯をブルー1色のみとする新塗装に順次変更されている。",
+     "室内": "5000系の内装を基本としつつ「人にやさしい、きめ細やかな旅客サービス」をデザインテーマとしており、各部に変更が加えられている。座席の袖仕切りにはスタンションポールを設置し、立席客に配慮している。座席モケットは5000系のワインレッドからローズ系のものに変更、また床材は中央通路部を明るいベージュ系の砂地模様とすることで、車内全体に明るさを演出している。側引戸は本体とガラス面を平面化することにより、戸袋への指詰め防止対策としている。\nバリアフリー対応では、従来の中間車配置に加え、先頭車にも車椅子スペースが設けられた（各車両の和泉中央寄り）。車内案内表示器については引き続きLED式を千鳥配置としている。",
+     "主要機器": "機器類には当時最新の技術が取り入れられている。制御装置にはIGBT素子を使用したVVVFインバータ制御装置、台車にはモノリンク式のボルスタレス台車、パンタグラフにはシングルアーム式をそれぞれ同社で初めて採用した。\nまた、車両制御情報管理装置（TIS）は5000系に引き続き搭載しているが、従来の制御指令の伝送や車載機器へのモニタ機能のみならず、空調装置、列車種別・行先表示器、車内案内表示器等のサービス機器の制御機能が追加され、集約化による操作性の向上が図られている。",
+     "形式・編成": "凡例\nVVVF：制御装置（VVVFインバータ制御）\nSIV：補助電源装置（静止型インバータ）\nCP：空気圧縮機\n＜・＞：集電装置（シングルアーム式）\n■：弱冷車\n■：女性専用車両ステッカー",
+     "改造工事": "",
+     "編成組替工事": "2005年（平成17年）、車両運用効率化と保有車両数の削減を目的に、4両編成の7509F・7511Fを6両編成・2両編成各1本に再編する編成組替工事が実施された。導入時の6両編成×1本・4両編成×5本の体制では、6両編成が検査等で運用から外れた場合、併結・運用の制約により4両編成1本も予備車化せざるを得ず、結果10両が一挙に離脱するという不効率な状態にあったが、この組み替えによって解消されることとなった。\n7511Fから2両の中間電動車7006・7106を外し、7106については付随車化を行った。併せて改番が実施され、7006は7202に、7106は7602となり、7509Fへと組み込まれて6両編成を組成した。\n7511Fの両先頭車については、電装解除された7106の主要機器を7512に搭載し制御電動車化、7511にはパンタグラフ2基を新たに設置した。改番に際して同2両は50番台に区分され、7511は7551に、7512は7552にそれぞれ改番され2両編成を組成した。\nこの編成替えの結果、7000系は6両編成×2本、4両編成×3本、2両編成×1本の体制となった。",
+     "転落注意放送装置設置": "2012年（平成24年）度から2013年（平成25年）度にかけて、7000系・7020系（以下「両系列」）の先頭車に転落注意放送装置が設置された。視覚障がい者が先頭車同士の連結部から転落するのを防ぐためのもので、開扉時に注意放送を行う。",
+     "主要装置二重化改造工事": "2015年（平成27年）から2016年（平成28年）にかけて、両系列の4両編成を対象に補機類の二重化改造工事が実施された。4両での単独運転を見据えたもので、7000系では7503F・7505F・7507FのTc2車（7504・7506・7508・7526号車）に静止形インバータ（SIV）と空気圧縮機（CP）を増設した。",
+     "表示類の南海仕様化": "2025年（令和7年）4月の南海電鉄への吸収合併に向け、2024年（令和6年）12月から泉北高速鉄道の表示類が南海電鉄の仕様に順次変更された。車体側面の社章を南海CI章に変更、側面「SEMBOKU」ロゴを「NANKAI」ロゴへ変更、車内の社名銘板の取り外しが行われた。",
+     "特別装飾・ラッピング": "2017年（平成29年）より、7509Fに大阪府立大型児童館ビッグバンのキャラクター等をデザインした「フロンティア号」のラッピングが施され、同年10月2日に運行を開始した。",
+     "運用": "2025年（令和7年）4月1日現在、6両編成×2本、4両編成×3本、2両編成（50番台）×1本の計26両が光明池検車（旧：泉北高速鉄道光明池車庫）に配置されている。\n7020系と共通運用で、泉北線内折り返しの各駅停車と、高野線に直通する準急行、区間急行に使用される。貫通構造を活かし、6両編成または8両編成で運転されている。2013年（平成25年）7月19日までは平日朝ラッシュ時の10両運転にも使用されていた。\n両系列の4両編成は併結して運用されている。ただし、7000系と7020系では貫通路のサイズが異なるため、併結時は7020系側にアダプターを取り付ける。\n平日朝ラッシュ時の8両編成の区間急行難波行きのうち、前から4両目の車両は和泉中央駅 - 天下茶屋駅間で女性専用車両に設定されており、6両編成のサハ7601形と4両編成のクハ7502形にこれを示すステッカーが貼られている。\n2015年（平成27年）12月5日ダイヤ改正から2017年（平成29年）8月26日ダイヤ改正まで、泉北高速線を日中に走行する一部の各駅停車が4両編成で運転されたが、この運用には南海の車両が充当されたため、主要装置二重化改造工事を行った後も両系列が4両単独で営業運転された実績はない。\n全般・重要部検査は、2002年（平成14年）度から自社光明池車庫にて行われていたが、南海グループ参入後の2016年（平成28年）からは再び南海電鉄千代田工場に変更されている。このため入出場の回送時に限り、南海高野線中百舌鳥駅 - 千代田工場間を走行する。",
+     "編成表": "",
+     "新製時の編成": "",
+     "現在の編成": "2025年（令和7年）4月1日現在\n\n（）は旧車両番号",
+     "脚注": "",
+     "注釈": "",
+     "出典": "",
+     "参考文献": "『鉄道ファン』、交友社\n1996年10月号（No.426）\n2025年8月号（No.772）\n『鉄道ピクトリアル』、電気車研究会\n2005年10月臨時増刊号「鉄道車両年鑑2005年版」（No.767）\n2008年8月臨時増刊号（No.807）\n2023年10月臨時増刊号（No.1017）\n『鉄道ジャーナル』1996年8月号（No.358）、成美堂出版\nジェー・アール・アール『私鉄車両編成表』、交通新聞社\n'97年版（1997年9月15日、ISBN 978-4-882-83218-8）\n'99年版（1999年9月、ISBN 978-4-882-83220-1）\n2015（2015年7月23日、ISBN 978-4-330-58415-7）\n2016（2016年7月21日、ISBN 978-4-330-70116-5）\n2024（2024年7月11日、ISBN 978-4-330-03424-9）\n2025（2025年7月22日、ISBN 978-4-330-03925-1）",
+     "関連項目": "大阪府都市開発7020系電車",
+     "外部リンク": "7000系：車両図鑑 - ウェイバックマシン（2024年11月27日アーカイブ分） - 泉北高速鉄道"
+    },
+    "全文": "大阪府都市開発7000系電車（おおさかふとしかいはつ7000けいでんしゃ）は、大阪府都市開発が1996年（平成8年）から導入した通勤形電車である。本系列をベースに2007年（平成19年）から導入した車両については大阪府都市開発7020系電車を参照。\n2025年（令和7年）に泉北高速鉄道が南海電気鉄道（南海）に吸収合併されたことに伴い、同年からは南海所属の車両となっている。\n以下、編成単位の解説にあたっては難波方先頭車の車両番号+F（Formation=編成の略）を編成名として表記する。\n\n\n== 概要 ==\n老朽化した100系の置き換えを目的として、1996年（平成8年）から1998年（平成8年）にかけて6両編成×1本、4両編成×5本の計26両が製造された。前年まで導入されていた5000系は併結を考慮しない8両固定の非貫通構造であったが、本系列は10両までの増結を可能とするため貫通構造が採用された。全車が川崎重工業で製造されている。\n\n\n== 車両概説 ==\n\n\n=== 車体 ===\n5000系を踏襲したアルミ合金製であるが、乗り入れ先の南海電気鉄道が車両限界を拡大したのに合わせ、車体幅を約10 cm拡大している。このため車体断面は裾絞り形状となり、全体的に丸みを帯びたデザインとなった。前面貫通扉には、貫通幌を収納可能な自動開閉式の両開きプラグドアを採用し、見付け向上と編成の柔軟化を両立させている。車体色は5000系と同様のアイボリー地にブルーとライトブルーの帯を配したもので、営業運転開始とともに先頭車側面の前頭部寄りに「SEMBOKU」ロゴが貼り付けられた。\nなお、車体色は9300系の導入に合わせて、帯をブルー1色のみとする新塗装に順次変更されている。\n\n\n=== 室内 ===\n5000系の内装を基本としつつ「人にやさしい、きめ細やかな旅客サービス」をデザインテーマとしており、各部に変更が加えられている。座席の袖仕切りにはスタンションポールを設置し、立席客に配慮している。座席モケットは5000系のワインレッドからローズ系のものに変更、また床材は中央通路部を明るいベージュ系の砂地模様とすることで、車内全体に明るさを演出している。側引戸は本体とガラス面を平面化することにより、戸袋への指詰め防止対策としている。\nバリアフリー対応では、従来の中間車配置に加え、先頭車にも車椅子スペースが設けられた（各車両の和泉中央寄り）。車内案内表示器については引き続きLED式を千鳥配置としている。\n\n\n=== 主要機器 ===\n機器類には当時最新の技術が取り入れられている。制御装置にはIGBT素子を使用したVVVFインバータ制御装置、台車にはモノリンク式のボルスタレス台車、パンタグラフにはシングルアーム式をそれぞれ同社で初めて採用した。\nまた、車両制御情報管理装置（TIS）は5000系に引き続き搭載しているが、従来の制御指令の伝送や車載機器へのモニタ機能のみならず、空調装置、列車種別・行先表示器、車内案内表示器等のサービス機器の制御機能が追加され、集約化による操作性の向上が図られている。\n\n\n== 形式・編成 ==\n\n凡例\nVVVF：制御装置（VVVFインバータ制御）\nSIV：補助電源装置（静止型インバータ）\nCP：空気圧縮機\n＜・＞：集電装置（シングルアーム式）\n■：弱冷車\n■：女性専用車両ステッカー\n\n\n== 改造工事 ==\n\n\n=== 編成組替工事 ===\n\n2005年（平成17年）、車両運用効率化と保有車両数の削減を目的に、4両編成の7509F・7511Fを6両編成・2両編成各1本に再編する編成組替工事が実施された。導入時の6両編成×1本・4両編成×5本の体制では、6両編成が検査等で運用から外れた場合、併結・運用の制約により4両編成1本も予備車化せざるを得ず、結果10両が一挙に離脱するという不効率な状態にあったが、この組み替えによって解消されることとなった。\n7511Fから2両の中間電動車7006・7106を外し、7106については付随車化を行った。併せて改番が実施され、7006は7202に、7106は7602となり、7509Fへと組み込まれて6両編成を組成した。\n7511Fの両先頭車については、電装解除された7106の主要機器を7512に搭載し制御電動車化、7511にはパンタグラフ2基を新たに設置した。改番に際して同2両は50番台に区分され、7511は7551に、7512は7552にそれぞれ改番され2両編成を組成した。\nこの編成替えの結果、7000系は6両編成×2本、4両編成×3本、2両編成×1本の体制となった。\n\n\n=== 転落注意放送装置設置 ===\n2012年（平成24年）度から2013年（平成25年）度にかけて、7000系・7020系（以下「両系列」）の先頭車に転落注意放送装置が設置された。視覚障がい者が先頭車同士の連結部から転落するのを防ぐためのもので、開扉時に注意放送を行う。\n\n\n=== 主要装置二重化改造工事 ===\n\n2015年（平成27年）から2016年（平成28年）にかけて、両系列の4両編成を対象に補機類の二重化改造工事が実施された。4両での単独運転を見据えたもので、7000系では7503F・7505F・7507FのTc2車（7504・7506・7508・7526号車）に静止形インバータ（SIV）と空気圧縮機（CP）を増設した。\n\n\n=== 表示類の南海仕様化 ===\n\n2025年（令和7年）4月の南海電鉄への吸収合併に向け、2024年（令和6年）12月から泉北高速鉄道の表示類が南海電鉄の仕様に順次変更された。車体側面の社章を南海CI章に変更、側面「SEMBOKU」ロゴを「NANKAI」ロゴへ変更、車内の社名銘板の取り外しが行われた。\n\n\n== 特別装飾・ラッピング ==\n2017年（平成29年）より、7509Fに大阪府立大型児童館ビッグバンのキャラクター等をデザインした「フロンティア号」のラッピングが施され、同年10月2日に運行を開始した。\n\n\n== 運用 ==\n\n2025年（令和7年）4月1日現在、6両編成×2本、4両編成×3本、2両編成（50番台）×1本の計26両が光明池検車（旧：泉北高速鉄道光明池車庫）に配置されている。\n7020系と共通運用で、泉北線内折り返しの各駅停車と、高野線に直通する準急行、区間急行に使用される。貫通構造を活かし、6両編成または8両編成で運転されている。2013年（平成25年）7月19日までは平日朝ラッシュ時の10両運転にも使用されていた。\n両系列の4両編成は併結して運用されている。ただし、7000系と7020系では貫通路のサイズが異なるため、併結時は7020系側にアダプターを取り付ける。\n平日朝ラッシュ時の8両編成の区間急行難波行きのうち、前から4両目の車両は和泉中央駅 - 天下茶屋駅間で女性専用車両に設定されており、6両編成のサハ7601形と4両編成のクハ7502形にこれを示すステッカーが貼られている。\n2015年（平成27年）12月5日ダイヤ改正から2017年（平成29年）8月26日ダイヤ改正まで、泉北高速線を日中に走行する一部の各駅停車が4両編成で運転されたが、この運用には南海の車両が充当されたため、主要装置二重化改造工事を行った後も両系列が4両単独で営業運転された実績はない。\n全般・重要部検査は、2002年（平成14年）度から自社光明池車庫にて行われていたが、南海グループ参入後の2016年（平成28年）からは再び南海電鉄千代田工場に変更されている。このため入出場の回送時に限り、南海高野線中百舌鳥駅 - 千代田工場間を走行する。\n\n\n== 編成表 ==\n\n\n=== 新製時の編成 ===\n\n\n=== 現在の編成 ===\n2025年（令和7年）4月1日現在\n\n（）は旧車両番号\n\n\n== 脚注 ==\n\n\n=== 注釈 ===\n\n\n=== 出典 ===\n\n\n== 参考文献 ==\n『鉄道ファン』、交友社\n1996年10月号（No.426）\n2025年8月号（No.772）\n『鉄道ピクトリアル』、電気車研究会\n2005年10月臨時増刊号「鉄道車両年鑑2005年版」（No.767）\n2008年8月臨時増刊号（No.807）\n2023年10月臨時増刊号（No.1017）\n『鉄道ジャーナル』1996年8月号（No.358）、成美堂出版\nジェー・アール・アール『私鉄車両編成表』、交通新聞社\n'97年版（1997年9月15日、ISBN 978-4-882-83218-8）\n'99年版（1999年9月、ISBN 978-4-882-83220-1）\n2015（2015年7月23日、ISBN 978-4-330-58415-7）\n2016（2016年7月21日、ISBN 978-4-330-70116-5）\n2024（2024年7月11日、ISBN 978-4-330-03424-9）\n2025（2025年7月22日、ISBN 978-4-330-03925-1）\n\n\n== 関連項目 ==\n\n大阪府都市開発7020系電車\n\n\n== 外部リンク ==\n7000系：車両図鑑 - ウェイバックマシン（2024年11月27日アーカイブ分） - 泉北高速鉄道",
+    "字数": 3858
+   },
+   "中文": null,
+   "英文": {
+    "词条标题": "Semboku 7000 series",
+    "链接": "https://en.wikipedia.org/wiki/Semboku%207000%20series",
+    "首段": "The Semboku 7000 series (泉北7000系, Senboku 7000-kei) is an electric multiple unit (EMU) train type operated by the private railway operator Nankai Electric Railway.\nSets introduced in 2007 are designated as 7020 series.",
+    "章节": {
+     "7000 series": "Trainsets are formed as follows:",
+     "Six-car sets": "",
+     "Four-car sets": "",
+     "Two-car sets": "",
+     "7020 series": "Trainsets are formed as follows:",
+     "Four-car set": "",
+     "Two-car set": "",
+     "Interior": "Seating consists of longitudinal seating throughout.",
+     "History": "The 7000 series first appeared in 1996. It is the second original design for the Semboku Railway following the 5000 series.\nThese are the second series in the Semboku fleet to feature aluminum bodies and VVVF inverters.\nThe 7020 series was introduced in 2007 and implements a selection of improvements to the original 7000 series including more handstraps, stanctions, and distinguishable priority seating. The difference between the 7020 series and the 7000 series is that the 7020 series has a distinguishable single centered front door.\n\nIn November 2022, Semboku Rapid Railway announced its plans to introduce an updated livery for its 7000, 7020, and 5000 series sets to match that of the then-new 9300 series, with the light blue waistline stripe omitted. After Semboku and Nankai announced their plans to merge, the fleet's Semboku logos have gradually been replaced with Nankai logos.",
+     "Operations": "The trains are used on through-services from Namba to Izumi-Chūō via the Nankai Main Line and Semboku Line, as well as on services on the Koya Line.\nFollowing the merger of the Semboku Rapid Railway into its parent company on 1 April 2025, all sets became property of Nankai Electric Railway.",
+     "Special liveries": "As the flagship rolling stock of the Semboku Rapid Railway, the trainsets have received various promotional liveries. From April 2015 through 2018, 7020 series set 7521 was wrapped in a livery to promote the 20th anniversary of the opening of Izumi-Chūō station. Starting in October 2017, 7000 series set 7509 was wrapped in a livery, entitled \"Frontier\", to promote characters featured at the Osaka Prefectural Children's Center.",
+     "References": "",
+     "External links": "7000 series official rolling stock website (in Japanese)\n7020 series official rolling stock website (in Japanese)"
+    },
+    "全文": "The Semboku 7000 series (泉北7000系, Senboku 7000-kei) is an electric multiple unit (EMU) train type operated by the private railway operator Nankai Electric Railway.\nSets introduced in 2007 are designated as 7020 series.\n\n\n== 7000 series ==\nTrainsets are formed as follows:\n\n\n=== Six-car sets ===\n\n\n=== Four-car sets ===\n\n\n=== Two-car sets ===\n\n\n== 7020 series ==\nTrainsets are formed as follows:\n\n\n=== Six-car sets ===\n\n\n=== Four-car set ===\n\n\n=== Two-car set ===\n\n\n== Interior ==\nSeating consists of longitudinal seating throughout.\n\n\n== History ==\nThe 7000 series first appeared in 1996. It is the second original design for the Semboku Railway following the 5000 series.\nThese are the second series in the Semboku fleet to feature aluminum bodies and VVVF inverters.\nThe 7020 series was introduced in 2007 and implements a selection of improvements to the original 7000 series including more handstraps, stanctions, and distinguishable priority seating. The difference between the 7020 series and the 7000 series is that the 7020 series has a distinguishable single centered front door.\n\nIn November 2022, Semboku Rapid Railway announced its plans to introduce an updated livery for its 7000, 7020, and 5000 series sets to match that of the then-new 9300 series, with the light blue waistline stripe omitted. After Semboku and Nankai announced their plans to merge, the fleet's Semboku logos have gradually been replaced with Nankai logos.\n\n\n=== Operations ===\nThe trains are used on through-services from Namba to Izumi-Chūō via the Nankai Main Line and Semboku Line, as well as on services on the Koya Line.\nFollowing the merger of the Semboku Rapid Railway into its parent company on 1 April 2025, all sets became property of Nankai Electric Railway.\n\n\n=== Special liveries ===\nAs the flagship rolling stock of the Semboku Rapid Railway, the trainsets have received various promotional liveries. From April 2015 through 2018, 7020 series set 7521 was wrapped in a livery to promote the 20th anniversary of the opening of Izumi-Chūō station. Starting in October 2017, 7000 series set 7509 was wrapped in a livery, entitled \"Frontier\", to promote characters featured at the Osaka Prefectural Children's Center.\n\n\n== References ==\n\n\n== External links ==\n\n7000 series official rolling stock website (in Japanese)\n7020 series official rolling stock website (in Japanese)",
+    "字数": 2370
+   }
+  }
+ }
+}

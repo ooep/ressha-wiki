@@ -10,10 +10,12 @@
   },
   "标识": {
    "图标文件": [
-    "18_kintetsu/kintetsu-rail-1-2-3-2026-8-28-update__kin5800expoy.png"
+    "18_kintetsu/kintetsu-rail-1-2-3-2026-8-28-update__kin5800expoy.png",
+    "18_kintetsu/kintetsu-rail-1-2-3-2026-8-28-update__kin5800expoy1.png"
    ],
    "图标token": [
-    "kin5800expoy"
+    "kin5800expoy",
+    "kin5800expoy1"
    ],
    "网站键": {
     "特急": [],

@@ -12,10 +12,14 @@
   "标识": {
    "图标文件": [
     "02_east/nagano-area__e127mt.png",
+    "02_east/nagano-area__e127mtp.png",
+    "30_koshinetsu_mi/tokimeki-rail__toki127.png",
     "30_koshinetsu_mi/tokimeki-rail__toki127g.png"
    ],
    "图标token": [
     "e127mt",
+    "e127mtp",
+    "toki127",
     "toki127g"
    ],
    "网站键": {

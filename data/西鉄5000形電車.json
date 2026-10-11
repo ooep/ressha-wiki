@@ -11,10 +11,14 @@
   "标识": {
    "图标文件": [
     "24_nishitetsu/nishitetsu-5000__nisi5000y.png",
-    "24_nishitetsu/omuta-line__nisi5000.png"
+    "24_nishitetsu/omuta-line__nisi5000.png",
+    "24_nishitetsu/omuta-line__nisi5000gl.png",
+    "24_nishitetsu/omuta-line__nisi5000pk.png"
    ],
    "图标token": [
     "nisi5000",
+    "nisi5000gl",
+    "nisi5000pk",
     "nisi5000y"
    ],
    "网站键": {

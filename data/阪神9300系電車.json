@@ -10,10 +10,16 @@
   },
   "标识": {
    "图标文件": [
-    "22_hanshin/hanshin-rail__hnsn9300n1.png"
+    "22_hanshin/hanshin-1-8-9000__hnsn9300.png",
+    "22_hanshin/hanshin-rail__hnsn9300n1.png",
+    "22_hanshin/hanshin-rail__hnsn9300n2.png",
+    "22_hanshin/hanshin-rail__hnsn9300n3.png"
    ],
    "图标token": [
-    "hnsn9300n1"
+    "hnsn9300",
+    "hnsn9300n1",
+    "hnsn9300n2",
+    "hnsn9300n3"
    ],
    "网站键": {
     "特急": [

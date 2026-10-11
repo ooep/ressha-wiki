@@ -10,9 +10,11 @@
   },
   "标识": {
    "图标文件": [
+    "22_hanshin/emu-110-200__hnsn5000p.png",
     "22_hanshin/emu-110-200__hnsn5200st.png"
    ],
    "图标token": [
+    "hnsn5000p",
     "hnsn5200st"
    ],
    "网站键": {

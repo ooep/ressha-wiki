@@ -12,20 +12,38 @@
   "标识": {
    "图标文件": [
     "02_east/shinagawa-999__e103br.png",
-    "04_west/kakogawa-obama__w103kg.png"
+    "04_west/bantan-line__w103ba.png",
+    "04_west/kakogawa-obama__w103kg.png",
+    "04_west/kakogawa-obama__w103kgp.png",
+    "04_west/sanyo-area__w103hhi.png",
+    "04_west/sanyo-area__w103hi.png",
+    "04_west/sanyo-area__w103hi2.png",
+    "04_west/sanyo-area__w103hi3.png",
+    "04_west/sanyo-area__w103hy2.png"
    ],
    "图标token": [
     "e103br",
-    "w103kg"
+    "w103ba",
+    "w103hhi",
+    "w103hi",
+    "w103hi2",
+    "w103hi3",
+    "w103hy2",
+    "w103kg",
+    "w103kgp"
    ],
    "网站键": {
-    "特急": [],
+    "特急": [
+     "山陽電鉄特急",
+     "直通特急"
+    ],
     "线路": [
      "加古川",
      "加古川線",
      "古川",
      "品川",
-     "小浜線"
+     "小浜線",
+     "播但線"
     ]
    }
   },

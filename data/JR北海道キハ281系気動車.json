@@ -10,10 +10,26 @@
   },
   "标识": {
    "图标文件": [
-    "01_hokkaido/hokuto__h281b.png"
+    "01_hokkaido/hokuto-kamui__h281psnsn.png",
+    "01_hokkaido/hokuto__h281.png",
+    "01_hokkaido/hokuto__h281b.png",
+    "01_hokkaido/hokuto__h281h.png",
+    "01_hokkaido/hokuto__h281kh.png",
+    "01_hokkaido/hokuto__h281p.png",
+    "01_hokkaido/hokuto__h281pb.png",
+    "01_hokkaido/hokuto__h281pn.png",
+    "01_hokkaido/hokuto__h281ps.png"
    ],
    "图标token": [
-    "h281b"
+    "h281",
+    "h281b",
+    "h281h",
+    "h281kh",
+    "h281p",
+    "h281pb",
+    "h281pn",
+    "h281ps",
+    "h281psnsn"
    ],
    "网站键": {
     "特急": [

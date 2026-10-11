@@ -10,10 +10,12 @@
   },
   "标识": {
    "图标文件": [
-    "08_tobu/jomo-rail__jymo800v.png"
+    "08_tobu/jomo-rail__jymo800v.png",
+    "08_tobu/jomo-rail__jymo800vp.png"
    ],
    "图标token": [
-    "jymo800v"
+    "jymo800v",
+    "jymo800vp"
    ],
    "网站键": {
     "特急": [],

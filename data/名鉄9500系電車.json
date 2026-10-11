@@ -10,10 +10,12 @@
   },
   "标识": {
    "图标文件": [
-    "17_meitetsu/meitetsu-9500-9100__mei9500.png"
+    "17_meitetsu/meitetsu-9500-9100__mei9500.png",
+    "17_meitetsu/meitetsu-9500-9100__mei9500k.png"
    ],
    "图标token": [
-    "mei9500"
+    "mei9500",
+    "mei9500k"
    ],
    "网站键": {
     "特急": [],

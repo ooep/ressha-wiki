@@ -11,14 +11,20 @@
   "标识": {
    "图标文件": [
     "04_west/hiroshima-area__w227hi.png",
+    "04_west/hiroshima-area__w227himx.png",
     "04_west/okayama-area__w227ok.png",
+    "04_west/okayama-area__w227okp.png",
     "04_west/wakayama-line__w227wk.png",
+    "04_west/wakayama-line__w227wkp.png",
     "04_west/yamaguchi-area__w227ym.png"
    ],
    "图标token": [
     "w227hi",
+    "w227himx",
     "w227ok",
+    "w227okp",
     "w227wk",
+    "w227wkp",
     "w227ym"
    ],
    "网站键": {

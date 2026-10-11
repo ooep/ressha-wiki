@@ -10,10 +10,12 @@
   },
   "标识": {
    "图标文件": [
-    "12_seibu/omi-rail__omi200r.png"
+    "12_seibu/omi-rail__omi200r.png",
+    "12_seibu/omi-rail__omi200rp.png"
    ],
    "图标token": [
-    "omi200r"
+    "omi200r",
+    "omi200rp"
    ],
    "网站键": {
     "特急": [],

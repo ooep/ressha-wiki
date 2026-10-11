@@ -10,10 +10,12 @@
   },
   "标识": {
    "图标文件": [
-    "19_keihan/keihan-rail__khan6000h.png"
+    "19_keihan/keihan-rail__khan6000h.png",
+    "19_keihan/keihan-rail__khan6000hp.png"
    ],
    "图标token": [
-    "khan6000h"
+    "khan6000h",
+    "khan6000hp"
    ],
    "网站键": {
     "特急": [

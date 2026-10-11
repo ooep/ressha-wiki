@@ -10,10 +10,12 @@
   },
   "标识": {
    "图标文件": [
+    "03_tokai/tokai-area-jr__c25-1.png",
     "03_tokai/tokai-area-jr__c25.png"
    ],
    "图标token": [
-    "c25"
+    "c25",
+    "c25-1"
    ],
    "网站键": {
     "特急": [],

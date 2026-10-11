@@ -10,16 +10,21 @@
   },
   "标识": {
    "图标文件": [
-    "31_tokai_mi/sangi-rail__sang5000.png"
+    "31_tokai_mi/sangi-rail__sang202.png",
+    "31_tokai_mi/sangi-rail__sang5000.png",
+    "31_tokai_mi/sangi-rail__sang750.png"
    ],
    "图标token": [
-    "sang5000"
+    "sang202",
+    "sang5000",
+    "sang750"
    ],
    "网站键": {
     "特急": [],
     "线路": [
      "三岐線",
-     "三岐鉄道"
+     "三岐鉄道",
+     "北勢線"
     ]
    }
   },

@@ -10,16 +10,69 @@
   },
   "标识": {
    "图标文件": [
-    "35_cablecar/kiboso-hotel-1-2-2026-9-18-update__slp-kiboso1gh.png"
+    "35_cablecar/eizan-funicular__cb-kfuk.png",
+    "35_cablecar/jukkoku-funicular__cb-jkk1v.png",
+    "35_cablecar/kiboso-hotel-1-2-2026-9-18-update__slp-kiboso1gh.png",
+    "35_cablecar/kiboso-hotel-1-2-2026-9-18-update__slp-kiboso1rh.png",
+    "35_cablecar/kurobe-funicular__cb-krb1l.png",
+    "35_cablecar/maya-funicular__cb-maya1r.png",
+    "35_cablecar/minoo-funicular__cb-mno1g.png",
+    "35_cablecar/mitake-funicular__cb-mtk3lr.png",
+    "35_cablecar/myoken-funicular__cb-mykn2u.png",
+    "35_cablecar/oyama-funicular__cb-oym1s.png",
+    "35_cablecar/rakutenchi-funicular__cb-rktn1.png",
+    "35_cablecar/rakutenchi-funicular__cb-rktn2.png",
+    "35_cablecar/sarakura-funicular__cb-hbsrb.png",
+    "35_cablecar/takaosan-funicular__cb-tko102.png",
+    "35_cablecar/tateyama-funicular__cb-ttym0.png",
+    "35_cablecar/tateyama-funicular__cb-ttym0l.png",
+    "35_cablecar/tsukuba-funicular__cb-tkb-g.png",
+    "35_cablecar/untitled__cb-krm2l.png",
+    "35_cablecar/yakuri-funicular__cb-ygr2l.png"
    ],
    "图标token": [
-    "slp-kiboso1gh"
+    "cb-hbsrb",
+    "cb-jkk1v",
+    "cb-kfuk",
+    "cb-krb1l",
+    "cb-krm2l",
+    "cb-maya1r",
+    "cb-mno1g",
+    "cb-mtk3lr",
+    "cb-mykn2u",
+    "cb-oym1s",
+    "cb-rktn1",
+    "cb-rktn2",
+    "cb-tkb-g",
+    "cb-tko102",
+    "cb-ttym0",
+    "cb-ttym0l",
+    "cb-ygr2l",
+    "slp-kiboso1gh",
+    "slp-kiboso1rh"
    ],
    "网站键": {
     "特急": [],
     "线路": [
+     "八栗ケーブル",
+     "別府ラクテンチケーブル線",
+     "十国鋼索線",
+     "叡山ケーブル",
+     "大山鋼索線",
+     "妙見線",
+     "御岳登山ケーブル",
+     "摩耶ケーブル線",
      "湯の山線",
-     "近鉄湯の山線"
+     "皿倉山ケーブルカー",
+     "立山ケーブルカー",
+     "筑波山鋼索鉄道線",
+     "箕面線",
+     "近鉄湯の山線",
+     "鞍馬線",
+     "高尾",
+     "高尾登山ケーブル",
+     "高尾線",
+     "黒部ケーブルカー"
     ]
    }
   },

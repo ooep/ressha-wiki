@@ -10,9 +10,17 @@
   },
   "标识": {
    "图标文件": [
+    "08_tobu/ryomo-skytree__tob200.png",
+    "08_tobu/ryomo-skytree__tob200b.png",
+    "08_tobu/ryomo-skytree__tob200bw.png",
+    "08_tobu/ryomo-skytree__tob200r.png",
     "08_tobu/ryomo-skytree__tob250.png"
    ],
    "图标token": [
+    "tob200",
+    "tob200b",
+    "tob200bw",
+    "tob200r",
     "tob250"
    ],
    "网站键": {

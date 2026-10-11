@@ -10,17 +10,26 @@
   },
   "标识": {
    "图标文件": [
-    "06_kyushu/karatsu-line__k125yak.png"
+    "06_kyushu/ibuatma-atrain-umisachi__k125uy.png",
+    "06_kyushu/karatsu-line__k125yak.png",
+    "06_kyushu/kyushu-area__k125.png"
    ],
    "图标token": [
+    "k125",
+    "k125uy",
     "k125yak"
    ],
    "网站键": {
-    "特急": [],
+    "特急": [
+     "指宿のたまて箱"
+    ],
     "线路": [
+     "久大本線",
      "佐世保線",
      "佐賀",
-     "唐津線"
+     "唐津線",
+     "指宿枕崎線",
+     "日南線"
     ]
    }
   },

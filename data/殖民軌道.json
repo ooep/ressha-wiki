@@ -10,10 +10,12 @@
   },
   "标识": {
    "图标文件": [
-    "27_hokkaido_mi/shibecha-rail__sbch1.png"
+    "27_hokkaido_mi/shibecha-rail__sbch1.png",
+    "27_hokkaido_mi/shibecha-rail__sbch2.png"
    ],
    "图标token": [
-    "sbch1"
+    "sbch1",
+    "sbch2"
    ],
    "网站键": {
     "特急": [],

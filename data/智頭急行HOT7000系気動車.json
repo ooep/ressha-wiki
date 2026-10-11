@@ -10,10 +10,12 @@
   },
   "标识": {
    "图标文件": [
-    "26_sanyosanin/super-hakuto__hot7000.png"
+    "26_sanyosanin/super-hakuto__hot7000.png",
+    "26_sanyosanin/super-hakuto__hot7000k.png"
    ],
    "图标token": [
-    "hot7000"
+    "hot7000",
+    "hot7000k"
    ],
    "网站键": {
     "特急": [

@@ -5,20 +5,32 @@
    "中文": "球磨川鐵道",
    "英文": "Yunomae Line",
    "运营者": [
+    "九州私鉄",
     "山陽山陰"
    ]
   },
   "标识": {
    "图标文件": [
-    "26_sanyosanin/untitled__lkure600.png"
+    "26_sanyosanin/untitled__lkure600.png",
+    "26_sanyosanin/untitled__lkure800.png",
+    "34_kyushu_mi/kumamoto-tram__lkuma0803.png"
    ],
    "图标token": [
-    "lkure600"
+    "lkuma0803",
+    "lkure600",
+    "lkure800"
    ],
    "网站键": {
     "特急": [],
     "线路": [
-     "呉線"
+     "上熊本線",
+     "健軍線",
+     "呉線",
+     "桜町支線",
+     "水前寺線",
+     "熊本市交通局",
+     "熊本市電",
+     "田崎線"
     ]
    }
   },

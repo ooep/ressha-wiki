@@ -10,15 +10,20 @@
   },
   "标识": {
    "图标文件": [
-    "23_nankai/kouya-rinkan__nan11000.png"
+    "23_nankai/kouya-rinkan__nan11000.png",
+    "23_nankai/semboku-liner-1-2-2025-8-14-update__nan11000g1.png",
+    "23_nankai/semboku-liner-1-2-2025-8-14-update__nan11000g1p.png"
    ],
    "图标token": [
-    "nan11000"
+    "nan11000",
+    "nan11000g1",
+    "nan11000g1p"
    ],
    "网站键": {
     "特急": [
      "こうや",
-     "りんかん"
+     "りんかん",
+     "泉北ライナー"
     ],
     "线路": []
    }

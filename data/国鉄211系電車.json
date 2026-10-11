@@ -10,15 +10,42 @@
   },
   "标识": {
    "图标文件": [
+    "02_east/boso-area__e211cb.png",
+    "02_east/boso-area__e211cg.png",
+    "02_east/boso-area__e211cr.png",
+    "02_east/boso-area__e211crp.png",
+    "02_east/boso-area__e211cy.png",
+    "02_east/nagano-area__e211na.png",
+    "02_east/nagano-area__e211na1.png",
+    "02_east/nagano-area__e211na1n.png",
+    "02_east/nagano-area__e211na2.png",
+    "02_east/nagano-area__e211na2n.png",
+    "02_east/nagano-area__e211na6.png",
     "02_east/nagano-area__e211su.png",
-    "02_east/takasaki-area__e211ry.png"
+    "02_east/takasaki-area__e211ry.png",
+    "02_east/takasaki-area__e211s1.png"
    ],
    "图标token": [
+    "e211cb",
+    "e211cg",
+    "e211cr",
+    "e211crp",
+    "e211cy",
+    "e211na",
+    "e211na1",
+    "e211na1n",
+    "e211na2",
+    "e211na2n",
+    "e211na6",
     "e211ry",
+    "e211s1",
     "e211su"
    ],
    "网站键": {
     "特急": [
+     "さざなみ",
+     "しおさい",
+     "わかしお",
      "長野電鉄特急"
     ],
     "线路": [

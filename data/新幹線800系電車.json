@@ -10,10 +10,12 @@
   },
   "标识": {
    "图标文件": [
-    "00_shinkansen/sakura-n700-800__k800.png"
+    "00_shinkansen/sakura-n700-800__k800.png",
+    "00_shinkansen/sakura-n700-800__k800n.png"
    ],
    "图标token": [
-    "k800"
+    "k800",
+    "k800n"
    ],
    "网站键": {
     "特急": [

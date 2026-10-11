@@ -12,14 +12,22 @@
   "标识": {
    "图标文件": [
     "02_east/akita-area__e701ak4.png",
+    "02_east/akita-area__e701ak6.png",
+    "02_east/tazawako-line__e701ta1.png",
     "02_east/tazawako-line__e701tal.png",
+    "02_east/yamagata-line__e701ya.png",
     "28_tohoku_mi/aoimori-rail__aoim701ms.png",
+    "28_tohoku_mi/aoimori-rail__aoim701msl.png",
     "28_tohoku_mi/igr-rail__igr7000.png"
    ],
    "图标token": [
     "aoim701ms",
+    "aoim701msl",
     "e701ak4",
+    "e701ak6",
+    "e701ta1",
     "e701tal",
+    "e701ya",
     "igr7000"
    ],
    "网站键": {
@@ -30,6 +38,8 @@
      "北上線",
      "北銀河鉄道",
      "奥羽本線",
+     "山形",
+     "山形線",
      "田沢湖線",
      "青い森鉄道",
      "青い森鉄道線"

@@ -10,13 +10,27 @@
   },
   "标识": {
    "图标文件": [
+    "02_east/banetsu-line__e455ba.png",
+    "02_east/banetsu-line__e455ba2.png",
+    "02_east/banetsu-line__e455bab.png",
+    "02_east/banetsu-line__e455bal.png",
+    "02_east/banetsu-line__e455bal2.png",
+    "02_east/senzan-line__e455opg.png",
     "02_east/senzan-line__e455se.png"
    ],
    "图标token": [
+    "e455ba",
+    "e455ba2",
+    "e455bab",
+    "e455bal",
+    "e455bal2",
+    "e455opg",
     "e455se"
    ],
    "网站键": {
-    "特急": [],
+    "特急": [
+     "SLばんえつ物語"
+    ],
     "线路": [
      "仙山線"
     ]

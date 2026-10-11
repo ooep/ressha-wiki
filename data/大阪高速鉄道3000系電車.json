@@ -10,10 +10,12 @@
   },
   "标识": {
    "图标文件": [
-    "32_kansai_mi/osaka-monorail__mn-osk3000.png"
+    "32_kansai_mi/osaka-monorail__mn-osk3000.png",
+    "32_kansai_mi/osaka-monorail__mn-osk3000y.png"
    ],
    "图标token": [
-    "mn-osk3000"
+    "mn-osk3000",
+    "mn-osk3000y"
    ],
    "网站键": {
     "特急": [],

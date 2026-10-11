@@ -13,6 +13,7 @@
     "02_east/boso-area__e131bo.png",
     "02_east/nagano-area__e131na.png",
     "02_east/nikko-line__e131nk.png",
+    "02_east/nikko-line__e131nkp.png",
     "02_east/sagami-line__e131sg.png",
     "02_east/senseki-line__e131se.png",
     "02_east/tsurumi-line__e131tr.png"
@@ -21,6 +22,7 @@
     "e131bo",
     "e131na",
     "e131nk",
+    "e131nkp",
     "e131se",
     "e131sg",
     "e131tr"

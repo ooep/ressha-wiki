@@ -1,0 +1,86 @@
+{
+ "车辆": {
+  "名称": {
+   "日文": "紀州鉄道",
+   "中文": "紀州鐵道",
+   "英文": "Kishū Railway Line",
+   "运营者": [
+    "関西私鉄"
+   ]
+  },
+  "标识": {
+   "图标文件": [
+    "32_kansai_mi/kishu-rail__kish2b.png"
+   ],
+   "图标token": [
+    "kish2b"
+   ],
+   "网站键": {
+    "特急": [],
+    "线路": [
+     "紀州鉄道",
+     "紀州鉄道線"
+    ]
+   }
+  },
+  "百科": {
+   "日文": {
+    "词条标题": "紀州鉄道",
+    "链接": "https://ja.wikipedia.org/wiki/%E7%B4%80%E5%B7%9E%E9%89%84%E9%81%93",
+    "首段": "紀州鉄道株式会社（きしゅうてつどう、英: Kishu Railway）は、東京都中央区に本社を置く日本の不動産開発業者であり、鉄道路線として和歌山県御坊市で紀州鉄道線を運営している鉄道事業者である。",
+    "章节": {
+     "歴史": "1928年に御坊臨港鉄道として、国鉄紀勢西線から離れた御坊市街地との連絡を目的に設立され、鉄道を1931年に開業した。当初から経営は厳しく、戦後も風水害などの被災やモータリゼーションの進展によって、1960年代には廃止の危機に追い込まれていた。\n1972年、磐梯急行電鉄（1968年倒産、1969年鉄道廃止）の旧経営陣が設立していた磐梯電鉄不動産が「鉄道会社」の肩書きを求め御坊臨港鉄道を約1億円で買収した。翌年1月には、紀州鉄道と社名を変更した。\n1975年、紀州鉄道不動産株式会社を設立する。1978年に本社を大阪府大阪市に移転する。1979年には不動産・リゾート開発を営む鶴屋産業の傘下に入り、紀鉄ホテル株式会社を設立し、翌1980年には本社を東京都千代田区に移転する。\n現在に至るまでリゾート開発を軸とする不動産業を主力部門としており、鉄道事業収益の割合は微少かつ慢性的な赤字となっている。しかし、不動産業などを営む際に、鉄道会社ということが信頼に繋がるという利点があり、また社名と鉄道への愛情をもたらすことから、赤字に関わらず営業を続けている。\n2021年以降は、華僑の金岩が代表を務め、主に旅館の運営を手掛けるポリキングの完全子会社となり、金が会長を務めている。",
+     "ホテル・リゾート事業": "那須高原・北軽井沢（嬬恋村）・房総白浜（南房総市）・熱海・箱根・伊豆一碧湖（伊東市）・名古屋市・大阪市など、日本各地にホテルを展開しており、関連会社の紀鉄ホテルが運営している。\nまた、群馬県において嬬恋村との共同出資で第三セクター会社のパルコール嬬恋を設立し、「パルコール嬬恋ゴルフコース」やスキー場「パルコール嬬恋スキーリゾート」を運営していたが、同社は2014年3月に民事再生法の適用を申請し、2014年4月からは紀州鉄道グループから離脱してブリーズベイホテル傘下となっている。\nそのほか、長野県の軽井沢（軽井沢町・御代田町）と塩嶺高原（岡谷市）で別荘の分譲・管理事業や、関連会社の紀州鉄道不動産による会員制リゾート事業、紀鉄航空サービスによる旅行事業（東京都知事認可第2種旅行業）を行っている。",
+     "鉄道事業": "和歌山県御坊市内を走る紀州鉄道線（御坊駅 - 西御坊駅間、2.7 km）を保有・運営している。1989年4月1日に末端区間の西御坊駅 - 日高川駅の0.7 kmが廃止され、全列車のワンマン化が実施されている。営業係数は2010年度367.8、2011年度417.9であり、現存する日本国内の鉄道では阿佐海岸鉄道に次いで悪い数値である。また、「学門駅入場券」など記念切符・記念グッズの販売も行っている。\nかつては日本一保有する路線が短い鉄道事業者であったことから「日本一のミニ鉄道」と称していたが、2002年10月にその座を千葉県の芝山鉄道に明け渡した。ただし、芝山鉄道は全列車が京成電鉄との相互直通運転を行っているなどの背景があるため、定義によっては、紀州鉄道線がなお日本一短いとみなす余地もある。御坊市の公式サイト内では「日本一短いローカル私鉄」と紹介されている。\n運輸政策研究機構（現・運輸総合研究所）の資料によると、2012年度の輸送密度は1日242人で、阿佐海岸鉄道の1日88人に次いで2番目に少ない数値となっている（各年度の輸送密度は「紀州鉄道線#利用状況」を参照）。\n2025年11月、紀州鉄道が鉄道事業の廃止および事業譲渡を検討していることが報じられた。新たに親会社となった中国系企業のポリキングは、不採算部門の鉄道事業を早ければ2026年中に廃止したい意向を示している一方で、事業譲渡先が見つかるまでの間、廃止の時期を猶予する考えも示している。",
+     "路線": "紀州鉄道線：御坊駅 - 西御坊駅（2.7 km。第一種鉄道事業）",
+     "車両": "2021年4月時点で、気動車3両が在籍する。いずれも他社からの譲渡車両である。\n\nキテツ2 - 休車中\nKR301\nKR205",
+     "その他": "2003年7月まで西御坊駅で使われていた「回転式乗車券箱」が、埼玉県さいたま市の鉄道博物館の収蔵資料となっている。",
+     "関連会社": "鶴屋商事\n紀州鉄道不動産\n紀鉄航空サービス\n紀鉄ホテル",
+     "注釈": "",
+     "出典": "",
+     "参考文献": "キテツ1型：月刊「鉄道ファン」2004年11月号（通巻 523号）92・93ページ",
+     "外部リンク": "公式ウェブサイト\n紀州鉄道 鉄道事業\n【公式】紀州鉄道株式会社 (@kishu_railway) - X（旧Twitter）\n紀州鉄道 (紀州鉄道株式会社-352474385223430) - Facebook"
+    },
+    "全文": "紀州鉄道株式会社（きしゅうてつどう、英: Kishu Railway）は、東京都中央区に本社を置く日本の不動産開発業者であり、鉄道路線として和歌山県御坊市で紀州鉄道線を運営している鉄道事業者である。\n\n\n== 歴史 ==\n1928年に御坊臨港鉄道として、国鉄紀勢西線から離れた御坊市街地との連絡を目的に設立され、鉄道を1931年に開業した。当初から経営は厳しく、戦後も風水害などの被災やモータリゼーションの進展によって、1960年代には廃止の危機に追い込まれていた。\n1972年、磐梯急行電鉄（1968年倒産、1969年鉄道廃止）の旧経営陣が設立していた磐梯電鉄不動産が「鉄道会社」の肩書きを求め御坊臨港鉄道を約1億円で買収した。翌年1月には、紀州鉄道と社名を変更した。\n1975年、紀州鉄道不動産株式会社を設立する。1978年に本社を大阪府大阪市に移転する。1979年には不動産・リゾート開発を営む鶴屋産業の傘下に入り、紀鉄ホテル株式会社を設立し、翌1980年には本社を東京都千代田区に移転する。\n現在に至るまでリゾート開発を軸とする不動産業を主力部門としており、鉄道事業収益の割合は微少かつ慢性的な赤字となっている。しかし、不動産業などを営む際に、鉄道会社ということが信頼に繋がるという利点があり、また社名と鉄道への愛情をもたらすことから、赤字に関わらず営業を続けている。\n2021年以降は、華僑の金岩が代表を務め、主に旅館の運営を手掛けるポリキングの完全子会社となり、金が会長を務めている。\n\n\n== ホテル・リゾート事業 ==\n那須高原・北軽井沢（嬬恋村）・房総白浜（南房総市）・熱海・箱根・伊豆一碧湖（伊東市）・名古屋市・大阪市など、日本各地にホテルを展開しており、関連会社の紀鉄ホテルが運営している。\nまた、群馬県において嬬恋村との共同出資で第三セクター会社のパルコール嬬恋を設立し、「パルコール嬬恋ゴルフコース」やスキー場「パルコール嬬恋スキーリゾート」を運営していたが、同社は2014年3月に民事再生法の適用を申請し、2014年4月からは紀州鉄道グループから離脱してブリーズベイホテル傘下となっている。\nそのほか、長野県の軽井沢（軽井沢町・御代田町）と塩嶺高原（岡谷市）で別荘の分譲・管理事業や、関連会社の紀州鉄道不動産による会員制リゾート事業、紀鉄航空サービスによる旅行事業（東京都知事認可第2種旅行業）を行っている。\n\n\n== 鉄道事業 ==\n和歌山県御坊市内を走る紀州鉄道線（御坊駅 - 西御坊駅間、2.7 km）を保有・運営している。1989年4月1日に末端区間の西御坊駅 - 日高川駅の0.7 kmが廃止され、全列車のワンマン化が実施されている。営業係数は2010年度367.8、2011年度417.9であり、現存する日本国内の鉄道では阿佐海岸鉄道に次いで悪い数値である。また、「学門駅入場券」など記念切符・記念グッズの販売も行っている。\nかつては日本一保有する路線が短い鉄道事業者であったことから「日本一のミニ鉄道」と称していたが、2002年10月にその座を千葉県の芝山鉄道に明け渡した。ただし、芝山鉄道は全列車が京成電鉄との相互直通運転を行っているなどの背景があるため、定義によっては、紀州鉄道線がなお日本一短いとみなす余地もある。御坊市の公式サイト内では「日本一短いローカル私鉄」と紹介されている。\n運輸政策研究機構（現・運輸総合研究所）の資料によると、2012年度の輸送密度は1日242人で、阿佐海岸鉄道の1日88人に次いで2番目に少ない数値となっている（各年度の輸送密度は「紀州鉄道線#利用状況」を参照）。\n2025年11月、紀州鉄道が鉄道事業の廃止および事業譲渡を検討していることが報じられた。新たに親会社となった中国系企業のポリキングは、不採算部門の鉄道事業を早ければ2026年中に廃止したい意向を示している一方で、事業譲渡先が見つかるまでの間、廃止の時期を猶予する考えも示している。\n\n\n=== 路線 ===\n\n紀州鉄道線：御坊駅 - 西御坊駅（2.7 km。第一種鉄道事業）\n\n\n=== 車両 ===\n\n2021年4月時点で、気動車3両が在籍する。いずれも他社からの譲渡車両である。\n\nキテツ2 - 休車中\nKR301\nKR205\n\n\n=== その他 ===\n2003年7月まで西御坊駅で使われていた「回転式乗車券箱」が、埼玉県さいたま市の鉄道博物館の収蔵資料となっている。\n\n\n== 関連会社 ==\n鶴屋商事\n紀州鉄道不動産\n紀鉄航空サービス\n紀鉄ホテル\n\n\n== 注釈 ==\n\n\n== 出典 ==\n\n\n== 参考文献 ==\nキテツ1型：月刊「鉄道ファン」2004年11月号（通巻 523号）92・93ページ\n\n\n== 外部リンク ==\n\n公式ウェブサイト\n紀州鉄道 鉄道事業\n【公式】紀州鉄道株式会社 (@kishu_railway) - X（旧Twitter）\n紀州鉄道 (紀州鉄道株式会社-352474385223430) - Facebook",
+    "字数": 2098
+   },
+   "中文": {
+    "词条标题": "紀州鐵道",
+    "链接": "https://zh.wikipedia.org/wiki/%E7%B4%80%E5%B7%9E%E9%90%B5%E9%81%93",
+    "首段": "紀州鐵道股份有限公司（日語：紀州鉄道／きしゅうてつどう，羅馬化：Kishū Tetsudō），簡稱紀州鐵道或紀鐵，是一家從事房地產、酒店和鐵路業務經營的日本企業，該公司為鶴屋產業的系列企業，其總部位在東京都中央區。",
+    "章节": {
+     "概要": "紀州鉄道為和歌山縣御坊市紀州鐵道線之營運者；該鐵道始建於1928年、落成於1931年，原名「御坊臨港鉄道」，為聯絡偏離國有鐵路紀勢本線之御坊市街區之主要鐵道路線。該路線在經營初期即面臨嚴峻情勢，並在戰後歷經風水災害與公路汽車普及化之考驗。1945年，昔日終點站日高川駅遭轟炸，房舍、油庫及車輛全數燒毀。1960年代，該路線一度面臨廢止危機。\n1973年1月，御坊臨港鐵道更名為「紀州鐵道」。\n1980年，為強化其企業體質，該企業成為鶴屋産業控股公司的傘下企業。\n1989年，西御坊至日高川總長0.7公里區間路線廢止。\n現在，不動產經營為該企業之主力事業。",
+     "旗下事業": "",
+     "酒店及渡假村事業": "紀鉄酒店株式会社（日語：紀鉄ホテル株式会社）在日本各地經營冠名「紀州鉄道」之酒店。",
+     "鐵道事業": "現在，其列車皆屬一人控制。近年來，由於該事業持續入不敷出，其路線再度面臨存廢問題。",
+     "路線": "",
+     "車輛": "",
+     "= 現在 =": "2輛都是從信樂高原鐵道被轉讓的二手車。\n\nKR301\nKR205",
+     "= 昔日 =": "キハ603（1975年-2009年）\nキテツ1形（2000年-2017年）",
+     "關係企業": "鶴屋商事\n紀州鉄道不動産\n紀鉄航空サービス\n紀鉄ホテル",
+     "外部連結": "维基共享资源上的相關多媒體資源：紀州鐵道\n\n紀州鉄道株式会社 （页面存档备份，存于互联网档案馆）\n紀州鉄道 鉄道事業 （页面存档备份，存于互联网档案馆）\n紀州鉄道／御坊市官方網站 （页面存档备份，存于互联网档案馆）",
+     "參考": ""
+    },
+    "全文": "紀州鐵道股份有限公司（日語：紀州鉄道／きしゅうてつどう，羅馬化：Kishū Tetsudō），簡稱紀州鐵道或紀鐵，是一家從事房地產、酒店和鐵路業務經營的日本企業，該公司為鶴屋產業的系列企業，其總部位在東京都中央區。\n\n\n== 概要 ==\n紀州鉄道為和歌山縣御坊市紀州鐵道線之營運者；該鐵道始建於1928年、落成於1931年，原名「御坊臨港鉄道」，為聯絡偏離國有鐵路紀勢本線之御坊市街區之主要鐵道路線。該路線在經營初期即面臨嚴峻情勢，並在戰後歷經風水災害與公路汽車普及化之考驗。1945年，昔日終點站日高川駅遭轟炸，房舍、油庫及車輛全數燒毀。1960年代，該路線一度面臨廢止危機。\n1973年1月，御坊臨港鐵道更名為「紀州鐵道」。\n1980年，為強化其企業體質，該企業成為鶴屋産業控股公司的傘下企業。\n1989年，西御坊至日高川總長0.7公里區間路線廢止。\n現在，不動產經營為該企業之主力事業。\n\n\n== 旗下事業 ==\n\n\n=== 酒店及渡假村事業 ===\n紀鉄酒店株式会社（日語：紀鉄ホテル株式会社）在日本各地經營冠名「紀州鉄道」之酒店。\n\n\n=== 鐵道事業 ===\n現在，其列車皆屬一人控制。近年來，由於該事業持續入不敷出，其路線再度面臨存廢問題。\n\n\n==== 路線 ====\n\n\n==== 車輛 ====\n\n\n===== 現在 =====\n2輛都是從信樂高原鐵道被轉讓的二手車。\n\nKR301\nKR205\n\n\n===== 昔日 =====\nキハ603（1975年-2009年）\nキテツ1形（2000年-2017年）\n\n\n== 關係企業 ==\n鶴屋商事\n紀州鉄道不動産\n紀鉄航空サービス\n紀鉄ホテル\n\n\n== 外部連結 ==\n 维基共享资源上的相關多媒體資源：紀州鐵道\n\n紀州鉄道株式会社 （页面存档备份，存于互联网档案馆）\n紀州鉄道 鉄道事業 （页面存档备份，存于互联网档案馆）\n紀州鉄道／御坊市官方網站 （页面存档备份，存于互联网档案馆）\n\n\n== 參考 ==",
+    "字数": 836
+   },
+   "英文": {
+    "词条标题": "Kishū Railway Line",
+    "链接": "https://en.wikipedia.org/wiki/Kish%C5%AB%20Railway%20Line",
+    "首段": "The Kishu Railway Line (紀州鉄道線, Kishū Tetsudō-sen) is a railway line in Japan, running from Gobō Station to Nishi-Gobō Station. The railway line is operated by Kishu Railway (紀州鉄道, Kishū Tetsudō), and is also referred to by locals as Kitetsu (紀鉄), which is an abbreviation of the company's name. The railway line is located entirely within Gobō, Wakayama. It is the only remaining private railway line in Wakayama Prefecture that is entirely non-electrified, and is the second-shortest railway line in Japan.",
+    "章节": {
+     "History": "The Gobō Rinkō Railway (御坊臨港鉄道, Gobō Rinkō Tetsudō; \"Gobō Portside Railway\") opened the 1.8 km section from Gobō to Kii-Gobō section on 15 June 1931, extended 0.9 km to Nishi-Gobō on 10 April 1932, and to Hidakagawa on 10 August 1934.\nThe Gobō Rinkō Railway became the Kishu Railway from 1 January 1973.  Shiyakusho-mae and Gakumon were opened on 1 October 1966 and 10 August 1979. The 0.7 km section from Nishi-Gobō to Hidakagawa closed on 1 April 1989. Work began to replace crossties in the line to concrete ones in 2017 following a derail, which was attributed to the old wooden crossties.\nIn December 2022, a Chinese real estate company bought Kishu Railway, which attempted to close the railway due to its deficit. The railway was unable to raise their fares as nobody in the company were able to write an application to the Ministry of Land, Infrastructure, Transport and Tourism. As a result, the railway was to be closed by 2026, which did not occur as the company instead opted to transfer the line to a different entity in June 2026.",
+     "Operation": "Trains stop at all stations along the line. The entire line is single-track, unelectrified, and none of its railway stations have passing loops. The railway depot for the line is located adjacent to Kii-Gobō Station. Most trains are timetabled to allow for onward connections to the Kisei Main Line trains at Gobō.\nThe railway line is the only line operated by the company, as the company mostly focuses in the real estate and hotel sectors. A Tokyo-based company, which was previously not a railway operator, took over the line in 1973 in order to gain the prestige and trust associated with operating a railway line. The railway is the second shortest railway line in service in Japan, the shortest being the Shibayama Railway.",
+     "Station list": "",
+     "Rolling stock": "Diesel railcar KR301, formerly SKR301 used on the Shigaraki Kohgen Railway in Shiga Prefecture until October 2015 was introduced on the line from 30 January 2016. KR205, formerly SKR205 entered service on 15 April 2017. As of 2025, these two cars are the only trains operated by the company.",
+     "See also": "List of railway companies in Japan\nList of railway lines in Japan",
+     "References": "",
+     "Bibliography": "Kawashima, Ryozo (20 November 2009). 東海道ライン 全線・全駅・全配線 第10巻阪南・紀勢西部 (in Japanese). Kodansha. ISBN 978-4-06-270020-7.\nSoiri, Masashi (25 September 2025). 全国鉄道路線大全 2025-2026 (in Japanese). Ikaros Publications. ISBN 978-4-8022-1637-1.",
+     "External links": "Official website (in Japanese)"
+    },
+    "全文": "The Kishu Railway Line (紀州鉄道線, Kishū Tetsudō-sen) is a railway line in Japan, running from Gobō Station to Nishi-Gobō Station. The railway line is operated by Kishu Railway (紀州鉄道, Kishū Tetsudō), and is also referred to by locals as Kitetsu (紀鉄), which is an abbreviation of the company's name. The railway line is located entirely within Gobō, Wakayama. It is the only remaining private railway line in Wakayama Prefecture that is entirely non-electrified, and is the second-shortest railway line in Japan.\n\n\n== History ==\nThe Gobō Rinkō Railway (御坊臨港鉄道, Gobō Rinkō Tetsudō; \"Gobō Portside Railway\") opened the 1.8 km section from Gobō to Kii-Gobō section on 15 June 1931, extended 0.9 km to Nishi-Gobō on 10 April 1932, and to Hidakagawa on 10 August 1934.\nThe Gobō Rinkō Railway became the Kishu Railway from 1 January 1973.  Shiyakusho-mae and Gakumon were opened on 1 October 1966 and 10 August 1979. The 0.7 km section from Nishi-Gobō to Hidakagawa closed on 1 April 1989. Work began to replace crossties in the line to concrete ones in 2017 following a derail, which was attributed to the old wooden crossties.\nIn December 2022, a Chinese real estate company bought Kishu Railway, which attempted to close the railway due to its deficit. The railway was unable to raise their fares as nobody in the company were able to write an application to the Ministry of Land, Infrastructure, Transport and Tourism. As a result, the railway was to be closed by 2026, which did not occur as the company instead opted to transfer the line to a different entity in June 2026.\n\n\n== Operation ==\nTrains stop at all stations along the line. The entire line is single-track, unelectrified, and none of its railway stations have passing loops. The railway depot for the line is located adjacent to Kii-Gobō Station. Most trains are timetabled to allow for onward connections to the Kisei Main Line trains at Gobō.\nThe railway line is the only line operated by the company, as the company mostly focuses in the real estate and hotel sectors. A Tokyo-based company, which was previously not a railway operator, took over the line in 1973 in order to gain the prestige and trust associated with operating a railway line. The railway is the second shortest railway line in service in Japan, the shortest being the Shibayama Railway.\n\n\n=== Station list ===\n\n\n=== Rolling stock ===\nDiesel railcar KR301, formerly SKR301 used on the Shigaraki Kohgen Railway in Shiga Prefecture until October 2015 was introduced on the line from 30 January 2016. KR205, formerly SKR205 entered service on 15 April 2017. As of 2025, these two cars are the only trains operated by the company.\n\n\n== See also ==\nList of railway companies in Japan\nList of railway lines in Japan\n\n\n== References ==\n\n\n=== Bibliography ===\nKawashima, Ryozo (20 November 2009). 東海道ライン 全線・全駅・全配線 第10巻阪南・紀勢西部 (in Japanese). Kodansha. ISBN 978-4-06-270020-7.\nSoiri, Masashi (25 September 2025). 全国鉄道路線大全 2025-2026 (in Japanese). Ikaros Publications. ISBN 978-4-8022-1637-1.\n\n\n== External links ==\nOfficial website (in Japanese)",
+    "字数": 3064
+   }
+  }
+ }
+}

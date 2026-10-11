@@ -10,9 +10,11 @@
   },
   "标识": {
    "图标文件": [
+    "29_kanto_mi/asakusa-line__toky6300.png",
     "29_kanto_mi/asakusa-line__toky6500.png"
    ],
    "图标token": [
+    "toky6300",
     "toky6500"
    ],
    "网站键": {

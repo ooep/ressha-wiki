@@ -1,0 +1,60 @@
+{
+ "车辆": {
+  "名称": {
+   "日文": "阪神3000系電車",
+   "中文": "阪神3000系電聯車 (2代)",
+   "英文": "Hanshin 3000 series",
+   "运营者": [
+    "阪神"
+   ]
+  },
+  "标识": {
+   "图标文件": [
+    "22_hanshin/hanshin-7001__hnsn3000.png"
+   ],
+   "图标token": [
+    "hnsn3000"
+   ],
+   "网站键": {
+    "特急": [
+     "阪神特急"
+    ],
+    "线路": []
+   }
+  },
+  "百科": {
+   "日文": {
+    "词条标题": "阪神3000系電車",
+    "链接": "https://ja.wikipedia.org/wiki/%E9%98%AA%E7%A5%9E3000%E7%B3%BB%E9%9B%BB%E8%BB%8A",
+    "首段": "阪神3000系電車（はんしん3000けいでんしゃ）は阪神電気鉄道の優等列車用の電車。年代によって以下の2種類が存在する。",
+    "章节": {},
+    "全文": "阪神3000系電車（はんしん3000けいでんしゃ）は阪神電気鉄道の優等列車用の電車。年代によって以下の2種類が存在する。\n\n阪神3000系電車 (初代) - 1983年に改造によって登場した車両。2003年まで在籍。\n阪神3000系電車 (2代) - 2027年春以降に導入予定の車両。",
+    "字数": 143
+   },
+   "中文": {
+    "词条标题": "阪神3000系電聯車 (2代)",
+    "链接": "https://zh.wikipedia.org/wiki/%E9%98%AA%E7%A5%9E3000%E7%B3%BB%E9%9B%BB%E8%81%AF%E8%BB%8A%20%282%E4%BB%A3%29",
+    "首段": "阪神3000系電聯車（日語：阪神3000系電車／はんしん3000けいでんしゃ，羅馬化：Hanshin 3000-kei densha）是阪神電氣鐵道預計在2027年春季開始投入使用的急行型電聯車，並且將同步開始提供指定座席的預約服務。而3000系也是阪神電氣鐵道自2015年導入阪神5700系電聯車以來，時隔12年再度導入的新型車輛。",
+    "章节": {
+     "規格與構造": "3000系的塗裝採用代表著過往深受旅客喜愛的急行用車輛赤胴車意象的「Re Vermilion色」（紅色系），且阪神電氣鐵道也規劃將當前擁有的急行用車輛陸續漆上與3000系相同的塗裝。車頭正面與側面採用象徵著列車設計理念的X圖樣，並將車頭打造成朝著上下左右擴展的造型，以營造出列車行駛時的速度感。機電設備方面，3000系透過配備磁阻馬達降低列車行駛時的電力消耗量，與阪神8000系電聯車相比可節省約60%的耗電量。而本型車也是阪神電氣鐵道首款使用電動式車門開關裝置及變頻空調的鐵路車輛，除提升乘客搭乘時的舒適度外也能達到節能的目的。此外3000系的基本編組形式為6輛，並且預定在其中一節車廂內導入阪神電氣鐵道首度向乘客提供的指定座席預約服務，以因應乘客對於座位的需求。",
+     "運用": "阪神電氣鐵道預計在2027年春季先行將1列3000電聯車投入使用，並逐步導入其餘的編組，以替換現有的8000系電聯車。",
+     "參考文獻": ""
+    },
+    "全文": "阪神3000系電聯車（日語：阪神3000系電車／はんしん3000けいでんしゃ，羅馬化：Hanshin 3000-kei densha）是阪神電氣鐵道預計在2027年春季開始投入使用的急行型電聯車，並且將同步開始提供指定座席的預約服務。而3000系也是阪神電氣鐵道自2015年導入阪神5700系電聯車以來，時隔12年再度導入的新型車輛。\n\n\n== 規格與構造 ==\n3000系的塗裝採用代表著過往深受旅客喜愛的急行用車輛赤胴車意象的「Re Vermilion色」（紅色系），且阪神電氣鐵道也規劃將當前擁有的急行用車輛陸續漆上與3000系相同的塗裝。車頭正面與側面採用象徵著列車設計理念的X圖樣，並將車頭打造成朝著上下左右擴展的造型，以營造出列車行駛時的速度感。機電設備方面，3000系透過配備磁阻馬達降低列車行駛時的電力消耗量，與阪神8000系電聯車相比可節省約60%的耗電量。而本型車也是阪神電氣鐵道首款使用電動式車門開關裝置及變頻空調的鐵路車輛，除提升乘客搭乘時的舒適度外也能達到節能的目的。此外3000系的基本編組形式為6輛，並且預定在其中一節車廂內導入阪神電氣鐵道首度向乘客提供的指定座席預約服務，以因應乘客對於座位的需求。\n\n\n== 運用 ==\n阪神電氣鐵道預計在2027年春季先行將1列3000電聯車投入使用，並逐步導入其餘的編組，以替換現有的8000系電聯車。\n\n\n== 參考文獻 ==",
+    "字数": 599
+   },
+   "英文": {
+    "词条标题": "Hanshin 3000 series",
+    "链接": "https://en.wikipedia.org/wiki/Hanshin%203000%20series",
+    "首段": "The Hanshin 3000 series (Japanese: 阪神3000系, romanized: Hanshin 3000-kei) is an electric multiple unit (EMU) train type on order by the private railway operator Hanshin Electric Railway for use on express services in Japan.",
+    "章节": {
+     "Design": "The 3000 series will carry a \"Re Vermilion\" colour scheme inspired by the vermilion livery carried by previous Hanshin express trains.\nThe trains will use a SynTRACS variable-frequency traction control system incorporating synchronous reluctance motors, offering approximately 60% energy savings over the earlier 8000 series.",
+     "Operations": "The 3000 series is planned to enter revenue service in 2027 to gradually replace the ageing 8000 series fleet. The train type will also allow for a joint introduction of reserved-seat services in one car. On 17 July 2026, Hanshin announced that the seat reservation service would be named Rakuyan Seat (らくやんシート).",
+     "References": ""
+    },
+    "全文": "The Hanshin 3000 series (Japanese: 阪神3000系, romanized: Hanshin 3000-kei) is an electric multiple unit (EMU) train type on order by the private railway operator Hanshin Electric Railway for use on express services in Japan.\n\n\n== Design ==\nThe 3000 series will carry a \"Re Vermilion\" colour scheme inspired by the vermilion livery carried by previous Hanshin express trains.\nThe trains will use a SynTRACS variable-frequency traction control system incorporating synchronous reluctance motors, offering approximately 60% energy savings over the earlier 8000 series.\n\n\n== Operations ==\nThe 3000 series is planned to enter revenue service in 2027 to gradually replace the ageing 8000 series fleet. The train type will also allow for a joint introduction of reserved-seat services in one car. On 17 July 2026, Hanshin announced that the seat reservation service would be named Rakuyan Seat (らくやんシート). \n\n\n== References ==",
+    "字数": 915
+   }
+  }
+ }
+}

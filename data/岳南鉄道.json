@@ -1,0 +1,62 @@
+{
+ "车辆": {
+  "名称": {
+   "日文": "岳南鉄道",
+   "中文": null,
+   "英文": "Gakunan Railway Line",
+   "运营者": [
+    "東海私鉄"
+   ]
+  },
+  "标识": {
+   "图标文件": [
+    "31_tokai_mi/gakunan-rail__gkna8001o.png"
+   ],
+   "图标token": [
+    "gkna8001o"
+   ],
+   "网站键": {
+    "特急": [],
+    "线路": [
+     "岳南鉄道",
+     "岳南鉄道線",
+     "岳南電車"
+    ]
+   }
+  },
+  "百科": {
+   "日文": {
+    "词条标题": "岳南鉄道",
+    "链接": "https://ja.wikipedia.org/wiki/%E5%B2%B3%E5%8D%97%E9%89%84%E9%81%93",
+    "首段": "岳南鉄道株式会社（がくなんてつどう、英: Gakunan Railway Company Ltd.）は、静岡県富士市今泉1丁目17番39号に本社を置く企業である。現在は不動産事業および物品販売事業を行っている。富士急行の持分法適用会社であり富士急グループに属する。",
+    "章节": {
+     "概要": "静岡県富士市を中心とした、静岡県東部地域を主な事業エリアとしており、現在の主力事業は不動産業である。ただし、子会社を含めた岳南鉄道グループで見た場合の主力部門は表富士観光の運営するゴルフ場事業となっており、売上高基準で見た場合には当社の3倍強を誇っている（#連結子会社にて詳述）。\n「鉄道」と名があるとおり、かつては陸運業として鉄道事業（岳南鉄道線）およびバス事業（乗合・貸切）も行っていたが、バス事業については1998年（平成10年）4月に富士急グループの富士急静岡バスに移管し、鉄道事業についても貨物輸送の廃止に伴い収益が悪くなったことを受け2013年（平成25年）4月に新たに設立した子会社の岳南電車に移管した。",
+     "沿革": "1948年（昭和23年）12月15日 : 路線免許を同年2月に取得した駿豆鉄道（現：伊豆箱根鉄道）が資本金の約半分を出資して岳南鉄道を設立。\n1949年（昭和24年）\n5月20日：路線免許を駿豆鉄道から譲受。\n11月18日 : 岳南鉄道線の鈴川駅（現：吉原駅） - 吉原本町駅間が開業、鉄道事業を開始。\n1952年（昭和27年）11月25日 : 日産前駅（現：ジヤトコ前駅） - 身延線入山瀬駅までの路線の免許を取得するが着工せず、1972年（昭和47年）10月31日に免許失効（岳南電車岳南鉄道線#西部線計画を参照）。\n1954年（昭和29年）8月1日 : 大富士ゴルフ場および大富士こども遊園が開業。\n1955年（昭和30年）9月 : 表富士観光株式会社設立。\n1956年（昭和31年）9月 : 駿豆鉄道系列から富士山麓電気鉄道（現：富士急行）系列に移る。\n1959年（昭和34年）12月 : 一般区域貨物自動車運送事業限定免許が認可され、翌年3月に営業開始、1961年（昭和36年）9月には一般免許に移行するも1997年（平成9年）3月に廃止。\n1960年（昭和35年） : 大富士こども遊園が閉鎖される一方で大富士ゴルフ場が18ホール開場。\n1966年（昭和41年）4月 : 一般乗合旅客自動車運送事業免許が認可され同年7月に営業開始。\n1972年（昭和47年）10月 : 宅地建物取引業者免許が認可。\n1978年（昭和53年）3月 : 一般貸切旅客自動車運送事業免許が認可され、同年7月に営業開始。\n1983年（昭和58年）9月 :国内旅行業が認可され、同年10月に営業を開始するも2002年（平成14年）3月に廃止。\n1998年（平成10年）4月 : バス事業を富士急静岡バスに譲渡。\n2012年（平成24年）3月17日 : 鉄道貨物事業廃止。\n2013年（平成25年）4月1日 : 鉄道事業を、子会社の岳南電車株式会社に移管。",
+     "不動産事業": "2016年現在の主力事業である。\n不動産事業部門では土地物件の賃貸営業を行っており、岳南鉄道グループ全体における安定した収入源となっている。\nまた、営業利益率がきわめて高いことも特徴であり、例えば2010年度の営業収益は5,654万8,000円であるのに対して営業利益は4,898万4,000円と営業利益率は86%超を記録している。",
+     "物品販売事業": "物品販売事業部門では、様々な物品の販売を行っている。有価証券報告書などにおいては、「その他事業」に分類されていることもある。\nかつては吉原本町駅の隣接地に岳鉄百貨店を出店する計画が存在した。\n建物の規模は地下1階地上8階建てで売場面積は16,000 m2。静岡市にある百貨店田中屋と提携して開業する予定であった。しかし地元商店街や地権者の反対による一部の用地が取得できないことから出店を断念し、既に取得した建設用地は東京電力に売却された。",
+     "連結子会社": "ゴルフ場事業\n\n表富士観光株式会社\n1955年（昭和30年）に創立。静岡県内では3番目のゴルフ場として1954年（昭和29年）に開設された、静岡県富士市今宮にある大富士ゴルフ場を経営している。なお、同社は岳南鉄道グループの中で最も多くの営業収益（売上高）を上げており、2015年3月期（2014年度）での表富士観光の売上高は3億1,086万2,000円と、岳南鉄道グループの連結売上高の57%弱を占めるとともに、岳南鉄道グループで2番目に売り上げの多い岳南電車の同年度売上高1億5,754万9,000円に対し約2倍の売り上げを上げている。ただし近年では、プレー客が減少傾向にあることもあってか営業利益段階で損失を計上することがある。\n鉄道事業\n\n岳南電車株式会社",
+     "脚注・出典": "",
+     "関連項目": "富士急行\n富士急静岡バス\n岳南電車\n岳南電車岳南鉄道線",
+     "外部リンク": "岳南鉄道株式会社\n大富士ゴルフ場 - 表富士観光株式会社"
+    },
+    "全文": "岳南鉄道株式会社（がくなんてつどう、英: Gakunan Railway Company Ltd.）は、静岡県富士市今泉1丁目17番39号に本社を置く企業である。現在は不動産事業および物品販売事業を行っている。富士急行の持分法適用会社であり富士急グループに属する。\n\n\n== 概要 ==\n静岡県富士市を中心とした、静岡県東部地域を主な事業エリアとしており、現在の主力事業は不動産業である。ただし、子会社を含めた岳南鉄道グループで見た場合の主力部門は表富士観光の運営するゴルフ場事業となっており、売上高基準で見た場合には当社の3倍強を誇っている（#連結子会社にて詳述）。\n「鉄道」と名があるとおり、かつては陸運業として鉄道事業（岳南鉄道線）およびバス事業（乗合・貸切）も行っていたが、バス事業については1998年（平成10年）4月に富士急グループの富士急静岡バスに移管し、鉄道事業についても貨物輸送の廃止に伴い収益が悪くなったことを受け2013年（平成25年）4月に新たに設立した子会社の岳南電車に移管した。\n\n\n== 沿革 ==\n\n1948年（昭和23年）12月15日 : 路線免許を同年2月に取得した駿豆鉄道（現：伊豆箱根鉄道）が資本金の約半分を出資して岳南鉄道を設立。\n1949年（昭和24年）\n5月20日：路線免許を駿豆鉄道から譲受。\n11月18日 : 岳南鉄道線の鈴川駅（現：吉原駅） - 吉原本町駅間が開業、鉄道事業を開始。\n1952年（昭和27年）11月25日 : 日産前駅（現：ジヤトコ前駅） - 身延線入山瀬駅までの路線の免許を取得するが着工せず、1972年（昭和47年）10月31日に免許失効（岳南電車岳南鉄道線#西部線計画を参照）。\n1954年（昭和29年）8月1日 : 大富士ゴルフ場および大富士こども遊園が開業。\n1955年（昭和30年）9月 : 表富士観光株式会社設立。\n1956年（昭和31年）9月 : 駿豆鉄道系列から富士山麓電気鉄道（現：富士急行）系列に移る。\n1959年（昭和34年）12月 : 一般区域貨物自動車運送事業限定免許が認可され、翌年3月に営業開始、1961年（昭和36年）9月には一般免許に移行するも1997年（平成9年）3月に廃止。\n1960年（昭和35年） : 大富士こども遊園が閉鎖される一方で大富士ゴルフ場が18ホール開場。\n1966年（昭和41年）4月 : 一般乗合旅客自動車運送事業免許が認可され同年7月に営業開始。\n1972年（昭和47年）10月 : 宅地建物取引業者免許が認可。\n1978年（昭和53年）3月 : 一般貸切旅客自動車運送事業免許が認可され、同年7月に営業開始。\n1983年（昭和58年）9月 :国内旅行業が認可され、同年10月に営業を開始するも2002年（平成14年）3月に廃止。\n1998年（平成10年）4月 : バス事業を富士急静岡バスに譲渡。\n2012年（平成24年）3月17日 : 鉄道貨物事業廃止。\n2013年（平成25年）4月1日 : 鉄道事業を、子会社の岳南電車株式会社に移管。\n\n\n== 不動産事業 ==\n\n2016年現在の主力事業である。\n不動産事業部門では土地物件の賃貸営業を行っており、岳南鉄道グループ全体における安定した収入源となっている。\nまた、営業利益率がきわめて高いことも特徴であり、例えば2010年度の営業収益は5,654万8,000円であるのに対して営業利益は4,898万4,000円と営業利益率は86%超を記録している。\n\n\n== 物品販売事業 ==\n\n物品販売事業部門では、様々な物品の販売を行っている。有価証券報告書などにおいては、「その他事業」に分類されていることもある。\nかつては吉原本町駅の隣接地に岳鉄百貨店を出店する計画が存在した。\n建物の規模は地下1階地上8階建てで売場面積は16,000 m2。静岡市にある百貨店田中屋と提携して開業する予定であった。しかし地元商店街や地権者の反対による一部の用地が取得できないことから出店を断念し、既に取得した建設用地は東京電力に売却された。\n\n\n== 連結子会社 ==\n\nゴルフ場事業\n\n表富士観光株式会社\n1955年（昭和30年）に創立。静岡県内では3番目のゴルフ場として1954年（昭和29年）に開設された、静岡県富士市今宮にある大富士ゴルフ場を経営している。なお、同社は岳南鉄道グループの中で最も多くの営業収益（売上高）を上げており、2015年3月期（2014年度）での表富士観光の売上高は3億1,086万2,000円と、岳南鉄道グループの連結売上高の57%弱を占めるとともに、岳南鉄道グループで2番目に売り上げの多い岳南電車の同年度売上高1億5,754万9,000円に対し約2倍の売り上げを上げている。ただし近年では、プレー客が減少傾向にあることもあってか営業利益段階で損失を計上することがある。\n鉄道事業\n\n岳南電車株式会社\n\n\n== 脚注・出典 ==\n\n\n== 関連項目 ==\n富士急行\n富士急静岡バス\n岳南電車\n岳南電車岳南鉄道線\n\n\n== 外部リンク ==\n岳南鉄道株式会社\n大富士ゴルフ場 - 表富士観光株式会社",
+    "字数": 2149
+   },
+   "中文": null,
+   "英文": {
+    "词条标题": "Gakunan Railway Line",
+    "链接": "https://en.wikipedia.org/wiki/Gakunan%20Railway%20Line",
+    "首段": "The Gakunan Railway Line (岳南電車岳南線, Gakunan Densha Gakunan-sen) is a Japanese railway line that runs between Yoshiwara and Gakunan-Enoo Station, all within the industrial area of Fuji, Shizuoka Prefecture. The line has no official name, and is the only line operated by Gakunan Electric Train Co., Ltd. (岳南電車株式会社, Gakunan Densha Kabushiki-gaisha). The company was established on April 1, 2013 as a subsidiary of the former operator Gakunan Railway (岳南鉄道, Gakunan Tetsudō), itself a subsidiary of Fuji Kyuko.",
+    "章节": {
+     "Stations": "",
+     "History": "The Gakunan Railway began operations as an industrial railway named the Nissan Heavy Industrial Railroad (日産重工業専用鉄道, Nissan Jūkōgyō Senyō Tetsudō) on August 5, 1936 as part of a project to create an industrial center in Fuji city. The terminal station of the line was established at Yoshiwara Station on the Tokaido Main Line, and initial plans called for the line to be extended as far as Numazu Station. These plans were delayed by World War II and were eventually cancelled with the end of the war and breakup of the Nissan zaibatsu. The line gained its present name on December 15, 1948, after which regularly scheduled passenger service began. The electric supply for the line was upgraded from 600 Volts to the present 1,500 volts in 1969. In 1984, scheduled freight services past Sudo were discontinued.\nAll freight services were discontinued on March 16, 2012.",
+     "Rolling stock": "5000 series(Formerly Tokyu 5000 Series)\n7000 series\n8000 series\n9000 series",
+     "References": "",
+     "External links": "Official website (in Japanese)"
+    },
+    "全文": "The Gakunan Railway Line (岳南電車岳南線, Gakunan Densha Gakunan-sen) is a Japanese railway line that runs between Yoshiwara and Gakunan-Enoo Station, all within the industrial area of Fuji, Shizuoka Prefecture. The line has no official name, and is the only line operated by Gakunan Electric Train Co., Ltd. (岳南電車株式会社, Gakunan Densha Kabushiki-gaisha). The company was established on April 1, 2013 as a subsidiary of the former operator Gakunan Railway (岳南鉄道, Gakunan Tetsudō), itself a subsidiary of Fuji Kyuko.\n\n\n== Stations ==\n\n\n== History ==\nThe Gakunan Railway began operations as an industrial railway named the Nissan Heavy Industrial Railroad (日産重工業専用鉄道, Nissan Jūkōgyō Senyō Tetsudō) on August 5, 1936 as part of a project to create an industrial center in Fuji city. The terminal station of the line was established at Yoshiwara Station on the Tokaido Main Line, and initial plans called for the line to be extended as far as Numazu Station. These plans were delayed by World War II and were eventually cancelled with the end of the war and breakup of the Nissan zaibatsu. The line gained its present name on December 15, 1948, after which regularly scheduled passenger service began. The electric supply for the line was upgraded from 600 Volts to the present 1,500 volts in 1969. In 1984, scheduled freight services past Sudo were discontinued.\nAll freight services were discontinued on March 16, 2012.\n\n\n== Rolling stock ==\n5000 series(Formerly Tokyu 5000 Series)\n7000 series\n8000 series\n9000 series\n\n\n== References ==\n\n\n== External links ==\n\nOfficial website (in Japanese)",
+    "字数": 1580
+   }
+  }
+ }
+}

@@ -10,10 +10,12 @@
   },
   "标识": {
    "图标文件": [
-    "31_tokai_mi/akechi-rail__akch1.png"
+    "31_tokai_mi/akechi-rail__akch1.png",
+    "31_tokai_mi/akechi-rail__akch10.png"
    ],
    "图标token": [
-    "akch1"
+    "akch1",
+    "akch10"
    ],
    "网站键": {
     "特急": [],

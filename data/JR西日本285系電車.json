@@ -10,10 +10,12 @@
   },
   "标识": {
    "图标文件": [
+    "04_west/sunrise-exp-mizukaze__w285-1.png",
     "04_west/sunrise-exp-mizukaze__w285.png"
    ],
    "图标token": [
-    "w285"
+    "w285",
+    "w285-1"
    ],
    "网站键": {
     "特急": [

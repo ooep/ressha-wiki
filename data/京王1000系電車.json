@@ -10,10 +10,12 @@
   },
   "标识": {
    "图标文件": [
-    "11_keio/keio-1000__keio1001vi1.png"
+    "11_keio/keio-1000__keio1001vi1.png",
+    "11_keio/keio-1000__keio1001vil.png"
    ],
    "图标token": [
-    "keio1001vi1"
+    "keio1001vi1",
+    "keio1001vil"
    ],
    "网站键": {
     "特急": [],

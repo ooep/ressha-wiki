@@ -10,10 +10,12 @@
   },
   "标识": {
    "图标文件": [
-    "17_meitetsu/meitetsu-rail__mei5000.png"
+    "17_meitetsu/meitetsu-rail__mei5000.png",
+    "17_meitetsu/meitetsu-rail__mei5000o1.png"
    ],
    "图标token": [
-    "mei5000"
+    "mei5000",
+    "mei5000o1"
    ],
    "网站键": {
     "特急": [],

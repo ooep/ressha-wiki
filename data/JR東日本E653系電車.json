@@ -10,10 +10,24 @@
   },
   "标识": {
    "图标文件": [
-    "02_east/inaho__e653ihp.png"
+    "02_east/inaho-shirayuki__e653ni.png",
+    "02_east/inaho-shirayuki__e653nu.png",
+    "02_east/inaho-shirayuki__e653nu1.png",
+    "02_east/inaho-shirayuki__e653nu2.png",
+    "02_east/inaho__e653ihb.png",
+    "02_east/inaho__e653ihp.png",
+    "02_east/inaho__e653jb.png",
+    "02_east/inaho__e653or1.png"
    ],
    "图标token": [
-    "e653ihp"
+    "e653ihb",
+    "e653ihp",
+    "e653jb",
+    "e653ni",
+    "e653nu",
+    "e653nu1",
+    "e653nu2",
+    "e653or1"
    ],
    "网站键": {
     "特急": [

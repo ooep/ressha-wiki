@@ -11,13 +11,19 @@
   },
   "标识": {
    "图标文件": [
+    "03_tokai/hida-mie-hc85-35__c35.png",
     "03_tokai/hida-mie-hc85-35__c85h.png",
     "03_tokai/hida-nanki__c85.png",
+    "03_tokai/hida-nanki__c85na.png",
+    "03_tokai/hida-nanki__c85s.png",
     "32_kansai_mi/tango-rail-8500__ktr8500.png"
    ],
    "图标token": [
+    "c35",
     "c85",
     "c85h",
+    "c85na",
+    "c85s",
     "ktr8500"
    ],
    "网站键": {

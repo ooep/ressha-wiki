@@ -10,10 +10,12 @@
   },
   "标识": {
    "图标文件": [
-    "04_west/kitakinki-area__w183ha.png"
+    "04_west/kitakinki-area__w183ha.png",
+    "04_west/kitakinki-area__w183kha1.png"
    ],
    "图标token": [
-    "w183ha"
+    "w183ha",
+    "w183kha1"
    ],
    "网站键": {
     "特急": [],

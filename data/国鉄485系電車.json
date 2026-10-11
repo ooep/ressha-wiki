@@ -5,19 +5,73 @@
    "中文": "日本國鐵485系電力動車組",
    "英文": "485 series",
    "运营者": [
-    "JR九州"
+    "JR九州",
+    "JR東日本",
+    "JR西日本"
    ]
   },
   "标识": {
    "图标文件": [
-    "06_kyushu/kirishima-hyuga__k485j.png"
+    "02_east/boso-area__e485jnano.png",
+    "02_east/inaho-express__e485ih.png",
+    "02_east/inaho-express__e485ihk.png",
+    "02_east/inaho-express__e485mi-b.png",
+    "02_east/inaho-express__e485mi-b2.png",
+    "02_east/inaho-express__e485mi.png",
+    "02_east/inaho-express__e485mi2.png",
+    "02_east/inaho-express__e485ra.png",
+    "02_east/tsugaru__e485ha.png",
+    "02_east/tsugaru__e485ka.png",
+    "04_west/kuroshio-kagayaki__w485kg.png",
+    "04_west/kuroshio-kagayaki__w485kkg.png",
+    "04_west/shirasagi__w485bl.png",
+    "04_west/shirasagi__w485bl2.png",
+    "04_west/shirasagi__w485bl3.png",
+    "04_west/shirasagi__w485bl4-1.png",
+    "04_west/shirasagi__w485bl4.png",
+    "04_west/shirasagi__w485kbl.png",
+    "04_west/shirasagi__w485p.png",
+    "04_west/shirasagi__w485si.png",
+    "06_kyushu/kirishima-hyuga__k485j.png",
+    "06_kyushu/kirishima-hyuga__k485kh.png",
+    "06_kyushu/kirishima-hyuga__k485ki.png"
    ],
    "图标token": [
-    "k485j"
+    "e485ha",
+    "e485ih",
+    "e485ihk",
+    "e485jnano",
+    "e485ka",
+    "e485mi",
+    "e485mi-b",
+    "e485mi-b2",
+    "e485mi2",
+    "e485ra",
+    "k485j",
+    "k485kh",
+    "k485ki",
+    "w485bl",
+    "w485bl2",
+    "w485bl3",
+    "w485bl4",
+    "w485bl4-1",
+    "w485kbl",
+    "w485kg",
+    "w485kkg",
+    "w485p",
+    "w485si"
    ],
    "网站键": {
     "特急": [
-     "きりしま"
+     "いなほ",
+     "きりしま",
+     "くろしお",
+     "さざなみ",
+     "しおさい",
+     "しらさぎ",
+     "しらゆき",
+     "つがる",
+     "わかしお"
     ],
     "线路": []
    }

@@ -1,0 +1,96 @@
+{
+ "车辆": {
+  "名称": {
+   "日文": "阪神",
+   "中文": "阪神",
+   "英文": "Hanshin",
+   "运营者": [
+    "阪神"
+   ]
+  },
+  "标识": {
+   "图标文件": [
+    "22_hanshin/hanshin-rail__hnsn1002.png",
+    "22_hanshin/hanshin-rail__hnsn1003.png",
+    "22_hanshin/hanshin-rail__hnsn3001.png",
+    "22_hanshin/hanshin-rail__hnsn5002.png",
+    "22_hanshin/hanshin-rail__hnsn5502.png",
+    "22_hanshin/hanshin-rail__hnsn5552.png",
+    "22_hanshin/hanshin-rail__hnsn5701.png",
+    "22_hanshin/hanshin-rail__hnsn7700.png",
+    "22_hanshin/hanshin-rail__hnsn8002n.png",
+    "22_hanshin/hanshin-rail__hnsn8003n.png",
+    "22_hanshin/hanshin-rail__hnsn8004.png",
+    "22_hanshin/hanshin-rail__hnsn9003.png",
+    "22_hanshin/hanshin-rail__hnsn9004.png",
+    "22_hanshin/hanshin-rail__hnsn9007.png",
+    "22_hanshin/hanshin-rail__hnsn9007k.png",
+    "22_hanshin/hanshin-rail__hnsn9301.png"
+   ],
+   "图标token": [
+    "hnsn1002",
+    "hnsn1003",
+    "hnsn3001",
+    "hnsn5002",
+    "hnsn5502",
+    "hnsn5552",
+    "hnsn5701",
+    "hnsn7700",
+    "hnsn8002n",
+    "hnsn8003n",
+    "hnsn8004",
+    "hnsn9003",
+    "hnsn9004",
+    "hnsn9007",
+    "hnsn9007k",
+    "hnsn9301"
+   ],
+   "网站键": {
+    "特急": [
+     "阪神特急"
+    ],
+    "线路": []
+   }
+  },
+  "百科": {
+   "日文": {
+    "词条标题": "阪神",
+    "链接": "https://ja.wikipedia.org/wiki/%E9%98%AA%E7%A5%9E",
+    "首段": "阪神（はんしん）",
+    "章节": {
+     "地域名": "大阪市から神戸市にかけての地域名（阪神都市圏）。両市に挟まれた地域は阪神間（はんしんかん）とも呼ばれる。\n\n阪神（間）は使用される場面や前後の文脈などによって、大阪市・神戸市を含む場合と含まない場合がある。両市を含む場合でも、大阪市域では西淀川区、神戸市域では東灘区・灘区など、両市の中心部に至るまでの沿岸部の区を指す傾向がより強い。両市を含まない場合は、兵庫県尼崎市、西宮市、芦屋市、伊丹市、川西市、宝塚市、三田市、川辺郡猪名川町の7市1町が該当し、兵庫県の定義では下記の2つの地域に区分される。沿岸部の阪神南地域（特に後述の阪神電気鉄道沿線）を指す傾向がより強い。\n\n阪神北地域 - 伊丹市、川西市、宝塚市、三田市、猪名川町\n阪神南地域 - 尼崎市、西宮市、芦屋市",
+     "阪神電気鉄道": "阪神電気鉄道（阪神電車） - 阪神と略される、大阪と神戸を結ぶ私鉄。下記の同社のグループ企業も阪神と略される。\n阪神バス\n阪神線\n阪神タクシー\n阪神タイガース\n阪神ファン\n阪急阪神東宝グループの各社\n阪神百貨店（エイチ・ツー・オー リテイリング傘下の「阪急阪神百貨店」が運営）\n阪急阪神ホテルズ（ホテル阪神の運営会社）\n阪急阪神不動産\n阪神園芸",
+     "その他": "",
+     "災害": "阪神大水害\n阪神・淡路大震災",
+     "道路": "阪神高速道路\n国道2号 - 通称 阪神国道\n国道43号 - 通称 第二阪神国道",
+     "その他の用法": "阪神工業地帯\n日本中央競馬会（JRA）の阪神競馬場\n阪神カップ - 阪神競馬場で開催される中央競馬の重賞競走。\n漫才師のオール阪神\n阪神家政高等専修学校\n旧阪神（相互）銀行（現：みなと銀行）\n声優・渡部優衣の愛称のひとつ。阪神ファンであることに由来する。",
+     "脚注": "",
+     "関連項目": "「阪神」で始まるページの一覧\nタイトルに「阪神」を含むページの一覧\nはんしん (曖昧さ回避)\n摂津国\n京阪神\n京阪\n神 (曖昧さ回避)"
+    },
+    "全文": "阪神（はんしん）\n\n\n== 地域名 ==\n大阪市から神戸市にかけての地域名（阪神都市圏）。両市に挟まれた地域は阪神間（はんしんかん）とも呼ばれる。\n\n阪神（間）は使用される場面や前後の文脈などによって、大阪市・神戸市を含む場合と含まない場合がある。両市を含む場合でも、大阪市域では西淀川区、神戸市域では東灘区・灘区など、両市の中心部に至るまでの沿岸部の区を指す傾向がより強い。両市を含まない場合は、兵庫県尼崎市、西宮市、芦屋市、伊丹市、川西市、宝塚市、三田市、川辺郡猪名川町の7市1町が該当し、兵庫県の定義では下記の2つの地域に区分される。沿岸部の阪神南地域（特に後述の阪神電気鉄道沿線）を指す傾向がより強い。\n\n阪神北地域 - 伊丹市、川西市、宝塚市、三田市、猪名川町\n阪神南地域 - 尼崎市、西宮市、芦屋市\n\n\n== 阪神電気鉄道 ==\n阪神電気鉄道（阪神電車） - 阪神と略される、大阪と神戸を結ぶ私鉄。下記の同社のグループ企業も阪神と略される。\n阪神バス\n阪神線\n阪神タクシー\n阪神タイガース\n阪神ファン\n阪急阪神東宝グループの各社\n阪神百貨店（エイチ・ツー・オー リテイリング傘下の「阪急阪神百貨店」が運営）\n阪急阪神ホテルズ（ホテル阪神の運営会社）\n阪急阪神不動産\n阪神園芸\n\n\n== その他 ==\n\n\n=== 災害 ===\n阪神大水害\n阪神・淡路大震災\n\n\n=== 道路 ===\n阪神高速道路\n国道2号 - 通称 阪神国道\n国道43号 - 通称 第二阪神国道\n\n\n=== その他の用法 ===\n阪神工業地帯\n日本中央競馬会（JRA）の阪神競馬場\n阪神カップ - 阪神競馬場で開催される中央競馬の重賞競走。\n漫才師のオール阪神\n阪神家政高等専修学校\n旧阪神（相互）銀行（現：みなと銀行）\n声優・渡部優衣の愛称のひとつ。阪神ファンであることに由来する。\n\n\n== 脚注 ==\n\n\n== 関連項目 ==\n「阪神」で始まるページの一覧\nタイトルに「阪神」を含むページの一覧\nはんしん (曖昧さ回避)\n摂津国\n京阪神\n京阪\n神 (曖昧さ回避)",
+    "字数": 873
+   },
+   "中文": {
+    "词条标题": "阪神",
+    "链接": "https://zh.wikipedia.org/wiki/%E9%98%AA%E7%A5%9E",
+    "首段": "阪神可以指：",
+    "章节": {
+     "相關條目": "阪神開頭的條目一覽"
+    },
+    "全文": "阪神可以指：\n\n阪神都市圏\n阪神集團（今阪急阪神東寶集團）\n阪神電氣鐵道\n阪神百貨店\n阪神甲子園球場\n阪神虎\n阪神巴士\n阪神競馬場\n阪神高速道路\n阪神工业地带\n阪神大地震\n\n\n== 相關條目 ==\n阪神開頭的條目一覽",
+    "字数": 108
+   },
+   "英文": {
+    "词条标题": "Hanshin",
+    "链接": "https://en.wikipedia.org/wiki/Hanshin",
+    "首段": "Hanshin (阪神; Japanese pronunciation: [haꜜɰ̃.ɕiɴ], lit. 'Ōsaka-Kōbe'), derived from the second kanji from Osaka (大阪) and the first kanji from Kobe (神戸) (but in on-reading instead of kun-reading), refers generally to Osaka, Kobe, and the surrounding area in the Kansai region of Japan. \nIn the context of a region of Hyōgo Prefecture, the term is used to refer to the 8 small municipalities (Amagasaki, Ashiya, Inagawa, Itami, Kawanishi, Nishinomiya, Sanda and Takarazuka) located close to the northern coast of Osaka Bay between the two large cities of Kobe and Osaka. In some contexts, the eastern Higashinada and Nada wards of Kobe and Nishiyodagawa Ward of Osaka are also included.\nThe name Hanshin may also refer to:",
+    "章节": {
+     "See also": "Great Hanshin earthquake, 1995 earthquake centered in southern Hyogo\nHanshin Education Incident, 1948 incident in which Korean ethnic schools in Japan were closed down\nKeihanshin, a macro-region including Kyōto (Kei-) and Hanshin\nHanshinkan Modernism, the cultural and arts movement in the region during the early 20th century\nAll pages with titles containing Hanshin",
+     "References": ""
+    },
+    "全文": "Hanshin (阪神; Japanese pronunciation: [haꜜɰ̃.ɕiɴ], lit. 'Ōsaka-Kōbe'), derived from the second kanji from Osaka (大阪) and the first kanji from Kobe (神戸) (but in on-reading instead of kun-reading), refers generally to Osaka, Kobe, and the surrounding area in the Kansai region of Japan. \nIn the context of a region of Hyōgo Prefecture, the term is used to refer to the 8 small municipalities (Amagasaki, Ashiya, Inagawa, Itami, Kawanishi, Nishinomiya, Sanda and Takarazuka) located close to the northern coast of Osaka Bay between the two large cities of Kobe and Osaka. In some contexts, the eastern Higashinada and Nada wards of Kobe and Nishiyodagawa Ward of Osaka are also included.\nThe name Hanshin may also refer to:\n\nHanshin Department Store, a chain of department stores based in Osaka\nHanshin Electric Railway, a railway that links Osaka and Kobe\nHanshin Main Line, a line operated by the railway\nHanshin Expressway, a network of tolled highways surrounding Osaka, Kobe, and Kyoto\nHanshin Industrial Region, the industrial region encompassing Osaka and Kobe metropolitan areas\nHanshin Racecourse, a horse racetrack in Takarazuka, Hyogo\nHanshin Tigers, a professional baseball team in Nishinomiya, Hyogo\nHanshin: Half-God, manga by Moto Hagio\n\n\n== See also ==\nGreat Hanshin earthquake, 1995 earthquake centered in southern Hyogo\nHanshin Education Incident, 1948 incident in which Korean ethnic schools in Japan were closed down\nKeihanshin, a macro-region including Kyōto (Kei-) and Hanshin\nHanshinkan Modernism, the cultural and arts movement in the region during the early 20th century\nAll pages with titles containing Hanshin\n\n\n== References ==",
+    "字数": 1651
+   }
+  }
+ }
+}

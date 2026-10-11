@@ -10,13 +10,17 @@
   },
   "标识": {
    "图标文件": [
-    "19_keihan/ishiyama-line__khan612cb.png"
+    "19_keihan/ishiyama-line__khan612cb.png",
+    "19_keihan/keihan-rail__khan600h1.png"
    ],
    "图标token": [
+    "khan600h1",
     "khan612cb"
    ],
    "网站键": {
-    "特急": [],
+    "特急": [
+     "京阪特急"
+    ],
     "线路": [
      "京阪石山坂本線",
      "石山坂本線"

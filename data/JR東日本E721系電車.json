@@ -11,6 +11,7 @@
   },
   "标识": {
    "图标文件": [
+    "02_east/sendai-area__e721se.png",
     "02_east/sendai-area__e721se1.png",
     "02_east/yamagata-line__e723ya.png",
     "28_tohoku_mi/abukuma-exp__abk900b.png",
@@ -18,6 +19,7 @@
    ],
    "图标token": [
     "abk900b",
+    "e721se",
     "e721se1",
     "e723ya",
     "sat721"

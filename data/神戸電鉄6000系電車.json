@@ -10,9 +10,11 @@
   },
   "标识": {
    "图标文件": [
+    "21_hankyu/kobe-rail__kobed6000.png",
     "21_hankyu/kobe-rail__kobed6001.png"
    ],
    "图标token": [
+    "kobed6000",
     "kobed6001"
    ],
    "网站键": {

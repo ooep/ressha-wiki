@@ -10,13 +10,31 @@
   },
   "标识": {
    "图标文件": [
-    "21_hankyu/emu-8000-8300__hnq8001s.png"
+    "21_hankyu/emu-8000-8300__hnq8000n.png",
+    "21_hankyu/emu-8000-8300__hnq8000nw.png",
+    "21_hankyu/emu-8000-8300__hnq8000w.png",
+    "21_hankyu/emu-8000-8300__hnq8001.png",
+    "21_hankyu/emu-8000-8300__hnq8001n.png",
+    "21_hankyu/emu-8000-8300__hnq8001nw.png",
+    "21_hankyu/emu-8000-8300__hnq8001s.png",
+    "21_hankyu/emu-8000-8300__hnq8001w.png",
+    "21_hankyu/emu-8000-8300__hnq8301w.png"
    ],
    "图标token": [
-    "hnq8001s"
+    "hnq8000n",
+    "hnq8000nw",
+    "hnq8000w",
+    "hnq8001",
+    "hnq8001n",
+    "hnq8001nw",
+    "hnq8001s",
+    "hnq8001w",
+    "hnq8301w"
    ],
    "网站键": {
-    "特急": [],
+    "特急": [
+     "阪急特急"
+    ],
     "线路": [
      "阪急嵐山線"
     ]

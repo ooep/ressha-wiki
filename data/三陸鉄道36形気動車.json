@@ -10,10 +10,12 @@
   },
   "标识": {
    "图标文件": [
-    "28_tohoku_mi/sanriku-rail__snrk36fk.png"
+    "28_tohoku_mi/sanriku-rail__snrk36fk.png",
+    "28_tohoku_mi/sanriku-rail__snrk36kk.png"
    ],
    "图标token": [
-    "snrk36fk"
+    "snrk36fk",
+    "snrk36kk"
    ],
    "网站键": {
     "特急": [],

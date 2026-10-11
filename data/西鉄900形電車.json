@@ -10,10 +10,12 @@
   },
   "标识": {
    "图标文件": [
-    "24_nishitetsu/nishitetsu-900__nisi900jg.png"
+    "24_nishitetsu/nishitetsu-900__nisi900jg.png",
+    "24_nishitetsu/nishitetsu-900__nisi901jg.png"
    ],
    "图标token": [
-    "nisi900jg"
+    "nisi900jg",
+    "nisi901jg"
    ],
    "网站键": {
     "特急": [],

@@ -10,9 +10,11 @@
   },
   "标识": {
    "图标文件": [
+    "04_west/kuroshio-287__w287krm.png",
     "04_west/kuroshio-287__w287skr.png"
    ],
    "图标token": [
+    "w287krm",
     "w287skr"
    ],
    "网站键": {

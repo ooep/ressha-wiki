@@ -5,25 +5,49 @@
    "中文": "日本國鐵KiHa 185系柴聯車",
    "英文": "KiHa 185 series",
    "运营者": [
+    "JR九州",
     "JR四国"
    ]
   },
   "标识": {
    "图标文件": [
     "05_shikoku/bakumatsu-ishin__s185to3.png",
+    "05_shikoku/shimanto-ai__s185ai.png",
     "05_shikoku/shimanto-ai__s185sm.png",
-    "05_shikoku/tsurugisan-muroto__s185.png"
+    "05_shikoku/tsurugisan-muroto__s185.png",
+    "05_shikoku/tsurugisan-muroto__s185cm.png",
+    "05_shikoku/tsurugisan-muroto__s185tu.png",
+    "06_kyushu/ibuatma-atrain-umisachi__k185at.png",
+    "06_kyushu/yufuin-trans-kyushu__k185.png",
+    "06_kyushu/yufuin-trans-kyushu__k185n.png",
+    "06_kyushu/yufuin-trans-kyushu__k185q.png",
+    "06_kyushu/yufuin-trans-kyushu__k185q2.png",
+    "06_kyushu/yufuin-trans-kyushu__k185q3.png",
+    "06_kyushu/yufuin-trans-kyushu__k185yfu.png"
    ],
    "图标token": [
+    "k185",
+    "k185at",
+    "k185n",
+    "k185q",
+    "k185q2",
+    "k185q3",
+    "k185yfu",
     "s185",
+    "s185ai",
+    "s185cm",
     "s185sm",
-    "s185to3"
+    "s185to3",
+    "s185tu"
    ],
    "网站键": {
     "特急": [
      "あしずり",
      "しまんと",
-     "剣山"
+     "ゆふ",
+     "九州横断特急",
+     "剣山",
+     "指宿のたまて箱"
     ],
     "线路": [
      "予讃線",

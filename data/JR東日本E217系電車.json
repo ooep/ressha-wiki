@@ -10,9 +10,11 @@
   },
   "标识": {
    "图标文件": [
+    "02_east/tokaido-line__e217ktd1.png",
     "02_east/tokaido-line__e217td1.png"
    ],
    "图标token": [
+    "e217ktd1",
     "e217td1"
    ],
    "网站键": {

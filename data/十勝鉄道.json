@@ -10,10 +10,12 @@
   },
   "标识": {
    "图标文件": [
-    "27_hokkaido_mi/tokachi-rail__tkch2.png"
+    "27_hokkaido_mi/tokachi-rail__tkch2.png",
+    "27_hokkaido_mi/tokachi-rail__tkch2l.png"
    ],
    "图标token": [
-    "tkch2"
+    "tkch2",
+    "tkch2l"
    ],
    "网站键": {
     "特急": [],

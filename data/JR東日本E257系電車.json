@@ -10,19 +10,55 @@
   },
   "标识": {
    "图标文件": [
+    "02_east/azusa-kaiji__e257-2.png",
+    "02_east/azusa-kaiji__e257.png",
+    "02_east/azusa-kaiji__e257k.png",
+    "02_east/azusa-kaiji__e257k2.png",
+    "02_east/azusa-kaiji__e257kk.png",
+    "02_east/azusa-kaiji__e257s.png",
+    "02_east/azusa-kaiji__e257sk.png",
+    "02_east/fuji-excursion__e257s5g.png",
     "02_east/fuji-excursion__e257s5r.png",
-    "02_east/kusatsu-shima__e257-55.png"
+    "02_east/kusatsu-shima__e257-55.png",
+    "02_east/n-ex-boso-exp__e257-5.png",
+    "02_east/n-ex-boso-exp__e257s5.png",
+    "02_east/odoriko__e257od.png",
+    "02_east/odoriko__e257od25.png",
+    "02_east/odoriko__e257odk.png"
    ],
    "图标token": [
+    "e257",
+    "e257-2",
+    "e257-5",
     "e257-55",
-    "e257s5r"
+    "e257k",
+    "e257k2",
+    "e257kk",
+    "e257od",
+    "e257od25",
+    "e257odk",
+    "e257s",
+    "e257s5",
+    "e257s5g",
+    "e257s5r",
+    "e257sk"
    ],
    "网站键": {
     "特急": [
      "あかぎ",
-     "草津"
+     "あずさ",
+     "かいじ",
+     "さざなみ",
+     "しおさい",
+     "はちおうじ",
+     "わかしお",
+     "成田エクスプレス",
+     "湘南",
+     "草津",
+     "踊り子"
     ],
     "线路": [
+     "伊東線",
      "富士",
      "草津線"
     ]

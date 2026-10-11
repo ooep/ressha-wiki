@@ -10,10 +10,12 @@
   },
   "标识": {
    "图标文件": [
-    "26_sanyosanin/nishikigawa-rail__nsk3001.png"
+    "26_sanyosanin/nishikigawa-rail__nsk3001.png",
+    "26_sanyosanin/nishikigawa-rail__nsk3002.png"
    ],
    "图标token": [
-    "nsk3001"
+    "nsk3001",
+    "nsk3002"
    ],
    "网站键": {
     "特急": [],

@@ -10,10 +10,16 @@
   },
   "标识": {
    "图标文件": [
-    "04_west/kounotori-289__w289kani.png"
+    "04_west/kounotori-289__w289g.png",
+    "04_west/kounotori-289__w289kani.png",
+    "04_west/kounotori-289__w289kg.png",
+    "04_west/kounotori-289__w289kkani.png"
    ],
    "图标token": [
-    "w289kani"
+    "w289g",
+    "w289kani",
+    "w289kg",
+    "w289kkani"
    ],
    "网站键": {
     "特急": [

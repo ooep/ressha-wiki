@@ -10,10 +10,14 @@
   },
   "标识": {
    "图标文件": [
-    "01_hokkaido/ozora-tokachi__h283h.png"
+    "01_hokkaido/ozora-tokachi__h283.png",
+    "01_hokkaido/ozora-tokachi__h283h.png",
+    "01_hokkaido/ozora-tokachi__h283p.png"
    ],
    "图标token": [
-    "h283h"
+    "h283",
+    "h283h",
+    "h283p"
    ],
    "网站键": {
     "特急": [

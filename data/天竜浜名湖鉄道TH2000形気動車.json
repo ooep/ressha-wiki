@@ -10,9 +10,11 @@
   },
   "标识": {
    "图标文件": [
+    "31_tokai_mi/tenryu-rail__tht2000.png",
     "31_tokai_mi/tenryu-rail__thtg100.png"
    ],
    "图标token": [
+    "tht2000",
     "thtg100"
    ],
    "网站键": {

@@ -10,9 +10,11 @@
   },
   "标识": {
    "图标文件": [
+    "08_tobu/skytree-line-th-liner__tob70000.png",
     "08_tobu/skytree-line-th-liner__tob70090.png"
    ],
    "图标token": [
+    "tob70000",
     "tob70090"
    ],
    "网站键": {

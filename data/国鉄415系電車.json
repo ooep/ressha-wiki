@@ -11,10 +11,14 @@
   "标识": {
    "图标文件": [
     "06_kyushu/oita-area__k415-0.png",
+    "06_kyushu/oita-area__k415.png",
+    "06_kyushu/working-car-jr-jr-1-2-3-2025-12-12-update__k415rr.png",
     "06_kyushu/working-car-jr-jr-1-2-3-2025-12-12-update__k415w.png"
    ],
    "图标token": [
+    "k415",
     "k415-0",
+    "k415rr",
     "k415w"
    ],
    "网站键": {

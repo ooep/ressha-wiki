@@ -10,15 +10,27 @@
   },
   "标识": {
    "图标文件": [
+    "22_hanshin/sanyo-5000-3050__san3001al.png",
+    "22_hanshin/sanyo-5000-3050__san5000.png",
+    "22_hanshin/sanyo-5000-3050__san5000n.png",
+    "22_hanshin/sanyo-5000-3050__san5001.png",
     "22_hanshin/snayo-rail-2026-5-15-update__san5000tw.png"
    ],
    "图标token": [
-    "san5000tw"
+    "san3001al",
+    "san5000",
+    "san5000n",
+    "san5000tw",
+    "san5001"
    ],
    "网站键": {
-    "特急": [],
+    "特急": [
+     "山陽電鉄特急",
+     "直通特急"
+    ],
     "线路": [
-     "南海本線"
+     "南海本線",
+     "山陽電鉄本線"
     ]
    }
   },

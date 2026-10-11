@@ -10,10 +10,12 @@
   },
   "标识": {
    "图标文件": [
-    "25_hokuriku/hokuriku-rail-8800__hkrk8901.png"
+    "25_hokuriku/hokuriku-rail-8800__hkrk8901.png",
+    "25_hokuriku/hokuriku-rail-8800__hkrk8901w.png"
    ],
    "图标token": [
-    "hkrk8901"
+    "hkrk8901",
+    "hkrk8901w"
    ],
    "网站键": {
     "特急": [],

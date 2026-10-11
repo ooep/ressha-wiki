@@ -5,20 +5,36 @@
    "中文": "新幹線700系電聯車",
    "英文": "700 Series Shinkansen",
    "运营者": [
-    "JR新幹線"
+    "JR新幹線",
+    "阪神"
    ]
   },
   "标识": {
    "图标文件": [
+    "00_shinkansen/n700s-a-700__c700n.png",
+    "00_shinkansen/rail-star-500-n700__w700.png",
     "00_shinkansen/rail-star-500-n700__w700nm.png",
-    "00_shinkansen/sanyo-shinkansen__w700b.png"
+    "00_shinkansen/sanyo-shinkansen__w700b.png",
+    "00_shinkansen/sanyo-shinkansen__w700m.png",
+    "00_shinkansen/sanyo-shinkansen__w700pi.png",
+    "00_shinkansen/sanyo-shinkansen__w700ye.png",
+    "22_hanshin/sanyo-rail__snyo700.png"
    ],
    "图标token": [
+    "c700n",
+    "snyo700",
+    "w700",
     "w700b",
-    "w700nm"
+    "w700m",
+    "w700nm",
+    "w700pi",
+    "w700ye"
    ],
    "网站键": {
     "特急": [
+     "こだま",
+     "のぞみ",
+     "ひかり",
      "山陽電鉄特急",
      "直通特急"
     ],

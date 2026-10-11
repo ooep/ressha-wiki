@@ -10,12 +10,16 @@
   },
   "标识": {
    "图标文件": [
+    "25_hokuriku/toyama-regioal-rail__tymti14760.png",
     "25_hokuriku/toyama-regioal-rail__tymti14760o.png",
-    "25_hokuriku/toyamachiho-rail__tymti14760tmy.png"
+    "25_hokuriku/toyamachiho-rail__tymti14760tmy.png",
+    "25_hokuriku/toyamachiho-rail__tymti14760tmyp.png"
    ],
    "图标token": [
+    "tymti14760",
     "tymti14760o",
-    "tymti14760tmy"
+    "tymti14760tmy",
+    "tymti14760tmyp"
    ],
    "网站键": {
     "特急": [

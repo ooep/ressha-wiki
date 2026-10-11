@@ -10,10 +10,12 @@
   },
   "标识": {
    "图标文件": [
-    "24_nishitetsu/emu-3000__nisi3000.png"
+    "24_nishitetsu/emu-3000__nisi3000.png",
+    "24_nishitetsu/emu-3000__nisi3001.png"
    ],
    "图标token": [
-    "nisi3000"
+    "nisi3000",
+    "nisi3001"
    ],
    "网站键": {
     "特急": [],

@@ -1,0 +1,64 @@
+{
+ "车辆": {
+  "名称": {
+   "日文": "西鉄",
+   "中文": "西鐵",
+   "英文": "西鐵",
+   "运营者": [
+    "西鉄"
+   ]
+  },
+  "标识": {
+   "图标文件": [
+    "24_nishitetsu/omuta-line-1-2-2025-8-22-update__nisi61.png",
+    "24_nishitetsu/omuta-line__nisi303.png",
+    "24_nishitetsu/omuta-line__nisi602.png",
+    "24_nishitetsu/omuta-line__nisi602o.png",
+    "24_nishitetsu/omuta-line__nisi603o.png",
+    "24_nishitetsu/omuta-line__nisi60b.png"
+   ],
+   "图标token": [
+    "nisi303",
+    "nisi602",
+    "nisi602o",
+    "nisi603o",
+    "nisi60b",
+    "nisi61"
+   ],
+   "网站键": {
+    "特急": [
+     "西鉄特急"
+    ],
+    "线路": []
+   }
+  },
+  "百科": {
+   "日文": {
+    "词条标题": "西鉄",
+    "链接": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E9%89%84",
+    "首段": "西鉄（さいてつ、せいてつ、にしてつ）",
+    "章节": {
+     "関連項目": "「西鉄」で始まるページの一覧\nタイトルに「西鉄」を含むページの一覧"
+    },
+    "全文": "西鉄（さいてつ、せいてつ、にしてつ）\n\nさいてつ\n西大寺鉄道（岡山県にあった鉄道会社）の略称。\nせいてつ\n西濃鉄道（岐阜県に本社を置く鉄道会社）の略称。\n西鉄線（香港の鉄道路線）\nにしてつ\n西日本鉄道（福岡県に本社を置く鉄道会社）の略称。\n西日本鉄道傘下にあったプロ野球球団の略称。\n西鉄軍 - 1943年（日本野球機構での記録上は正式球団名としても「西鉄」と表記）。\n西鉄クリッパース→西鉄ライオンズ - 1950年から1972年まで。\n\n\n== 関連項目 ==\n「西鉄」で始まるページの一覧\nタイトルに「西鉄」を含むページの一覧",
+    "字数": 266
+   },
+   "中文": {
+    "词条标题": "西鐵",
+    "链接": "https://zh.wikipedia.org/wiki/%E8%A5%BF%E9%90%B5",
+    "首段": "西鐵可指：",
+    "章节": {},
+    "全文": "西鐵可指：\n\n西鐵綫（前稱「九廣西鐵」），港鐵鐵路綫，現為屯馬綫的一部分\n西日本鐵道，日本大手私鐵公司\n中国铁路西安局集团",
+    "字数": 61
+   },
+   "英文": {
+    "词条标题": "西鐵",
+    "链接": "https://en.wikipedia.org/wiki/%E8%A5%BF%E9%90%B5",
+    "首段": "西铁, 西鉄 or 西鐵 may refer to:",
+    "章节": {},
+    "全文": "西铁, 西鉄 or 西鐵 may refer to:\n\nChina Railway Xi'an Group (中国铁路西安局集团), abbreviated as CR Xi'an (西铁)\nNishi-Nippon Railroad (西日本鉄道), also known as Nishitetsu (西鉄)\nWest Rail line (西鐵綫), previously known as KCR West Rail (九廣西鐵)",
+    "字数": 219
+   }
+  }
+ }
+}

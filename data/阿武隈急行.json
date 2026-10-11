@@ -1,0 +1,80 @@
+{
+ "车辆": {
+  "名称": {
+   "日文": "阿武隈急行",
+   "中文": "阿武隈急行",
+   "英文": "Abukuma Kyuko",
+   "运营者": [
+    "東北私鉄"
+   ]
+  },
+  "标识": {
+   "图标文件": [
+    "28_tohoku_mi/abukuma-exp__abk900p.png"
+   ],
+   "图标token": [
+    "abk900p"
+   ],
+   "网站键": {
+    "特急": [],
+    "线路": [
+     "阿武隈急行",
+     "阿武隈急行線"
+    ]
+   }
+  },
+  "百科": {
+   "日文": {
+    "词条标题": "阿武隈急行",
+    "链接": "https://ja.wikipedia.org/wiki/%E9%98%BF%E6%AD%A6%E9%9A%88%E6%80%A5%E8%A1%8C",
+    "首段": "阿武隈急行株式会社（あぶくまきゅうこう）は、福島県伊達市に本社を置き、福島県および宮城県で旧日本国有鉄道（国鉄）の特定地方交通線および日本鉄道建設公団の建設線（丸森線）を引き継いだ阿武隈急行線を運営する第三セクターの鉄道会社である。阿武急（あぶきゅう）とも呼ばれている。\n会社設立から4年後の1988年に全線開業を果たした。現在は宮城・福島両県および沿線自治体で過半数の株式を保有するが、設立当初は地元の鉄道・バス会社福島交通が株式の51%を保有していた。現在も福島駅において、福島交通飯坂線と駅舎およびプラットホームを共用している。",
+    "章节": {
+     "歴史": "1984年（昭和59年）\n4月5日 : 阿武隈急行株式会社設立。\n12月24日 : 福島 - 丸森間免許申請。\n1985年（昭和60年）\n2月27日 : 免許交付。工事施工認可申請。\n3月2日 : 工事施工認可。既設区間の電化および未成区間の建設工事再開。\n1986年（昭和61年）7月1日 : 国鉄からの転換により、槻木 - 丸森間を非電化で暫定開業。国鉄東北本線槻木 - 仙台間に乗り入れ。\n1988年（昭和63年）7月1日 : 福島 - 丸森間延伸開業（全通）。全線を交流電化。JR東日本東北本線と相互直通運転開始。\n1990年（平成2年）6月25日：本社を宮城県仙台市から福島県伊達郡梁川町（現・伊達市梁川町）に移転。\n2004年（平成16年）3月13日 : JR東日本東北本線郡山 - 福島間への乗り入れを中止。\n2011年（平成23年）\n3月11日 : 東北地方太平洋沖地震（東日本大震災）が発生。地震直後から全線で運転を見合わせ。全線で被害。\n4月6日 : 梁川 - 保原間で運転を再開なおサービス列車としての運行であり運賃は無料であった。\n4月13日 : 梁川 - 富野間で運転を再開、引き続きサービス列車としての運行であり運賃は無料であった。\n4月18日 : 瀬上 - 保原間と角田 - 槻木間が運転を再開。\n4月28日 : 福島 - 瀬上間が運転を再開。\n5月16日 : 富野 - 角田間が運転を再開し全線運転再開。\n2019年（令和元年）\n10月12日 : 令和元年東日本台風（台風19号）のため全線運転見合わせ。全線で被害42か所。同月23日までに福島 - 富野間で運転を再開。\n12月6日 : 丸森 - 槻木間で運転を再開。\n2020年（令和2年）10月31日： 富野 - 丸森間が運転を再開し全線運転再開。\n2021年（令和3年）2月14日 13日23時に起きた福島県沖地震により全線終日運休。15日始発から通常運転。\n2022年（令和4年）\n3月17日 16日23時に起きた福島県沖地震により全線終日運休。\n4月18日 丸森 - 槻木間が運転を再開。\n4月25日 梁川 - 丸森間が運転を再開。\n5月23日 保原 - 梁川間が運転を再開。\n6月27日 福島 - 保原間が運転を再開し全線運転再開。",
+     "路線": "阿武隈急行線 : 福島 - 槻木（54.9km 24駅・第1種鉄道事業。福島 - 矢野目信号場間は、JR東日本東北本線と施設を共用）",
+     "利用状況": "輸送密度は以下の通り。",
+     "車両": "",
+     "現有車両": "8100系電車 - AM8100形とAT8100形の2両編成。A-15、A-17の2編成が在籍。\nAB900系電車 - 老朽化の進んだ8100系の置換えを目的に導入され、全車が本形式に統一される予定である。2018年度に2両1編成を先行導入。2019年7月1日より営業運転開始。2024年7月時点で7編成が在籍。2022年7月30日からAB900系でラッピング車両「ラプラス&ラッキートレイン」を運行している。",
+     "過去の車両": "キハ22形気動車 - 1986年の暫定開業に際して、国鉄から5両（148, 152, 159, 160, 162）を借り入れた。1988年の全線開業により、8100系電車が導入されたのにともない、国鉄を継承したJR東日本に返還された。\nA417系電車 - 2008年10月30日に運行開始。3両1編成が在籍。JR東日本より東北本線で使用されていた417系を譲受。平日朝夕の特定の運用についていた。2016年3月26日のダイヤ改正で定期運用を外れ、同年5月28日の臨時列車で最終運行。",
+     "記念乗車券・フリー乗車券": "2026年8月22日現在。\n\nフリー乗車券\n阿武隈急行線が1日乗り放題。\n毎月第1日曜日、元日、鉄道の日（10月14日）の年14回発売。\n価格は大人600円・小児300円。福島・保原・梁川・丸森・角田の各有人駅または無人駅からの乗車時（槻木駅含む）は列車内で発売。\nあぶ急トクだねきっぷ\n阿武隈急行線が1日乗り放題。\n毎月9の付く日（9・19・29日）発売。\n価格は大人900円・小児450円。福島・保原・梁川・丸森・角田の各有人駅で発売。\n学割乗車券 \n阿武隈急行線が1日乗り放題。\n中学生・高校生・大学生・専門学校生を対象に、土休日、7月第3金曜日から8月第3金曜日、12月第3金曜日から1月第2金曜日に発売。\n価格は700円。各有人駅で発売される。購入の際に「学生証」の提示が条件となっている。\n2026年7月に「中高生なつ割ワンコインきっぷ」「中高生ふゆ割ワンコインきっぷ」に代わって発売。\n飯坂温泉日帰りきっぷ（発売休止中）\n阿武隈急行線と福島交通飯坂線のフリー切符で、飯坂温泉の協賛旅館・ホテルに1回限り入浴が可能である。\n福島片岡鶴太郎美術庭園、飯坂明治大正ガラス美術館の入場料が割引になるサービスもある。\n価格は大人1500円、小児750円。福島・保原・梁川・丸森・角田の各有人駅で発売。無人駅（槻木駅含む）から乗車した場合は有人駅で購入。\nGO!かくだきっぷ\n「合格」とかけた名称の縁起物とされる切符で、受験シーズン始まりの12月ごろから枚数限定で発売される。沿線の「天神社」で祈祷済み。\n価格は角田駅 - やながわ希望の森公園前駅間運賃と同一額の590円。各有人駅で発売される。\n2008年の新発売時には日本全国各地の受験生から多くの注文があり、新聞等でも取り上げられた。\n発売開始当初はきっぷを絵馬の形に切り取ることができ、沿線の天神社で絵馬として使用できた。\n2011年からは、お守りの形をしたものを発売している。\nポケモン天文台 1DAY PASS\n角田市市民センター（かくだ田園ホール）で開催される特別企画展『ポケモン天文台』開催にあわせて、2026年7月5日から同年9月15日まで発売。\n阿武隈急行線が1日乗り放題。\n本券で特別企画展『ポケモン天文台』への入場は不可。",
+     "発売を終了した乗車券": "中高生なつ割ワンコインきっぷ\n中高生の夏季休暇期間に合わせて発売される。\n阿武隈急行線が1日乗り放題。\n価格は500円。各有人駅で発売される。購入の際に「学生証」の提示が条件となっている。\n2025年度を最後に廃止され、2026年7月から前述の「学割乗車券」を発売。\n中高生ふゆ割ワンコインきっぷ\n中高生の冬季休暇期間に合わせて発売される。\n阿武隈急行線が1日乗り放題。\n価格は500円。各有人駅で発売される。購入の際に「学生証」の提示が条件となっている。\n2025年度を最後に廃止され、2026年7月から前述の「学割乗車券」を発売。\nシニア割ワンコインきっぷ\n65歳以上の高齢者が対象で、1 - 3月ごろに発売される。\n阿武隈急行線が1日乗り放題。\n価格は500円。各有人駅で発売される。本人だけが購入でき、購入の際に年齢が証明できる身分証の提示が条件となっている。\n2025年度を最後に廃止。",
+     "脚注": "",
+     "関連項目": "政宗ダテニクル - 伊達市PRアニメーション。阿武隈急行線でこれのラッピング車両を運行している。\nけっぱって東北 -シングル「あぶきゅーに乗って」で歌われている。",
+     "外部リンク": "宮城県地域交通政策課(旧総合交通対策課)\n阿武隈急行株式会社 - 時刻表・運賃など。\n阿武隈急行 (abukumakyuko) - Facebook"
+    },
+    "全文": "阿武隈急行株式会社（あぶくまきゅうこう）は、福島県伊達市に本社を置き、福島県および宮城県で旧日本国有鉄道（国鉄）の特定地方交通線および日本鉄道建設公団の建設線（丸森線）を引き継いだ阿武隈急行線を運営する第三セクターの鉄道会社である。阿武急（あぶきゅう）とも呼ばれている。\n会社設立から4年後の1988年に全線開業を果たした。現在は宮城・福島両県および沿線自治体で過半数の株式を保有するが、設立当初は地元の鉄道・バス会社福島交通が株式の51%を保有していた。現在も福島駅において、福島交通飯坂線と駅舎およびプラットホームを共用している。\n\n\n== 歴史 ==\n\n1984年（昭和59年）\n4月5日 : 阿武隈急行株式会社設立。\n12月24日 : 福島 - 丸森間免許申請。\n1985年（昭和60年）\n2月27日 : 免許交付。工事施工認可申請。\n3月2日 : 工事施工認可。既設区間の電化および未成区間の建設工事再開。\n1986年（昭和61年）7月1日 : 国鉄からの転換により、槻木 - 丸森間を非電化で暫定開業。国鉄東北本線槻木 - 仙台間に乗り入れ。\n1988年（昭和63年）7月1日 : 福島 - 丸森間延伸開業（全通）。全線を交流電化。JR東日本東北本線と相互直通運転開始。\n1990年（平成2年）6月25日：本社を宮城県仙台市から福島県伊達郡梁川町（現・伊達市梁川町）に移転。\n2004年（平成16年）3月13日 : JR東日本東北本線郡山 - 福島間への乗り入れを中止。\n2011年（平成23年）\n3月11日 : 東北地方太平洋沖地震（東日本大震災）が発生。地震直後から全線で運転を見合わせ。全線で被害。\n4月6日 : 梁川 - 保原間で運転を再開なおサービス列車としての運行であり運賃は無料であった。\n4月13日 : 梁川 - 富野間で運転を再開、引き続きサービス列車としての運行であり運賃は無料であった。\n4月18日 : 瀬上 - 保原間と角田 - 槻木間が運転を再開。\n4月28日 : 福島 - 瀬上間が運転を再開。\n5月16日 : 富野 - 角田間が運転を再開し全線運転再開。\n2019年（令和元年）\n10月12日 : 令和元年東日本台風（台風19号）のため全線運転見合わせ。全線で被害42か所。同月23日までに福島 - 富野間で運転を再開。\n12月6日 : 丸森 - 槻木間で運転を再開。\n2020年（令和2年）10月31日： 富野 - 丸森間が運転を再開し全線運転再開。\n2021年（令和3年）2月14日 13日23時に起きた福島県沖地震により全線終日運休。15日始発から通常運転。\n2022年（令和4年）\n3月17日 16日23時に起きた福島県沖地震により全線終日運休。\n4月18日 丸森 - 槻木間が運転を再開。\n4月25日 梁川 - 丸森間が運転を再開。\n5月23日 保原 - 梁川間が運転を再開。\n6月27日 福島 - 保原間が運転を再開し全線運転再開。\n\n\n== 路線 ==\n阿武隈急行線 : 福島 - 槻木（54.9km 24駅・第1種鉄道事業。福島 - 矢野目信号場間は、JR東日本東北本線と施設を共用）\n\n\n== 利用状況 ==\n\n輸送密度は以下の通り。\n\n\n== 車両 ==\n\n\n=== 現有車両 ===\n8100系電車 - AM8100形とAT8100形の2両編成。A-15、A-17の2編成が在籍。\nAB900系電車 - 老朽化の進んだ8100系の置換えを目的に導入され、全車が本形式に統一される予定である。2018年度に2両1編成を先行導入。2019年7月1日より営業運転開始。2024年7月時点で7編成が在籍。2022年7月30日からAB900系でラッピング車両「ラプラス&ラッキートレイン」を運行している。\n\n\n=== 過去の車両 ===\nキハ22形気動車 - 1986年の暫定開業に際して、国鉄から5両（148, 152, 159, 160, 162）を借り入れた。1988年の全線開業により、8100系電車が導入されたのにともない、国鉄を継承したJR東日本に返還された。\nA417系電車 - 2008年10月30日に運行開始。3両1編成が在籍。JR東日本より東北本線で使用されていた417系を譲受。平日朝夕の特定の運用についていた。2016年3月26日のダイヤ改正で定期運用を外れ、同年5月28日の臨時列車で最終運行。\n\n\n== 記念乗車券・フリー乗車券 ==\n2026年8月22日現在。\n\nフリー乗車券\n阿武隈急行線が1日乗り放題。\n毎月第1日曜日、元日、鉄道の日（10月14日）の年14回発売。\n価格は大人600円・小児300円。福島・保原・梁川・丸森・角田の各有人駅または無人駅からの乗車時（槻木駅含む）は列車内で発売。\nあぶ急トクだねきっぷ\n阿武隈急行線が1日乗り放題。\n毎月9の付く日（9・19・29日）発売。\n価格は大人900円・小児450円。福島・保原・梁川・丸森・角田の各有人駅で発売。\n学割乗車券 \n阿武隈急行線が1日乗り放題。\n中学生・高校生・大学生・専門学校生を対象に、土休日、7月第3金曜日から8月第3金曜日、12月第3金曜日から1月第2金曜日に発売。\n価格は700円。各有人駅で発売される。購入の際に「学生証」の提示が条件となっている。\n2026年7月に「中高生なつ割ワンコインきっぷ」「中高生ふゆ割ワンコインきっぷ」に代わって発売。\n飯坂温泉日帰りきっぷ（発売休止中）\n阿武隈急行線と福島交通飯坂線のフリー切符で、飯坂温泉の協賛旅館・ホテルに1回限り入浴が可能である。\n福島片岡鶴太郎美術庭園、飯坂明治大正ガラス美術館の入場料が割引になるサービスもある。\n価格は大人1500円、小児750円。福島・保原・梁川・丸森・角田の各有人駅で発売。無人駅（槻木駅含む）から乗車した場合は有人駅で購入。\nGO!かくだきっぷ\n「合格」とかけた名称の縁起物とされる切符で、受験シーズン始まりの12月ごろから枚数限定で発売される。沿線の「天神社」で祈祷済み。\n価格は角田駅 - やながわ希望の森公園前駅間運賃と同一額の590円。各有人駅で発売される。\n2008年の新発売時には日本全国各地の受験生から多くの注文があり、新聞等でも取り上げられた。\n発売開始当初はきっぷを絵馬の形に切り取ることができ、沿線の天神社で絵馬として使用できた。\n2011年からは、お守りの形をしたものを発売している。\nポケモン天文台 1DAY PASS\n角田市市民センター（かくだ田園ホール）で開催される特別企画展『ポケモン天文台』開催にあわせて、2026年7月5日から同年9月15日まで発売。\n阿武隈急行線が1日乗り放題。\n本券で特別企画展『ポケモン天文台』への入場は不可。\n\n\n=== 発売を終了した乗車券 ===\n中高生なつ割ワンコインきっぷ\n中高生の夏季休暇期間に合わせて発売される。\n阿武隈急行線が1日乗り放題。\n価格は500円。各有人駅で発売される。購入の際に「学生証」の提示が条件となっている。\n2025年度を最後に廃止され、2026年7月から前述の「学割乗車券」を発売。\n中高生ふゆ割ワンコインきっぷ\n中高生の冬季休暇期間に合わせて発売される。\n阿武隈急行線が1日乗り放題。\n価格は500円。各有人駅で発売される。購入の際に「学生証」の提示が条件となっている。\n2025年度を最後に廃止され、2026年7月から前述の「学割乗車券」を発売。\nシニア割ワンコインきっぷ\n65歳以上の高齢者が対象で、1 - 3月ごろに発売される。\n阿武隈急行線が1日乗り放題。\n価格は500円。各有人駅で発売される。本人だけが購入でき、購入の際に年齢が証明できる身分証の提示が条件となっている。\n2025年度を最後に廃止。\n\n\n== 脚注 ==\n\n\n== 関連項目 ==\n政宗ダテニクル - 伊達市PRアニメーション。阿武隈急行線でこれのラッピング車両を運行している。\nけっぱって東北 -シングル「あぶきゅーに乗って」で歌われている。\n\n\n== 外部リンク ==\n\n宮城県地域交通政策課(旧総合交通対策課)\n阿武隈急行株式会社 - 時刻表・運賃など。\n阿武隈急行 (abukumakyuko) - Facebook",
+    "字数": 3424
+   },
+   "中文": {
+    "词条标题": "阿武隈急行",
+    "链接": "https://zh.wikipedia.org/wiki/%E9%98%BF%E6%AD%A6%E9%9A%88%E6%80%A5%E8%A1%8C",
+    "首段": "阿武隈急行股份有限公司（日語：阿武隈急行株式会社／あぶくまきゅうこうかぶしきかいしゃ，羅馬化：Abukuma Kyūkō Kabushiki Kaisha），簡稱阿武隈急行或阿武急，是一個以日本福島縣與宮城縣作為營運範圍的鐵路公司。阿武隈急行是為了承繼舊國鐵時代特定地方交通線與日本鐵道建設公團建設線的丸森線（今阿武隈急行線），而由福島縣與宮城縣及一些路線經過的地方自治單位共同出資所成立的第三部門鐵路公司。阿武隈急行的總公司設於福島縣伊達市梁川町字五反田100番地之1。\n在阿武隈急行的股東名單中，除上述相關的政府單位外，福島縣當地的鐵路、巴士運輸業者福島交通也是主要股東之一。福島交通在阿武隈急行該成立時原本擁有超過半數的51%股權，但目前持股比例已降低。在阿武隈急行線的起站福島車站處，阿武隈急行線是與福島交通飯坂線共用車站站房與月台等設施。",
+    "章节": {
+     "路線": "",
+     "使用車輛": "8100系電聯車\nAB900系電聯車",
+     "相關條目": "日本鐵路公司列表\n日本第三部門鐵道\n東北地方第三部門鐵道單位\nIGR岩手銀河鐵道\n會津鐵道\n秋田內陸縱貫鐵道\n由利高原鐵道\n青森鐵道\n三陸鐵道",
+     "外部連結": "阿武隈急行官方網站 （页面存档备份，存于互联网档案馆）"
+    },
+    "全文": "阿武隈急行股份有限公司（日語：阿武隈急行株式会社／あぶくまきゅうこうかぶしきかいしゃ，羅馬化：Abukuma Kyūkō Kabushiki Kaisha），簡稱阿武隈急行或阿武急，是一個以日本福島縣與宮城縣作為營運範圍的鐵路公司。阿武隈急行是為了承繼舊國鐵時代特定地方交通線與日本鐵道建設公團建設線的丸森線（今阿武隈急行線），而由福島縣與宮城縣及一些路線經過的地方自治單位共同出資所成立的第三部門鐵路公司。阿武隈急行的總公司設於福島縣伊達市梁川町字五反田100番地之1。\n在阿武隈急行的股東名單中，除上述相關的政府單位外，福島縣當地的鐵路、巴士運輸業者福島交通也是主要股東之一。福島交通在阿武隈急行該成立時原本擁有超過半數的51%股權，但目前持股比例已降低。在阿武隈急行線的起站福島車站處，阿武隈急行線是與福島交通飯坂線共用車站站房與月台等設施。\n\n\n== 路線 ==\n\n\n== 使用車輛 ==\n8100系電聯車\nAB900系電聯車\n\n\n== 相關條目 ==\n日本鐵路公司列表\n日本第三部門鐵道\n東北地方第三部門鐵道單位\nIGR岩手銀河鐵道\n會津鐵道\n秋田內陸縱貫鐵道\n由利高原鐵道\n青森鐵道\n三陸鐵道\n\n\n== 外部連結 ==\n阿武隈急行官方網站 （页面存档备份，存于互联网档案馆）",
+    "字数": 543
+   },
+   "英文": {
+    "词条标题": "Abukuma Kyuko",
+    "链接": "https://en.wikipedia.org/wiki/Abukuma%20Kyuko",
+    "首段": "Abukuma Express Co., Ltd. (Japanese: 阿武隈急行株式会社, Hepburn: Abukuma Kyūkō Kabushiki-gaisha) is a third-sector railway company headquartered in Date, Fukushima, Japan. Its sole service is the Abukuma Express Line.",
+    "章节": {
+     "History": "Abukuma Express was founded on 5 April 1984 as a third-sector railway operator to take over operations of Japanese National Railways' Marumori Line, which ran 17.4 kilometres (10.8 mi) between Marumori Station and Tsukinoki Station. An application for a railway operating license covering the full route between Fukushima and Marumori was submitted on 24 December 1984. The license was granted on 27 February 1985, followed by approval of construction works on 2 March 1985, allowing electrification of the existing section and the resumption of construction on previously unfinished segments.\nThe Marumori Line was provisionally reopened as the Abukuma Express Line on 1 July 1986, following its transfer from Japanese National Railways to Abukuma Express, with services initially operated as a non-electrified line between Tsukinoki and Marumori.  \nThe line was extended south to Fukushima Station on 1 July 1988, completing the full route between Fukushima and Marumori and the entire line was electrified using 20 kV 50 Hz AC overhead supply. \nOperations were suspended across the entire line following damage from the 2011 Tōhoku earthquake and tsunami on 11 March 2011, with services gradually restored in stages and full operations resuming on 16 May 2011. All services were again suspended on 12 October 2019 due to damage caused by Typhoon Hagibis; partial service resumed later that month, and full operations between Fukushima and Tsukinoki were restored on 31 October 2020. Another suspension occurred following the 2022 Fukushima earthquake on 16 March 2022, with services progressively reinstated and full operations resuming on 27 June 2022.",
+     "Operations": "Abukuma Express operates the Abukuma Express Line, which runs 54.9 kilometres (34.1 mi) from Fukushima Station in the south to Tsukinoki Station in the north.",
+     "Rolling stock": "",
+     "Current vehicles": "8100 series — two-car electric multiple units introduced in 1988 consisting of AM8100 and AT8100 cars. As of July 2024, two sets were in service.\nAB900 series — two-car electric multiple units introduced in July 2019  to replace the aging 8100 series, with plans to standardize the fleet on this model. As of July 2024, seven sets are in service.",
+     "Past vehicles": "KiHa 22 series — Five diesel railcars borrowed from JNR for the provisional opening of the line in 1986. Following the full opening of the line in 1988 and the introduction of the 8100 series electric multiple units, these vehicles were returned to JR East, JNR’s successor.\nA417 series — A single three-car 417 series train acquired from JR East used between 30 October 2008 and 26 March 2016. It was used primarily on selected weekday morning and evening services.",
+     "Ownership": "The shareholders of Abukuma Express are primarily the local and prefectural governments along its route. Its only private-sector shareholder is Fukushima Transportation, which holds a 20% stake and shares a platform with Abukuma Express at Fukushima Station.",
+     "See also": "List of railway companies in Japan",
+     "References": "",
+     "External links": "Official website for Abukuma Kyuko"
+    },
+    "全文": "Abukuma Express Co., Ltd. (Japanese: 阿武隈急行株式会社, Hepburn: Abukuma Kyūkō Kabushiki-gaisha) is a third-sector railway company headquartered in Date, Fukushima, Japan. Its sole service is the Abukuma Express Line.\n\n\n== History ==\nAbukuma Express was founded on 5 April 1984 as a third-sector railway operator to take over operations of Japanese National Railways' Marumori Line, which ran 17.4 kilometres (10.8 mi) between Marumori Station and Tsukinoki Station. An application for a railway operating license covering the full route between Fukushima and Marumori was submitted on 24 December 1984. The license was granted on 27 February 1985, followed by approval of construction works on 2 March 1985, allowing electrification of the existing section and the resumption of construction on previously unfinished segments.\nThe Marumori Line was provisionally reopened as the Abukuma Express Line on 1 July 1986, following its transfer from Japanese National Railways to Abukuma Express, with services initially operated as a non-electrified line between Tsukinoki and Marumori.  \nThe line was extended south to Fukushima Station on 1 July 1988, completing the full route between Fukushima and Marumori and the entire line was electrified using 20 kV 50 Hz AC overhead supply. \nOperations were suspended across the entire line following damage from the 2011 Tōhoku earthquake and tsunami on 11 March 2011, with services gradually restored in stages and full operations resuming on 16 May 2011. All services were again suspended on 12 October 2019 due to damage caused by Typhoon Hagibis; partial service resumed later that month, and full operations between Fukushima and Tsukinoki were restored on 31 October 2020. Another suspension occurred following the 2022 Fukushima earthquake on 16 March 2022, with services progressively reinstated and full operations resuming on 27 June 2022.\n\n\n== Operations ==\n\nAbukuma Express operates the Abukuma Express Line, which runs 54.9 kilometres (34.1 mi) from Fukushima Station in the south to Tsukinoki Station in the north.\n\n\n== Rolling stock ==\n\n\n=== Current vehicles ===\n8100 series — two-car electric multiple units introduced in 1988 consisting of AM8100 and AT8100 cars. As of July 2024, two sets were in service.\nAB900 series — two-car electric multiple units introduced in July 2019  to replace the aging 8100 series, with plans to standardize the fleet on this model. As of July 2024, seven sets are in service.\n\n\n=== Past vehicles ===\nKiHa 22 series — Five diesel railcars borrowed from JNR for the provisional opening of the line in 1986. Following the full opening of the line in 1988 and the introduction of the 8100 series electric multiple units, these vehicles were returned to JR East, JNR’s successor.\nA417 series — A single three-car 417 series train acquired from JR East used between 30 October 2008 and 26 March 2016. It was used primarily on selected weekday morning and evening services.\n\n\n== Ownership ==\nThe shareholders of Abukuma Express are primarily the local and prefectural governments along its route. Its only private-sector shareholder is Fukushima Transportation, which holds a 20% stake and shares a platform with Abukuma Express at Fukushima Station.\n\n\n== See also ==\nList of railway companies in Japan\n\n\n== References ==\n\n\n== External links ==\n\nOfficial website for Abukuma Kyuko",
+    "字数": 3355
+   }
+  }
+ }
+}

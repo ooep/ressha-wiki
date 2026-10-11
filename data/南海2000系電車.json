@@ -12,12 +12,16 @@
    "图标文件": [
     "23_nankai/emu-20-23-2200__nan2000.png",
     "23_nankai/kada-line__nan2000mdm.png",
-    "23_nankai/tenku__nan2000ten.png"
+    "23_nankai/kada-line__nan2000mdmp.png",
+    "23_nankai/tenku__nan2000ten.png",
+    "23_nankai/tenku__nan2000ten0.png"
    ],
    "图标token": [
     "nan2000",
     "nan2000mdm",
-    "nan2000ten"
+    "nan2000mdmp",
+    "nan2000ten",
+    "nan2000ten0"
    ],
    "网站键": {
     "特急": [],

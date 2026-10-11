@@ -11,19 +11,39 @@
   "标识": {
    "图标文件": [
     "06_kyushu/huis-ten-bosch__k783ha2.png",
+    "06_kyushu/huis-ten-bosch__k783has.png",
+    "06_kyushu/huis-ten-bosch__k783kha.png",
+    "06_kyushu/huis-ten-bosch__k783kha2.png",
+    "06_kyushu/kamome-sonic__k783s.png",
+    "06_kyushu/midori-asoboi__k783kmi.png",
     "06_kyushu/midori-asoboi__k783mis.png"
    ],
    "图标token": [
     "k783ha2",
-    "k783mis"
+    "k783has",
+    "k783kha",
+    "k783kha2",
+    "k783kmi",
+    "k783mis",
+    "k783s"
    ],
    "网站键": {
     "特急": [
      "あそ",
+     "かささぎ",
+     "きらめき",
+     "にちりん",
+     "にちりんシーガイア",
+     "ひゅうが",
      "みどり",
-     "ハウステンボス"
+     "ソニック",
+     "ハウステンボス",
+     "リレーかもめ",
+     "博多南"
     ],
-    "线路": []
+    "线路": [
+     "博多南線"
+    ]
    }
   },
   "百科": {

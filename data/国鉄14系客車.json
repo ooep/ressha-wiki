@@ -5,18 +5,27 @@
    "中文": "日本國鐵14系客車",
    "英文": null,
    "运营者": [
+    "JR北海道",
     "JR西日本"
    ]
   },
   "标识": {
    "图标文件": [
+    "01_hokkaido/hokutosei-rishiri__h14ok.png",
+    "01_hokkaido/hokutosei-rishiri__h14rs.png",
     "04_west/akatsuki-nihonkai__w14rgt.png"
    ],
    "图标token": [
+    "h14ok",
+    "h14rs",
     "w14rgt"
    ],
    "网站键": {
-    "特急": [],
+    "特急": [
+     "スーパー北斗",
+     "北斗",
+     "能登かがり火"
+    ],
     "线路": [
      "日本海ひすいライン"
     ]

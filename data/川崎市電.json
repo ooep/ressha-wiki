@@ -10,9 +10,11 @@
   },
   "标识": {
    "图标文件": [
+    "29_kanto_mi/kawasaki-tram__lkwsk200.png",
     "29_kanto_mi/kawasaki-tram__lkwsk700.png"
    ],
    "图标token": [
+    "lkwsk200",
     "lkwsk700"
    ],
    "网站键": {

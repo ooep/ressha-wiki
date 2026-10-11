@@ -10,13 +10,23 @@
   },
   "标识": {
    "图标文件": [
-    "24_nishitetsu/kaizuka-line__nisi601.png"
+    "24_nishitetsu/kaizuka-line__nisi600y.png",
+    "24_nishitetsu/kaizuka-line__nisi601.png",
+    "24_nishitetsu/omuta-line-1-2-2025-8-22-update__nisi600o1.png",
+    "24_nishitetsu/omuta-line__nisi600.png",
+    "24_nishitetsu/omuta-line__nisi600o.png"
    ],
    "图标token": [
+    "nisi600",
+    "nisi600o",
+    "nisi600o1",
+    "nisi600y",
     "nisi601"
    ],
    "网站键": {
-    "特急": [],
+    "特急": [
+     "西鉄特急"
+    ],
     "线路": [
      "西鉄貝塚線",
      "貝塚線"

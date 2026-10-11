@@ -10,37 +10,57 @@
   },
   "标识": {
    "图标文件": [
+    "02_east/boso-area__e233bo.png",
+    "02_east/boso-area__e233bo1.png",
+    "02_east/boso-area__e233bok.png",
     "02_east/chuo-line__e233kor.png",
+    "02_east/chuo-line__e233or.png",
     "02_east/keiyo-line__e233ky.png",
+    "02_east/keiyo-line__e233kyk.png",
     "02_east/nanbu-line__e233na.png",
+    "02_east/nanbu-line__e233na1.png",
     "02_east/saikyo-line__e233sk.png",
     "02_east/yokohama-line__e233yo.png"
    ],
    "图标token": [
+    "e233bo",
+    "e233bo1",
+    "e233bok",
     "e233kor",
     "e233ky",
+    "e233kyk",
     "e233na",
+    "e233na1",
+    "e233or",
     "e233sk",
     "e233yo"
    ],
    "网站键": {
-    "特急": [],
+    "特急": [
+     "さざなみ",
+     "しおさい",
+     "わかしお"
+    ],
     "线路": [
      "中央本線",
      "中央線",
      "五日市線",
      "京葉線",
+     "内房線",
      "南武支線",
      "南武線",
+     "外房線",
      "大月線",
      "川越線",
      "東急新横浜線",
+     "東金線",
      "横浜",
      "横浜市営地下鉄1号線",
      "横浜市営地下鉄3号線",
      "横浜市営地下鉄4号線",
      "横浜線",
-     "青梅線"
+     "青梅線",
+     "鹿島線"
     ]
    }
   },

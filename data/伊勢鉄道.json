@@ -1,0 +1,71 @@
+{
+ "车辆": {
+  "名称": {
+   "日文": "伊勢鉄道",
+   "中文": "伊勢鐵道",
+   "英文": "Ise Line",
+   "运营者": [
+    "東海私鉄"
+   ]
+  },
+  "标识": {
+   "图标文件": [
+    "31_tokai_mi/aonami-ise-rail__ise1.png"
+   ],
+   "图标token": [
+    "ise1"
+   ],
+   "网站键": {
+    "特急": [],
+    "线路": [
+     "名古屋臨海高速鉄道"
+    ]
+   }
+  },
+  "百科": {
+   "日文": {
+    "词条标题": "伊勢鉄道",
+    "链接": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E5%8B%A2%E9%89%84%E9%81%93",
+    "首段": "伊勢鉄道株式会社（いせてつどう）は、旧日本国有鉄道（国鉄）特定地方交通線の鉄道路線であった伊勢線を運営している、三重県及び関係市町、民間企業が出資する第三セクター方式の鉄道会社である。本社は三重県鈴鹿市。",
+    "章节": {
+     "歴史": "1986年（昭和61年）10月1日：設立。\n1987年（昭和62年）3月27日：国鉄伊勢線を転換し、開業。\n1988年（昭和63年）12月15日：鈴鹿駅旅行センター営業開始。\n2017年（平成29年）3月26日：玉垣駅東側で「伊勢鉄道30thアニバーサリーフェスタ」を開催。",
+     "路線": "現有路線\n伊勢線（河原田駅 - 津駅・22.3 km）\n保有路線の伊勢線は22.3 kmと比較的短いが、両端を東海旅客鉄道（JR東海）の関西本線と紀勢本線に挟まれ、本来の建設目的である関西本線の河原田駅と紀勢本線の津駅の間を結ぶ短絡線として、特急「南紀」や快速「みえ」といった中・長距離の速達列車が直通運転を行い、名古屋と津・松阪・鳥羽・南紀方面等を結ぶ路線の一部分を担っている。\n路線は河原田駅 - 中瀬古駅間が複線、中瀬古駅 - 津駅間が単線となっている。旧国鉄時代より線路の用地が確保されており、伊勢鉄道転換後に一部複線化されている。それ以外の単線区間である中瀬古駅 - 津駅間でも、中瀬古駅 - 伊勢上野駅間のトンネルや伊勢上野駅 - 津駅間の高架橋などほぼ全線に渡って複線の用地が確保されているが、この区間の複線化は現在も白紙状態である。",
+     "車両": "伊勢線は河原田駅で線路が繋がるJR東海関西本線とは異なり非電化のため旅客列車は気動車を使用している。自社車両の形式は以下のとおり「イセ○○型」となっている。専ら普通列車にのみ使われており、特急「南紀」や快速「みえ」に使う車両は所有していない（特急や快速はJR東海の車両〈HC85系、キハ75形〉が乗り入れる）。\nなお、2022年に公開された『四日市市都市総合交通戦略』において「今後10年間に実施・検討する施策」として車両の更新が挙げられている。",
+     "現有車両": "イセIII型（101・102・103・104）\n\nイセI型、イセII型の老朽化による置き換え用に、富士重工業（101のみ）および新潟トランシス（102 - 104）で製造された気動車である。車体は軽量ステンレス製（前頭部は鋼製）となり、18メートル級に大型化された。走行性能も、最高運転速度100 km/hと、従来車の80 km/hに比べ、大幅に向上している。2003年（平成15年）2月17日に営業運転を開始した。イセI型、イセII型と同様に走行距離が短いことからトイレは設置されていない。旅客用乗降扉は従来の折り戸から片開き引き戸に変更された。\n現在伊勢鉄道の列車として運行されている車両はすべてこのイセIII型を使用している。\n101は鉄道車両事業から撤退した富士重工業最後の気動車でもある。\n2009年（平成21年）から2010年（平成22年）にかけて、ATS-PTの設置工事を行った。",
+     "過去の在籍車両": "イセI型（1・2・3）\n\n1987年（昭和62年）3月27日の伊勢鉄道開業用に新製されたもので、富士重工業が開発した軽快気動車LE-CarIIシリーズである。車体は15.5メートル、前面は非貫通構造で運転台は中央に配置されている。老朽化のため、2004年（平成16年）12月31日限りで運用を終了、全車が廃車となり、ミャンマーに輸出された。ミャンマーでは赤と白の塗装に変更した上で使用されている。\nイセII型（4）\n\n1989年（平成元年）に1両のみ増備された、富士重工業製LE-CarIIシリーズの軽快気動車である。前面が貫通型となったのがイセI型と異なる。2005年（平成17年）9月30日で営業運転を終了、廃車となる予定だったが新製車イセ104が搬入時に車体の一部を破損したため、継続運転されていた。同年12月18日に営業運転終了。",
+     "乗車券類": "2026年時点ではTOICA、ICOCA、PiTaPa、manacaなどのICカード乗車券は使用できず運賃は現金で支払うことになるが、2027年春に鈴鹿駅でICカード乗車券TOICAの導入が予定されている。連絡運輸範囲のJRグループの駅で乗車券を購入する場合であれば、クレジットカードで購入可能である。\n乗車券が発売されていない駅から乗車する場合は、乗車時に整理券を取って乗車し、降車時に現金で運賃箱へ投入するか、降車駅で精算する。\nF1日本グランプリの開催日限定で、伊勢線（河原田‐津）が乗り放題となる1日フリー乗車券がデジタル乗車券として「RYDE PASS」アプリで発売される。",
+     "関連項目": "日本の鉄道事業者一覧\n第三セクター鉄道",
+     "脚注": "",
+     "参考文献": "曽根悟（監修） 著、朝日新聞出版分冊百科編集部 編『週刊 歴史でめぐる鉄道全路線 公営鉄道・私鉄』 26号 長良川鉄道・明知鉄道・樽見鉄道・三岐鉄道・伊勢鉄道、朝日新聞出版〈週刊朝日百科〉、2011年9月18日。",
+     "外部リンク": "公式サイト\n公式Facebook"
+    },
+    "全文": "伊勢鉄道株式会社（いせてつどう）は、旧日本国有鉄道（国鉄）特定地方交通線の鉄道路線であった伊勢線を運営している、三重県及び関係市町、民間企業が出資する第三セクター方式の鉄道会社である。本社は三重県鈴鹿市。\n\n\n== 歴史 ==\n1986年（昭和61年）10月1日：設立。\n1987年（昭和62年）3月27日：国鉄伊勢線を転換し、開業。\n1988年（昭和63年）12月15日：鈴鹿駅旅行センター営業開始。\n2017年（平成29年）3月26日：玉垣駅東側で「伊勢鉄道30thアニバーサリーフェスタ」を開催。\n\n\n== 路線 ==\n\n現有路線\n伊勢線（河原田駅 - 津駅・22.3 km）\n保有路線の伊勢線は22.3 kmと比較的短いが、両端を東海旅客鉄道（JR東海）の関西本線と紀勢本線に挟まれ、本来の建設目的である関西本線の河原田駅と紀勢本線の津駅の間を結ぶ短絡線として、特急「南紀」や快速「みえ」といった中・長距離の速達列車が直通運転を行い、名古屋と津・松阪・鳥羽・南紀方面等を結ぶ路線の一部分を担っている。\n路線は河原田駅 - 中瀬古駅間が複線、中瀬古駅 - 津駅間が単線となっている。旧国鉄時代より線路の用地が確保されており、伊勢鉄道転換後に一部複線化されている。それ以外の単線区間である中瀬古駅 - 津駅間でも、中瀬古駅 - 伊勢上野駅間のトンネルや伊勢上野駅 - 津駅間の高架橋などほぼ全線に渡って複線の用地が確保されているが、この区間の複線化は現在も白紙状態である。\n\n\n== 車両 ==\n伊勢線は河原田駅で線路が繋がるJR東海関西本線とは異なり非電化のため旅客列車は気動車を使用している。自社車両の形式は以下のとおり「イセ○○型」となっている。専ら普通列車にのみ使われており、特急「南紀」や快速「みえ」に使う車両は所有していない（特急や快速はJR東海の車両〈HC85系、キハ75形〉が乗り入れる）。\nなお、2022年に公開された『四日市市都市総合交通戦略』において「今後10年間に実施・検討する施策」として車両の更新が挙げられている。\n\n\n=== 現有車両 ===\nイセIII型（101・102・103・104）\n\nイセI型、イセII型の老朽化による置き換え用に、富士重工業（101のみ）および新潟トランシス（102 - 104）で製造された気動車である。車体は軽量ステンレス製（前頭部は鋼製）となり、18メートル級に大型化された。走行性能も、最高運転速度100 km/hと、従来車の80 km/hに比べ、大幅に向上している。2003年（平成15年）2月17日に営業運転を開始した。イセI型、イセII型と同様に走行距離が短いことからトイレは設置されていない。旅客用乗降扉は従来の折り戸から片開き引き戸に変更された。\n現在伊勢鉄道の列車として運行されている車両はすべてこのイセIII型を使用している。\n101は鉄道車両事業から撤退した富士重工業最後の気動車でもある。\n2009年（平成21年）から2010年（平成22年）にかけて、ATS-PTの設置工事を行った。\n\n\n=== 過去の在籍車両 ===\nイセI型（1・2・3）\n\n1987年（昭和62年）3月27日の伊勢鉄道開業用に新製されたもので、富士重工業が開発した軽快気動車LE-CarIIシリーズである。車体は15.5メートル、前面は非貫通構造で運転台は中央に配置されている。老朽化のため、2004年（平成16年）12月31日限りで運用を終了、全車が廃車となり、ミャンマーに輸出された。ミャンマーでは赤と白の塗装に変更した上で使用されている。\nイセII型（4）\n\n1989年（平成元年）に1両のみ増備された、富士重工業製LE-CarIIシリーズの軽快気動車である。前面が貫通型となったのがイセI型と異なる。2005年（平成17年）9月30日で営業運転を終了、廃車となる予定だったが新製車イセ104が搬入時に車体の一部を破損したため、継続運転されていた。同年12月18日に営業運転終了。\n\n\n== 乗車券類 ==\n2026年時点ではTOICA、ICOCA、PiTaPa、manacaなどのICカード乗車券は使用できず運賃は現金で支払うことになるが、2027年春に鈴鹿駅でICカード乗車券TOICAの導入が予定されている。連絡運輸範囲のJRグループの駅で乗車券を購入する場合であれば、クレジットカードで購入可能である。\n乗車券が発売されていない駅から乗車する場合は、乗車時に整理券を取って乗車し、降車時に現金で運賃箱へ投入するか、降車駅で精算する。\nF1日本グランプリの開催日限定で、伊勢線（河原田‐津）が乗り放題となる1日フリー乗車券がデジタル乗車券として「RYDE PASS」アプリで発売される。\n\n\n== 関連項目 ==\n日本の鉄道事業者一覧\n第三セクター鉄道\n\n\n== 脚注 ==\n\n\n== 参考文献 ==\n曽根悟（監修） 著、朝日新聞出版分冊百科編集部 編『週刊 歴史でめぐる鉄道全路線 公営鉄道・私鉄』 26号 長良川鉄道・明知鉄道・樽見鉄道・三岐鉄道・伊勢鉄道、朝日新聞出版〈週刊朝日百科〉、2011年9月18日。 \n\n\n== 外部リンク ==\n\n公式サイト\n公式Facebook",
+    "字数": 2177
+   },
+   "中文": {
+    "词条标题": "伊勢鐵道",
+    "链接": "https://zh.wikipedia.org/wiki/%E4%BC%8A%E5%8B%A2%E9%90%B5%E9%81%93",
+    "首段": "伊勢鐵道股份有限公司（日語：伊勢鉄道／いせてつどう，羅馬化：Ise Tetsudō）是一間總部設於三重縣鈴鹿市，營運舊日本國有鐵道（國鐵）特定地方交通線的鐵路線伊勢線的公司，由三重縣及有關市町、民間企業出資，以第三部門方式營運的鐵路公司。",
+    "章节": {
+     "路線": ""
+    },
+    "全文": "伊勢鐵道股份有限公司（日語：伊勢鉄道／いせてつどう，羅馬化：Ise Tetsudō）是一間總部設於三重縣鈴鹿市，營運舊日本國有鐵道（國鐵）特定地方交通線的鐵路線伊勢線的公司，由三重縣及有關市町、民間企業出資，以第三部門方式營運的鐵路公司。\n\n\n== 路線 ==",
+    "字数": 130
+   },
+   "英文": {
+    "词条标题": "Ise Line",
+    "链接": "https://en.wikipedia.org/wiki/Ise%20Line",
+    "首段": "The Ise Line (伊勢線, Ise-sen) is a Japanese railway line in Mie Prefecture which runs between Kawarada Station in Yokkaichi and Tsu Station in Tsu. It is the only railway line of the third-sector operator Ise Railway (伊勢鉄道, Ise Tetsudō), also abbreviated Isetetsu (伊勢鉄). The  company took over the former Japanese National Railways line in 1987.\nThe line was originally built as a shorter route between Nagoya and the Kii Peninsula (Kisei Main Line). As such, the Central Japan Railway Company (JR Central) limited express Nanki and rapid Mie use the line, providing the primary revenue stream for the company. The line also transports spectators when Formula One World Championship Japanese Grand Prix is held at Suzuka Circuit (1987–2006, 2009 onward).",
+    "章节": {
+     "History": "The line was opened by Japanese National Railways in 1973 as a shortcut between the Kansai Main Line and the Kisei Line. The entire line was built with future double-tracking and electrification in mind, with necessary equipment installed along the entire line. However, usage was sluggish and the line operated with a deficit due to the initial single track limiting the number of services to 7 round trips for local plus 3 round trips for limited express services daily. On the other hand, the parallel Kintetsu Nagoya Line operated with 44 limited express round trips, 34 express round trips, 9 semi-express round trips, and 62 local round trip services daily.\nAfter the privatization of JNR, the Ise Line was scheduled to be abolished, and since the line ran outside urban areas there was no opposition from the local residents or government. In 1986, it was decided to convert the line to a third-sector railway, and in 1987, the line was transferred to the Ise Railway Co. At the time of conversion, the only train exchange facility was at Tamagaki Station; therefore, it was decided that the section between Kawarada and Nakaseko be double-tracked to increase transport capacity. In 1993, the track between Kawarada and Nakaseko was doubled, which increased the transport capacity to 55 round trips per day. The cost of construction for double-tracking between Kawarada and Nakaseko (12.8 km (8.0 mi)) was 2.05 billion yen; of this, Ise Railway paid 430 million yen, while the rest was paid by the national government, Mie Prefecture, and local governments along the line.\nMost passengers pass through on the Rapid Mie and Limited Express Nanki services, but there are increasing commuter passengers due to the opening of Suzuka University near Nakaseko Station. In 1996, the line turned a profit for the first time.\nFreight services started operations in 2008, but ceased in 2013.",
+     "Stations": "All stations are in Mie Prefecture.\nKey:\n\nL: Local (普通, Futsū)\nR: Rapid \"Mie\" (快速「みえ」, Kaisoku Mie)\nE: Limited Express \"Nanki\" (特急「南紀」, Tokkyū Nanki)\nLower case letters refer to some trains stopping on days of racing events at Suzuka Circuit.",
+     "See also": "List of railway companies in Japan\nList of railway lines in Japan",
+     "References": "This article incorporates material from the corresponding article in the Japanese Wikipedia",
+     "External links": "Ise Railway official website (in Japanese)"
+    },
+    "全文": "The Ise Line (伊勢線, Ise-sen) is a Japanese railway line in Mie Prefecture which runs between Kawarada Station in Yokkaichi and Tsu Station in Tsu. It is the only railway line of the third-sector operator Ise Railway (伊勢鉄道, Ise Tetsudō), also abbreviated Isetetsu (伊勢鉄). The  company took over the former Japanese National Railways line in 1987.\nThe line was originally built as a shorter route between Nagoya and the Kii Peninsula (Kisei Main Line). As such, the Central Japan Railway Company (JR Central) limited express Nanki and rapid Mie use the line, providing the primary revenue stream for the company. The line also transports spectators when Formula One World Championship Japanese Grand Prix is held at Suzuka Circuit (1987–2006, 2009 onward).\n\n\n== History ==\n\nThe line was opened by Japanese National Railways in 1973 as a shortcut between the Kansai Main Line and the Kisei Line. The entire line was built with future double-tracking and electrification in mind, with necessary equipment installed along the entire line. However, usage was sluggish and the line operated with a deficit due to the initial single track limiting the number of services to 7 round trips for local plus 3 round trips for limited express services daily. On the other hand, the parallel Kintetsu Nagoya Line operated with 44 limited express round trips, 34 express round trips, 9 semi-express round trips, and 62 local round trip services daily.\nAfter the privatization of JNR, the Ise Line was scheduled to be abolished, and since the line ran outside urban areas there was no opposition from the local residents or government. In 1986, it was decided to convert the line to a third-sector railway, and in 1987, the line was transferred to the Ise Railway Co. At the time of conversion, the only train exchange facility was at Tamagaki Station; therefore, it was decided that the section between Kawarada and Nakaseko be double-tracked to increase transport capacity. In 1993, the track between Kawarada and Nakaseko was doubled, which increased the transport capacity to 55 round trips per day. The cost of construction for double-tracking between Kawarada and Nakaseko (12.8 km (8.0 mi)) was 2.05 billion yen; of this, Ise Railway paid 430 million yen, while the rest was paid by the national government, Mie Prefecture, and local governments along the line.\nMost passengers pass through on the Rapid Mie and Limited Express Nanki services, but there are increasing commuter passengers due to the opening of Suzuka University near Nakaseko Station. In 1996, the line turned a profit for the first time.\nFreight services started operations in 2008, but ceased in 2013.\n\n\n== Stations ==\nAll stations are in Mie Prefecture.\nKey:\n\nL: Local (普通, Futsū)\nR: Rapid \"Mie\" (快速「みえ」, Kaisoku Mie)\nE: Limited Express \"Nanki\" (特急「南紀」, Tokkyū Nanki)\nLower case letters refer to some trains stopping on days of racing events at Suzuka Circuit.\n\n\n== See also ==\nList of railway companies in Japan\nList of railway lines in Japan\n\n\n== References ==\nThis article incorporates material from the corresponding article in the Japanese Wikipedia\n\n\n== External links ==\nIse Railway official website (in Japanese)",
+    "字数": 3178
+   }
+  }
+ }
+}

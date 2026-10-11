@@ -10,13 +10,20 @@
   },
   "标识": {
    "图标文件": [
-    "01_hokkaido/tokachi-soya__h261w.png"
+    "01_hokkaido/ozora-tokachi__h261t.png",
+    "01_hokkaido/tokachi-soya__h261.png",
+    "01_hokkaido/tokachi-soya__h261w.png",
+    "01_hokkaido/tokachi-soya__h261wl.png"
    ],
    "图标token": [
-    "h261w"
+    "h261",
+    "h261t",
+    "h261w",
+    "h261wl"
    ],
    "网站键": {
     "特急": [
+     "おおぞら",
      "とかち",
      "オホーツク",
      "サロベツ",

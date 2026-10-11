@@ -10,10 +10,12 @@
   },
   "标识": {
    "图标文件": [
-    "15_keikyu/untitled__khk2100.png"
+    "15_keikyu/untitled__khk2100.png",
+    "15_keikyu/untitled__khk2100bl.png"
    ],
    "图标token": [
-    "khk2100"
+    "khk2100",
+    "khk2100bl"
    ],
    "网站键": {
     "特急": [

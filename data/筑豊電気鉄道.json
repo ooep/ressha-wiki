@@ -1,0 +1,82 @@
+{
+ "车辆": {
+  "名称": {
+   "日文": "筑豊電気鉄道",
+   "中文": "筑豐電氣鐵道",
+   "英文": "Chikuhō Electric Railroad Line",
+   "运营者": [
+    "西鉄"
+   ]
+  },
+  "标识": {
+   "图标文件": [
+    "24_nishitetsu/chikuho-rail__tkhd2002.png"
+   ],
+   "图标token": [
+    "tkhd2002"
+   ],
+   "网站键": {
+    "特急": [],
+    "线路": [
+     "筑豊本線"
+    ]
+   }
+  },
+  "百科": {
+   "日文": {
+    "词条标题": "筑豊電気鉄道",
+    "链接": "https://ja.wikipedia.org/wiki/%E7%AD%91%E8%B1%8A%E9%9B%BB%E6%B0%97%E9%89%84%E9%81%93",
+    "首段": "筑豊電気鉄道株式会社（ちくほうでんきてつどう、英: CHIKUHO ELECTRIC RAILROAD Co.,Ltd.）は、福岡県北九州市八幡西区から直方市に至る地域で筑豊電気鉄道線を運営する鉄道事業者。通称：筑鉄、ちくてつ、または筑豊電鉄。利用者の一部からは筑電（ちくでん）と呼ばれることもある。西日本鉄道（西鉄）の完全子会社である。本社は福岡県中間市鍋山町1番6号。\n2000年からは西鉄の黒崎駅前 - 熊西間の第二種鉄道事業者となり同区間の運営も行っていたが、2015年3月1日にこの区間の資産が筑豊電気鉄道に移管された。\n北九州から直方を経て福岡を結ぶ鉄道を計画していたが、直方までの開業に留まった（筑豊電気鉄道線の歴史の項目も参照）。かつては西鉄大牟田線（現・天神大牟田線）とつなげる構想もあり、その後も飯塚市までの延長が審議されたこともあったが、双方共に実現には至らなかった。",
+    "章节": {
+     "社紋": "1956年1月30日に制定された。1996年末まで使われていた当時の西鉄の社紋に似せているが、上半分が2本のツルハシを模した形になり、下半分の輪郭がやや太くなっている。\nツルハシは炭鉱に通じ、当時西日本有数の産炭地であった筑豊炭田を通過する鉄道であることを象徴する。",
+     "歴史": "1951年（昭和26年）2月15日：設立。\n1956年（昭和31年）3月21日：貞元（現在の熊西） - 筑豊中間間が開業。\n1959年（昭和34年）9月18日：熊西 - 筑豊直方間が全通。\n1971年（昭和46年）7月：筑豊直方 - 福岡間地方鉄道運輸営業廃止（未成線）\n1976年（昭和51年）10月：西鉄から連接車を購入し、自社車両とする。\n1995年（平成7年）4月1日：西鉄から北九州線の業務を委託される。\n2000年（平成12年）11月26日：黒崎駅前 - 熊西間の第2種鉄道事業者となる。\n2013年（平成25年）1月28日：全駅に駅ナンバリングを順次導入。\n2015年（平成27年）\n3月1日：西鉄との間で会社分割（西鉄の簡易吸収分割、筑鉄の略式吸収分割）により、西鉄から北九州線（黒崎駅前 - 熊西間）の鉄道事業及び資産を承継。これにより、黒崎駅前 - 熊西間も筑豊電気鉄道の第一種鉄道事業区間となった。\n3月14日：ICカード「nimoca」を導入。全国相互利用サービスに対応した交通系ICカードが利用可能となる。5000形電車の運行を開始。\n7月：駅名ネーミングライツ（副駅名・車内放送）の発売を開始。\n2016年（平成28年）3月12日：ワンマン運転を朝・夕ラッシュ時以外の時間帯で開始。\n2017年（平成29年）4月1日：身体障害者手帳及び療育手帳所持者のみ対象であった障害者割引を精神障害者保健福祉手帳所持者にも適用。",
+     "路線": "駅一覧、建設経緯などは以下の項目を参照。\n\nCK 筑豊電気鉄道線 黒崎駅前 - 熊西 - 筑豊直方 16.0km （正式な路線名はない）",
+     "未成区間": "黒崎 - 熊西間　0.8km … 1966年7月21日免許失効。\n筑豊直方 - 飯塚 - 博多間　43.3km … 1971年7月21日免許失効。",
+     "車両": "西鉄北九州線と相互乗り入れを行っていたため、路面電車タイプの車両を使用している。\n開業当初は自社車両を保有せず、西鉄北九州線の車両を5両借入し、この借入車と同線からの乗り入れ車両で賄っていたが、1976年以降、西鉄福岡市内線や北九州線で使用していた連接車を譲受して自社車両を保有するようになった。なお、それら全車が吊り掛け駆動方式となっていた。筑豊電気鉄道は、2015年に新型低床車両5000形を導入する前は、電車を保有する日本の鉄軌道事業者で唯一、カルダン駆動方式の電車を1両も保有していなかった。また、ステップレス車両を保有しない路面電車型車両による事業者も筑豊電気鉄道が日本唯一であった。以後、2017年12月までにさらに3編成の新型低床車両を導入し、4編成が在籍している。",
+     "現有車両": "3000形（2000形の2両連接車の機器流用車）\n5000形（2015年3月14日に運行を開始した低床車両）",
+     "過去の車両": "1000形（2両連接車。改番の上2000形に編入の後、全廃）\n2000形（2両連接車・3両連接車）",
+     "車両基地": "車両基地は黒崎（元西鉄北九州線黒崎車庫）と楠橋にあり、検車機能が楠橋に、工場機能が黒崎にある。",
+     "乗務員": "開業当初は乗務員養成が間に合わず、西鉄北九州線の乗務員が乗務していたが、開業後に順次養成を進め、自社で賄うようにした。2004年からは、鉄道事業法による鉄道の電車を運転するのに必要な日本の国家資格である甲種電気車操縦者運転免許証の取得を西日本鉄道の電車教習所に有償で委託している。\n乗務員の制服は、2008年3月17日に親会社の西鉄が制服を改定したのに伴い、現在では西鉄と同じ黒を基調したものに変更された。制帽の社紋と名札以外は西鉄と同じである。\n2016年3月11日まではすべての列車で、かつての日本全国で標準だった黒くて硬い「車掌カバン」を吊るした車掌が乗務し両替や回数券の発売を行っていた。しかし、2014年よりICカードの導入に向けた自動両替機付運賃箱の設置、自動放送の導入、扉扱いの運転士操作への変更、各駅への後方確認用ミラーの設置などが行われ、車掌が乗務しなくても運行できる体制が整備された。そのため朝・夕ラッシュ時を除く昼のみ扉の開閉と両替は車掌が行い、進行方向の運転台横の扉のみ運転士が扉の開閉操作を行っていた。そして2016年3月12日より平日の朝・夕ラッシュ時を除いてワンマン運転が実施されることとなった。朝・夕ラッシュ時の車掌乗務も年々区間を短縮しており2022年4月のダイヤ改正により乗務区間は黒崎駅前 - 三ヶ森（楠橋電車営業所から三ヶ森まで乗務員の移動を兼ねて一部は楠橋まで）となった。",
+     "運賃": "鉄道線で多く見られる対距離区間制、あるいは軌道線で多く見られる均一制ではなく、路線バスなどで見られる区間制を採用している。筑豊直方駅 - 黒崎駅前駅間を7区に分けており（各区間の境界は木屋瀬駅・筑豊香月駅・筑豊中間駅・三ヶ森駅・森下駅・熊西駅）、何区乗車したかで運賃が決められている。従って、2駅間であっても区間境界駅をまたいで乗車した場合は2区分の運賃が必要となる。そのため、永犬丸駅 - 西山駅間が営業キロ1.2kmで運賃260円であるのに対し西山駅 - 筑豊中間駅間が2.2kmで220円というように乗車する区間によっては距離に対して運賃が逆転する場合がある。\n\n小児運賃は半額（10円未満の端数切り上げ）\n熊西 - 黒崎駅前間は特1区として1区の200円より安価な180円となっていたが、2019年10月1日の運賃改定で1区と同額の200円となった。なお、定期運賃は2024年9月14日改定時点でも他の1区区間とは異なる額となっている。\nnimoca等を利用し、1駅間（一部特例区間は2駅）乗車した場合は「おとなり割引」により大人160円。\n運賃は車内精算が基本で、車内に設置されている整理券発行機で整理券を取り、降車時に車内で直接現金またはICカードで精算を行う。普通乗車券は黒崎駅前駅のみで販売されている。定期券のほか、西鉄北九州線代替となる西鉄バス北九州（黒崎 - 砂津間）との乗継定期券、北九州都市圏の西鉄バス全線と筑豊電鉄の定期券を一枚にまとめたちくバス北九州フリー定期券も発行されている。バス側では得パスと同等の内容のものとなるが、月度方式は採用しておらず任意の期間の選択ができる。\n乗車カードは永らく扱いを行ってこなかった（1999年-2010年に西鉄電車・西鉄バスと福岡市交通局で導入していた磁気式ストアードフェアカード「よかネットカード」は利用することができなかった）が、筑豊電気鉄道と国（九州運輸局）、福岡県、沿線3市で構成する「筑豊電気鉄道沿線地域活性化協議会」の事業として、2014年度中に「他の交通機関との相互利用が可能となるICカードを導入する」計画とし、2015年2月に同年3月14日から西鉄グループのICカード「nimoca」を導入することを発表した。筑豊電気鉄道のすべての営業車両にnimocaのカードリーダーを搭載し、従来の紙回数券、定期券に変わってnimocaによるサービスを開始している。あわせて隣の駅まで（黒崎駅前 - 熊西間と楠橋 - 木屋瀬間を含む）が120円で利用できる割引サービスとして、従来のおとなりきっぷを廃し、nimocaによる「おとなり割引」を導入した。\n平成筑豊鉄道と共同で乗車可能な1日乗車券「へい!ちくてつ1日フリーきっぷ」を大人1500円（小児設定なし）で発売している。",
+     "輸送・収支実績": "輸送人員のピークは1974年で、年間2,094万4,000人。以後減少傾向が続いている。2020年度では新型コロナウイルス感染症流行の影響により大きく減少した。\n\n民鉄主要統計『年鑑世界の鉄道』1983年、朝日新聞社、『年鑑日本の鉄道』1985、1987-2007年、鉄道ジャーナル社、『筑豊電気鉄道50年史』2006、筑豊電気鉄道、『鉄道統計年報』国土交通省",
+     "関連項目": "西鉄北九州線\nおっぱいバレー\n同映画のロケに使用されたほか、タイアップ企画として2009年4月10日から「おっぱいバレー鑑賞割引特典付記念きっぷ」を発売。同きっぷは同年7月15日時点で完売。筑豊電気鉄道線の任意の区間が利用できる乗車券2枚つづり550円で、ある一定の区間（4区290円区間）以上の運賃よりも安い価格設定だった。",
+     "参考文献": "筑豊電鉄30年の歩み編纂委員会 編『地域社会と共に育ち共に走った 筑豊電鉄30年の歩み』筑豊電気鉄道、1987年3月。",
+     "脚注": "",
+     "外部リンク": "筑豊電気鉄道株式会社"
+    },
+    "全文": "筑豊電気鉄道株式会社（ちくほうでんきてつどう、英: CHIKUHO ELECTRIC RAILROAD Co.,Ltd.）は、福岡県北九州市八幡西区から直方市に至る地域で筑豊電気鉄道線を運営する鉄道事業者。通称：筑鉄、ちくてつ、または筑豊電鉄。利用者の一部からは筑電（ちくでん）と呼ばれることもある。西日本鉄道（西鉄）の完全子会社である。本社は福岡県中間市鍋山町1番6号。\n2000年からは西鉄の黒崎駅前 - 熊西間の第二種鉄道事業者となり同区間の運営も行っていたが、2015年3月1日にこの区間の資産が筑豊電気鉄道に移管された。\n北九州から直方を経て福岡を結ぶ鉄道を計画していたが、直方までの開業に留まった（筑豊電気鉄道線の歴史の項目も参照）。かつては西鉄大牟田線（現・天神大牟田線）とつなげる構想もあり、その後も飯塚市までの延長が審議されたこともあったが、双方共に実現には至らなかった。\n\n\n== 社紋 ==\n1956年1月30日に制定された。1996年末まで使われていた当時の西鉄の社紋に似せているが、上半分が2本のツルハシを模した形になり、下半分の輪郭がやや太くなっている。\nツルハシは炭鉱に通じ、当時西日本有数の産炭地であった筑豊炭田を通過する鉄道であることを象徴する。\n\n\n== 歴史 ==\n\n1951年（昭和26年）2月15日：設立。\n1956年（昭和31年）3月21日：貞元（現在の熊西） - 筑豊中間間が開業。\n1959年（昭和34年）9月18日：熊西 - 筑豊直方間が全通。\n1971年（昭和46年）7月：筑豊直方 - 福岡間地方鉄道運輸営業廃止（未成線）\n1976年（昭和51年）10月：西鉄から連接車を購入し、自社車両とする。\n1995年（平成7年）4月1日：西鉄から北九州線の業務を委託される。\n2000年（平成12年）11月26日：黒崎駅前 - 熊西間の第2種鉄道事業者となる。\n2013年（平成25年）1月28日：全駅に駅ナンバリングを順次導入。\n2015年（平成27年）\n3月1日：西鉄との間で会社分割（西鉄の簡易吸収分割、筑鉄の略式吸収分割）により、西鉄から北九州線（黒崎駅前 - 熊西間）の鉄道事業及び資産を承継。これにより、黒崎駅前 - 熊西間も筑豊電気鉄道の第一種鉄道事業区間となった。\n3月14日：ICカード「nimoca」を導入。全国相互利用サービスに対応した交通系ICカードが利用可能となる。5000形電車の運行を開始。\n7月：駅名ネーミングライツ（副駅名・車内放送）の発売を開始。\n2016年（平成28年）3月12日：ワンマン運転を朝・夕ラッシュ時以外の時間帯で開始。\n2017年（平成29年）4月1日：身体障害者手帳及び療育手帳所持者のみ対象であった障害者割引を精神障害者保健福祉手帳所持者にも適用。\n\n\n== 路線 ==\n駅一覧、建設経緯などは以下の項目を参照。\n\nCK 筑豊電気鉄道線 黒崎駅前 - 熊西 - 筑豊直方 16.0km （正式な路線名はない）\n\n\n=== 未成区間 ===\n\n黒崎 - 熊西間　0.8km … 1966年7月21日免許失効。\n筑豊直方 - 飯塚 - 博多間　43.3km … 1971年7月21日免許失効。\n\n\n== 車両 ==\n西鉄北九州線と相互乗り入れを行っていたため、路面電車タイプの車両を使用している。\n開業当初は自社車両を保有せず、西鉄北九州線の車両を5両借入し、この借入車と同線からの乗り入れ車両で賄っていたが、1976年以降、西鉄福岡市内線や北九州線で使用していた連接車を譲受して自社車両を保有するようになった。なお、それら全車が吊り掛け駆動方式となっていた。筑豊電気鉄道は、2015年に新型低床車両5000形を導入する前は、電車を保有する日本の鉄軌道事業者で唯一、カルダン駆動方式の電車を1両も保有していなかった。また、ステップレス車両を保有しない路面電車型車両による事業者も筑豊電気鉄道が日本唯一であった。以後、2017年12月までにさらに3編成の新型低床車両を導入し、4編成が在籍している。\n\n\n=== 現有車両 ===\n3000形（2000形の2両連接車の機器流用車）\n5000形（2015年3月14日に運行を開始した低床車両）\n\n\n=== 過去の車両 ===\n1000形（2両連接車。改番の上2000形に編入の後、全廃）\n2000形（2両連接車・3両連接車）\n\n\n== 車両基地 ==\n車両基地は黒崎（元西鉄北九州線黒崎車庫）と楠橋にあり、検車機能が楠橋に、工場機能が黒崎にある。\n\n\n== 乗務員 ==\n開業当初は乗務員養成が間に合わず、西鉄北九州線の乗務員が乗務していたが、開業後に順次養成を進め、自社で賄うようにした。2004年からは、鉄道事業法による鉄道の電車を運転するのに必要な日本の国家資格である甲種電気車操縦者運転免許証の取得を西日本鉄道の電車教習所に有償で委託している。\n乗務員の制服は、2008年3月17日に親会社の西鉄が制服を改定したのに伴い、現在では西鉄と同じ黒を基調したものに変更された。制帽の社紋と名札以外は西鉄と同じである。\n2016年3月11日まではすべての列車で、かつての日本全国で標準だった黒くて硬い「車掌カバン」を吊るした車掌が乗務し両替や回数券の発売を行っていた。しかし、2014年よりICカードの導入に向けた自動両替機付運賃箱の設置、自動放送の導入、扉扱いの運転士操作への変更、各駅への後方確認用ミラーの設置などが行われ、車掌が乗務しなくても運行できる体制が整備された。そのため朝・夕ラッシュ時を除く昼のみ扉の開閉と両替は車掌が行い、進行方向の運転台横の扉のみ運転士が扉の開閉操作を行っていた。そして2016年3月12日より平日の朝・夕ラッシュ時を除いてワンマン運転が実施されることとなった。朝・夕ラッシュ時の車掌乗務も年々区間を短縮しており2022年4月のダイヤ改正により乗務区間は黒崎駅前 - 三ヶ森（楠橋電車営業所から三ヶ森まで乗務員の移動を兼ねて一部は楠橋まで）となった。\n\n\n== 運賃 ==\n鉄道線で多く見られる対距離区間制、あるいは軌道線で多く見られる均一制ではなく、路線バスなどで見られる区間制を採用している。筑豊直方駅 - 黒崎駅前駅間を7区に分けており（各区間の境界は木屋瀬駅・筑豊香月駅・筑豊中間駅・三ヶ森駅・森下駅・熊西駅）、何区乗車したかで運賃が決められている。従って、2駅間であっても区間境界駅をまたいで乗車した場合は2区分の運賃が必要となる。そのため、永犬丸駅 - 西山駅間が営業キロ1.2kmで運賃260円であるのに対し西山駅 - 筑豊中間駅間が2.2kmで220円というように乗車する区間によっては距離に対して運賃が逆転する場合がある。\n\n小児運賃は半額（10円未満の端数切り上げ）\n熊西 - 黒崎駅前間は特1区として1区の200円より安価な180円となっていたが、2019年10月1日の運賃改定で1区と同額の200円となった。なお、定期運賃は2024年9月14日改定時点でも他の1区区間とは異なる額となっている。\nnimoca等を利用し、1駅間（一部特例区間は2駅）乗車した場合は「おとなり割引」により大人160円。\n運賃は車内精算が基本で、車内に設置されている整理券発行機で整理券を取り、降車時に車内で直接現金またはICカードで精算を行う。普通乗車券は黒崎駅前駅のみで販売されている。定期券のほか、西鉄北九州線代替となる西鉄バス北九州（黒崎 - 砂津間）との乗継定期券、北九州都市圏の西鉄バス全線と筑豊電鉄の定期券を一枚にまとめたちくバス北九州フリー定期券も発行されている。バス側では得パスと同等の内容のものとなるが、月度方式は採用しておらず任意の期間の選択ができる。\n乗車カードは永らく扱いを行ってこなかった（1999年-2010年に西鉄電車・西鉄バスと福岡市交通局で導入していた磁気式ストアードフェアカード「よかネットカード」は利用することができなかった）が、筑豊電気鉄道と国（九州運輸局）、福岡県、沿線3市で構成する「筑豊電気鉄道沿線地域活性化協議会」の事業として、2014年度中に「他の交通機関との相互利用が可能となるICカードを導入する」計画とし、2015年2月に同年3月14日から西鉄グループのICカード「nimoca」を導入することを発表した。筑豊電気鉄道のすべての営業車両にnimocaのカードリーダーを搭載し、従来の紙回数券、定期券に変わってnimocaによるサービスを開始している。あわせて隣の駅まで（黒崎駅前 - 熊西間と楠橋 - 木屋瀬間を含む）が120円で利用できる割引サービスとして、従来のおとなりきっぷを廃し、nimocaによる「おとなり割引」を導入した。\n平成筑豊鉄道と共同で乗車可能な1日乗車券「へい!ちくてつ1日フリーきっぷ」を大人1500円（小児設定なし）で発売している。\n\n\n== 輸送・収支実績 ==\n輸送人員のピークは1974年で、年間2,094万4,000人。以後減少傾向が続いている。2020年度では新型コロナウイルス感染症流行の影響により大きく減少した。\n\n民鉄主要統計『年鑑世界の鉄道』1983年、朝日新聞社、『年鑑日本の鉄道』1985、1987-2007年、鉄道ジャーナル社、『筑豊電気鉄道50年史』2006、筑豊電気鉄道、『鉄道統計年報』国土交通省\n\n\n== 関連項目 ==\n西鉄北九州線\nおっぱいバレー\n同映画のロケに使用されたほか、タイアップ企画として2009年4月10日から「おっぱいバレー鑑賞割引特典付記念きっぷ」を発売。同きっぷは同年7月15日時点で完売。筑豊電気鉄道線の任意の区間が利用できる乗車券2枚つづり550円で、ある一定の区間（4区290円区間）以上の運賃よりも安い価格設定だった。\n\n\n== 参考文献 ==\n筑豊電鉄30年の歩み編纂委員会 編『地域社会と共に育ち共に走った 筑豊電鉄30年の歩み』筑豊電気鉄道、1987年3月。 \n\n\n== 脚注 ==\n\n\n== 外部リンク ==\n\n筑豊電気鉄道株式会社",
+    "字数": 4183
+   },
+   "中文": {
+    "词条标题": "筑豐電氣鐵道",
+    "链接": "https://zh.wikipedia.org/wiki/%E7%AD%91%E8%B1%90%E9%9B%BB%E6%B0%A3%E9%90%B5%E9%81%93",
+    "首段": "筑豐電氣鐵道股份有限公司（日語：筑豊電気鉄道／ちくほうでんきてつどう，羅馬化：Chikuhō Denki Tetsudō）是一間負責營運由福岡縣北九州市八幡西區至直方市地域鐵路的鐵路公司。通稱：筑鐵或筑豐電鐵。一部分使用者以筑電稱呼。此公司是西日本鐵道（西鐵）的完全子公司。總部設於福岡縣中間市鍋山町1番6號。",
+    "章节": {
+     "路線": ""
+    },
+    "全文": "筑豐電氣鐵道股份有限公司（日語：筑豊電気鉄道／ちくほうでんきてつどう，羅馬化：Chikuhō Denki Tetsudō）是一間負責營運由福岡縣北九州市八幡西區至直方市地域鐵路的鐵路公司。通稱：筑鐵或筑豐電鐵。一部分使用者以筑電稱呼。此公司是西日本鐵道（西鐵）的完全子公司。總部設於福岡縣中間市鍋山町1番6號。\n\n\n== 路線 ==",
+    "字数": 166
+   },
+   "英文": {
+    "词条标题": "Chikuhō Electric Railroad Line",
+    "链接": "https://en.wikipedia.org/wiki/Chikuh%C5%8D%20Electric%20Railroad%20Line",
+    "首段": "The Chikuhō Electric Railroad Line (筑豊電気鉄道線, Chikuhō Denki Tetsudō-sen) is a railway line in Fukuoka Prefecture, Japan, connecting Kurosaki-Ekimae in Kitakyushu with Chikuhō-Nōgata Station in Nōgata, operated by Chikuhō Electric Railroad (筑豊電気鉄道, Chikuhō Denki Tetsudō). The line does not have an official name. The company and the line are also called Chikutetsu (筑鉄). The company is a subsidiary of Nishi-Nippon Railroad (Nishitetsu), founded in 1951. The line originally had a through service with the Nishitetsu Kitakyushu Line, a tram line closed in 2000. Because of this, the Chikutetsu Line only uses tram vehicles. However, the line is legally classified as a railway under Railway Business Act, not a tramway under Tram Act, and the line does not share any segments with public roads.",
+    "章节": {
+     "Station list": "",
+     "Rolling stock": "Chikuhō Electric Railroad operates the following fleet of tramcars.\n\n3000 series 2-car articulated EMUs\n5000 series 3-car articulated low-floor tramcars",
+     "3000 series": "Nine 3000 series sets were introduced between 1988 and 1996. As of 1 April 2017, all nine 3000 series sets were in operation, numbered 3001 to 3009. Many 3000 series received all-over advertising.",
+     "5000 series": "The 5000 series is a 17.6 m long low-floor tramcar type with three articulated units mounted on two bogies. As of 1 April 2017, three 5000 series sets were in operation, with a total of four sets scheduled to be in operation by March 2018.\nIndividual car histories are as follows.",
+     "Former rolling stock": "2000 series 3-car articulated EMUs\n2100 series two-car articulated EMUs",
+     "2000 series": "The 2000 series sets were purchased from Nishitetsu and rebuilt as three-car articulated units with four bogies.\nAs of 1 April 2017, three of the original seven 2000 series sets (2002, 2003, 2006) remained in operation. Each car was finished in a different colour livery as follows. The remaining 2000 series sets were decommissioned around November 2022.",
+     "2100 series": "",
+     "History": "Chikuho Electric Railroad was founded 15 February 1951. The line opened on 21 March 1956, initially from Kumanishi to Chikuhō-Nakama. This was extended to Koyanose on 29 April 1958, and to Chikuhō-Nōgata on 18 September 1959.\nNishi-Kurosaki Station (CK02) was temporarily closed on 1 October 2021 for approximately 4 years due to construction of the National Route 3 Kurosaki Bypass.  As of April 2026, the station has not reopened.",
+     "See also": "List of railway companies in Japan\nList of railway lines in Japan",
+     "References": "",
+     "External links": "Official website (in Japanese)"
+    },
+    "全文": "The Chikuhō Electric Railroad Line (筑豊電気鉄道線, Chikuhō Denki Tetsudō-sen) is a railway line in Fukuoka Prefecture, Japan, connecting Kurosaki-Ekimae in Kitakyushu with Chikuhō-Nōgata Station in Nōgata, operated by Chikuhō Electric Railroad (筑豊電気鉄道, Chikuhō Denki Tetsudō). The line does not have an official name. The company and the line are also called Chikutetsu (筑鉄). The company is a subsidiary of Nishi-Nippon Railroad (Nishitetsu), founded in 1951. The line originally had a through service with the Nishitetsu Kitakyushu Line, a tram line closed in 2000. Because of this, the Chikutetsu Line only uses tram vehicles. However, the line is legally classified as a railway under Railway Business Act, not a tramway under Tram Act, and the line does not share any segments with public roads.\n\n\n== Station list ==\n\n\n== Rolling stock ==\nChikuhō Electric Railroad operates the following fleet of tramcars.\n\n3000 series 2-car articulated EMUs\n5000 series 3-car articulated low-floor tramcars\n\n\n=== 3000 series ===\nNine 3000 series sets were introduced between 1988 and 1996. As of 1 April 2017, all nine 3000 series sets were in operation, numbered 3001 to 3009. Many 3000 series received all-over advertising.\n\n\n=== 5000 series ===\nThe 5000 series is a 17.6 m long low-floor tramcar type with three articulated units mounted on two bogies. As of 1 April 2017, three 5000 series sets were in operation, with a total of four sets scheduled to be in operation by March 2018.\nIndividual car histories are as follows.\n\n\n=== Former rolling stock ===\n2000 series 3-car articulated EMUs\n2100 series two-car articulated EMUs\n\n\n=== 2000 series ===\nThe 2000 series sets were purchased from Nishitetsu and rebuilt as three-car articulated units with four bogies.\nAs of 1 April 2017, three of the original seven 2000 series sets (2002, 2003, 2006) remained in operation. Each car was finished in a different colour livery as follows. The remaining 2000 series sets were decommissioned around November 2022.\n\n\n=== 2100 series ===\n\n\n== History ==\nChikuho Electric Railroad was founded 15 February 1951. The line opened on 21 March 1956, initially from Kumanishi to Chikuhō-Nakama. This was extended to Koyanose on 29 April 1958, and to Chikuhō-Nōgata on 18 September 1959.\nNishi-Kurosaki Station (CK02) was temporarily closed on 1 October 2021 for approximately 4 years due to construction of the National Route 3 Kurosaki Bypass.  As of April 2026, the station has not reopened.\n\n\n== See also ==\nList of railway companies in Japan\nList of railway lines in Japan\n\n\n== References ==\n\n\n== External links ==\n\nOfficial website (in Japanese)",
+    "字数": 2620
+   }
+  }
+ }
+}

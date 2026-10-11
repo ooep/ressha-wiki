@@ -5,18 +5,34 @@
    "中文": "日本國鐵KiHa 183系柴聯車",
    "英文": "KiHa 183 series",
    "运营者": [
+    "JR九州",
     "JR北海道"
    ]
   },
   "标识": {
    "图标文件": [
-    "01_hokkaido/asahiyama-zoo__h183askw.png"
+    "01_hokkaido/asahiyama-zoo__h183askg.png",
+    "01_hokkaido/asahiyama-zoo__h183askw.png",
+    "06_kyushu/midori-asoboi__k183asb.png",
+    "06_kyushu/yufuinnomori-yufu-dx__k183jyf.png",
+    "06_kyushu/yufuinnomori-yufu-dx__k183jyfy.png",
+    "06_kyushu/yufuinnomori-yufu-dx__k183jym2.png"
    ],
    "图标token": [
-    "h183askw"
+    "h183askg",
+    "h183askw",
+    "k183asb",
+    "k183jyf",
+    "k183jyfy",
+    "k183jym2"
    ],
    "网站键": {
-    "特急": [],
+    "特急": [
+     "あそ",
+     "みどり",
+     "ゆふ",
+     "九州横断特急"
+    ],
     "线路": [
      "京王動物園線",
      "動物園線"

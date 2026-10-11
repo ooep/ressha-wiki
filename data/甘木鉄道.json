@@ -1,0 +1,76 @@
+{
+ "车辆": {
+  "名称": {
+   "日文": "甘木鉄道",
+   "中文": "甘木鐵道",
+   "英文": "Amagi Railway Amagi Line",
+   "运营者": [
+    "九州私鉄"
+   ]
+  },
+  "标识": {
+   "图标文件": [
+    "34_kyushu_mi/amagi-rail__amg100.png"
+   ],
+   "图标token": [
+    "amg100"
+   ],
+   "网站键": {
+    "特急": [],
+    "线路": [
+     "甘木鉄道",
+     "甘木鉄道甘木線"
+    ]
+   }
+  },
+  "百科": {
+   "日文": {
+    "词条标题": "甘木鉄道",
+    "链接": "https://ja.wikipedia.org/wiki/%E7%94%98%E6%9C%A8%E9%89%84%E9%81%93",
+    "首段": "甘木鉄道株式会社（あまぎてつどう）は、福岡県朝倉市に本社を置き、佐賀県三養基郡基山町から福岡県朝倉市甘木に至る地域で、旧日本国有鉄道（国鉄）特定地方交通線の鉄道路線甘木線を運営している、朝倉市・筑前町・基山町・キリンビールなどが出資する第三セクター方式の鉄道会社である。",
+    "章节": {
+     "概要": "旧国鉄甘木線が第1次特定地方交通線として廃止対象路線となったことを受けて発足した鉄道事業者である。当時、福岡市と甘木市（当時）を結ぶ公共交通は西鉄甘木線など他にもあり、また沿線に甘木線と並行するバス路線が既設されていたこともあって、福岡県は鉄道の存続に難色を示した。しかし甘木市・三輪町（当時）など地元沿線市町と沿線住民は鉄道路線としての存続を切望し、結果的に第三セクター方式で鉄路が存続した。こうした経緯のため、福岡県は出資を行わず、経営安定基金の拠出に留まった。なお、佐賀県は全く関与していない。\n比較的福岡都市圏に近く、積極的な増便対策や、小郡駅の移転による西鉄天神大牟田線との接続改善などが功を奏し、全国の第三セクター方式の鉄道会社の中では珍しく、ほぼ毎年経常利益を黒字計上し、第三セクター鉄道の優等生として知られた。しかし、2006年（平成18年）7月の豪雨で鉄橋の橋脚が被害を受け5か月間にわたり一部区間が不通となり旅客が減少したことや原油価格の高騰などが影響し、2006年（平成18年）度以降は赤字決算となっている。ただし、転換第三セクター鉄道の中では赤字額も最小（年額184万円、全国平均は約5,000万円、2009年度）で、全国的に見ても第三セクター鉄道の中では経営状態は良好である。\n甘木線ではSUGOCA、nimocaなどのICカードは一切使用できない。",
+     "歴史": "1985年（昭和60年）7月11日：設立。\n1986年（昭和61年）4月1日：国鉄甘木線を承継し開業。\n2014年（平成26年）3月16日：西太刀洗駅前の踏切でAR300形AR303が2トントラックと衝突。同鉄道発足後、初の事故となった。",
+     "路線": "甘木線：基山駅 - 甘木駅 13.7 km",
+     "車両": "転換開業以来、一般的な第三セクター鉄道仕様の軽快気動車が使用されている。開業時にはバス車体工法を用いバス用部品を多用した「レールバス」とも呼ばれる富士重工業製のLE-Carが導入された。その後LE-Carは代替されたが、案内放送、車内放送、時刻表等では現在でも「レールバス」の呼称を用いている。",
+     "現在の車両": "全8両で、塗装は全て異なる。\n\nAR300形（AR301 - AR307）\nARe500形（ARe501）：老朽化した既存車両を置き換えるため、2026年2月18日付で入籍。2033年度までに計8両を導入する予定の電気式気動車。2026年3月14日に開業40周年記念列車として関係者を乗せて甘木 - 基山間を1往復運転、実際の営業運転開始は同年6月。",
+     "過去の車両": "AR100形（AR101 - AR106）：保存車1両を除き全車解体済み。\nAR200形（AR201）：廃車後ミャンマーへ輸出。\nAR400形（AR401、宝くじ号）：2025年度（令和7年度）内に運用を終了し、解体済み。",
+     "関連項目": "朝倉軌道 - 戦前に存在していた軽便鉄道。甘木線の開業に伴い廃止されたが、甘木線の廃止が浮上した際には「朝倉軌道廃止の後悔を繰り返してはならない」という主張も存続派からあったという。",
+     "脚注": "",
+     "注釈": "",
+     "出典": "",
+     "外部リンク": "甘木鉄道株式会社\n甘木鉄道株式会社【公式】 (@amagi_railway) - X（旧Twitter）"
+    },
+    "全文": "甘木鉄道株式会社（あまぎてつどう）は、福岡県朝倉市に本社を置き、佐賀県三養基郡基山町から福岡県朝倉市甘木に至る地域で、旧日本国有鉄道（国鉄）特定地方交通線の鉄道路線甘木線を運営している、朝倉市・筑前町・基山町・キリンビールなどが出資する第三セクター方式の鉄道会社である。\n\n\n== 概要 ==\n旧国鉄甘木線が第1次特定地方交通線として廃止対象路線となったことを受けて発足した鉄道事業者である。当時、福岡市と甘木市（当時）を結ぶ公共交通は西鉄甘木線など他にもあり、また沿線に甘木線と並行するバス路線が既設されていたこともあって、福岡県は鉄道の存続に難色を示した。しかし甘木市・三輪町（当時）など地元沿線市町と沿線住民は鉄道路線としての存続を切望し、結果的に第三セクター方式で鉄路が存続した。こうした経緯のため、福岡県は出資を行わず、経営安定基金の拠出に留まった。なお、佐賀県は全く関与していない。\n比較的福岡都市圏に近く、積極的な増便対策や、小郡駅の移転による西鉄天神大牟田線との接続改善などが功を奏し、全国の第三セクター方式の鉄道会社の中では珍しく、ほぼ毎年経常利益を黒字計上し、第三セクター鉄道の優等生として知られた。しかし、2006年（平成18年）7月の豪雨で鉄橋の橋脚が被害を受け5か月間にわたり一部区間が不通となり旅客が減少したことや原油価格の高騰などが影響し、2006年（平成18年）度以降は赤字決算となっている。ただし、転換第三セクター鉄道の中では赤字額も最小（年額184万円、全国平均は約5,000万円、2009年度）で、全国的に見ても第三セクター鉄道の中では経営状態は良好である。\n甘木線ではSUGOCA、nimocaなどのICカードは一切使用できない。\n\n\n== 歴史 ==\n1985年（昭和60年）7月11日：設立。\n1986年（昭和61年）4月1日：国鉄甘木線を承継し開業。\n2014年（平成26年）3月16日：西太刀洗駅前の踏切でAR300形AR303が2トントラックと衝突。同鉄道発足後、初の事故となった。\n\n\n== 路線 ==\n甘木線：基山駅 - 甘木駅 13.7 km\n\n\n== 車両 ==\n転換開業以来、一般的な第三セクター鉄道仕様の軽快気動車が使用されている。開業時にはバス車体工法を用いバス用部品を多用した「レールバス」とも呼ばれる富士重工業製のLE-Carが導入された。その後LE-Carは代替されたが、案内放送、車内放送、時刻表等では現在でも「レールバス」の呼称を用いている。\n\n\n=== 現在の車両 ===\n全8両で、塗装は全て異なる。\n\nAR300形（AR301 - AR307）\nARe500形（ARe501）：老朽化した既存車両を置き換えるため、2026年2月18日付で入籍。2033年度までに計8両を導入する予定の電気式気動車。2026年3月14日に開業40周年記念列車として関係者を乗せて甘木 - 基山間を1往復運転、実際の営業運転開始は同年6月。\n\n\n=== 過去の車両 ===\nAR100形（AR101 - AR106）：保存車1両を除き全車解体済み。\nAR200形（AR201）：廃車後ミャンマーへ輸出。\nAR400形（AR401、宝くじ号）：2025年度（令和7年度）内に運用を終了し、解体済み。\n\n\n== 関連項目 ==\n朝倉軌道 - 戦前に存在していた軽便鉄道。甘木線の開業に伴い廃止されたが、甘木線の廃止が浮上した際には「朝倉軌道廃止の後悔を繰り返してはならない」という主張も存続派からあったという。\n\n\n== 脚注 ==\n\n\n=== 注釈 ===\n\n\n=== 出典 ===\n\n\n== 外部リンク ==\n\n甘木鉄道株式会社\n甘木鉄道株式会社【公式】 (@amagi_railway) - X（旧Twitter）",
+    "字数": 1588
+   },
+   "中文": {
+    "词条标题": "甘木鐵道",
+    "链接": "https://zh.wikipedia.org/wiki/%E7%94%98%E6%9C%A8%E9%90%B5%E9%81%93",
+    "首段": "甘木鐵道股份有限公司（日語：甘木鉄道／あまぎてつどう，羅馬化：Amagi Tetsudō），簡稱甘木鐵道，是一個總公司設於福岡縣朝倉市的日本地方鐵路公司。甘木鐵道是在1985年時，為了繼承原本預計要廢線的日本國有鐵道（日本國鐵）特定地方交通線——甘木線——的經營，而由朝倉市、筑前町、基山町與麒麟啤酒共同出資所成立的第三部門鐵路業者。",
+    "章节": {
+     "簡介": "甘木鐵道所經營的甘木線，主要連結福岡縣朝倉市與佐賀縣三養基郡基山町。由於國鐵時代的甘木線並不是福岡市與甘木市（今日朝倉市的前身）之間唯一的一條鐵路線，兩地之間尚有重要度更高的西日本鐵道（西鐵）甘木線，還有路線與國鐵甘木線完全平行的公車路線存在，福岡市官方原本對於保持此路線的營運抱持著興趣缺缺的態度。但在甘木市與三輪町（今筑前町的前身之一）等地、國鐵甘木線沿線的居民熱切的爭取下，福岡縣與其下屬的沿線行政區最後還是出資撥入經營安定基金，成立了甘木鐵道。\n接手甘木線之後開始營運的甘木鐵道，在大部分都是以服務地方為主、經常處於虧損狀態的第三部門鐵路業者中，是少見的獲利優等生之一。由於擁有的路線接近福岡都市圈，再加上業者本身的努力經營，例如特別為了提升與西鐵天神大牟田線之間的轉運效果，而在接手經營後將沿線的小郡車站（國鐵時代原名「筑後小郡」）搬遷至與大牟田線的交叉點上，除了少數的年度外，甘木鐵道大部分都處於盈餘或虧損極微狀態。",
+     "路線": "甘木鐵道只設有甘木線一條路線，合共11個車站。在甘木線沿線各站中，除了公司總部所在的終點站甘木車站外，全都採無人駐守方式經營。大致成東西走向，由西至東分別串連了JR鹿兒島本線、西鐵天神大牟田線與西鐵甘木線三條呈南北向的鐵路線，因此較一般經常處於路線末端的第三部門鐵路線，擁有較高的接駁價值而帶動了較高的搭乘率。",
+     "車輛": "與大部分的日本第三部門鐵路業者相同，甘木鐵道也是採用「鐵路巴士」（Railbus）風格、搭載一般公路車輛設備的輕型鐵路車輛，以單節車廂行駛的方式營運。至2012年底止甘木鐵道擁有8輛車輛，包括一輛由日本寶籤協會（日本宝くじ協会）所捐贈的「寶籤號」（宝くじ号）。\n\n使用中車型：\nAR300型（AR301至AR307號）：又透過公開徵名的方式賦予「兔子君」號（レビット君）的暱稱。\n已退役車型\nAR100型（AR101至AR106號）\nAR200型（AR201號，除役後出售給緬甸）\nAR400型（AR401「寶籤號」）：車身採用「卑彌呼」特殊圖裝。",
+     "外部連結": "甘木車站官方網站 （页面存档备份，存于互联网档案馆）（日語）"
+    },
+    "全文": "甘木鐵道股份有限公司（日語：甘木鉄道／あまぎてつどう，羅馬化：Amagi Tetsudō），簡稱甘木鐵道，是一個總公司設於福岡縣朝倉市的日本地方鐵路公司。甘木鐵道是在1985年時，為了繼承原本預計要廢線的日本國有鐵道（日本國鐵）特定地方交通線——甘木線——的經營，而由朝倉市、筑前町、基山町與麒麟啤酒共同出資所成立的第三部門鐵路業者。\n\n\n== 簡介 ==\n甘木鐵道所經營的甘木線，主要連結福岡縣朝倉市與佐賀縣三養基郡基山町。由於國鐵時代的甘木線並不是福岡市與甘木市（今日朝倉市的前身）之間唯一的一條鐵路線，兩地之間尚有重要度更高的西日本鐵道（西鐵）甘木線，還有路線與國鐵甘木線完全平行的公車路線存在，福岡市官方原本對於保持此路線的營運抱持著興趣缺缺的態度。但在甘木市與三輪町（今筑前町的前身之一）等地、國鐵甘木線沿線的居民熱切的爭取下，福岡縣與其下屬的沿線行政區最後還是出資撥入經營安定基金，成立了甘木鐵道。\n接手甘木線之後開始營運的甘木鐵道，在大部分都是以服務地方為主、經常處於虧損狀態的第三部門鐵路業者中，是少見的獲利優等生之一。由於擁有的路線接近福岡都市圈，再加上業者本身的努力經營，例如特別為了提升與西鐵天神大牟田線之間的轉運效果，而在接手經營後將沿線的小郡車站（國鐵時代原名「筑後小郡」）搬遷至與大牟田線的交叉點上，除了少數的年度外，甘木鐵道大部分都處於盈餘或虧損極微狀態。\n\n\n== 路線 ==\n\n甘木鐵道只設有甘木線一條路線，合共11個車站。在甘木線沿線各站中，除了公司總部所在的終點站甘木車站外，全都採無人駐守方式經營。大致成東西走向，由西至東分別串連了JR鹿兒島本線、西鐵天神大牟田線與西鐵甘木線三條呈南北向的鐵路線，因此較一般經常處於路線末端的第三部門鐵路線，擁有較高的接駁價值而帶動了較高的搭乘率。\n\n\n== 車輛 ==\n與大部分的日本第三部門鐵路業者相同，甘木鐵道也是採用「鐵路巴士」（Railbus）風格、搭載一般公路車輛設備的輕型鐵路車輛，以單節車廂行駛的方式營運。至2012年底止甘木鐵道擁有8輛車輛，包括一輛由日本寶籤協會（日本宝くじ協会）所捐贈的「寶籤號」（宝くじ号）。\n\n使用中車型：\nAR300型（AR301至AR307號）：又透過公開徵名的方式賦予「兔子君」號（レビット君）的暱稱。\n已退役車型\nAR100型（AR101至AR106號）\nAR200型（AR201號，除役後出售給緬甸）\nAR400型（AR401「寶籤號」）：車身採用「卑彌呼」特殊圖裝。\n\n\n== 外部連結 ==\n甘木車站官方網站 （页面存档备份，存于互联网档案馆）（日語）",
+    "字数": 1091
+   },
+   "英文": {
+    "词条标题": "Amagi Railway Amagi Line",
+    "链接": "https://en.wikipedia.org/wiki/Amagi%20Railway%20Amagi%20Line",
+    "首段": "The Amagi Line (甘木線, Amagi-sen) is a Japanese railway line connecting Kiyama Station (on the Kagoshima Main Line), Kiyama and Amagi Station, Asakura. This is the only railway operated by the third-sector railway company Amagi Railway (甘木鉄道, Amagi Tetsudō). The company, and sometimes the line, are also called Amatetsu (甘鉄).",
+    "章节": {
+     "History": "The line was opened on April 28, 1939 by the Japanese National Railways (JNR) as the Amagi Line, in order to supply military equipment to Tachiarai Airfield. In 1981, the line was named a specified local line and considered for closure. Freight services ceased in 1984. \nOn April 5, 1985, it was agreed that the line would be transferred to a newly created third sector railway company. Amagi Railway was thus created and inherited the former JNR line on April 1, 1986. While the conversion of the line into a bus route was unopposed by both Saga and Fukuoka Prefectures due to the Nishitetsu Amagi Line's existence, the municipalities Amagi and Miwa requested the line be kept in operation. After the transferring of the line, Ogōri Station was relocated by 400 meters to allow easier connection to the Nishitetsu Ogōri Station. The number of services were increased from seven return trips a day in 1982 to 42 in 2023 on weekdays. The AR400 series in use on the line is planned to be replaced by the ARe500 series starting from 2025.",
+     "Stations": "",
+     "See also": "List of railway companies in Japan\nList of railway lines in Japan",
+     "References": "",
+     "External links": "Media related to Amagi Railway at Wikimedia Commons\nOfficial website (in Japanese)"
+    },
+    "全文": "The Amagi Line (甘木線, Amagi-sen) is a Japanese railway line connecting Kiyama Station (on the Kagoshima Main Line), Kiyama and Amagi Station, Asakura. This is the only railway operated by the third-sector railway company Amagi Railway (甘木鉄道, Amagi Tetsudō). The company, and sometimes the line, are also called Amatetsu (甘鉄). \n\n\n== History ==\nThe line was opened on April 28, 1939 by the Japanese National Railways (JNR) as the Amagi Line, in order to supply military equipment to Tachiarai Airfield. In 1981, the line was named a specified local line and considered for closure. Freight services ceased in 1984. \nOn April 5, 1985, it was agreed that the line would be transferred to a newly created third sector railway company. Amagi Railway was thus created and inherited the former JNR line on April 1, 1986. While the conversion of the line into a bus route was unopposed by both Saga and Fukuoka Prefectures due to the Nishitetsu Amagi Line's existence, the municipalities Amagi and Miwa requested the line be kept in operation. After the transferring of the line, Ogōri Station was relocated by 400 meters to allow easier connection to the Nishitetsu Ogōri Station. The number of services were increased from seven return trips a day in 1982 to 42 in 2023 on weekdays. The AR400 series in use on the line is planned to be replaced by the ARe500 series starting from 2025.\n\n\n=== Stations ===\n\n\n== See also ==\nList of railway companies in Japan\nList of railway lines in Japan\n\n\n== References ==\n\n\n== External links ==\n Media related to Amagi Railway at Wikimedia Commons\nOfficial website (in Japanese)",
+    "字数": 1605
+   }
+  }
+ }
+}

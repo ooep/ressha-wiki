@@ -10,9 +10,19 @@
   },
   "标识": {
    "图标文件": [
+    "22_hanshin/sanyo-5000-3050__san3050.png",
+    "22_hanshin/sanyo-5000-3050__san3050al.png",
+    "22_hanshin/sanyo-rail__san3000.png",
+    "22_hanshin/sanyo-rail__san3000al.png",
+    "22_hanshin/sanyo-rail__san3050b.png",
     "22_hanshin/sanyo-rail__san3050f.png"
    ],
    "图标token": [
+    "san3000",
+    "san3000al",
+    "san3050",
+    "san3050al",
+    "san3050b",
     "san3050f"
    ],
    "网站键": {

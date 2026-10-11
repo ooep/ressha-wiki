@@ -10,10 +10,12 @@
   },
   "标识": {
    "图标文件": [
-    "19_keihan/kyoto-randen__kfuk21.png"
+    "19_keihan/kyoto-randen__kfuk21.png",
+    "19_keihan/kyoto-randen__kfuk27.png"
    ],
    "图标token": [
-    "kfuk21"
+    "kfuk21",
+    "kfuk27"
    ],
    "网站键": {
     "特急": [],

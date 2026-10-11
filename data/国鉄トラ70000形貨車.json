@@ -10,10 +10,12 @@
   },
   "标识": {
    "图标文件": [
-    "06_kyushu/misumi-line__k70000b.png"
+    "06_kyushu/misumi-line__k70000b.png",
+    "06_kyushu/misumi-line__k70000bw.png"
    ],
    "图标token": [
-    "k70000b"
+    "k70000b",
+    "k70000bw"
    ],
    "网站键": {
     "特急": [],

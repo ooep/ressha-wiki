@@ -10,9 +10,11 @@
   },
   "标识": {
    "图标文件": [
+    "27_hokkaido_mi/haboro-rail__hbr11.png",
     "27_hokkaido_mi/haboro-rail__hbr22.png"
    ],
    "图标token": [
+    "hbr11",
     "hbr22"
    ],
    "网站键": {

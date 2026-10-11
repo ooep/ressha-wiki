@@ -10,10 +10,20 @@
   },
   "标识": {
    "图标文件": [
+    "17_meitetsu/2000-2200-1700__mei1701.png",
+    "17_meitetsu/2000-2200-1700__mei2000.png",
+    "17_meitetsu/2000-2200-1700__mei2000ev.png",
+    "17_meitetsu/2000-2200-1700__mei2201.png",
+    "17_meitetsu/2000-2200-1700__mei2202.png",
     "17_meitetsu/meitetsu-2000__mei2000b.png"
    ],
    "图标token": [
-    "mei2000b"
+    "mei1701",
+    "mei2000",
+    "mei2000b",
+    "mei2000ev",
+    "mei2201",
+    "mei2202"
    ],
    "网站键": {
     "特急": [

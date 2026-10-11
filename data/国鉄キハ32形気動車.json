@@ -10,15 +10,20 @@
   },
   "标识": {
    "图标文件": [
-    "05_shikoku/yodo-line__s32kpuy1.png"
+    "05_shikoku/bakumatsu-ishin__s32to3.png",
+    "05_shikoku/yodo-line__s32kpuy1.png",
+    "05_shikoku/yodo-line__s32kpuy2.png"
    ],
    "图标token": [
-    "s32kpuy1"
+    "s32kpuy1",
+    "s32kpuy2",
+    "s32to3"
    ],
    "网站键": {
     "特急": [],
     "线路": [
-     "予土線"
+     "予土線",
+     "高知"
     ]
    }
   },

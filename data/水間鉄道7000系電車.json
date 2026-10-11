@@ -11,10 +11,12 @@
   "标识": {
    "图标文件": [
     "32_kansai_mi/mizuma-rail__mzma1000.png",
+    "32_kansai_mi/untitled__mzma7000.png",
     "32_kansai_mi/untitled__mzma7001.png"
    ],
    "图标token": [
     "mzma1000",
+    "mzma7000",
     "mzma7001"
    ],
    "网站键": {

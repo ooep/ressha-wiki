@@ -10,10 +10,12 @@
   },
   "标识": {
    "图标文件": [
-    "04_west/kansai-nara-line__w201ka1.png"
+    "04_west/kansai-nara-line__w201ka1.png",
+    "04_west/kansai-nara-line__w201ka2.png"
    ],
    "图标token": [
-    "w201ka1"
+    "w201ka1",
+    "w201ka2"
    ],
    "网站键": {
     "特急": [],

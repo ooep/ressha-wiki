@@ -10,9 +10,11 @@
   },
   "标识": {
    "图标文件": [
+    "10_metro/toyo-rapid-rail__toyo2000.png",
     "10_metro/toyo-rapid-rail__toyo2001.png"
    ],
    "图标token": [
+    "toyo2000",
     "toyo2001"
    ],
    "网站键": {

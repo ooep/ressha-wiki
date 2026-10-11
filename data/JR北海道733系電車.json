@@ -10,15 +10,21 @@
   },
   "标识": {
    "图标文件": [
-    "01_hokkaido/hakodate-area__h733v.png"
+    "01_hokkaido/hakodate-area__h733v.png",
+    "01_hokkaido/hakodate-line__h733.png"
    ],
    "图标token": [
+    "h733",
     "h733v"
    ],
    "网站键": {
     "特急": [],
     "线路": [
-     "日暮里・舎人ライナー"
+     "函館",
+     "函館本線",
+     "千歳線",
+     "日暮里・舎人ライナー",
+     "札沼線"
     ]
    }
   },
